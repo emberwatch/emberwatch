@@ -1,0 +1,28 @@
+- id: 1
+  name: "Yehuda Katz"
+  github: "wycats"
+  twitter: "wycats"
+  speakerdeck: "wycats"
+  site: "http://yehudakatz.com/"
+  company_id: 1
+- id: 2
+  name: "Tom Dale"
+  github: "tomdale"
+  twitter: "tomdale"
+  speakerdeck: "tomdale"
+  site: "http://tomdale.net/"
+  company_id: 1
+- id: 3
+  name: "Peter Wagenet"
+  github: "wagenet"
+  twitter: "wagenet"
+  slideshare: "pwagenet"
+  site: "http://www.emberist.com/"
+  company_id: 1
+- id: 4
+  name: "Luke Melia"
+  twitter: "lukemelia"
+  github: "lukemelia"
+  speakerdeck: "lukemelia"
+  site: "http://www.lukemelia.com/"
+  company_id: 2
