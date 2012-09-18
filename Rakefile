@@ -25,5 +25,6 @@ task :deploy, :msg do |t, args|
 
     system "git add -A"
     system "git commit -m '#{args[:msg]}'"
+    system "git push origin gh-pages"
   end
 end
