@@ -2,6 +2,9 @@
 
 This repository contains the development version of [emberwatch.com](http://emberwatch.com/).
 
+## Goal
+
+Towards a definitive community-driven, curated collection of Ember.js resources.
 ## Setup
 
 To get started:
