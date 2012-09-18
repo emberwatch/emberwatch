@@ -42,5 +42,6 @@
   subtitle: "Tips & tricks for bug assassination"
   author: "Tom Dale"
   date: "2012-02-12"
+  url: "http://www.meetup.com/Ember-SF/events/50058382/"
   videos: ["http://vimeo.com/37539737"]
   slides: "https://speakerdeck.com/u/tomdale/p/debugging-emberjs"
