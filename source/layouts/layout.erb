@@ -13,6 +13,8 @@
     </title>
     
     <%= stylesheet_link_tag "application" %>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+    <%= javascript_include_tag "all" %>
   </head>
 
   <body class="<%= page_classes %>">
@@ -20,11 +22,9 @@
       <ul>
         <li class="name"><h1><a href="http://emberwatch.com"><i class="foundicon-glasses"></i> Ember<span class="light">Watch</span> </a></h1></li>
       </ul>
-      <section>
-        <ul class="right">
-          <li><a href="https://github.com/pootsbook/emberwatch-source">About</a></li>
-        </ul>
-      </section>
+      <ul class="right">
+        <li><a href="https://github.com/pootsbook/emberwatch-source">About</a></li>
+      </ul>
     </nav>
     <%= yield %>
     <div id="footer">
