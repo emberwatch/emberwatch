@@ -1,5 +1,5 @@
 /*
- * jQuery Foundation Top Bar 2.0
+ * jQuery Foundation Top Bar 2.0.1
  * http://foundation.zurb.com
  * Copyright 2012, ZURB
  * Free to use under the MIT license.
@@ -13,7 +13,6 @@
 
   var settings = {
       index : 0,
-      breakPoint : 940, // Set to to 9999 to force it into responsive always
       initialized : false
     },
     methods = {
@@ -23,6 +22,9 @@
           settings.$w = $(window),
           settings.$topbar = $('nav.top-bar');
           settings.$titlebar = settings.$topbar.children('ul:first');
+          var breakpoint = $("<div class='top-bar-js-breakpoint'/>").appendTo("body");
+          settings.breakPoint = breakpoint.width();
+          breakpoint.remove();
 
           if (!settings.initialized) {
             methods.assemble();
@@ -39,6 +41,7 @@
             if (methods.breakpoint()) {
               settings.$topbar.toggleClass('expanded');
               settings.$topbar.css('min-height', '');
+
             }
           });
 
