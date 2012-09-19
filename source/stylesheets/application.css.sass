@@ -10,7 +10,6 @@ body
       &:hover
         :background none
       h1 a
-        :padding-left 0px
         &:hover
           :color $topBarLinkColor
         .light
@@ -26,8 +25,12 @@ body
     ul
       :list-style-type none
       h5
-        :margin-left -23px
         :margin-bottom 0px
+        a
+          :text-decoration underline
+          :color $topBarBgColor
+          &:hover
+            :color lighten($topBarBgColor, 5%)
         i
           :line-height $baseFontSize
           :vertical-align middle

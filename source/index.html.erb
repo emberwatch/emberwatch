@@ -3,24 +3,36 @@ title: Welcome to Ember Watch
 ---
 
 <div id="posts">
-  <ul>
-    <% data.talks.each do |talk| %>
-      <li>
-        <h5><i class="general foundicon-video"></i> <%= "#{talk.title}: #{talk.subtitle}" %></h5>
-        <%= talk.author_ids.collect {|a| find_person(a).name }.join(', ') %>
-         &middot; <%= format_date(talk.date) %> &middot;
-        <% if talk.videos.empty? %>
-        Video
-        <% else %>
-        <a href="<%= talk.videos.first %>">Video</a> 
-        <% end %> &middot;
-        <% if talk.slides.nil? %>
-        Slides
-        <% else %>
-          <a href="<%= talk.slides %>">Slides</a>
-        <% end %>
-        &middot; <a href="<%= talk.url %>">Details</a>
-      </li>
-    <% end %>
-  </ul>
+  <div class="twelve columns">
+    <ul>
+      <% data.talks.each do |talk| %>
+        <li>
+          <% if talk.videos.empty? %>
+            <h5>
+              <%= "#{talk.title}: #{talk.subtitle}" %>
+            </h5>
+          <% else %>
+            <h5>
+              <a href="<%= talk.videos.first %>">
+                <%= "#{talk.title}: #{talk.subtitle}" %>
+              </a>
+            </h5>
+          <% end %>
+          <%= talk.author_ids.collect {|a| find_person(a).name }.join(', ') %>
+           &middot; <%= format_date(talk.date) %> &middot;
+          <% if talk.videos.empty? %>
+          Video
+          <% else %>
+          <a href="<%= talk.videos.first %>">Video</a>
+          <% end %> &middot;
+          <% if talk.slides.nil? %>
+          Slides
+          <% else %>
+            <a href="<%= talk.slides %>">Slides</a>
+          <% end %>
+          &middot; <a href="<%= talk.url %>">Details</a>
+        </li>
+      <% end %>
+    </ul>
+  </div>
 </div>
