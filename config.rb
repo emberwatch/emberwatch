@@ -49,6 +49,22 @@ helpers do
     date = Date.parse(date_string)
     date.strftime(format)
   end
+
+  def find_company(id)
+    data.companies.select do |c|
+      c[:id] == id
+    end.first
+  end
+
+  def find_person(id)
+    data.people.select do |p|
+      p[:id] == id
+    end.first
+  end
+
+  def find_employee(id)
+    find_person(id)
+  end
 end
 
 set :css_dir, 'stylesheets'

@@ -7,7 +7,8 @@ title: Welcome to Ember Watch
     <% data.talks.each do |talk| %>
       <li>
         <h5><i class="general foundicon-video"></i> <%= "#{talk.title}: #{talk.subtitle}" %></h5>
-        <%= talk.author %> &middot; <%= format_date(talk.date) %> &middot;
+        <%= talk.author_ids.collect {|a| find_person(a).name }.join(', ') %>
+         &middot; <%= format_date(talk.date) %> &middot;
         <% if talk.videos.empty? %>
         Video
         <% else %>

@@ -1,46 +1,46 @@
 - title: "Architecting Ember.js Apps"
-  author: "Luke Melia"
+  author_ids: [4]
   date: "2012-10-22"
   url: "http://www.meetup.com/EmberJS-NYC/events/73732192/"
   videos: []
   slides: "https://speakerdeck.com/u/lukemelia/p/architecting-ember-dot-js-apps"
 - title: "Sophisticated Views"
   subtitle: "How Ember’s View Layer Handles the Complex Problems"
-  author: "Peter Wagenet"
+  author_ids: [3]
   date: "2012-08-30"
   url: "http://js.la/past-events.html"
   videos: ["http://vimeo.com/49434697"]
   slides: "http://www.slideshare.net/pwagenet/ember-sophisticated-views-14131566"
 - title: "Ember.js"
   subtitle: "State of the Union"
-  author: "Yehuda Katz"
+  author_ids: [1]
   date: "2012-07-21"
   url: "http://www.infoq.com/presentations/Ember-js"
   videos: ["http://www.infoq.com/presentations/Ember-js"]
   slides: "http://www.infoq.com/presentations/Ember-js"
 - title: "Ember.js"
   subtitle: "Attacking Boilerplate Where it Lives"
-  author: "Yehuda Katz"
+  author_ids: [1]
   date: "2012-04-10"
   url: "http://phillyemergingtech.com/2012/sessions/ember-js-attacking-boilerplate-where-it-lives"
   videos: ["http://vimeo.com/47876805"]
   slides: "https://speakerdeck.com/u/tomdale/p/emberjs-lunch-talk-at-carbon5"
 - title: "Single Page Web Apps with Ember.js"
-  author: "Mark Mansour"
+  author_ids: [5]
   date: "2012-02-16"
   videos: ["http://www.youtube.com/watch?v=z-Np5eqLF0s"]
   url: "http://whatdoyouknow.webdirections.org/videos/single-page-web-apps-with-ember-js"
   slides: "http://www.slideshare.net/markmansour/managing-state-in-single-page-webapps-with-emberjs"
 - title: "Ember.js"
   subtitle: "Lunch Talk at Carbon Five"
-  author: "Tom Dale, Yehuda Katz"
+  author_ids: [2,1]
   date: "2012-02-15"
   url: "http://blog.carbonfive.com/2012/02/17/lunchtime-tech-talk-tom-dale-and-yehuda-katz-on-ember-js/"
   videos: ["http://vimeo.com/36992934"]
   slides: "https://speakerdeck.com/u/tomdale/p/emberjs-lunch-talk-at-carbon5"
 - title: "Debugging Ember"
   subtitle: "Tips & tricks for bug assassination"
-  author: "Tom Dale"
+  author_ids: [2]
   date: "2012-02-12"
   url: "http://www.meetup.com/Ember-SF/events/50058382/"
   videos: ["http://vimeo.com/37539737"]
