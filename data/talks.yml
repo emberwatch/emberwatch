@@ -31,6 +31,12 @@
   url: "http://phillyemergingtech.com/2012/sessions/ember-js-attacking-boilerplate-where-it-lives"
   videos: ["http://vimeo.com/47876805"]
   slides: "https://speakerdeck.com/u/tomdale/p/emberjs-lunch-talk-at-carbon5"
+- title: "Ember.js"
+  subtitle: "Focus on your app not on boilerplate code"
+  author_ids: [6]
+  date: "2012-05-17"
+  url: "http://2012.jsday.it/talk/ember-js-focus-on-your-app-not-on-boilerplate-code/"
+  videos: ["http://vimeo.com/49742271"]
 - title: "Single Page Web Apps with Ember.js"
   author_ids: [5]
   date: "2012-02-16"
