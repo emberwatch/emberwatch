@@ -30,3 +30,13 @@
   name: "Mark Mansour"
 - id: 6
   name: "Garret Alfert"
+- id: 7
+  name: "Trek Glowacki"
+  twitter: "trek"
+  github: "trek"
+  site: "http://trek.github.com"
+  company_id: 3
+- id: 8
+  name: "Andy Leeper"
+  github: "leepfrog"
+  company_id: 4

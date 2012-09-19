@@ -25,6 +25,12 @@
   videos: ["http://www.infoq.com/presentations/Ember-js"]
   slides: "http://www.infoq.com/presentations/Ember-js"
 - title: "Ember.js"
+  subtitle: "Revised Architecture Overview"
+  author_ids: [8]
+  date: "2012-07-03"
+  videos: ["http://vimeo.com/45171906", "http://vimeo.com/45175622", "http://vimeo.com/45176030", "http://vimeo.com/45176308"]
+  url: "http://www.mochaleaf.com/blog/ember-js-revised-architecture-overview/"
+- title: "Ember.js"
   subtitle: "Attacking Boilerplate Where it Lives"
   author_ids: [1]
   date: "2012-04-10"
