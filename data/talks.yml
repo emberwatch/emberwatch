@@ -1,3 +1,9 @@
+- title: "Async Routing in Ember.js"
+  author_ids: [4]
+  date: "2012-09-18"
+  url: "http://www.meetup.com/EmberJS-NYC/events/73732192/"
+  videos: []
+  slides: "https://speakerdeck.com/u/lukemelia/p/async-routing-in-ember-dot-js"
 - title: "Sophisticated Views"
   subtitle: "How Ember’s View Layer Handles the Complex Problems"
   author_ids: [3]
