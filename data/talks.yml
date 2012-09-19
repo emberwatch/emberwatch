@@ -37,6 +37,7 @@
   date: "2012-05-17"
   url: "http://2012.jsday.it/talk/ember-js-focus-on-your-app-not-on-boilerplate-code/"
   videos: ["http://vimeo.com/49742271"]
+  slides: "https://speakerdeck.com/u/galfert/p/emberjs"
 - title: "Single Page Web Apps with Ember.js"
   author_ids: [5]
   date: "2012-02-16"
