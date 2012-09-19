@@ -2,7 +2,7 @@
   author_ids: [4]
   date: "2012-10-22"
   url: "http://www.meetup.com/EmberJS-NYC/events/73732192/"
-  videos: []
+  videos: ["http://www.cloudee.com/v/collection/504a311f8ad6c2634f00002f"]
   slides: "https://speakerdeck.com/u/lukemelia/p/architecting-ember-dot-js-apps"
 - title: "Sophisticated Views"
   subtitle: "How Ember’s View Layer Handles the Complex Problems"
