@@ -40,3 +40,8 @@
   name: "Andy Leeper"
   github: "leepfrog"
   company_id: 4
+- id: 9
+  name: "Ray Cohen"
+  github: "raycohen"
+  twitter: "raycohen"
+  site: "http://raycohen.com"
