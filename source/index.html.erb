@@ -4,6 +4,8 @@ title: Welcome to Ember Watch
 
 <div id="posts">
   <div class="twelve columns">
+
+    <h4>Talk Videos</h4>
     <ul>
       <% data.talks.each do |talk| %>
         <li>
@@ -31,6 +33,28 @@ title: Welcome to Ember Watch
             <a href="<%= talk.slides %>">Slides</a>
           <% end %>
           &middot; <a href="<%= talk.url %>">Details</a>
+        </li>
+      <% end %>
+    </ul>
+
+    <h4>Tutorials</h4>
+    <ul>
+      <% data.tutorials.each do |tutorial| %>
+        <li>
+          <h5>
+            <a href="<%= tutorial.urls.first %>">
+              <%= "#{tutorial.title}" %>
+            </a>
+          </h5>
+          <%= tutorial.author_ids.collect {|a| find_person(a).name }.join(', ') %>
+           &middot; <%= format_date(tutorial.date) %> &middot;
+          <% if tutorial.urls.count > 1 %>
+            <% tutorial.urls.each_with_index do |url, index| %>
+              <a href="url">Part <%= index+1 %></a><%= " &middot;" unless index == tutorial.urls.count-1 %>
+            <% end %>
+          <% else %>
+            <a href="<%= tutorial.urls.first %>">Tutorial</a>
+          <% end %>
         </li>
       <% end %>
     </ul>

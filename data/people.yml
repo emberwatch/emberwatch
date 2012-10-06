@@ -45,3 +45,8 @@
   github: "raycohen"
   twitter: "raycohen"
   site: "http://raycohen.com"
+- id: 10
+  name: "Dan Gebhardt"
+  github: "dgeb"
+  twitter: "dgeb"
+  site: "http://www.cerebris.com/blog/"
