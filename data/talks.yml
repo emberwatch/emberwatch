@@ -1,3 +1,9 @@
+- title: "Ember.js Introduction"
+  author_ids: [2]
+  date: "2012-10-06"
+  url: "http://t3con12de.typo3.org/sessions.html"
+  videos: ["http://www.youtube.com/watch?v=hod-KX81i7s"]
+  slides: "https://speakerdeck.com/u/tomdale/p/emberjs-introduction-t3con12"
 - title: "Async Routing in Ember.js"
   author_ids: [4]
   date: "2012-09-18"
