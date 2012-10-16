@@ -1,3 +1,9 @@
+- title: "Ember.ArrayProxy"
+  author_ids: [12]
+  date: "2012-10-10"
+  url: "http://matchingnotes.com/ember-array-proxy-talk"
+  slides: "http://matchingnotes.com/ember-array-proxy"
+  videos: []
 - title: "Getting Started with Ember.js"
   author_ids: [11]
   date: "2012-10-14"
