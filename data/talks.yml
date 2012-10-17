@@ -1,3 +1,8 @@
+- title: "Ember Data"
+  author_ids: [2]
+  date: "2012-10-11"
+  url: "http://praguejs.cz/meetups/"
+  videos: ["https://www.youtube.com/watch?v=djhAsWGOImk"]
 - title: "Ember.ArrayProxy"
   author_ids: [12]
   date: "2012-10-10"
@@ -21,6 +26,12 @@
   url: "http://www.meetup.com/EmberJS-NYC/events/75561722/"
   videos: []
   slides: "https://speakerdeck.com/u/lukemelia/p/async-routing-in-ember-dot-js"
+- title: "An Introduction to the Ember.js Router"
+  author_ids: [12]
+  date: "2012-09-05"
+  url: "http://www.meetup.com/London-Emberjs-User-Group/events/79873252/"
+  videos: []
+  slides: "https://speakerdeck.com/u/crofty/p/an-introduction-to-the-ember-router"
 - title: "Sophisticated Views"
   subtitle: "How Ember’s View Layer Handles the Complex Problems"
   author_ids: [3]
