@@ -15,6 +15,7 @@
   author_ids: [17]
   date: "2012-11-11"
   url: "http://pyvideo.org/video/1564/an-emberjs-adapter-for-django"
+  slides: "https://speakerdeck.com/escalant3/an-ember-dot-js-adapter-for-django"
   videos: ["http://pyvideo.org/video/1564/an-emberjs-adapter-for-django"]
 - title: "Building Ambitious Web Applications with Ember.js"
   author_ids: [15]
