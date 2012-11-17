@@ -4,6 +4,12 @@
   url: "http://www.meetup.com/SF-Web-Performance-Group/events/79526132/"
   videos: ["http://www.ustream.tv/recorded/26977615"]
   slides: "https://speakerdeck.com/tomdale/your-website-is-just-an-app"
+- title: "Why Ember?"
+  author_ids: [14]
+  date: "2012-11-06"
+  url: "https://github.com/mutewinter/why_ember"
+  videos: []
+  slides: "http://mutewinter.github.com/why_ember/"
 - title: "Ember 1.0 App Structure"
   subtitle: "The Best Router API Yet (@1:04:25)"
   author_ids: [1]
