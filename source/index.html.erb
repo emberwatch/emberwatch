@@ -1,11 +1,20 @@
 ---
-title: Welcome to Ember Watch
+title: Ember.js Resources on EmberWatch
+layout: application
 ---
 
 <div id="posts">
   <div class="twelve columns">
 
-    <h4>Talks</h4>
+  <dl class="tabs">
+  <dd class="active"><a href="#talks">Talks</a></dd>
+  <dd><a href="#screencasts">Screencasts</a></dd>
+  <dd><a href="#tutorials">Tutorials</a></dd>
+  <dd><a href="#code">Code</a></dd>
+  <dd><a href="#tweets">Tweets</a></dd>
+</dl>
+<ul class="tabs-content">
+  <li class="active" id="talksTab">
     <ul>
       <% data.talks.each do |talk| %>
         <li>
@@ -36,8 +45,35 @@ title: Welcome to Ember Watch
         </li>
       <% end %>
     </ul>
-
-    <h4>Tutorials</h4>
+  </li>
+  <li id="screencastsTab">
+    <ul>
+      <% data.screencasts.each do |screencast| %>
+        <li>
+          <% if screencast.videos.empty? %>
+            <h5>
+              <%= "#{screencast.title}: #{screencast.subtitle}" %>
+            </h5>
+          <% else %>
+            <h5>
+              <a href="<%= screencast.videos.first %>">
+                <%= "#{screencast.title}: #{screencast.subtitle}" %>
+              </a>
+            </h5>
+          <% end %>
+          <%= screencast.author_ids.collect {|a| find_person(a).name }.join(', ') %>
+           &middot; <%= format_date(screencast.date) %> &middot;
+          <% if screencast.videos.empty? %>
+          Video
+          <% else %>
+          <a href="<%= screencast.videos.first %>">Video</a>
+          <% end %> &middot;
+          <a href="<%= screencast.url %>">Details</a>
+        </li>
+      <% end %>
+    </ul>
+  </li>
+  <li id="tutorialsTab">
     <ul>
       <% data.tutorials.each do |tutorial| %>
         <li>
@@ -50,7 +86,7 @@ title: Welcome to Ember Watch
            &middot; <%= format_date(tutorial.date) %> &middot;
           <% if tutorial.urls.count > 1 %>
             <% tutorial.urls.each_with_index do |url, index| %>
-              <a href="url">Part <%= index+1 %></a><%= " &middot;" unless index == tutorial.urls.count-1 %>
+              <a href="<%= url %>">Part <%= index+1 %></a><%= " &middot;" unless index == tutorial.urls.count-1 %>
             <% end %>
           <% else %>
             <a href="<%= tutorial.urls.first %>">Tutorial</a>
@@ -58,5 +94,142 @@ title: Welcome to Ember Watch
         </li>
       <% end %>
     </ul>
+  </li>
+  <li id="codeTab">
+    <ul>
+      <% data.code.each do |code| %>
+        <li>
+          <h5>
+            <a href="<%= code.code %>">
+              <%= "#{code.title}" %>
+            </a>
+          </h5>
+          <% if code.url %>
+            <a href="<%= code.url %>">Description</a> &middot;
+          <% end %>
+          <% if code.demo %>
+            <a href="<%= code.demo %>">Demo</a>
+          <% end %>
+        </li>
+      <% end %>
+    </ul>
+  </li>
+  <li id="tweetsTab">
+    <blockquote class="twitter-tweet">
+      <p>I’ve been playing with ember.js the whole day today. All I can say: F***ING BRILLIANT!!</p>
+      &mdash; Enrique Ramírez (@enrique_ramirez) 
+      <a href="https://twitter.com/enrique_ramirez/status/264937045103878144" data-datetime="2012-11-04T03:48:08+00:00">
+        November 4, 2012
+      </a>
+    </blockquote>
+
+    <blockquote class="twitter-tweet">
+      <p>I seem a lot more productive with ember.js than backbone.js</p>
+      &mdash; Dan Oxlade (@doxla) 
+      <a href="https://twitter.com/doxla/status/264131439623286784" data-datetime="2012-11-01T22:26:57+00:00">
+        November 1, 2012
+      </a>
+    </blockquote>
+
+    <blockquote class="twitter-tweet">
+      <p>Ember.JS looks sweet. <a href="http://t.co/aiv3hnPz" title="http://emberjs.com">emberjs.com</a></p>
+      &mdash; Michael Fischer (@The_Fischbowl) 
+      <a href="https://twitter.com/The_Fischbowl/status/261540821529149440" data-datetime="2012-10-25T18:52:45+00:00">
+        October 25, 2012
+      </a>
+    </blockquote>
+
+    <blockquote class="twitter-tweet">
+      <p>Working on an Ember.js app, yay!</p>
+      &mdash; botanicus (@botanicus) 
+      <a href="https://twitter.com/botanicus/status/261050870215618560" data-datetime="2012-10-24T10:25:52+00:00">
+        October 24, 2012
+      </a>
+    </blockquote>
+
+    <blockquote class="twitter-tweet">
+      <p>Studying up on the hows and whys of Ember.js is pretty revealing… in a good way.</p>
+      &mdash; Curtis Steckel (@Steckel) 
+      <a href="https://twitter.com/Steckel/status/258813518168616960" data-datetime="2012-10-18T06:15:25+00:00">
+        October 18, 2012
+      </a>
+    </blockquote>
+
+    <blockquote class="twitter-tweet">
+      <p>Reading through the Ember.js docs and some examples. I am liking this, especially the Handlebar.js template integration</p>
+      &mdash; Davis Sorenson (@davissorenson) 
+      <a href="https://twitter.com/davissorenson/status/258462805257248768" data-datetime="2012-10-17T07:01:49+00:00">
+        October 17, 2012
+      </a>
+    </blockquote>
+
+    <blockquote class="twitter-tweet">
+      <p>I'm madly in love with ember.js</p>
+      &mdash; Isaac Wagner (@humongobot) 
+      <a href="https://twitter.com/humongobot/status/258410980554440704" data-datetime="2012-10-17T03:35:53+00:00">
+        October 17, 2012
+      </a>
+    </blockquote>
+
+    <blockquote class="twitter-tweet">
+      <p>Finally checking out Ember.js, super impressed so far.</p>
+      &mdash; Rhys Powell (@rwpwll) 
+      <a href="https://twitter.com/rwpwll/status/258139987340587008" data-datetime="2012-10-16T09:39:03+00:00">
+        October 16, 2012
+      </a>
+    </blockquote>
+
+    <blockquote class="twitter-tweet">
+      <p>ember.js is amazing. that is all.</p>
+      &mdash; Carlos Vilhena (@carvil_) 
+      <a href="https://twitter.com/carvil_/status/257083130148708352" data-datetime="2012-10-13T11:39:29+00:00">
+        October 13, 2012
+      </a>
+    </blockquote>
+
+    <blockquote class="twitter-tweet">
+      <p>Using <a href="https://twitter.com/search/%23emberjs">#emberjs</a> since 4 months and still amazed by its power :-)</p>
+      &mdash; Bernard Notarianni (@notarianni) 
+      <a href="https://twitter.com/notarianni/status/250493924093882368" data-datetime="2012-09-25T07:16:20+00:00">
+        September 25, 2012
+      </a>
+    </blockquote>
+
+    <blockquote class="twitter-tweet">
+      <p>Ember.js makes my life so easy...</p>
+      &mdash; Chris Moyer (@kopertop) 
+      <a href="https://twitter.com/kopertop/status/248890361227919362" data-datetime="2012-09-20T21:04:20+00:00">
+        September 20, 2012
+      </a>
+    </blockquote>
+
+    <blockquote class="twitter-tweet" data-in-reply-to="248529138862919680">
+      <p>@<a href="https://twitter.com/zakkain">zakkain</a> Ember.js is a GREAT tool for UI designers looking to also do UI Engineering. We'll protect you from a lot of boneheaded mistakes.</p>
+      &mdash; Trek Glowacki (@trek) 
+      <a href="https://twitter.com/trek/status/248529838015655938" data-datetime="2012-09-19T21:11:45+00:00">
+        September 19, 2012
+      </a>
+    </blockquote>
+
+    <blockquote class="twitter-tweet">
+      <p>Ember.js is actually pretty impressive</p>
+      &mdash; luke_redroot (@luke_redroot) 
+      <a href="https://twitter.com/luke_redroot/status/247262624641855488" data-datetime="2012-09-16T09:16:18+00:00">
+        September 16, 2012
+      </a>
+    </blockquote>
+
+    <blockquote class="twitter-tweet">
+      <p>Took the opportunity to try out @<a href="https://twitter.com/emberjs">emberjs</a> on this latest project at @<a href="https://twitter.com/airbnb">airbnb</a>. My review is short, I love it.</p>
+      &mdash; Harrison Shoff (@hshoff) 
+      <a href="https://twitter.com/hshoff/status/245003517172006914" data-datetime="2012-09-10T03:39:25+00:00">
+        September 10, 2012
+      </a>
+    </blockquote>
+    <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </li>
+</ul>
+<hr>
+
   </div>
 </div>

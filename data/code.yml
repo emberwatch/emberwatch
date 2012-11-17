@@ -1,0 +1,8 @@
+- title: "GiddyUp"
+  code: "https://github.com/basho/giddyup"
+- title: "Ember Data Example"
+  code: "https://github.com/dgeb/ember_data_example"
+- title: "Ember.js with Yii REST backend"
+  url: "http://www.yiiframework.com/wiki/409/ember-js-with-yii-rest-backend-demo-application/"
+  code: "https://github.com/drumaddict/ember-yii"
+  demo: "http://ember-yii.sk.hj.cx/site/app"

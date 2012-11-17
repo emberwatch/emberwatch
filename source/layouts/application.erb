@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+
+  <meta name="description" content="Collection of resources for learning Ember.js including Videos, Talks, Slides, Tutorials, Posts and Screencasts.">
+  <meta name="keywords" content="Ember.js,Ember,tutorial,screencast,video,talk,slides,post,JavaScript,MVC">
+  <meta name="author" content="Philip Poots">
+  <title>
+    <%= data.page.title || "EmberWatch" %>
+  </title>
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <%= stylesheet_link_tag "application" %>
+  <%= javascript_include_tag "all" %>
+
+  <% if ENV['DEPLOY'] %>
+  <!-- start Mixpanel -->
+  <script type="text/javascript">(function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.1.min.js';d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?
+g=a[f]=[]:f="mixpanel";g.people=g.people||[];h="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config people.identify people.set people.increment".split(" ");for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.1})(document,window.mixpanel||[]);
+mixpanel.init("d986d0aa139d6609419d50ff23c447c2");</script>
+  <!-- end Mixpanel -->
+  <script type="text/javascript">
+    mixpanel.track_links("#posts a", "Outbound Content", {'referrer': document.referrer });
+    mixpanel.track_links(".top-bar .right a", "Outbound Twitter", {'referrer': document.referrer });
+  </script>
+  <% end %>
+</head>
+
+<body class="<%= page_classes %>">
+  <div class="contain-to-grid">
+    <nav class="top-bar">
+      <ul>
+        <li class="name"><h1><a href="http://emberwatch.com"><i class="foundicon-glasses"></i> Ember<span class="light">Watch</span> </a></h1></li>
+        <li class="toggle-topbar"><a href="#"></a></li>
+      </ul>
+      <section>
+        <ul class="right">
+          <li><a href="http://twitter.com/emberwatch"><i class="social foundicon-twitter"></i> &nbsp;@emberwatch</a></li>
+        </ul>
+      </section>
+    </nav>
+  </div>
+  <%= yield %>
+  <div id="footer">
+    <div id="wufoo-z7x3p9">
+Fill out my <a href="http://pootsbook.wufoo.com/forms/z7x3p9">online form</a>.
+</div>
+<script type="text/javascript">var z7x3p9;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'pootsbook', 
+'formHash':'z7x3p9', 
+'autoResize':true,
+'height':'260',
+'async':true,
+'header':'show'};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { z7x3p9 = new WufooForm();z7x3p9.initialize(options);z7x3p9.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>
+  </div>
+  <% if ENV['DEPLOY'] %>
+  <script type="text/javascript">
+    var _gauges = _gauges || [];
+    (function() {
+      var t   = document.createElement('script');
+      t.type  = 'text/javascript';
+      t.async = true;
+      t.id    = 'gauges-tracker';
+      t.setAttribute('data-site-id', '50574319613f5d312700004e');
+      t.src = '//secure.gaug.es/track.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(t, s);
+    })();
+  </script>
+  <% end %>
+</body>
+</html>
