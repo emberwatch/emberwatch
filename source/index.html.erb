@@ -20,12 +20,12 @@ layout: application
         <li>
           <% if talk.videos.empty? %>
             <h5>
-              <%= "#{talk.title}: #{talk.subtitle}" %>
+              <%= "#{talk.title}" %><%= ": #{talk.subtitle}" if talk.subtitle %>
             </h5>
           <% else %>
             <h5>
               <a href="<%= talk.videos.first %>">
-                <%= "#{talk.title}: #{talk.subtitle}" %>
+                <%= "#{talk.title}" %><%= ": #{talk.subtitle}" if talk.subtitle %>
               </a>
             </h5>
           <% end %>
