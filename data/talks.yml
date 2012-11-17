@@ -1,3 +1,10 @@
+- title: "application"
+  subtitle: "a series of states"
+  author_ids: [7]
+  date: "2012-11-15"
+  url: "http://www.meetup.com/Chicago-Ember-js/events/86440312/"
+  slides: "https://speakerdeck.com/trek/applications-a-series-of-states"
+  videos: []
 - title: "Your Website is Just Another App"
   author_ids: [2]
   date: "2012-11-13"
