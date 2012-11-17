@@ -11,6 +11,11 @@
   url: "http://www.meetup.com/SF-Web-Performance-Group/events/79526132/"
   videos: ["http://www.ustream.tv/recorded/26977615"]
   slides: "https://speakerdeck.com/tomdale/your-website-is-just-an-app"
+- title: "An Ember.js Adapter for Django"
+  author_ids: [17]
+  date: "2012-11-11"
+  url: "http://pyvideo.org/video/1564/an-emberjs-adapter-for-django"
+  videos: ["http://pyvideo.org/video/1564/an-emberjs-adapter-for-django"]
 - title: "Building Ambitious Web Applications with Ember.js"
   author_ids: [15]
   date: "2012-11-09"
