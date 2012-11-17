@@ -4,6 +4,12 @@
   url: "http://www.meetup.com/SF-Web-Performance-Group/events/79526132/"
   videos: ["http://www.ustream.tv/recorded/26977615"]
   slides: "https://speakerdeck.com/tomdale/your-website-is-just-an-app"
+- title: "Building Ambitious Web Applications with Ember.js"
+  author_ids: [15]
+  date: "2012-11-09"
+  url: "http://www.fitc.ca/events/presentations/presentation.cfm?event=136&presentation_id=2104"
+  slides: "https://speakerdeck.com/cmeiklejohn/building-ambitious-web-applications-with-ember-dot-js"
+  videos: []
 - title: "Why Ember?"
   author_ids: [14]
   date: "2012-11-06"
