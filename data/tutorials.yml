@@ -3,6 +3,11 @@
   date: "2012-08-29"
   urls: ["http://trek.github.com/"]
   code: "http://jsfiddle.net/Sly7/ZKXyg/"
+- title: "Flame On! A beginner’s guide to Ember.js"
+  author_ids: [16]
+  date: "2012-05-15"
+  urls: ["http://www.adobe.com/devnet/html5/articles/flame-on-a-beginners-guide-to-emberjs.html"]
+  code: "http://www.adobe.com/devnet/html5/articles/flame-on-a-beginners-guide-to-emberjs.html"
 - title: "Beginning Ember.js on Rails"
   author_ids: [10]
   date: "2012-01-31"
