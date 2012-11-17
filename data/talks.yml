@@ -1,3 +1,26 @@
+- title: "Your Website is Just Another App"
+  author_ids: [2]
+  date: "2012-11-13"
+  url: "http://www.meetup.com/SF-Web-Performance-Group/events/79526132/"
+  videos: ["http://www.ustream.tv/recorded/26977615"]
+  slides: "https://speakerdeck.com/tomdale/your-website-is-just-an-app"
+- title: "Ember 1.0 App Structure"
+  subtitle: "The Best Router API Yet (@1:04:25)"
+  author_ids: [1]
+  date: "2012-10-30"
+  url: "http://www.meetup.com/Ember-SF/events/86450582/"
+  videos: ["https://addepar.com/ember/"]
+  slides: "https://speakerdeck.com/tomdale/30"
+- title: "Ember Data (@40:58)"
+  author_ids: [2]
+  date: "2012-10-30"
+  url: "http://www.meetup.com/Ember-SF/events/86450582/"
+  videos: ["https://addepar.com/ember/"]
+- title: "Addepar and Ember"
+  author_ids: [13]
+  date: "2012-10-30"
+  url: "http://www.meetup.com/Ember-SF/events/86450582/"
+  videos: ["https://addepar.com/ember/"]
 - title: "Ember Data"
   author_ids: [2]
   date: "2012-10-11"

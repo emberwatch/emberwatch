@@ -14,3 +14,7 @@
   name: "MochaLeaf"
   site: "http://mochaleaf.com"
   employee_ids: [8]
+- id: 5
+  name: "Addepar"
+  site: "https://addepar.com/"
+  employee_ids: [30]
