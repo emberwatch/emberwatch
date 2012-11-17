@@ -6,3 +6,6 @@
   url: "http://www.yiiframework.com/wiki/409/ember-js-with-yii-rest-backend-demo-application/"
   code: "https://github.com/drumaddict/ember-yii"
   demo: "http://ember-yii.sk.hj.cx/site/app"
+- title: "Sample Todos Application"
+  code: "https://github.com/frodsan/emberjs-getting-started"
+  demo: "http://emberjs.com/examples/todos/"
