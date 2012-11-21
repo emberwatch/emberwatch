@@ -88,6 +88,12 @@
   url: "http://www.meetup.com/EmberJS-NYC/events/73732192/"
   videos: ["http://www.cloudee.com/v/collection/504a311f8ad6c2634f00002f"]
   slides: "https://speakerdeck.com/u/lukemelia/p/architecting-ember-dot-js-apps"
+- title: "A Gentle Introduction to Ember"
+  author_ids: [2]
+  date: "2012-07-22"
+  url: "http://www.infoq.com/presentations/Ember-Demo"
+  videos: ["http://www.infoq.com/presentations/Ember-Demo"]
+  slides: "http://www.infoq.com/presentations/Ember-Demo"
 - title: "Ember.js"
   subtitle: "State of the Union"
   author_ids: [1]
