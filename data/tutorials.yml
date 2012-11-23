@@ -3,6 +3,11 @@
   date: "2012-08-29"
   urls: ["http://trek.github.com/"]
   code: "http://jsfiddle.net/Sly7/ZKXyg/"
+- title: "Writing an Ember.js App From Scratch"
+  author_ids: [19]
+  date: "2012-07-08"
+  urls: ["http://drewschrauf.com/blog/2012/07/08/writing-an-ember-js-app-from-scratch-part-1/", "http://drewschrauf.com/blog/2012/07/09/writing-an-ember-js-app-from-scratch-part-2/"]
+  code: "https://github.com/drewschrauf/todo-example"
 - title: "Flame On! A beginner’s guide to Ember.js"
   author_ids: [16]
   date: "2012-05-15"
