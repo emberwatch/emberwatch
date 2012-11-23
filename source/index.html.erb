@@ -91,6 +91,9 @@ layout: application
           <% else %>
             <a href="<%= tutorial.urls.first %>">Tutorial</a>
           <% end %>
+          <% if tutorial.code %>
+            &middot; <a href="<%= tutorial.code %>">Code</a>
+          <% end %>
         </li>
       <% end %>
     </ul>
