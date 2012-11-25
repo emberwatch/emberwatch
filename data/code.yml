@@ -1,3 +1,6 @@
+- title: "EmberPress"
+  code: "https://github.com/eviltrout/emberpress"
+  demo: "http://emberpress.eviltrout.com/"
 - title: "GiddyUp"
   code: "https://github.com/basho/giddyup"
 - title: "Ember Data Example"
