@@ -1,3 +1,10 @@
+- title: "Snappy Performant Apps"
+  subtitle: "with Ember.js"
+  author_ids: [21]
+  date: "2013-01-31"
+  url: "http://marakana.com/s/post/1386/snappy_performance_apps_ember_js_anthony_bull_video"
+  videos: ["http://www.youtube.com/watch?v=9a0OP4in-ac"]
+  slides: "http://www.slideshare.net/inkredabull/ember-j-sforsfhtml5"
 - title: "Ember Application Patterns"
   author_ids: [20]
   date: "2013-01-20"
