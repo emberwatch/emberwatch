@@ -1,3 +1,9 @@
+- title: "Fire Up Ember.js"
+  author_ids: [23]
+  date: "2013-01-24"
+  price: "$12"
+  url: "https://peepcode.com/products/emberjs"
+  videos: ["https://peepcode.com/products/emberjs"]
 - title: "Introduction to Ember.js (+ new Router API)"
   author_ids: [11]
   date: "2013-01-03"

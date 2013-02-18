@@ -52,13 +52,14 @@ layout: application
         <li>
           <% if screencast.videos.empty? %>
             <h5>
-              <%= "#{screencast.title}: #{screencast.subtitle}" %>
+              <%= screencast.title %><%= ": #{screencast.subtitle}" if screencast.subtitle %>
             </h5>
           <% else %>
             <h5>
               <a href="<%= screencast.videos.first %>">
-                <%= "#{screencast.title}: #{screencast.subtitle}" %>
+                <%= screencast.title %><%= ": #{screencast.subtitle}" if screencast.subtitle %>
               </a>
+              <%= "&nbsp;&nbsp;#{screencast.price}" if screencast.price %>
             </h5>
           <% end %>
           <%= screencast.author_ids.collect {|a| find_person(a).name }.join(', ') %>
