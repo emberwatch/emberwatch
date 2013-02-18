@@ -10,6 +10,7 @@ layout: application
   <dd class="active"><a href="#talks">Talks</a></dd>
   <dd><a href="#screencasts">Screencasts</a></dd>
   <dd><a href="#tutorials">Tutorials</a></dd>
+  <dd><a href="#books">Books</a></dd>
   <dd><a href="#code">Code</a></dd>
   <dd><a href="#tweets">Tweets</a></dd>
 </dl>
@@ -95,6 +96,23 @@ layout: application
           <% if tutorial.code %>
             &middot; <a href="<%= tutorial.code %>">Code</a>
           <% end %>
+        </li>
+      <% end %>
+    </ul>
+  </li>
+  <li id="booksTab">
+    <ul>
+      <% data.books.each do |book| %>
+        <li>
+          <h5>
+            <a href="<%= book.url %>">
+              <%= book.title %>
+            </a>
+            <%= "&nbsp;&nbsp;#{book.price}" if book.price %>
+          </h5>
+          <%= book.author_ids.collect {|a| find_person(a).name }.join(', ') %> &middot;
+          <%= book.publisher %> &middot;
+          <a href="<%= book.url %>">Details</a>
         </li>
       <% end %>
     </ul>
