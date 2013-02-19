@@ -2,6 +2,11 @@
   author_ids: [18]
   publisher: "Manning"
   url: "http://manning.com/skeie/"
+- title: "Instant Ember.js Application Development How-to"
+  publisher: "Packt"
+  author_ids: [25]
+  url: "http://www.packtpub.com/emberjs-application-development/book"
+  price: "$6.99"
 - title: "Master Space and Time With JavaScript Book 4: Ember"
   author_ids: [24]
   publisher: "Self-Published"
