@@ -121,3 +121,11 @@
   twitter: "marcbodmer"
   github: "m-bodmer"
   site: "http://www.mbodmer.com/"
+- id: 26
+  name: "Benoît Lemoine"
+  twitter: "benoit_lemoine"
+  github: "blemoine"
+- id: 27
+  name: "Mathieu Breton"
+  twitter: "MatBreton"
+  github: "mbreton"

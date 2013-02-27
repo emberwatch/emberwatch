@@ -1,3 +1,9 @@
+- title: "1 an avec Ember.js"
+  author_ids: [26,27]
+  date: "2013-01-31"
+  url: "http://blog.xebia.fr/2013/02/25/1-an-avec-ember-js/"
+  videos: ["http://vimeo.com/60065267"]
+  slides: "http://blemoine.github.com/rex-ember-ejp/"
 - title: "Snappy Performant Apps"
   subtitle: "with Ember.js"
   author_ids: [21]
