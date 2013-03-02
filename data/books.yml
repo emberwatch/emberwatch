@@ -2,6 +2,7 @@
   author_ids: [18]
   publisher: "Manning"
   url: "http://manning.com/skeie/"
+  price: "$35.99"
 - title: "Instant Ember.js Application Development How-to"
   publisher: "Packt"
   author_ids: [25]
