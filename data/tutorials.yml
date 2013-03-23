@@ -11,6 +11,11 @@
   author_ids: [22]
   date: "2013-02-11"
   urls: ["http://twbrandt.github.com/"]
+- title: "Building an Ember App with Rails API"
+  author_ids: [29]
+  date: "2013-01-07"
+  urls: ["http://reefpoints.dockyard.com/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1.html", "http://reefpoints.dockyard.com/ember/2013/01/09/building-an-ember-app-with-rails-api-part-2.html", "http://reefpoints.dockyard.com/ember/2013/01/10/building-an-ember-app-with-rails-api-part-3.html"]
+  code: "https://github.com/bcardarella/ember-railsapi"
 - title: "Advice on & Instruction in the Use Of Ember.js"
   author_ids: [7]
   date: "2012-08-29"
