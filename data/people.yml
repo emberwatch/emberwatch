@@ -129,3 +129,18 @@
   name: "Mathieu Breton"
   twitter: "MatBreton"
   github: "mbreton"
+- id: 28
+  name: "Jeff Atwood"
+  twitter: "codinghorror"
+- id: 29
+  name: "Brian Cardarella"
+- id: 30
+  name: "Mads Kristensen"
+- id: 31
+  name: "Igor Terzic"
+- id: 32
+  name: "Jo Liss"
+- id: 33
+  name: "Kristofor Selden"
+- id: 34
+  name: "Justin Giancola"

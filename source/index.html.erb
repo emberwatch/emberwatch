@@ -21,13 +21,12 @@ layout: application
         <li>
           <% if talk.videos.empty? %>
             <h5>
-              <%= "#{talk.title}" %><%= ": #{talk.subtitle}" if talk.subtitle %>
+              <%= "#{talk.title}" %><%= ": #{talk.subtitle}" if talk.subtitle %> <% if talk.event_id %><span class="event-name"><%= " #{find_event(talk.event_id).name}" %></span><% end %>
             </h5>
           <% else %>
             <h5>
               <a href="<%= talk.videos.first %>">
-                <%= "#{talk.title}" %><%= ": #{talk.subtitle}" if talk.subtitle %>
-              </a>
+                <%= "#{talk.title}" %><%= ": #{talk.subtitle}" if talk.subtitle %></a><% if talk.event_id %><span class="event-name"><%= " #{find_event(talk.event_id).name}" %></span><% end %>
             </h5>
           <% end %>
           <%= talk.author_ids.collect {|a| find_person(a).name }.join(', ') %>
@@ -42,7 +41,9 @@ layout: application
           <% else %>
             <a href="<%= talk.slides %>">Slides</a>
           <% end %>
+          <% if talk.url %>
           &middot; <a href="<%= talk.url %>">Details</a>
+          <% end %>
         </li>
       <% end %>
     </ul>

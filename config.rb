@@ -65,6 +65,12 @@ helpers do
   def find_employee(id)
     find_person(id)
   end
+
+  def find_event(id)
+    data.events.select do |e|
+      e[:id] == id
+    end.first
+  end
 end
 
 set :css_dir, 'stylesheets'

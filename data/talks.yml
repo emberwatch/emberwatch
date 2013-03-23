@@ -1,3 +1,79 @@
+- title: "Closing Keynote"
+  author_ids: [28]
+  date: "2013-02-15"
+  videos: ["http://www.youtube.com/watch?v=ncrwsg33TtI"]
+  slides: "https://addepar.com/ember/JeffAtwood.pdf"
+  event_id: 1
+- title: "Ember.js and Client Side Validations"
+  author_ids: [29]
+  date: "2013-02-15"
+  url: "http://cgcardona.github.com/2013/02/15/notes-from-the-clientsidevalidations-for-ember-session/"
+  videos: ["http://www.youtube.com/watch?v=wmQovdFoMm0"]
+  slides: "http://www.rvl.io/bcardarella/ember-js-and-clientsidevalidations"
+  event_id: 1
+- title: "Optimizing an API For Ember Data"
+  author_ids: [10]
+  date: "2013-02-15"
+  url: "http://cgcardona.github.com/2013/02/15/notes-from-the-optimizing-your-api-for-ember-data-session/"
+  videos: ["http://www.youtube.com/watch?v=rfQcmLLE3-w"]
+  slides: "https://speakerdeck.com/dgeb/optimizing-an-api-for-ember-data"
+  event_id: 1
+- title: "Expect More From Tooling"
+  author_ids: [30]
+  date: "2013-02-15"
+  url: "http://cgcardona.github.com/2013/02/15/notes-from-the-expect-more-from-tooling-session/"
+  videos: ["http://www.youtube.com/watch?v=Vl2P59bmV80"]
+  slides: ""
+  event_id: 1
+- title: "Ember Data"
+  author_ids: [31]
+  date: "2013-02-15"
+  url: "http://cgcardona.github.com/2013/02/15/notes-from-the-ember-data-talk/"
+  videos: ["http://www.youtube.com/watch?v=V8nnE948zxk"]
+  slides: ""
+  event_id: 1
+- title: "Testing Ember Apps"
+  author_ids: [32]
+  date: "2013-02-15"
+  url: "http://cgcardona.github.com/2013/02/15/notes-from-the-testing-ember-apps-session/"
+  videos: []
+  slides: "http://www.slideshare.net/jo_liss/testing-ember-apps"
+  event_id: 1
+- title: "Performance Talk"
+  author_ids: [33]
+  date: "2013-02-15"
+  url: "http://cgcardona.github.com/2013/02/15/notes-from-the-performance-talk-session/"
+  videos: ["http://www.youtube.com/watch?v=ZJI0ZQndDDc"]
+  event_id: 1
+- title: "Contributing to Ember"
+  author_ids: [3]
+  date: "2013-02-15"
+  url: "http://cgcardona.github.com/2013/02/15/notes-from-the-contributing-to-ember-session/"
+  videos: ["http://www.youtube.com/watch?v=TvxpqVhHvFY"]
+  slides: "https://addepar.com/ember/PeterWagenet.pdf"
+  event_id: 1
+- title: "UI Patterns"
+  author_ids: [7]
+  date: "2013-02-15"
+  url: "https://gist.github.com/trek/812bdd51e5e31a7b0ae9/raw/9b8ff3b403c240825e5ce9cc4903143fc8de5d79/gistfile1.txt"
+  videos: ["http://www.youtube.com/watch?v=AxyzonjWYuA"]
+  slides: "https://speakerdeck.com/trek/ui-patterns-and-reuse-or-why-i-hope-we-never-need-an-ember-dot-js-widget-library"
+  event_id: 1
+- title: "Ember In Action"
+  author_ids: [34]
+  date: "2013-02-15"
+  url: "http://cgcardona.github.com/2013/02/15/notes-from-the-ember-in-action-talk/"
+  videos: ["http://www.youtube.com/watch?v=NDYW7Z24SJY"]
+  slides: "http://www.justinappears.com/slides/ember-camp/"
+  event_id: 1
+- title: "Ember"
+  subtitle: "State of the Union"
+  author_ids: [1,2]
+  date: "2013-02-15"
+  url: "http://cgcardona.github.com/2013/02/15/notes-from-the-ember-state-of-the-union-talk/"
+  videos: ["http://www.youtube.com/watch?v=RYAD2arvysU"]
+  slides: "https://addepar.com/ember/EmberStateoftheUnion.pdf"
+  event_id: 1
 - title: "1 an avec Ember.js"
   author_ids: [26,27]
   date: "2013-01-31"
