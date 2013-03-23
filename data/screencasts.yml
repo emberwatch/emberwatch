@@ -10,6 +10,11 @@
   price: "$9 p/m"
   url: "http://railscasts.com/episodes/408-ember-part-1"
   videos: ["http://railscasts.com/episodes/408-ember-part-1"]
+- title: "Introduction to Ember.js (1.0.0-RC1)"
+  author_ids: [11]
+  date: "2013-03-02"
+  url: "http://toranbillups.com/blog/archive/2013/03/02/emberjs-rc1-introduction-screencast/"
+  videos: ["http://toranbillups.com/blog/archive/2013/03/02/emberjs-rc1-introduction-screencast/"]
 - title: "Fire Up Ember.js"
   author_ids: [23]
   date: "2013-01-24"
