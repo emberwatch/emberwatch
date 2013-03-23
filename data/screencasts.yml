@@ -15,6 +15,11 @@
   date: "2013-03-02"
   url: "http://toranbillups.com/blog/archive/2013/03/02/emberjs-rc1-introduction-screencast/"
   videos: ["http://toranbillups.com/blog/archive/2013/03/02/emberjs-rc1-introduction-screencast/"]
+- title: "Ember.js Code Walkthrough"
+  author_ids: [37]
+  date: "2013-02-23"
+  url: "http://www.lukaszielinski.de/blog/posts/2013/02/23/ember-dot-js-code-walkthrough-video/"
+  videos: ["http://vimeo.com/60327552"]
 - title: "Fire Up Ember.js"
   author_ids: [23]
   date: "2013-01-24"
