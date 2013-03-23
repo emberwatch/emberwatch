@@ -1,3 +1,6 @@
+- title: "Todo MVC"
+  code: "https://github.com/addyosmani/todomvc/tree/gh-pages/architecture-examples/emberjs"
+  demo: "http://addyosmani.github.com/todomvc/architecture-examples/emberjs/"
 - title: "EmberPress"
   code: "https://github.com/eviltrout/emberpress"
   demo: "http://emberpress.eviltrout.com/"
