@@ -1,3 +1,15 @@
+- title: "Ember Part 2"
+  author_ids: [35]
+  date: "2013-03-12"
+  price: "$9 p/m"
+  url: "http://railscasts.com/episodes/410-ember-part-2"
+  videos: ["http://railscasts.com/episodes/410-ember-part-2"]
+- title: "Ember Part 1"
+  author_ids: [35]
+  date: "2013-03-04"
+  price: "$9 p/m"
+  url: "http://railscasts.com/episodes/408-ember-part-1"
+  videos: ["http://railscasts.com/episodes/408-ember-part-1"]
 - title: "Fire Up Ember.js"
   author_ids: [23]
   date: "2013-01-24"
