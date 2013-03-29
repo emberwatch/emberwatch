@@ -1,3 +1,5 @@
 - name: "EmberCamp"
   id: 1
   date: "2013-02-15"
+- name: "Ember.js NYC"
+  id: 2

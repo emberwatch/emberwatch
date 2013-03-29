@@ -1,3 +1,10 @@
+- title: "Introduction to Ember.js"
+  author_ids: [4]
+  date: "2013-03-29"
+  url: "http://www.meetup.com/EmberJS-NYC/events/106490682/"
+  videos: []
+  slides: "https://speakerdeck.com/lukemelia/introduction-to-ember-dot-js"
+  event_id: 2
 - title: "Closing Keynote"
   author_ids: [28]
   date: "2013-02-15"
