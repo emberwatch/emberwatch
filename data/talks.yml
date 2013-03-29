@@ -6,6 +6,22 @@
   slides: "https://speakerdeck.com/lukemelia/introduction-to-ember-dot-js"
   event_id: 2
   id: 46
+- title: "Custom Events"
+  subtitle: "handling dragging using jQuery special events"
+  author_ids: [33]
+  date: "2013-03-27"
+  url: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/94768622/"
+  videos: ["http://www.youtube.com/watch?v=jTV5mY2kxlU"]
+  event_id: 3
+  id: 48
+- title: "EmberScript"
+  subtitle: "Ember.js infused CoffeeScript"
+  author_ids: [40]
+  date: "2013-03-27"
+  url: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/94768622/"
+  videos: ["http://www.youtube.com/watch?v=tcG058l2xh4"]
+  event_id: 3
+  id: 47
 - title: "Ember.js"
   subtitle: "Rise of the Clients"
   author_ids: [39]
