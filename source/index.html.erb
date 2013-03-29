@@ -18,7 +18,7 @@ layout: application
   <li class="active" id="talksTab">
     <ul>
       <% data.talks.each do |talk| %>
-        <li>
+        <li id="talk-<%= talk.id %>">
           <% if talk.videos.empty? %>
             <h5>
               <%= "#{talk.title}" %><%= ": #{talk.subtitle}" if talk.subtitle %> <% if talk.event_id %><span class="event-name"><%= " #{find_event(talk.event_id).name}" %></span><% end %>

@@ -1,16 +1,27 @@
 - title: "Introduction to Ember.js"
   author_ids: [4]
-  date: "2013-03-29"
+  date: "2013-03-28"
   url: "http://www.meetup.com/EmberJS-NYC/events/106490682/"
   videos: []
   slides: "https://speakerdeck.com/lukemelia/introduction-to-ember-dot-js"
   event_id: 2
+  id: 46
+- title: "Ember.js"
+  subtitle: "Rise of the Clients"
+  author_ids: [39]
+  date: "2013-03-27"
+  url: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/94768622/"
+  videos: ["http://www.youtube.com/watch?v=Sc_O7ZWVSJ0"]
+  slides: "http://talks.erikbryn.com/rise-of-the-clients/"
+  event_id: 3
+  id: 45
 - title: "Closing Keynote"
   author_ids: [28]
   date: "2013-02-15"
   videos: ["http://www.youtube.com/watch?v=ncrwsg33TtI"]
   slides: "https://addepar.com/ember/JeffAtwood.pdf"
   event_id: 1
+  id: 44
 - title: "Ember.js and Client Side Validations"
   author_ids: [29]
   date: "2013-02-15"
@@ -18,6 +29,7 @@
   videos: ["http://www.youtube.com/watch?v=wmQovdFoMm0"]
   slides: "http://www.rvl.io/bcardarella/ember-js-and-clientsidevalidations"
   event_id: 1
+  id: 43
 - title: "Optimizing an API For Ember Data"
   author_ids: [10]
   date: "2013-02-15"
@@ -25,6 +37,7 @@
   videos: ["http://www.youtube.com/watch?v=rfQcmLLE3-w"]
   slides: "https://speakerdeck.com/dgeb/optimizing-an-api-for-ember-data"
   event_id: 1
+  id: 42
 - title: "Expect More From Tooling"
   author_ids: [30]
   date: "2013-02-15"
@@ -32,6 +45,7 @@
   videos: ["http://www.youtube.com/watch?v=Vl2P59bmV80"]
   slides: ""
   event_id: 1
+  id: 41
 - title: "Ember Data"
   author_ids: [31]
   date: "2013-02-15"
@@ -39,6 +53,7 @@
   videos: ["http://www.youtube.com/watch?v=V8nnE948zxk"]
   slides: ""
   event_id: 1
+  id: 40
 - title: "Testing Ember Apps"
   author_ids: [32]
   date: "2013-02-15"
@@ -46,12 +61,14 @@
   videos: []
   slides: "http://www.slideshare.net/jo_liss/testing-ember-apps"
   event_id: 1
+  id: 39
 - title: "Performance Talk"
   author_ids: [33]
   date: "2013-02-15"
   url: "http://cgcardona.github.com/2013/02/15/notes-from-the-performance-talk-session/"
   videos: ["http://www.youtube.com/watch?v=ZJI0ZQndDDc"]
   event_id: 1
+  id: 38
 - title: "Contributing to Ember"
   author_ids: [3]
   date: "2013-02-15"
@@ -59,6 +76,7 @@
   videos: ["http://www.youtube.com/watch?v=TvxpqVhHvFY"]
   slides: "https://addepar.com/ember/PeterWagenet.pdf"
   event_id: 1
+  id: 37
 - title: "UI Patterns"
   author_ids: [7]
   date: "2013-02-15"
@@ -66,6 +84,7 @@
   videos: ["http://www.youtube.com/watch?v=AxyzonjWYuA"]
   slides: "https://speakerdeck.com/trek/ui-patterns-and-reuse-or-why-i-hope-we-never-need-an-ember-dot-js-widget-library"
   event_id: 1
+  id: 36
 - title: "Ember In Action"
   author_ids: [34]
   date: "2013-02-15"
@@ -73,6 +92,7 @@
   videos: ["http://www.youtube.com/watch?v=NDYW7Z24SJY"]
   slides: "http://www.justinappears.com/slides/ember-camp/"
   event_id: 1
+  id: 35
 - title: "Ember"
   subtitle: "State of the Union"
   author_ids: [1,2]
@@ -81,12 +101,14 @@
   videos: ["http://www.youtube.com/watch?v=RYAD2arvysU"]
   slides: "https://addepar.com/ember/EmberStateoftheUnion.pdf"
   event_id: 1
+  id: 34
 - title: "1 an avec Ember.js"
   author_ids: [26,27]
   date: "2013-01-31"
   url: "http://blog.xebia.fr/2013/02/25/1-an-avec-ember-js/"
   videos: ["http://vimeo.com/60065267"]
   slides: "http://blemoine.github.com/rex-ember-ejp/"
+  id: 33
 - title: "Snappy Performant Apps"
   subtitle: "with Ember.js"
   author_ids: [21]
@@ -94,23 +116,27 @@
   url: "http://marakana.com/s/post/1386/snappy_performance_apps_ember_js_anthony_bull_video"
   videos: ["http://www.youtube.com/watch?v=9a0OP4in-ac"]
   slides: "http://www.slideshare.net/inkredabull/ember-j-sforsfhtml5"
+  id: 32
 - title: "Ember Application Patterns"
   author_ids: [20]
   date: "2013-01-20"
   url: "http://www.meetup.com/hamburg-js/events/72891602/"
   videos: ["http://lecture2go.uni-hamburg.de/veranstaltungen/-/v/14660"]
+  id: 31
 - title: "Ember 1.0 App Structure"
   subtitle: "The Best Router API Yet"
   author_ids: [1]
   date: "2012-12-06"
   url: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/68465172/"
   videos: ["http://www.youtube.com/watch?v=4Ed_o3_59ME", "http://www.youtube.com/watch?v=aBvOXnTG5Ag"]
+  id: 30
 - title: "Ember Data"
   author_ids: [2]
   date: "2012-12-06"
   url: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/68465172/"
   slides: "https://speakerdeck.com/tomdale/ember-data-internals"
   videos: ["http://www.youtube.com/watch?v=_6yMxU-_ARs", "http://www.youtube.com/watch?v=TTy1pbXdKJg"]
+  id: 29
 - title: "application"
   subtitle: "a series of states"
   author_ids: [7]
@@ -118,76 +144,89 @@
   url: "http://www.meetup.com/Chicago-Ember-js/events/86440312/"
   slides: "https://speakerdeck.com/trek/applications-a-series-of-states"
   videos: []
+  id: 28
 - title: "Your Website is Just Another App"
   author_ids: [2]
   date: "2012-11-13"
   url: "http://www.meetup.com/SF-Web-Performance-Group/events/79526132/"
   videos: ["http://www.ustream.tv/recorded/26977615"]
   slides: "https://speakerdeck.com/tomdale/your-website-is-just-an-app"
+  id: 27
 - title: "An Ember.js Adapter for Django"
   author_ids: [17]
   date: "2012-11-11"
   url: "http://pyvideo.org/video/1564/an-emberjs-adapter-for-django"
   slides: "https://speakerdeck.com/escalant3/an-ember-dot-js-adapter-for-django"
   videos: ["http://pyvideo.org/video/1564/an-emberjs-adapter-for-django"]
+  id: 26
 - title: "Building Ambitious Web Applications with Ember.js"
   author_ids: [15]
   date: "2012-11-09"
   url: "http://www.fitc.ca/events/presentations/presentation.cfm?event=136&presentation_id=2104"
   slides: "https://speakerdeck.com/cmeiklejohn/building-ambitious-web-applications-with-ember-dot-js"
   videos: []
+  id: 25
 - title: "Why Ember?"
   author_ids: [14]
   date: "2012-11-06"
   url: "https://github.com/mutewinter/why_ember"
   videos: []
   slides: "http://mutewinter.github.com/why_ember/"
+  id: 24
 - title: "Ember 1.0 App Structure"
   subtitle: "The Best Router API Yet (@1:04:25)"
   author_ids: [1]
   date: "2012-10-30"
   url: "http://www.meetup.com/Ember-SF/events/86450582/"
   videos: ["https://addepar.com/ember/"]
+  id: 23
 - title: "Ember Data (@40:58)"
   author_ids: [2]
   date: "2012-10-30"
   url: "http://www.meetup.com/Ember-SF/events/86450582/"
   videos: ["https://addepar.com/ember/"]
   slides: "https://speakerdeck.com/tomdale/30"
+  id: 22
 - title: "Addepar and Ember"
   author_ids: [13]
   date: "2012-10-30"
   url: "http://www.meetup.com/Ember-SF/events/86450582/"
   videos: ["https://addepar.com/ember/"]
+  id: 21
 - title: "Ember Data"
   author_ids: [2]
   date: "2012-10-11"
   url: "http://praguejs.cz/meetups/"
   videos: ["https://www.youtube.com/watch?v=djhAsWGOImk"]
+  id: 20
 - title: "Ember.ArrayProxy"
   author_ids: [12]
   date: "2012-10-10"
   url: "http://matchingnotes.com/ember-array-proxy-talk"
   slides: "http://matchingnotes.com/ember-array-proxy"
   videos: []
+  id: 19
 - title: "Ember.js Introduction"
   author_ids: [2]
   date: "2012-10-06"
   url: "http://t3con12de.typo3.org/sessions.html"
   videos: ["http://www.youtube.com/watch?v=hod-KX81i7s"]
   slides: "https://speakerdeck.com/u/tomdale/p/emberjs-introduction-t3con12"
+  id: 18
 - title: "Async Routing in Ember.js"
   author_ids: [4]
   date: "2012-09-18"
   url: "http://www.meetup.com/EmberJS-NYC/events/75561722/"
   videos: []
   slides: "https://speakerdeck.com/u/lukemelia/p/async-routing-in-ember-dot-js"
+  id: 17
 - title: "An Introduction to the Ember.js Router"
   author_ids: [12]
   date: "2012-09-05"
   url: "http://www.meetup.com/London-Emberjs-User-Group/events/79873252/"
   videos: []
   slides: "https://speakerdeck.com/u/crofty/p/an-introduction-to-the-ember-router"
+  id: 16
 - title: "Sophisticated Views"
   subtitle: "How Ember’s View Layer Handles the Complex Problems"
   author_ids: [3]
@@ -195,18 +234,21 @@
   url: "http://js.la/past-events.html"
   videos: ["http://vimeo.com/49434697"]
   slides: "http://www.slideshare.net/pwagenet/ember-sophisticated-views-14131566"
+  id: 15
 - title: "Architecting Ember.js Apps"
   author_ids: [4]
   date: "2012-08-22"
   url: "http://www.meetup.com/EmberJS-NYC/events/73732192/"
   videos: ["http://www.cloudee.com/v/collection/504a311f8ad6c2634f00002f"]
   slides: "https://speakerdeck.com/u/lukemelia/p/architecting-ember-dot-js-apps"
+  id: 14
 - title: "A Gentle Introduction to Ember"
   author_ids: [2]
   date: "2012-07-22"
   url: "http://www.infoq.com/presentations/Ember-Demo"
   videos: ["http://www.infoq.com/presentations/Ember-Demo"]
   slides: "http://www.infoq.com/presentations/Ember-Demo"
+  id: 13
 - title: "Ember.js"
   subtitle: "State of the Union"
   author_ids: [1]
@@ -214,34 +256,40 @@
   url: "http://www.infoq.com/presentations/Ember-js"
   videos: ["http://www.infoq.com/presentations/Ember-js"]
   slides: "http://www.infoq.com/presentations/Ember-js"
+  id: 12
 - title: "Ember.js"
   subtitle: "Revised Architecture Overview"
   author_ids: [8]
   date: "2012-07-03"
   videos: ["http://vimeo.com/45171906", "http://vimeo.com/45175622", "http://vimeo.com/45176030", "http://vimeo.com/45176308"]
   url: "http://www.mochaleaf.com/blog/ember-js-revised-architecture-overview/"
+  id: 11
 - title: "Ember.js in the Wild"
   author_ids: [38]
   date: "2012-06-29"
   url: "http://schmonference.com/"
   videos: ["http://www.youtube.com/watch?v=B8vyxHZc4fo"]
   slides: "https://speakerdeck.com/schmonference/ember-dot-js-in-the-wild"
+  id: 10
 - title: "Ember Router / Ember Rails"
   author_ids: [1]
   date: "2012-06-14"
   url: "http://www.meetup.com/EmberJS-NYC/events/64798132/?action=detail&eventId=64798132"
   videos: ["http://www.cloudee.com/go#/c/4fdfec8517ee3d671800001d"]
+  id: 9
 - title: "Ember.js Views"
   author_ids: [9]
   date: "2012-06-14"
   url: "http://www.meetup.com/EmberJS-NYC/events/64798132/?action=detail&eventId=64798132"
   videos: ["http://www.cloudee.com/go#/c/4fdfec8517ee3d671800001d"]
   slides: "https://speakerdeck.com/u/raycohen/p/ember-views"
+  id: 8
 - title: "Ember.js Router & ember-rails Update"
   author_ids: [1]
   date: "2012-06-14"
   url: "http://www.meetup.com/EmberJS-NYC/events/64798132/?action=detail&eventId=64798132"
   videos: ["http://www.cloudee.com/go#/c/4fdfec8517ee3d671800001d"]
+  id: 7
 - title: "Ember.js"
   subtitle: "Focus on your app not on boilerplate code"
   author_ids: [6]
@@ -249,11 +297,13 @@
   url: "http://2012.jsday.it/talk/ember-js-focus-on-your-app-not-on-boilerplate-code/"
   videos: ["http://vimeo.com/49742271"]
   slides: "https://speakerdeck.com/u/galfert/p/emberjs"
+  id: 6
 - title: "Creating a Multi-touch single-page web-app in 10 minutes"
   author_ids: [18]
   date: "2012-04-25"
   url: "http://www.rootsconf.no/talks/67"
   videos: ["http://vimeo.com/52322066"]
+  id: 5
 - title: "Ember.js"
   subtitle: "Attacking Boilerplate Where it Lives"
   author_ids: [1]
@@ -261,12 +311,14 @@
   url: "http://phillyemergingtech.com/2012/sessions/ember-js-attacking-boilerplate-where-it-lives"
   videos: ["http://vimeo.com/47876805"]
   slides: "https://speakerdeck.com/u/tomdale/p/emberjs-lunch-talk-at-carbon5"
+  id: 4
 - title: "Single Page Web Apps with Ember.js"
   author_ids: [5]
   date: "2012-02-16"
   videos: ["http://www.youtube.com/watch?v=z-Np5eqLF0s"]
   url: "http://whatdoyouknow.webdirections.org/videos/single-page-web-apps-with-ember-js"
   slides: "http://www.slideshare.net/markmansour/managing-state-in-single-page-webapps-with-emberjs"
+  id: 3
 - title: "Ember.js"
   subtitle: "Lunch Talk at Carbon Five"
   author_ids: [2,1]
@@ -274,6 +326,7 @@
   url: "http://blog.carbonfive.com/2012/02/17/lunchtime-tech-talk-tom-dale-and-yehuda-katz-on-ember-js/"
   videos: ["http://vimeo.com/36992934"]
   slides: "https://speakerdeck.com/u/tomdale/p/emberjs-lunch-talk-at-carbon5"
+  id: 2
 - title: "Debugging Ember"
   subtitle: "Tips & tricks for bug assassination"
   author_ids: [2]
@@ -281,3 +334,4 @@
   url: "http://www.meetup.com/Ember-SF/events/50058382/"
   videos: ["http://vimeo.com/37539737"]
   slides: "https://speakerdeck.com/u/tomdale/p/debugging-emberjs"
+  id: 1
