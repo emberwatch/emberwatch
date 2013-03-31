@@ -12,6 +12,7 @@ layout: application
   <dd><a href="#tutorials">Tutorials</a></dd>
   <dd><a href="#books">Books</a></dd>
   <dd><a href="#examples">Examples</a></dd>
+  <dd><a href="#releases">Releases</a></dd>
   <dd><a href="#tweets">Tweets</a></dd>
 </dl>
 <ul class="tabs-content">
@@ -132,6 +133,28 @@ layout: application
           <% end %>
           <% if example.demo %>
             <a href="<%= example.demo %>">Demo</a>
+          <% end %>
+        </li>
+      <% end %>
+    </ul>
+  </li>
+  <li id="releasesTab">
+    <ul>
+      <% data.releases.each do |release| %>
+        <li>
+          <h5>
+            <a href="https://github.com/emberjs/ember.js/tree/<%= release.git %>">
+              <%= release.name %>
+            </a>
+          </h5>
+          <%= format_date(release.date) %> &middot; 
+          <a href="https://github.com/emberjs/ember.js/blob/<%= release.git %>/CHANGELOG">
+            Changelog
+          </a>
+          <% if release.blog %>
+            &middot; <a href="<%= release.blog %>">
+              Announcement
+            </a>
           <% end %>
         </li>
       <% end %>
