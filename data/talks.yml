@@ -2,7 +2,7 @@
   author_ids: [4]
   date: "2013-03-28"
   url: "http://www.meetup.com/EmberJS-NYC/events/106490682/"
-  videos: []
+  videos: ["http://www.youtube.com/watch?v=7O9X5oeAJm4"]
   slides: "https://speakerdeck.com/lukemelia/introduction-to-ember-dot-js"
   event_id: 2
   id: 46
