@@ -1,3 +1,11 @@
+- title: "How I Learned Ember.js"
+  author_ids: [14]
+  date: "2013-04-10"
+  url: "http://www.meetup.com/TechLife-Cincinnati/events/105104142/"
+  videos: ["http://www.youtube.com/watch?v=LyHK18s9taM"]
+  slides: "https://speakerdeck.com/mutewinter/how-i-learned-ember"
+  event_id: 4
+  id: 49
 - title: "Introduction to Ember.js"
   author_ids: [4]
   date: "2013-03-28"
