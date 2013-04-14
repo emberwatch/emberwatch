@@ -1,3 +1,9 @@
+- title: "Let’s Learn Ember.js"
+  author_ids: [42]
+  date: "2013-04-08"
+  url: "https://tutsplus.com/course/lets-learn-ember/"
+  videos: ["https://tutsplus.com/course/lets-learn-ember/"]
+  price: "$19 p/m"
 - title: "Building an App with Ember.js"
   author_ids: [2]
   date: "2013-03-27"
