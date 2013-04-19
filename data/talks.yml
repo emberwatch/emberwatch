@@ -6,6 +6,12 @@
   slides: "https://speakerdeck.com/mutewinter/how-i-learned-ember"
   event_id: 4
   id: 49
+- title: "Building Ambitious Web Applications with Ember.js"
+  author_ids: [1]
+  date: "2013-04-03"
+  url: "http://emergingtech.chariotsolutions.com/2013/04/philly-ete-screencast-4-yehuda-katz-on-the-ember-js-application-framework/"
+  videos: ["http://vimeo.com/64223113"]
+  id: 50
 - title: "Introduction to Ember.js"
   author_ids: [4]
   date: "2013-03-28"
