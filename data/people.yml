@@ -107,9 +107,9 @@
   github: "twbrandt"
   site: "http://twbrandt.github.com"
 - id: 23
-  name: "PeepCode"
-  twitter: "peepcode"
-  github: "peepcode"
+  name: "Geoffrey Grosenbach"
+  twitter: "topfunky"
+  github: "topfunky"
   site: "https://peepcode.com/"
 - id: 24
   name: "Noel Rappin"
@@ -145,7 +145,7 @@
 - id: 34
   name: "Justin Giancola"
 - id: 35
-  name: "RailsCasts"
+  name: "Ryan Bates"
 - id: 36
   name: "Rey Bango"
 - id: 37
@@ -165,3 +165,6 @@
 - id: 42
   name: "José Mota"
   twitter: "josemotanet"
+- id: 43
+  name: "Ryan Florence"
+  twitter: "ryanflorence"

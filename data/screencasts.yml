@@ -1,3 +1,31 @@
+- title: "Master-Detail"
+  subtitle: "Router.map, {{outlet}}, {{#linkTo}}"
+  author_ids: [43]
+  date: "2013-04-16"
+  url: "http://ember101.com/videos/004-master-detail-router-outlet-linkto"
+  videos: ["http://www.youtube.com/watch?v=J-ccAo9VMxo"]
+  series: "Ember 101"
+- title: "Displaying a List of Data"
+  subtitle: "And Template Helpers"
+  author_ids: [43]
+  date: "2013-04-03"
+  url: "http://ember101.com/videos/003-displaying-a-list-of-data"
+  videos: ["http://www.youtube.com/watch?v=02BLXpepMLY"]
+  series: "Ember 101"
+- title: "Your First Route"
+  subtitle: "Providing Data to Templates"
+  author_ids: [43]
+  date: "2013-04-16"
+  url: "http://ember101.com/videos/002-defining-models-for-routes"
+  videos: ["http://www.youtube.com/watch?v=D0Gxl2YvxwY"]
+  series: "Ember 101"
+- title: "Intro to Ember"
+  subtitle: "Binding Data to Templates"
+  author_ids: [43]
+  date: "2013-03-21"
+  url: "http://ember101.com/videos/001-intro-and-binding-data-to-templates"
+  videos: ["http://www.youtube.com/watch?v=hZKl_CTW8Uw"]
+  series: "Ember 101"
 - title: "Let’s Learn Ember.js"
   author_ids: [42]
   date: "2013-04-08"
@@ -15,12 +43,14 @@
   price: "$9 p/m"
   url: "http://railscasts.com/episodes/410-ember-part-2"
   videos: ["http://railscasts.com/episodes/410-ember-part-2"]
+  series: "RailsCasts Pro"
 - title: "Ember Part 1"
   author_ids: [35]
   date: "2013-03-04"
   price: "$9 p/m"
   url: "http://railscasts.com/episodes/408-ember-part-1"
   videos: ["http://railscasts.com/episodes/408-ember-part-1"]
+  series: "RailsCasts Pro"
 - title: "Introduction to Ember.js (1.0.0-RC1)"
   author_ids: [11]
   date: "2013-03-02"
@@ -37,6 +67,7 @@
   price: "$12"
   url: "https://peepcode.com/products/emberjs"
   videos: ["https://peepcode.com/products/emberjs"]
+  series: "PeepCode"
 - title: "Introduction to Ember.js (+ new Router API)"
   author_ids: [11]
   date: "2013-01-03"

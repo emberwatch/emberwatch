@@ -60,8 +60,7 @@ layout: application
           <% else %>
             <h5>
               <a href="<%= screencast.videos.first %>">
-                <%= screencast.title %><%= ": #{screencast.subtitle}" if screencast.subtitle %>
-              </a>
+                <%= screencast.title %><%= ": #{screencast.subtitle}" if screencast.subtitle %></a><% if screencast.series %><span class="event-name"><%= " #{screencast.series}" %></span><% end %>
               <%= "&nbsp;&nbsp;#{screencast.price}" if screencast.price %>
             </h5>
           <% end %>
