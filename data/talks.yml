@@ -12,6 +12,12 @@
   url: "http://emergingtech.chariotsolutions.com/2013/04/philly-ete-screencast-4-yehuda-katz-on-the-ember-js-application-framework/"
   videos: ["http://vimeo.com/64223113"]
   id: 50
+- title: "Building Web Applications with Ember.js"
+  author_ids: [1]
+  date: "2013-04-01"
+  url: "http://marakana.com/s/post/1437/building_web_applications_with_ember_js_yehuda_katz_video"
+  videos: ["http://www.youtube.com/watch?v=u6RFyVN9sNg"]
+  id: 51
 - title: "Introduction to Ember.js"
   author_ids: [4]
   date: "2013-03-28"
