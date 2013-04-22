@@ -1,7 +1,7 @@
 require "bundler/setup"
 
 def git_update
-  system "git clone git@github.com:pootsbook/emberwatch ."
+  system "git clone git@github.com:emberwatch/emberwatch ."
 end
 
 desc "Build the website"
