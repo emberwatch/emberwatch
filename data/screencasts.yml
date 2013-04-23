@@ -1,3 +1,24 @@
+- title: "Nested and Index Routes"
+  subtitle: "View Hierarchy and {{outlet}}"
+  author_ids: [43]
+  date: "2013-04-22"
+  url: "http://ember101.com/videos/007-nested-routes"
+  videos: ["http://www.youtube.com/watch?v=_iFU8W6EvRM"]
+  series: "Ember 101"
+- title: "Adding Items to a List"
+  subtitle: "Using pushObject"
+  author_ids: [43]
+  date: "2013-04-22"
+  url: "http://ember101.com/videos/006-adding-objects-to-a-list"
+  videos: ["http://www.youtube.com/watch?v=NNn6hZBneK8"]
+  series: "Ember 101"
+- title: "Two-way Data Binding"
+  subtitle: "and Route Events"
+  author_ids: [43]
+  date: "2013-04-22"
+  url: "http://ember101.com/videos/005-two-way-binding-and-route-actions"
+  videos: ["http://www.youtube.com/watch?v=XX_KC_KAlEo"]
+  series: "Ember 101"
 - title: "Master-Detail"
   subtitle: "Router.map, {{outlet}}, {{#linkTo}}"
   author_ids: [43]
