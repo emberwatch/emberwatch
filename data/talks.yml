@@ -1,3 +1,18 @@
+- title: "Ember.js Testing Made Easy and Fast!"
+  author_ids: [39]
+  date: "2012-04-24"
+  event_id: 3
+  url: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/111338642/"
+  videos: ["http://www.youtube.com/watch?v=nO1hxT9GBTs"]
+  id: 52
+- title: "Ember Reader"
+  subtitle: "Building an Ember.js App From Scratch"
+  author_ids: [40]
+  date: "2012-04-24"
+  event_id: 3
+  url: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/111338642/"
+  videos: ["http://www.youtube.com/watch?v=obaWh8xL2C0"]
+  id: 53
 - title: "How I Learned Ember.js"
   author_ids: [14]
   date: "2013-04-10"
