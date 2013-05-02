@@ -1,3 +1,11 @@
+- title: "Introducing Ember.ListView"
+  author_ids: [39]
+  date: "2013-04-24"
+  event_id: 3
+  url: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/111338642/"
+  videos: ["http://www.youtube.com/watch?v=i3vEjbjV8Sk"]
+  slides: "http://talks.erikbryn.com/ember-list-view/"
+  id: 54
 - title: "Ember.js Testing Made Easy and Fast!"
   author_ids: [39]
   date: "2013-04-24"
