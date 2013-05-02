@@ -1,3 +1,6 @@
+- name: "1.0.0 Release Candidate 3"
+  date: "2013-04-21"
+  git: "v1.0.0-rc.3"
 - name: "1.0.0 Release Candidate 2" 
   date: "2013-03-29"
   git: "v1.0.0-rc.2"
