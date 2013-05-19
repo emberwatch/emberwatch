@@ -1,3 +1,11 @@
+- title: "Ember.js"
+  subtitle: "Parts 1-4"
+  author_ids: [44]
+  date: "2013-05-13"
+  url: "http://www.metacasts.tv/casts/ember-js-pts-1-4"
+  videos: ["http://www.metacasts.tv/casts/ember-js-pts-1-4"]
+  series: "MetaCasts.tv"
+  price: "$20"
 - title: "Nested and Index Routes"
   subtitle: "View Hierarchy and {{outlet}}"
   author_ids: [43]
