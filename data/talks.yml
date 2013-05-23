@@ -1,3 +1,19 @@
+- title: "flowfeeds"
+  author_ids: [46]
+  date: "2013-05-21"
+  event_id: 5
+  url: "http://www.meetup.com/Ember-SC/events/116355482/"
+  slides: "https://speakerdeck.com/nerdyworm/flowfeeds"
+  videos: ["http://www.youtube.com/watch?v=VuIFdXmi080#t=5149s"]
+  id: 56
+- title: "Backburner.js and the Ember Run Loop"
+  author_ids: [39]
+  date: "2013-05-21"
+  event_id: 5
+  url: "http://www.meetup.com/Ember-SC/events/116355482/"
+  slides: "http://talks.erikbryn.com/backburner-and-the-run-loop/"
+  videos: ["http://www.youtube.com/watch?v=VuIFdXmi080&t=24m5s"]
+  id: 55
 - title: "Introducing Ember.ListView"
   author_ids: [39]
   date: "2013-04-24"
