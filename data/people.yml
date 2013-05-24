@@ -175,3 +175,12 @@
   twitter: "machty"
 - id: 46
   name: "Benjamin Rhodes"
+- id: 47
+  name: "Gabriel Grant"
+  twitter: "gabrielmgrant"
+  site: "http://gabrielgrant.ca"
+  github: "gabrielgrant"
+- id: 48
+  name: "Igor Terzic"
+  twitter: "terzicigor"
+  github: "igorT"

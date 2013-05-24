@@ -14,6 +14,20 @@
   slides: "http://talks.erikbryn.com/backburner-and-the-run-loop/"
   videos: ["http://www.youtube.com/watch?v=VuIFdXmi080&t=24m5s"]
   id: 55
+- title: "Ember-Data and Magic"
+  author_ids: [48]
+  date: "2013-05-14"
+  event_id: 6
+  url: "http://www.meetup.com/Ember-SF/events/112139702/"
+  videos: ["https://www.youtube.com/watch?v=2WpymH6Qc3Q"]
+  id: 57
+- title: "Light up Your Web Apps with Ember.js"
+  author_ids: [47]
+  date: "2013-05-14"
+  event_id: 6
+  url: "http://www.meetup.com/Ember-SF/events/112139702/"
+  videos: ["https://www.youtube.com/watch?v=mZm2F3R6sdI"]
+  id: 58
 - title: "Introducing Ember.ListView"
   author_ids: [39]
   date: "2013-04-24"
