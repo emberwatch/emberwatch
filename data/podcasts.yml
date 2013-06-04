@@ -1,3 +1,10 @@
+- title: "Tom Dale"
+  episode: 1
+  host: "Ember Hot Seat"
+  member_ids: [2]
+  date: "2013-06-04"
+  duration: "39m 06s"
+  url: "http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001.html"
 - title: "The JavaScript Frameworks Panel"
   episode: 1
   host: "Philadelphia Emerging Technologies for the Enterprise"
