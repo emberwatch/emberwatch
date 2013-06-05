@@ -129,6 +129,13 @@
   slides: "http://talks.erikbryn.com/rise-of-the-clients/"
   event_id: 3
   id: 45
+- title: "Ember.js Blitzkrieg"
+  author_ids: [20]
+  date: "2013-03-18"
+  url: "http://www.meetup.com/hamburg-js/events/72892202/"
+  videos: ["http://lecture2go.uni-hamburg.de/veranstaltungen/-/v/14786"]
+  event_id: 7
+  id: 60
 - title: "Closing Keynote"
   author_ids: [28]
   date: "2013-02-15"
