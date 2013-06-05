@@ -1,3 +1,10 @@
+- title: "Ember Data"
+  subtitle: "Reading"
+  author_ids: [43]
+  date: "2013-06-04"
+  url: "http://ember101.com/videos/008-ember-data-reading/"
+  videos: ["http://www.youtube.com/watch?v=QSCsIa4I5yQ"]
+  series: "Ember 101"
 - title: "Ember.js"
   subtitle: "Parts 1-4"
   author_ids: [44]
