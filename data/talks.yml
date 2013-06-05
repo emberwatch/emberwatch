@@ -1,3 +1,28 @@
+- title: "Prototyping Ember.js Applications"
+  author_ids: [49]
+  date: "2013-05-23"
+  event_id: 2
+  url: "http://www.meetup.com/EmberJS-NYC/events/116001112/"
+  slides: "http://slid.es/ryanto/prototyping-ember-applications"
+  videos: ["http://www.youtube.com/watch?feature=player_detailpage&v=ysduY0ocUoA#t=3600s"]
+  id: 59
+- title: "Thinking in Ember.js"
+  subtitle: "Buffered Proxy"
+  author_ids: [33]
+  date: "2013-05-23"
+  event_id: 2
+  url: "http://www.meetup.com/EmberJS-NYC/events/116001112/"
+  slides:
+  videos: ["http://www.youtube.com/watch?feature=player_detailpage&v=ysduY0ocUoA#t=2067s"]
+  id: 58
+- title: "Refactoring jQuery to Ember.js"
+  author_ids: [4]
+  date: "2013-05-23"
+  event_id: 2
+  url: "http://www.meetup.com/EmberJS-NYC/events/116001112/"
+  slides: "https://speakerdeck.com/lukemelia/refactoring-jquery-to-ember"
+  videos: ["http://www.youtube.com/watch?feature=player_detailpage&v=ysduY0ocUoA#t=708s"]
+  id: 57
 - title: "flowfeeds"
   author_ids: [46]
   date: "2013-05-21"
