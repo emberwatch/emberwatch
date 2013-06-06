@@ -1,3 +1,10 @@
+- title: "Ember.js and Rails API"
+  author_ids: [29]
+  date: "2013-06-05"
+  event_id: 8
+  url: "https://www.youtube.com/watch?v=DvuMBtbACCw"
+  videos: ["https://www.youtube.com/watch?v=DvuMBtbACCw#t=2709s"]
+  id: 61
 - title: "Prototyping Ember.js Applications"
   author_ids: [49]
   date: "2013-05-23"
