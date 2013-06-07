@@ -62,6 +62,14 @@ helpers do
     end.first
   end
 
+  def link_person(person)
+    if person.site
+      "<a href=\"#{person.site}\">#{person.name}</a>"
+    else
+      person.name
+     end
+  end
+
   def find_employee(id)
     find_person(id)
   end

@@ -18,25 +18,25 @@
   date: "2013-05-12"
   url: "http://www.embercasts.com/episodes/client-side-authentication-part-1"
   videos: ["http://www.embercasts.com/episodes/client-side-authentication-part-1"]
-  series: "EmberCasts" 
+  series: "Embercasts" 
 - title: "Building an Autocomplete Widget Part 1"
   author_ids: [45]
   date: "2013-05-12"
   url: "http://www.embercasts.com/episodes/building-an-autocomplete-widget-part-1"
   videos: ["http://www.embercasts.com/episodes/building-an-autocomplete-widget-part-1"]
-  series: "EmberCasts" 
+  series: "Embercasts" 
 - title: "Getting Started with Emblem.js"
   author_ids: [45]
   date: "2013-05-12"
   url: "http://www.embercasts.com/episodes/getting-started-with-emblem-js"
   videos: ["http://www.embercasts.com/episodes/getting-started-with-emblem-js"]
-  series: "EmberCasts" 
+  series: "Embercasts" 
 - title: "Getting Started with Ember Model"
   author_ids: [39]
   date: "2013-05-12"
   url: "http://www.embercasts.com/episodes/getting-started-with-ember-model"
   videos: ["http://www.embercasts.com/episodes/getting-started-with-ember-model"]
-  series: "EmberCasts" 
+  series: "Embercasts" 
 - title: "Nested and Index Routes"
   subtitle: "View Hierarchy and {{outlet}}"
   author_ids: [43]

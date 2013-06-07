@@ -30,7 +30,7 @@ layout: application
                 <%= "#{talk.title}" %><%= ": #{talk.subtitle}" if talk.subtitle %></a><% if talk.event_id %><span class="event-name"><%= " #{find_event(talk.event_id).name}" %></span><% end %>
             </h5>
           <% end %>
-          <%= talk.author_ids.collect {|a| find_person(a).name }.join(', ') %>
+          <%= talk.author_ids.collect {|a| link_person(find_person(a)) }.join(', ') %>
            &middot; <%= format_date(talk.date) %> &middot;
           <% if talk.videos.empty? %>
           Video
@@ -64,7 +64,7 @@ layout: application
               <%= "&nbsp;&nbsp;#{screencast.price}" if screencast.price %>
             </h5>
           <% end %>
-          <%= screencast.author_ids.collect {|a| find_person(a).name }.join(', ') %>
+          <%= screencast.author_ids.collect {|a| link_person(find_person(a)) }.join(', ') %>
            &middot; <%= format_date(screencast.date) %> &middot;
           <% if screencast.videos.empty? %>
           Video

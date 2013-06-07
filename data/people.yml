@@ -71,6 +71,7 @@
   name: "Christopher Meiklejohn"
   twitter: "cmeik"
   github: "cmeiklejohn"
+  site: "http://christophermeiklejohn.com/"
 - id: 16
   name: "Andy Matthews"
   twitter: "commadelimited"
@@ -132,24 +133,31 @@
 - id: 28
   name: "Jeff Atwood"
   twitter: "codinghorror"
+  site: "http://www.codinghorror.com/"
 - id: 29
   name: "Brian Cardarella"
+  site: "http://bcardarella.com/"
 - id: 30
   name: "Mads Kristensen"
+  site: "http://madskristensen.net/"
 - id: 31
   name: "Igor Terzic"
 - id: 32
   name: "Jo Liss"
+  site: "http://www.solitr.com/blog/"
 - id: 33
   name: "Kristofor Selden"
+  site: "http://krisselden.com/"
 - id: 34
   name: "Justin Giancola"
 - id: 35
   name: "Ryan Bates"
+  site: "http://railscasts.com"
 - id: 36
   name: "Rey Bango"
 - id: 37
   name: "Lukas Zielinkski"
+  site: "http://www.lukaszielinski.de/"
 - id: 38
   name: "Peter Bergstrom"
 - id: 39
@@ -158,6 +166,7 @@
   site: "http://erikbryn.com"
 - id: 40
   name: "Gordon L. Hempton"
+  site: "http://codebrief.com/"
 - id: 41
   name: "Jesse Cravens"
   github: "jessecravens"
@@ -165,14 +174,18 @@
 - id: 42
   name: "José Mota"
   twitter: "josemotanet"
+  site: "http://josemota.net/"
 - id: 43
   name: "Ryan Florence"
   twitter: "ryanflorence"
+  site: "http://ryanflorence.com/"
 - id: 44
   name: "Mark Bates"
+  site: "http://metabates.com/"
 - id: 45
   name: "Alex Matchneer"
   twitter: "machty"
+  site: "http://alexmatchneer.com/"
 - id: 46
   name: "Benjamin Rhodes"
 - id: 47
@@ -186,3 +199,4 @@
   github: "igorT"
 - id: 49
   name: "Ryan Toronto"
+  site: "http://ryanto.github.io/"
