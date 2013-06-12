@@ -43,7 +43,7 @@
   date: "2013-05-21"
   event_id: 5
   url: "http://www.meetup.com/Ember-SC/events/116355482/"
-  slides: "http://talks.erikbryn.com/backburner-and-the-run-loop/"
+  slides: "http://talks.erikbryn.com/backburner.js-and-the-ember-run-loop/"
   videos: ["http://www.youtube.com/watch?v=VuIFdXmi080&t=24m5s"]
   id: 55
 - title: "Ember-Data and Magic"
