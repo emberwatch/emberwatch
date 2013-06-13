@@ -74,6 +74,7 @@
   event_id: 3
   url: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/111338642/"
   videos: ["http://www.youtube.com/watch?v=nO1hxT9GBTs"]
+  slides: "http://talks.erikbryn.com/ember-testing/"
   id: 52
 - title: "Ember Reader"
   subtitle: "Building an Ember.js App From Scratch"
