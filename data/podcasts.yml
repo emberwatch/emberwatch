@@ -1,3 +1,10 @@
+- title: "Not Everything Needs to be Extracted"
+  episode: 53
+  host: "Giant Robots Smashing into Other Giant Robots"
+  member_ids: [1,2]
+  date: "2013-06-17"
+  duration: "38m 29s"
+  url: "http://learn.thoughtbot.com/podcast/53"
 - title: "Kasper Tidemann"
   episode: 2
   host: "Ember Hot Seat"
