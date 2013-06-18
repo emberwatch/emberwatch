@@ -1,3 +1,18 @@
+- title: "Ember Data"
+  author_ids: [52]
+  date: "2013-06-13"
+  event_id: 9
+  url: "http://www.meetup.com/Boston-Ember-js/events/121000172/"
+  videos: ["http://www.youtube.com/watch?v=9DC4M1BWPH4#t=2980s"]
+  id: 63
+- title: "Testing Ember.js Applications"
+  author_ids: [10]
+  date: "2013-06-13"
+  event_id: 9
+  url: "http://www.meetup.com/Boston-Ember-js/events/121000172/"
+  videos: ["http://www.youtube.com/watch?v=9DC4M1BWPH4#t=38s"]
+  slides: "https://speakerdeck.com/dgeb/testing-ember-applications"
+  id: 62
 - title: "Ember.js and Rails API"
   author_ids: [29]
   date: "2013-06-05"
