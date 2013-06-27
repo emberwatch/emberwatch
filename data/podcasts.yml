@@ -1,3 +1,10 @@
+- title: "Adam Hawkins"
+  episode: 3
+  host: "Ember Hot Seat"
+  member_ids: [20]
+  date: "2013-06-26"
+  duration: "38m 23s"
+  url: "http://emberhotseat.com/2013/06/26/ember-hot-seat-episode-003.html"
 - title: "Ember Tools with Ryan Florence"
   episode: 64
   host: "JavaScript Jabber"
