@@ -214,3 +214,20 @@
   name: "Giles Bowkett"
   twitter: "gilesgoatboy"
   site: "http://gilesbowkett.blogspot.co.uk/"
+- id: 54
+  name: "Stefan Penner"
+  twitter: "stefanpenner"
+  site: "http://iamstef.net/"
+- id: 55
+  name: "Michael Grassotti"
+  twitter: "mgrassotti"
+- id: 56
+  name: "Domenic Denicola"
+  twitter: "domenic"
+  github: "domenic"
+  site: "http://domenicdenicola.com/"
+- id: 57
+  name: "Matthew Beale"
+  twitter: "mixonic"
+  github: "mixonic"
+  site: "http://madhatted.com/"

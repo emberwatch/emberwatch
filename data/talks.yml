@@ -1,3 +1,42 @@
+- title: "The Promise Land"
+  subtitle: "Part 2"
+  author_ids: [54]
+  date: "2013-06-20"
+  event_id: 2
+  url: "http://www.meetup.com/EmberJS-NYC/events/118044342/"
+  videos: ["http://www.youtube.com/watch?v=mZHO1ZTsoFk#t=5152s"]
+  id: 68
+- title: "The Promise Land"
+  subtitle: "Part 1"
+  author_ids: [56]
+  date: "2013-06-20"
+  event_id: 2
+  url: "http://www.meetup.com/EmberJS-NYC/events/118044342/"
+  videos: ["http://www.youtube.com/watch?v=mZHO1ZTsoFk#t=2495s"]
+  id: 67
+- title: "Ember Router Enhancements"
+  author_ids: [45]
+  date: "2013-06-20"
+  event_id: 2
+  url: "http://www.meetup.com/EmberJS-NYC/events/118044342/"
+  videos: ["http://www.youtube.com/watch?v=mZHO1ZTsoFk#t=1534s"]
+  slides: "https://machty.s3.amazonaws.com/ember-facelift-presentation/index.html"
+  id: 66
+- title: "Exploration of ShareJS"
+  author_ids: [57]
+  date: "2013-06-20"
+  event_id: 2
+  url: "http://www.meetup.com/EmberJS-NYC/events/118044342/"
+  videos: ["http://www.youtube.com/watch?v=mZHO1ZTsoFk#t=808s"]
+  slides: "http://madhatted.com/2013/6/23/experimenting-with-ember-js-sharejs-part-ii"
+  id: 65
+- title: "Prototyping Using a Google Spreadsheet Data Source"
+  author_ids: [55]
+  date: "2013-06-20"
+  event_id: 2
+  url: "http://www.meetup.com/EmberJS-NYC/events/118044342/"
+  videos: ["http://www.youtube.com/watch?v=mZHO1ZTsoFk#t=384s"]
+  id: 64
 - title: "Ember Data"
   author_ids: [52]
   date: "2013-06-13"
