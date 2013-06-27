@@ -1,3 +1,9 @@
+- title: "Client-side Authentication Part 2"
+  date: "2013-06-23"
+  author_ids: [45]
+  url: "http://www.embercasts.com/episodes/client-side-authentication-part-2"
+  videos: ["http://www.embercasts.com/episodes/client-side-authentication-part-2"]
+  series: "Embercasts" 
 - title: "Ember.js Hello World Tutorial With Rails 4"
   author_ids: [51]
   date: "2013-06-14"
