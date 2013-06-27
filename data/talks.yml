@@ -37,6 +37,13 @@
   url: "http://www.meetup.com/EmberJS-NYC/events/118044342/"
   videos: ["http://www.youtube.com/watch?v=mZHO1ZTsoFk#t=384s"]
   id: 64
+- title: "Cage Match"
+  subtitle: "Ember.js vs Angular.js"
+  author_ids: [2]
+  date: "2013-06-12"
+  url: "http://ndcoslo.oktaset.com/t-8325"
+  videos: ["http://vimeo.com/68215606"]
+  id: 69
 - title: "Ember Data"
   author_ids: [52]
   date: "2013-06-13"
