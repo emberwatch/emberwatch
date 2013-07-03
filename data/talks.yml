@@ -37,6 +37,12 @@
   url: "http://www.meetup.com/EmberJS-NYC/events/118044342/"
   videos: ["http://www.youtube.com/watch?v=mZHO1ZTsoFk#t=384s"]
   id: 64
+- title: "Building URL Driven Apps with Ember.js"
+  author_ids: [2]
+  date: "2013-06-14"
+  url: "http://ndcoslo.oktaset.com/t-11579"
+  videos: ["http://vimeo.com/68390483"]
+  id: 70
 - title: "Cage Match"
   subtitle: "Ember.js vs Angular.js"
   author_ids: [2]
