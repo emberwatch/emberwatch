@@ -1,3 +1,9 @@
+- title: "Much Very Confused"
+  subtitle: "Ember for the inappropriately experienced"
+  date: "2013-07-01"
+  author_ids: [58]
+  url: "http://jeffreybiles.com/blog/much-very-confused.html"
+  videos: ["http://www.youtube.com/watch?v=DVwzN6kTc1c"]
 - title: "Client-side Authentication Part 2"
   date: "2013-06-23"
   author_ids: [45]
