@@ -43,6 +43,12 @@
   url: "http://ndcoslo.oktaset.com/t-11579"
   videos: ["http://vimeo.com/68390483"]
   id: 70
+- title: "Ember.js in Production"
+  author_ids: [59]
+  date: "2013-06-12"
+  url: "http://lanyrd.com/2013/melbjs-june/"
+  videos: ["http://vimeo.com/68302295"]
+  id: 71
 - title: "Cage Match"
   subtitle: "Ember.js vs Angular.js"
   author_ids: [2]
