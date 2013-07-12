@@ -1,3 +1,34 @@
+- title: "Ember.js"
+  subtitle: "The Architecture Advantage"
+  date: "2013-07-12"
+  author_ids: [4]
+  url: "http://gothamjs.com/schedule/index#luke_melia"
+  videos: []
+  id: 76
+- title: "The Ember Router and its Facelift"
+  date: "2013-07-11"
+  author_ids: [45]
+  url: "http://www.meetup.com/Boston-Ember-js/events/125313702/"
+  event_id: 9
+  videos: ["http://www.youtube.com/watch?v=jPI0kZIIBoU#t=2441s"]
+  id: 75
+- title: "Ember.js"
+  subtitle: "let's talk about containers"
+  date: "2013-07-11"
+  author_ids: [57]
+  event_id: 9
+  url: "http://www.meetup.com/Boston-Ember-js/events/125313702/"
+  slides: "http://www.slideshare.net/mixonic/ember-and-containers"
+  videos: ["http://www.youtube.com/watch?v=jPI0kZIIBoU#t=172s"]
+  id: 74
+- title: "Fireside Chat with Ember.js Core Team Members"
+  subtitle: "Yehuda Katz, Tom Dale, Leah Silber, Stefan Penner, Kris Selden"
+  date: "2013-06-26"
+  event_id: 2
+  author_ids: [4]
+  url: "http://www.meetup.com/EmberJS-NYC/events/124082552/"
+  videos: ["http://www.youtube.com/watch?v=L9OOMygo1HI"]
+  id: 72
 - title: "The Promise Land"
   subtitle: "Part 2"
   author_ids: [54]
@@ -43,6 +74,14 @@
   url: "http://ndcoslo.oktaset.com/t-11579"
   videos: ["http://vimeo.com/68390483"]
   id: 70
+- title: "jQuery isn't Enough"
+  subtitle: "An Introduction to Ember.js"
+  date: "2013-06-14"
+  author_ids: [60]
+  slides: "http://codeallday.com/jquery-portland-2013-ember-slides/"
+  videos: ["http://www.youtube.com/watch?v=1ZdBeDL0s7I"]
+  url: "http://events.jquery.org/2013/portland/#program"
+  id: 73
 - title: "Ember.js in Production"
   author_ids: [59]
   date: "2013-06-12"
