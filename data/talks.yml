@@ -3,6 +3,7 @@
   date: "2013-07-12"
   author_ids: [4]
   url: "http://gothamjs.com/schedule/index#luke_melia"
+  slides: "https://speakerdeck.com/lukemelia/ember-dot-js-the-architecture-advantage"
   videos: []
   id: 76
 - title: "The Ember Router and its Facelift"
