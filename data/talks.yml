@@ -1,3 +1,11 @@
+- title: "Ember.js Persistence Foundation"
+  date: "2013-07-17"
+  author_ids: [40]
+  url: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/126721392/"
+  slides: "http://ghempton.github.io/epf-preso/"
+  videos: ["http://www.youtube.com/watch?v=ZrWUUcB-PR8"]
+  event_id: 3
+  id: 77
 - title: "Ember.js"
   subtitle: "The Architecture Advantage"
   date: "2013-07-12"
