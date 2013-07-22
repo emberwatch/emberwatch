@@ -1,3 +1,9 @@
+- title: "Integration Testing Ember.js Apps"
+  subtitle: "with QUnit and Karma"
+  date: "2013-07-21"
+  author_ids: [11]
+  url: "http://toranbillups.com/blog/archive/2013/07/21/Integration-testing-your-emberjs-app-with-QUnit-and-Karma/"
+  videos: ["http://toranbillups.com/blog/archive/2013/07/21/Integration-testing-your-emberjs-app-with-QUnit-and-Karma/"]
 - title: "Much Very Confused"
   subtitle: "Ember for the inappropriately experienced"
   date: "2013-07-01"
