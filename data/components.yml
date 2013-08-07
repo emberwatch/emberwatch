@@ -1,6 +1,11 @@
 - name: "Ember Data"
   contributor_ids: [62,54,1,2]
   github: "https://github.com/emberjs/data"
+- name: "Ember Persistence Foundation"
+  contributor_ids: [40]
+  github: "https://github.com/GroupTalent/epf"
+  url: "http://epf.io/"
+  video: "http://www.youtube.com/watch?v=ZrWUUcB-PR8"
 - name: "Group Helper"
   contributor_ids: [39,63,3]
   github: "https://github.com/emberjs/group-helper"
@@ -8,11 +13,6 @@
   contributor_ids: [54,52,4,9]
   github: "https://github.com/emberjs/list-view"
   video: "http://www.youtube.com/watch?v=i3vEjbjV8Sk"
-- name: "Bootstrap"
-  contributor_ids: [1]
-  github: "https://github.com/emberjs/bootstrap"
-- name: "Ember Persistence Foundation"
-  contributor_ids: [40]
-  github: "https://github.com/GroupTalent/epf"
-  url: "http://epf.io/"
-  video: "http://www.youtube.com/watch?v=ZrWUUcB-PR8"
+- name: "Ember Bootstrap"
+  contributor_ids: [64,65,66,67]
+  github: "https://github.com/emberjs-addons/ember-bootstrap"

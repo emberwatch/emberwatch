@@ -189,7 +189,7 @@ layout: application
           <h5>
             <a href="<%= component.github %>"><%= component.name %></a>
           </h5>
-          Top contributors: <%= component.contributor_ids.collect {|m| find_person(m).name }.join(', ') %>
+          <%= component.contributor_ids.collect {|m| find_person(m).name }.join(', ') %>
           <% if component.url %>&middot; <a href="<%= component.url %>">Website</a><% end %> 
           <% if component.video %>&middot; <a href="<%= component.video %>">Video</a><% end %>
         </li>
