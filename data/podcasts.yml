@@ -1,3 +1,31 @@
+- title: "Eric Berry"
+  episode: 9
+  host: "Ember Hot Seat"
+  member_ids: [61]
+  date: "2013-08-05"
+  duration: "33:25"
+  url: "http://emberhotseat.com/2013/08/05/ember-hot-seat-episode-009.html"
+- title: "Alex Matchneer"
+  episode: 8
+  host: "Ember Hot Seat"
+  member_ids: [45]
+  date: "2013-07-24"
+  duration: "36:01"
+  url: "http://emberhotseat.com/2013/07/24/ember-hot-seat-episode-008.html"
+- title: "Yehuda Katz"
+  episode: 7
+  host: "Ember Hot Seat"
+  member_ids: [1]
+  date: "2013-07-19"
+  duration: "51:34"
+  url: "http://emberhotseat.com/2013/07/19/ember-hot-seat-episode-007.html"
+- title: "James Rosen"
+  episode: 6
+  host: "Ember Hot Seat"
+  member_ids: [59]
+  date: "2013-07-18"
+  duration: "35:59"
+  url: "http://emberhotseat.com/2013/07/18/ember-hot-seat-episode-006.html"
 - title: "Gordon Hempton"
   episode: 5
   host: "Ember Hot Seat"
