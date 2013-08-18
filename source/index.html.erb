@@ -21,7 +21,7 @@ layout: application
   <dd><a href="#examples">Examples</a></dd>
   <dd><a href="#releases">Releases</a></dd>
   <dd><a href="#podcasts">Podcasts</a></dd>
-  <dd><a href="#components">Components</a></dd>
+  <dd><a href="#libraries">Libraries</a></dd>
 </dl>
 <ul class="tabs-content">
   <li class="active" id="talksTab">
@@ -182,16 +182,16 @@ layout: application
       <% end %>
     </ul>
   </li>
-  <li id="componentsTab">
+  <li id="librariesTab">
     <ul>
-      <% data.components.each do |component| %>
+      <% data.libraries.each do |library| %>
         <li>
           <h5>
-            <a href="<%= component.github %>"><%= component.name %></a>
+            <a href="<%= library.github %>"><%= library.name %></a>
           </h5>
-          <%= component.contributor_ids.collect {|m| find_person(m).name }.join(', ') %>
-          <% if component.url %>&middot; <a href="<%= component.url %>">Website</a><% end %> 
-          <% if component.video %>&middot; <a href="<%= component.video %>">Video</a><% end %>
+          <%= library.contributor_ids.collect {|m| find_person(m).name }.join(', ') %>
+          <% if library.url %>&middot; <a href="<%= library.url %>">Website</a><% end %> 
+          <% if library.video %>&middot; <a href="<%= library.video %>">Video</a><% end %>
         </li>
       <% end %>
     </ul>
