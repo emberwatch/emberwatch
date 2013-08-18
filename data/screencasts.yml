@@ -1,3 +1,15 @@
+- title: "Ember for Beginners"
+  date: "2013-08-08"
+  author_ids: [36]
+  url: "https://tutsplus.com/course/ember-for-beginners/"
+  videos: ["https://tutsplus.com/course/ember-for-beginners/"]
+  price: "25 p/m"
+- title: "Hands on: Ember"
+  date: "2013-08-08"
+  author_ids: [64]
+  url: "https://tutsplus.com/course/hands-on-emberjs/"
+  videos: ["https://tutsplus.com/course/hands-on-emberjs/"]
+  price: "25 p/m"
 - title: "Integration Testing Ember.js Apps"
   subtitle: "with QUnit and Karma"
   date: "2013-07-21"
