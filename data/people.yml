@@ -254,9 +254,32 @@
   github: "cavneb"
   site: "http://coderberry.me/"
 - id: 62
-  name: "unknown"
+  name: "Paul Chavard"
+  twitter: "tchak13"
+  github: "tchak"
+  site: "http://tchak.net/"
 - id: 63
-  name: "unknown"
+  name: "Robin Ward"
+  twitter: "evil_trout"
+  github: "eviltrout"
+  site: "http://eviltrout.com/"
 - id: 64
+  name: "Jiří Zajpt"
+  twitter: "jzajpt"
+  github: "jzajpt"
+- id: 65
+  name: "Damien Mathieu"
+  github: "dmathieu"
+  twitter: "https://twitter.com/dmathieu"
+  site: "http://dmathieu.com/"
+- id: 66
+  name: "Bradley Priest"
+  github: "bradleypriest"
+  site: "http://bradleypriest.com"
+- id: 67
+  name: "Karl Guillotte"
+  site: "http://about.me/karl.guillotte"
+  github: "karlguillotte"
+- id: 68
   name: "Rem Zolotykh"
   twitter: "remzolotykh"
