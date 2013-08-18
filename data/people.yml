@@ -155,6 +155,8 @@
   site: "http://railscasts.com"
 - id: 36
   name: "Rey Bango"
+  twitter: "reybango"
+  site: "http://blog.reybango.com/"
 - id: 37
   name: "Lukas Zielinkski"
   site: "http://www.lukaszielinski.de/"
@@ -251,3 +253,10 @@
   twitter: "cavneb"
   github: "cavneb"
   site: "http://coderberry.me/"
+- id: 62
+  name: "unknown"
+- id: 63
+  name: "unknown"
+- id: 64
+  name: "Rem Zolotykh"
+  twitter: "remzolotykh"
