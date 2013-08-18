@@ -21,6 +21,7 @@ layout: application
   <dd><a href="#examples">Examples</a></dd>
   <dd><a href="#releases">Releases</a></dd>
   <dd><a href="#podcasts">Podcasts</a></dd>
+  <dd><a href="#libraries">Libraries</a></dd>
 </dl>
 <ul class="tabs-content">
   <li class="active" id="talksTab">
@@ -177,6 +178,20 @@ layout: application
           <%= podcast.member_ids.collect {|m| find_person(m).name }.join(', ') %>
            &middot; <%= format_date(podcast.date) %> &middot;
            <%= podcast.duration %>
+        </li>
+      <% end %>
+    </ul>
+  </li>
+  <li id="librariesTab">
+    <ul>
+      <% data.libraries.each do |library| %>
+        <li>
+          <h5>
+            <a href="<%= library.github %>"><%= library.name %></a>
+          </h5>
+          <%= library.contributor_ids.collect {|m| find_person(m).name }.join(', ') %>
+          <% if library.url %>&middot; <a href="<%= library.url %>">Website</a><% end %> 
+          <% if library.video %>&middot; <a href="<%= library.video %>">Video</a><% end %>
         </li>
       <% end %>
     </ul>
