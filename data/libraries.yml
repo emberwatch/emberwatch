@@ -2,10 +2,16 @@
   contributor_ids: [62,54,1,2]
   github: "https://github.com/emberjs/data"
 - name: "Ember Persistence Foundation"
+  site: "http://epf.io/"
   contributor_ids: [40]
   github: "https://github.com/GroupTalent/epf"
   url: "http://epf.io/"
   video: "http://www.youtube.com/watch?v=ZrWUUcB-PR8"
+- name: "Ember Model"
+  github: "https://github.com/ebryn/ember-model"
+  contributor_ids: [39]
+- name: "Ember Resource"
+  github: "https://github.com/zendesk/ember-resource"
 - name: "Group Helper"
   contributor_ids: [39,63,3]
   github: "https://github.com/emberjs/group-helper"

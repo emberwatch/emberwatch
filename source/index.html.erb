@@ -189,7 +189,9 @@ layout: application
           <h5>
             <a href="<%= library.github %>"><%= library.name %></a>
           </h5>
-          <%= library.contributor_ids.collect {|m| find_person(m).name }.join(', ') %>
+          <% if library.contributor_ids %>
+            <%= library.contributor_ids.collect {|m| find_person(m).name }.join(', ') %>
+          <% end %>
           <% if library.url %>&middot; <a href="<%= library.url %>">Website</a><% end %> 
           <% if library.video %>&middot; <a href="<%= library.video %>">Video</a><% end %>
         </li>
