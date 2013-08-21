@@ -91,6 +91,12 @@
   videos: ["http://www.youtube.com/watch?v=1ZdBeDL0s7I"]
   url: "http://events.jquery.org/2013/portland/#program"
   id: 73
+- title: "Ember.js in Action"
+  date: "2013-06-12"
+  author_ids: [18]
+  url: "http://ndcoslo.oktaset.com/p-3314"
+  videos: ["http://vimeo.com/album/1832954/video/68226820"]
+  id: 78
 - title: "Ember.js in Production"
   author_ids: [59]
   date: "2013-06-12"
