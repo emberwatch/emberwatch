@@ -12,6 +12,8 @@
   contributor_ids: [39]
 - name: "Ember Resource"
   github: "https://github.com/zendesk/ember-resource"
+- name: "Ember RESTless"
+  github: "https://github.com/endlessinc/ember-restless"
 - name: "Group Helper"
   contributor_ids: [39,63,3]
   github: "https://github.com/emberjs/group-helper"
