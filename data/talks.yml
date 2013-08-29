@@ -1,3 +1,33 @@
+- title: "The Ember Router"
+  date: "2013-07-25"
+  event_id: 2
+  author_ids: [45]
+  url: "http://www.meetup.com/EmberJS-NYC/events/127183702/"
+  slides: "https://machty.s3.amazonaws.com/ember-router-presentation-nyc/index.html"
+  videos: ["http://www.youtube.com/watch?v=-0qngpFNM5A#t=3450"]
+  id: 83
+- title: "Ember App Kit"
+  date: "2013-07-25"
+  event_id: 2
+  author_ids: [54]
+  url: "http://www.meetup.com/EmberJS-NYC/events/127183702/"
+  videos: ["http://www.youtube.com/watch?v=-0qngpFNM5A#t=1828"]
+  id: 82
+- title: "Lessons from an Amateur"
+  date: "2013-07-25"
+  event_id: 2
+  author_ids: [71]
+  url: "http://www.meetup.com/EmberJS-NYC/events/127183702/"
+  videos: ["http://www.youtube.com/watch?v=-0qngpFNM5A#t=1255"]
+  id: 81
+- title: "Your Front End is not your Back End"
+  date: "2013-07-25"
+  event_id: 2
+  author_ids: [70]
+  url: "http://www.meetup.com/EmberJS-NYC/events/127183702/"
+  slides: "http://slid.es/andremalan/your-front-end-is-not-your-back-end"
+  videos: ["http://www.youtube.com/watch?v=-0qngpFNM5A#t=381"]
+  id: 80
 - title: "Ember on Rails: #REALTALK"
   date: "2013-07-19"
   author_ids: [69]
