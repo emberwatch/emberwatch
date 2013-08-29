@@ -1,3 +1,10 @@
+- title: "Ember.js with Yehuda Katz and Tom Dale"
+  episode: 23
+  host: "Gaslight Podcast"
+  member_ids: [1,2]
+  date: "2013-08-29"
+  duration: "43:38"
+  url: "http://gaslight.co/blog/ember-dot-js-with-yehuda-katz-and-tom-dale"
 - title: "Stefan Penner"
   episode: 11
   host: "Ember Hot Seat"
