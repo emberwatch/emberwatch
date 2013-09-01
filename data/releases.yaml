@@ -1,3 +1,7 @@
+- name: "1.0.0"
+  date: "2013-08-31"
+  git: "v1.0.0"
+  blog: "http://emberjs.com/blog/2013/08/31/ember-1-0-released.html"
 - name: "1.0.0 Release Candidate 8"
   date: "2013-08-29"
   git: "v1.0.0-rc.8"
