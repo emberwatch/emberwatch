@@ -1,3 +1,26 @@
+- title: "Ember.js at Bustle.com"
+  date: "2013-08-22"
+  event_id: 2
+  author_ids: [74]
+  url: "http://www.meetup.com/EmberJS-NYC/events/131405962/"
+  slides: "https://www.dropbox.com/s/s4oibqsxqpo3hll/bustle%20slizzle.pdf"
+  videos: ["http://www.youtube.com/watch?v=8MYcjaar7Vw#t=2727"]
+  id: 86
+- title: "Ember Components"
+  date: "2013-08-22"
+  event_id: 2
+  author_ids: [73]
+  url: "http://www.meetup.com/EmberJS-NYC/events/131405962/"
+  slides: "https://speakerdeck.com/jrallison/ember-components"
+  videos: ["http://www.youtube.com/watch?v=8MYcjaar7Vw#t=1451"]
+  id: 85
+- title: "Demo: Ember.js Beats"
+  date: "2013-08-22"
+  event_id: 2
+  author_ids: [72]
+  url: "http://www.meetup.com/EmberJS-NYC/events/131405962/"
+  videos: ["http://www.youtube.com/watch?v=8MYcjaar7Vw#t=820"]
+  id: 84
 - title: "The Ember Router"
   date: "2013-07-25"
   event_id: 2
