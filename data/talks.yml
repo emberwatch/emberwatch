@@ -1,3 +1,18 @@
+- title: "Ember App Kit"
+  date: "2013-08-08"
+  event_id: 9
+  author_ids: [52]
+  url: "http://www.meetup.com/Boston-Ember-js/events/129526392/"
+  videos: ["http://www.youtube.com/watch?v=gz7Jy2abm10#t=4986"]
+  id: 88
+- title: "Ember and D3"
+  date: "2013-08-08"
+  event_id: 9
+  author_ids: [75]
+  url: "http://www.meetup.com/Boston-Ember-js/events/129526392/"
+  slides: "http://slid.es/samselikoff/ember-and-d3"
+  videos: ["http://www.youtube.com/watch?v=gz7Jy2abm10#t=101"]
+  id: 87
 - title: "Ember.js at Bustle.com"
   date: "2013-08-22"
   event_id: 2
