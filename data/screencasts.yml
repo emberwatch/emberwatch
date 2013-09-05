@@ -1,3 +1,8 @@
+- title: "Building an App with Ember.js"
+  author_ids: [2]
+  date: "2013-08-31"
+  url: "https://www.youtube.com/watch?v=1QHrlFlaXdI"
+  videos: ["https://www.youtube.com/watch?v=1QHrlFlaXdI"]
 - title: "Ember for Beginners"
   date: "2013-08-08"
   author_ids: [36]
@@ -27,7 +32,7 @@
   author_ids: [45]
   url: "http://www.embercasts.com/episodes/client-side-authentication-part-2"
   videos: ["http://www.embercasts.com/episodes/client-side-authentication-part-2"]
-  series: "Embercasts" 
+  series: "Embercasts"
 - title: "Ember.js Hello World Tutorial With Rails 4"
   author_ids: [51]
   date: "2013-06-14"
@@ -53,25 +58,25 @@
   date: "2013-05-12"
   url: "http://www.embercasts.com/episodes/client-side-authentication-part-1"
   videos: ["http://www.embercasts.com/episodes/client-side-authentication-part-1"]
-  series: "Embercasts" 
+  series: "Embercasts"
 - title: "Building an Autocomplete Widget Part 1"
   author_ids: [45]
   date: "2013-05-12"
   url: "http://www.embercasts.com/episodes/building-an-autocomplete-widget-part-1"
   videos: ["http://www.embercasts.com/episodes/building-an-autocomplete-widget-part-1"]
-  series: "Embercasts" 
+  series: "Embercasts"
 - title: "Getting Started with Emblem.js"
   author_ids: [45]
   date: "2013-05-12"
   url: "http://www.embercasts.com/episodes/getting-started-with-emblem-js"
   videos: ["http://www.embercasts.com/episodes/getting-started-with-emblem-js"]
-  series: "Embercasts" 
+  series: "Embercasts"
 - title: "Getting Started with Ember Model"
   author_ids: [39]
   date: "2013-05-12"
   url: "http://www.embercasts.com/episodes/getting-started-with-ember-model"
   videos: ["http://www.embercasts.com/episodes/getting-started-with-ember-model"]
-  series: "Embercasts" 
+  series: "Embercasts"
 - title: "Nested and Index Routes"
   subtitle: "View Hierarchy and {{outlet}}"
   author_ids: [43]
@@ -127,11 +132,6 @@
   url: "https://tutsplus.com/course/lets-learn-ember/"
   videos: ["https://tutsplus.com/course/lets-learn-ember/"]
   price: "$19 p/m"
-- title: "Building an App with Ember.js"
-  author_ids: [2]
-  date: "2013-03-27"
-  url: "https://www.youtube.com/watch?v=Ga99hMi7wfY"
-  videos: ["https://www.youtube.com/watch?v=Ga99hMi7wfY"]
 - title: "Ember Part 2"
   author_ids: [35]
   date: "2013-03-12"
