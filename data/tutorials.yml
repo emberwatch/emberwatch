@@ -1,3 +1,9 @@
+- title: "An Ember.js beginners tutorial"
+  author_ids: [76]
+  date: "2013-09-13"
+  urls: ["http://www.williamhart.info/an-emberjs-beginners-tutorial.html"]
+  code: "https://gist.github.com/will-hart/6550313"
+  demo: "http://dev.williamhart.info/ember_roller/"
 - title: "Ember.js Getting Started Guide"
   author_ids: [7]
   date: "2013-05-30"
