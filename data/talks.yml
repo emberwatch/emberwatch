@@ -5,6 +5,7 @@
   event_id: 9
   videos: ["http://www.youtube.com/watch?v=g5CSaK3HqVA#t=3509"]
   url: "http://www.meetup.com/Boston-Ember-js/events/135399682/"
+  slides: "https://speakerdeck.com/lukemelia/events-and-actions-in-ember-dot-js"
   id: 90
 - title: "Promises and RSVP.js"
   date: "2013-09-12"
