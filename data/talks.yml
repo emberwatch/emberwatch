@@ -5,14 +5,14 @@
   event_id: 9
   videos: ["http://www.youtube.com/watch?v=g5CSaK3HqVA#t=3509"]
   url: "http://www.meetup.com/Boston-Ember-js/events/135399682/"
-  id: 88
+  id: 90
 - title: "Promises and RSVP.js"
   date: "2013-09-12"
   event_id: 9
   author_ids: [54]
   url: "http://www.meetup.com/Boston-Ember-js/events/135399682/"
   videos: ["http://www.youtube.com/watch?v=g5CSaK3HqVA"]
-  id: 87
+  id: 89
 - title: "Ember.js at Bustle.com"
   date: "2013-08-22"
   event_id: 2
@@ -36,6 +36,21 @@
   url: "http://www.meetup.com/EmberJS-NYC/events/131405962/"
   videos: ["http://www.youtube.com/watch?v=8MYcjaar7Vw#t=820"]
   id: 84
+- title: "Ember App Kit"
+  date: "2013-08-08"
+  event_id: 9
+  author_ids: [52]
+  url: "http://www.meetup.com/Boston-Ember-js/events/129526392/"
+  videos: ["http://www.youtube.com/watch?v=gz7Jy2abm10#t=4986"]
+  id: 88
+- title: "Ember and D3"
+  date: "2013-08-08"
+  event_id: 9
+  author_ids: [75]
+  url: "http://www.meetup.com/Boston-Ember-js/events/129526392/"
+  slides: "http://slid.es/samselikoff/ember-and-d3"
+  videos: ["http://www.youtube.com/watch?v=gz7Jy2abm10#t=101"]
+  id: 87
 - title: "The Ember Router"
   date: "2013-07-25"
   event_id: 2
