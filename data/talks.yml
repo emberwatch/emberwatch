@@ -1,3 +1,18 @@
+- title: "Ember.js"
+  subtitle: "Understanding Events and Actions"
+  date: "2013-09-12"
+  author_ids: [4]
+  event_id: 9
+  videos: ["http://www.youtube.com/watch?v=g5CSaK3HqVA#t=3509"]
+  url: "http://www.meetup.com/Boston-Ember-js/events/135399682/"
+  id: 88
+- title: "Promises and RSVP.js"
+  date: "2013-09-12"
+  event_id: 9
+  author_ids: [54]
+  url: "http://www.meetup.com/Boston-Ember-js/events/135399682/"
+  videos: ["http://www.youtube.com/watch?v=g5CSaK3HqVA"]
+  id: 87
 - title: "Ember.js at Bustle.com"
   date: "2013-08-22"
   event_id: 2
