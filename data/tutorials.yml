@@ -1,3 +1,9 @@
+- title: "Write a CRUD App without Ember Data"
+  author_ids: [78]
+  date: "2013-09-25"
+  urls: ["http://embersherpa.com/articles/crud-example-app-without-ember-data/"]
+  code: "https://github.com/taras/ember-crud-example"
+  demo: "http://embersherpa.com/articles/crud-example-app-without-ember-data/app"
 - title: "An Ember.js beginners tutorial"
   author_ids: [76]
   date: "2013-09-13"
