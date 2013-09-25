@@ -23,3 +23,6 @@
 - title: "Ember.js Dashboard"
   code: "https://github.com/pangratz/ember.js-dashboard"
   demo: "http://code418.com/ember.js-dashboard/"
+- title: "CRUD without Ember Data"
+  code: "https://github.com/taras/ember-crud-example"
+  demo: "http://embersherpa.com/articles/crud-example-app-without-ember-data"
