@@ -313,3 +313,7 @@
 - id: 77
   name: "Steve Kane"
   twitter: "stv_kn"
+- id: 78
+  name: "Taras Mankovski"
+  twitter: "tarasm"
+  github: "taras"
