@@ -1,0 +1,78 @@
+[
+  {
+    "name": "1.0.0",
+    "date": "2013-08-31",
+    "git": "v1.0.0",
+    "blog": "http://emberjs.com/blog/2013/08/31/ember-1-0-released.html"
+  },
+  {
+    "name": "1.0.0 Release Candidate 8",
+    "date": "2013-08-29",
+    "git": "v1.0.0-rc.8",
+    "blog": "http://emberjs.com/blog/2013/08/29/ember-1-0-rc8.html"
+  },
+  {
+    "name": "1.0.0 Release Candidate 7",
+    "date": "2013-08-14",
+    "git": "v1.0.0-rc.7",
+    "blog": "http://emberjs.com/blog/2013/08/14/ember-1-0-rc7.html"
+  },
+  {
+    "name": "1.0.0 Release Candidate 6",
+    "date": "2013-06-23",
+    "git": "v1.0.0-rc.6",
+    "blog": "http://emberjs.com/blog/2013/06/23/ember-1-0-rc6.html"
+  },
+  {
+    "name": "1.0.0 Release Candidate 5",
+    "date": "2013-06-01",
+    "git": "v1.0.0-rc.5",
+    "blog": "http://emberjs.com/blog/2013/06/01/ember-1-0-rc5.html"
+  },
+  {
+    "name": "1.0.0 Release Candidate 4",
+    "date": "2013-05-27",
+    "git": "v1.0.0-rc.4",
+    "blog": "http://emberjs.com/blog/2013/05/28/ember-1-0-rc4.html"
+  },
+  {
+    "name": "1.0.0 Release Candidate 3",
+    "date": "2013-04-21",
+    "git": "v1.0.0-rc.3",
+    "blog": "http://emberjs.com/blog/2013/04/21/ember-1-0-rc3.html"
+  },
+  {
+    "name": "1.0.0 Release Candidate 2",
+    "date": "2013-03-29",
+    "git": "v1.0.0-rc.2",
+    "blog": "http://emberjs.com/blog/2013/03/30/ember-1-0-rc2.html"
+  },
+  {
+    "name": "1.0.0 Release Candidate",
+    "date": "2013-02-15",
+    "git": "v1.0.0-rc.1",
+    "blog": "http://emberjs.com/blog/2013/02/15/ember-1-0-rc.html"
+  },
+  {
+    "name": "1.0.0 Pre-release 4",
+    "date": "2013-01-17",
+    "git": "v1.0.0-pre.4"
+  },
+  {
+    "name": "1.0.0 Pre-release 3",
+    "date": "2013-01-17",
+    "git": "v1.0.0-pre.3"
+  },
+  {
+    "name": "1.0.0 Pre-release 2",
+    "date": "2012-10-25",
+    "git": "v1.0.0-pre.2",
+    "blog": "http://emberjs.com/blog/2012/10/25/ember-1-0-pre2.html"
+  },
+  {
+    "name": "1.0.0 Pre-release 1",
+    "date": "2012-08-03",
+    "git": "v1.0.pre",
+    "blog": "http://emberjs.com/blog/2012/08/03/ember-1-0-prerelease.html"
+  }
+]
