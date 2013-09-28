@@ -1,5 +1,17 @@
 [
   {
+    "title": "A tale of two MVCs",
+    "date": "2013-09-20",
+    "author_ids": [
+      1
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=s1dhXamEAKQ"
+    ],
+    "url": "http://gogaruco.com/schedule.html#katz",
+    "id": 91
+  },
+  {
     "title": "Ember.js",
     "subtitle": "Understanding Events and Actions",
     "date": "2013-09-12",
