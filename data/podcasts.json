@@ -1,5 +1,16 @@
 [
   {
+    "title": "Brian Cardarella",
+    "episode": 12,
+    "host": "Ember Hot Seat",
+    "member_ids": [
+      29
+    ],
+    "date": "2013-09-10",
+    "duration": "38:01",
+    "url": "http://emberhotseat.com/2013/09/10/ember-hot-seat-episode-012.html"
+  },
+  {
     "title": "Ember.js with Yehuda Katz and Tom Dale",
     "episode": 23,
     "host": "Gaslight Podcast",
