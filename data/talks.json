@@ -12,6 +12,18 @@
     "id": 91
   },
   {
+    "title": "Stop Breaking the Web",
+    "date": "2013-09-15",
+    "author_ids": [
+      2
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=OSEXpsVcTxI"
+    ],
+    "url": "http://2013.jsconf.eu/speakers/tom-dale-stop-breaking-the-web.html",
+    "id": 92
+  },
+  {
     "title": "Ember.js",
     "subtitle": "Understanding Events and Actions",
     "date": "2013-09-12",
