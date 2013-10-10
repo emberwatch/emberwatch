@@ -1,5 +1,32 @@
 [
   {
+    "title": "Ember.js Roadmap, post-1.0",
+    "date": "2013-09-18",
+    "author_ids": [
+      33
+    ],
+    "event_id": 2,
+    "videos": [
+      "http://www.youtube.com/watch?v=lWgzN5vGxco#t=6300"
+    ],
+    "url": "http://www.meetup.com/EmberJS-NYC/events/138461942/",
+    "id": 93
+  },
+  {
+    "title": "Complex Architectures in Ember",
+    "date": "2013-09-18",
+    "author_ids": [
+      57
+    ],
+    "event_id": 2,
+    "videos": [
+      "http://www.youtube.com/watch?v=lWgzN5vGxco#t=433"
+    ],
+    "url": "http://www.meetup.com/EmberJS-NYC/events/138461942/",
+    "slides": "http://www.slideshare.net/mixonic/complex-architectures-in-ember",
+    "id": 92
+  },
+  {
     "title": "A tale of two MVCs",
     "date": "2013-09-20",
     "author_ids": [
