@@ -1,5 +1,17 @@
 [
   {
+    "title": "Ember Components",
+    "date": "2013-10-02",
+    "author_ids": [
+      45
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=YrJ130ScG-A"
+    ],
+    "url": "http://www.youtube.com/watch?v=YrJ130ScG-A",
+    "id": 92
+  },
+  {
     "title": "A tale of two MVCs",
     "date": "2013-09-20",
     "author_ids": [
