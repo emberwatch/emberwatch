@@ -1,5 +1,32 @@
 [
   {
+    "title": "Ember-Validations and Ember-EasyForm",
+    "date": "2013-10-10",
+    "event_id": 9,
+    "author_ids": [
+      29
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=eUCRk94UVOY#t=3510"
+    ],
+    "url": "http://www.meetup.com/Boston-Ember-js/events/140201892/",
+    "id": 97
+  },
+  {
+    "title": "Ember Templates",
+    "date": "2013-10-10",
+    "event_id": 9,
+    "author_ids": [
+      79
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=eUCRk94UVOY#t=91"
+    ],
+    "url": "http://www.meetup.com/Boston-Ember-js/events/140201892/",
+    "slides": "https://speakerdeck.com/patrickjholloway/ember-templates",
+    "id": 96
+  },
+  {
     "title": "Ember Components",
     "date": "2013-10-02",
     "author_ids": [
