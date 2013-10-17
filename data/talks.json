@@ -1,5 +1,44 @@
 [
   {
+    "title": "Template-less Ember Components",
+    "date": "2013-10-11",
+    "event_id": 3,
+    "author_ids": [
+      33
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=tULySd8MvS4"
+    ],
+    "url": "http://www.meetup.com/Ember-js-Seattle-Meetup/events/140660072/",
+    "id": 99
+  },
+  {
+    "title": "Ember Components",
+    "date": "2013-10-11",
+    "event_id": 3,
+    "author_ids": [
+      45
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=9z6YlH6524g"
+    ],
+    "url": "http://www.meetup.com/Ember-js-Seattle-Meetup/events/140660072/",
+    "id": 99
+  },
+  {
+    "title": "Ember Loading Routes Facelift",
+    "date": "2013-10-11",
+    "event_id": 3,
+    "author_ids": [
+      45
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=flEFh-iWC5A"
+    ],
+    "url": "http://www.meetup.com/Ember-js-Seattle-Meetup/events/140660072/",
+    "id": 98
+  },
+  {
     "title": "Ember-Validations and Ember-EasyForm",
     "date": "2013-10-10",
     "event_id": 9,
