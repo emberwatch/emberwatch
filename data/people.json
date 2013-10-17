@@ -299,40 +299,50 @@
   {
     "id": 49,
     "name": "Ryan Toronto",
+    "github": "ryanto",
     "site": "http://ryanto.github.io/"
   },
   {
     "id": 50,
-    "name": "Kasper Tidemann"
+    "name": "Kasper Tidemann",
+    "twitter": "KasperTidemann",
+    "github": "KasperTidemann",
+    "site": "http://www.kaspertidemann.com/"
   },
   {
     "id": 51,
     "name": "Justin Gordon",
     "twitter": "railsonmaui",
+    "github": "justin808",
     "site": "http://www.railsonmaui.com/"
   },
   {
     "id": 52,
     "name": "Alex Navasardyan",
     "twitter": "twokul",
+    "github": "twokul",
     "site": "http://navasardyan.net/"
   },
   {
     "id": 53,
     "name": "Giles Bowkett",
     "twitter": "gilesgoatboy",
+    "github": "gilesbowkett",
     "site": "http://gilesbowkett.blogspot.co.uk/"
   },
   {
     "id": 54,
     "name": "Stefan Penner",
     "twitter": "stefanpenner",
+    "github": "stefanpenner",
     "site": "http://iamstef.net/"
   },
   {
     "id": 55,
     "name": "Michael Grassotti",
-    "twitter": "mgrassotti"
+    "twitter": "mgrassotti",
+    "github": "mikegrassotti",
+    "site": "http://mikegrassotti.github.io/"
   },
   {
     "id": 56,
@@ -394,7 +404,8 @@
     "id": 64,
     "name": "Jiří Zajpt",
     "twitter": "jzajpt",
-    "github": "jzajpt"
+    "github": "jzajpt",
+    "site": "http://jzajpt.github.io/"
   },
   {
     "id": 65,
@@ -406,19 +417,23 @@
   {
     "id": 66,
     "name": "Bradley Priest",
+    "twitter": "bradleypriest",
     "github": "bradleypriest",
     "site": "http://bradleypriest.com"
   },
   {
     "id": 67,
     "name": "Karl Guillotte",
-    "site": "http://about.me/karl.guillotte",
-    "github": "karlguillotte"
+    "twitter": "karlguillotte",
+    "github": "karlguillotte",
+    "site": "http://about.me/karl.guillotte"
   },
   {
     "id": 68,
     "name": "Rem Zolotykh",
-    "twitter": "remzolotykh"
+    "twitter": "remzolotykh",
+    "github": "remchi",
+    "site": "http://remchi.me/"
   },
   {
     "id": 69,
@@ -431,42 +446,54 @@
     "id": 70,
     "name": "Andre Malan",
     "twitter": "ramcio",
+    "github": "andremalan",
     "site": "http://andremalan.net/"
   },
   {
     "id": 71,
     "name": "Irvin Zhan",
-    "twitter": "IrvinZhan"
+    "twitter": "IrvinZhan",
+    "github": "izhan"
   },
   {
     "id": 72,
     "name": "Gavin Joyce",
-    "twitter": "gavinjoyce"
+    "twitter": "gavinjoyce",
+    "github": "gavinjoyce",
+    "site": "http://www.gavinjoyce.com/"
   },
   {
     "id": 73,
     "name": "John Allison",
-    "twitter": "jrallison"
+    "twitter": "jrallison",
+    "github": "jrallison",
+    "site": "https://medium.com/@jrallison"
   },
   {
     "id": 74,
     "name": "Tyler Love",
-    "twitter": "tylerlove"
+    "twitter": "tyleralove",
+    "github": "tylr",
+    "site": "http://tylr.org/"
   },
   {
     "id": 75,
     "name": "Sam Selikoff",
-    "twitter": "samselikoff"
+    "twitter": "samselikoff",
+    "github": "samselikoff",
+    "site": "http://www.samselikoff.com/"
   },
   {
     "id": 76,
     "name": "William Hart",
-    "twitter": "wlhart"
+    "twitter": "wlhart",
+    "site": "http://www.williamhart.info/"
   },
   {
     "id": 77,
     "name": "Steve Kane",
-    "twitter": "stv_kn"
+    "twitter": "stv_kn",
+    "github": "4South"
   },
   {
     "id": 78,
@@ -477,6 +504,14 @@
   {
     "id": 79,
     "name": "Patrick Holloway",
-    "twitter": "digitalpixelpro"
+    "twitter": "digitalpixelpro",
+    "github": "patrickjholloway"
+  },
+  {
+    "id": 80,
+    "name": "Wesley Workman",
+    "twitter": "workmanw",
+    "github": "workmanw",
+    "site": "http://www.wesleyworkman.com/"
   }
 ]
