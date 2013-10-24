@@ -77,5 +77,10 @@
   {
     "name": "Ember CrossFilter",
     "github": "https://github.com/Wildhoney/EmberCrossfilter"
+  },
+  {
+    "name": "PouchDB Wrapper for Ember.js",
+    "github": "https://github.com/taras/ember-pouchdb",
+    "contributor_ids": [ 78 ]    
   }
 ]
