@@ -82,5 +82,14 @@
     "name": "PouchDB Wrapper for Ember.js",
     "github": "https://github.com/taras/ember-pouchdb",
     "contributor_ids": [ 78 ]    
+  },
+  {
+    "name": "Billy Data",
+    "github": "https://github.com/billysbilling/billy-data",
+    "contributor_ids": [ 81 ]
+  },
+  {
+    "name": "Ember CouchDB Kit",
+    "github": "https://github.com/roundscope/ember-couchdb-kit"
   }
 ]
