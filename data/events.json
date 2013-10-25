@@ -39,5 +39,9 @@
   {
     "name": "Chicago Ember.js",
     "id": 10
+  },
+  {
+    "name": "Ember ATX",
+    "id": 11
   }
 ]

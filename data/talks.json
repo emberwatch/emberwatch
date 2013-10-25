@@ -1,5 +1,18 @@
 [
   {
+    "title": "Ember.js and URLs",
+    "date": "2013-10-15",
+    "event_id": 11,
+    "author_ids": [
+      2
+    ],
+    "videos": [
+      "https://vimeo.com/77760308"
+    ],
+    "url": "http://www.meetup.com/Ember-ATX/events/140780512/",
+    "id": 103
+  },
+  {
     "title": "Template-less Ember Components",
     "date": "2013-10-10",
     "event_id": 3,
