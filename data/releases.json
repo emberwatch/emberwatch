@@ -1,5 +1,17 @@
 [
   {
+    "name": "1.1.2",
+    "date": "2013-10-25",
+    "git": "v1.1.2",
+    "blog": "http://emberjs.com/blog/2013/10/25/ember-1-1-2-released.html"
+  },
+  {
+    "name": "1.1.1",
+    "date": "2013-10-23",
+    "git": "v1.1.1",
+    "blog": "http://emberjs.com/blog/2013/10/24/ember-1-1-1-and-ember-1-2-0-beta-released.html"
+  },
+  {
     "name": "1.0.0",
     "date": "2013-08-31",
     "git": "v1.0.0",
