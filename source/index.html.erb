@@ -5,16 +5,6 @@ layout: application
 
 <div id="posts">
   <div class="twelve columns">
-
-    <div class="panel">
-        <h5><a href="http://ember101.belairlabs.com">Building Web Apps with Ember.</a> The Pragmatic Introduction</h5>
-      <p>
-        A live and hands-on <strong>online course</strong> from Jonathan Barronville &middot; <strong>2–3 November 2013</strong> &middot; $125 (class) / $40 (content) <br/>
-        <em>Booking closes October 15th. 30 Places Available.</em> <a href="http://ember101.belairlabs.com" title="Building Web Apps with Ember">http://ember101.belairlabs.com</a>
-      </p>
-    </div>
-
-
   <dl class="tabs">
   <dd class="active"><a href="#talks">Talks</a></dd>
   <dd><a href="#screencasts">Screencasts</a></dd>
@@ -156,7 +146,7 @@ layout: application
               <%= release.name %>
             </a>
           </h5>
-          <%= format_date(release.date) %> &middot; 
+          <%= format_date(release.date) %> &middot;
           <a href="https://github.com/emberjs/ember.js/blob/<%= release.git %>/CHANGELOG">
             Changelog
           </a>
@@ -197,7 +187,7 @@ layout: application
           <% if library.contributor_ids %>
             <%= library.contributor_ids.collect {|m| find_person(m).name }.join(', ') %>
           <% end %>
-          <% if library.url %>&middot; <a href="<%= library.url %>">Website</a><% end %> 
+          <% if library.url %>&middot; <a href="<%= library.url %>">Website</a><% end %>
           <% if library.video %>&middot; <a href="<%= library.video %>">Video</a><% end %>
         </li>
       <% end %>
