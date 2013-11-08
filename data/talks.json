@@ -1,5 +1,18 @@
 [
   {
+    "title": "Building Web Applicaitons with Ember.js",
+    "date": "2013-11-06",
+    "author_ids": [
+      41, 83
+    ],
+    "videos": [
+      "http://vimeo.com/78847391"
+    ],
+    "slides": "https://speakerdeck.com/jdcravens/building-web-apps-with-ember-dot-js",
+    "url": "http://oredev.org/2013/wed-fri-conference/building-web-applications-with-ember-js-and-ruby-on-rails",
+    "id": 105
+  },
+  {
     "title": "Query Params with the Ember Router: Past, Present and Future",
     "date": "2013-08-30",
     "author_ids": [

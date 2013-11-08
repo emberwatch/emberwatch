@@ -254,7 +254,8 @@
     "id": 41,
     "name": "Jesse Cravens",
     "github": "jessecravens",
-    "twitter": "jdcravens"
+    "twitter": "jdcravens",
+    "site": "http://jessecravens.com/"
   },
   {
     "id": 42,
@@ -527,5 +528,12 @@
     "twitter": "alexspeller",
     "github": "alexspeller",
     "site": "http://alexspeller.com/"
+  },
+  {
+    "id": 83,
+    "name": "Thomas Q. Brady",
+    "twitter": "thomasqbrady",
+    "github": "thomasqbrady",
+    "site": "http://bashmodernquantity.com/"
   }
 ]
