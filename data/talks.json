@@ -1,5 +1,18 @@
 [
   {
+    "title": "Query Params with the Ember Router: Past, Present and Future",
+    "date": "2013-08-30",
+    "author_ids": [
+      82
+    ],
+    "videos": [
+      "http://www.infoq.com/presentations/ember-query-string"
+    ],
+    "url": "http://emberfest.eu/munich",
+    "slides": "http://www.infoq.com/presentations/ember-query-string",
+    "id": 104
+  },
+  {
     "title": "Ember.js and URLs",
     "date": "2013-10-15",
     "event_id": 11,
