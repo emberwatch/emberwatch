@@ -1,5 +1,17 @@
 [
   {
+    "title": "An In-Depth Introduction to Ember.js",
+    "author_ids": [
+      84
+    ],
+    "date": "2013-11-07",
+    "urls": [
+      "http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/"
+    ],
+    "code": "https://github.com/jkneb/ember-crud",
+    "demo": "http://jkneb.github.io/ember-crud/"
+  },
+  {
     "title": "Write a CRUD App without Ember Data",
     "author_ids": [
       78
