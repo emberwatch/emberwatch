@@ -1,5 +1,17 @@
 [
   {
+    "title": "Intro to Ember.js",
+    "date": "2013-09-19",
+    "author_ids": [
+      48
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=DrFkx9E3hjg"
+    ],
+    "url": "http://socoded.com/",
+    "id": 106
+  },
+  {
     "title": "Building Web Applicaitons with Ember.js",
     "date": "2013-11-06",
     "author_ids": [
