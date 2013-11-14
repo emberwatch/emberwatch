@@ -1,5 +1,19 @@
 [
   {
+    "title": "Productive Out-of-the-Box",
+    "date": "2013-08-30",
+    "event_id": 12,
+    "author_ids": [
+      21
+    ],
+    "videos": [
+      "http://www.infoq.com/presentations/emberjs-tools-yeoman"
+    ],
+    "url": "http://emberfest.eu/munich",
+    "slides": "http://www.infoq.com/presentations/emberjs-tools-yeoman",
+    "id": 112
+  },
+  {
     "title": "Understanding Actions and Events in Ember",
     "date": "2013-10-24",
     "event_id": 2,
@@ -95,6 +109,7 @@
   {
     "title": "Query Params with the Ember Router: Past, Present and Future",
     "date": "2013-08-30",
+    "event_id": 12,
     "author_ids": [
       82
     ],
