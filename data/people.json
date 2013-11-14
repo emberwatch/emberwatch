@@ -542,5 +542,17 @@
     "twitter": "julienknebel",
     "github": "jkneb",
     "site": "http://front-back.com/"
+  },
+  {
+    "id": 85,
+    "name": "Jonathan Goldman",
+    "twitter": "jonnii",
+    "site": "http://jonnii.com/"
+  },
+  {
+    "id": 86,
+    "name": "Thomas Boyt",
+    "twitter": "thomasABoyt",
+    "site": "http://www.thomasboyt.com/"
   }
 ]

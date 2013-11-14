@@ -1,5 +1,73 @@
 [
   {
+    "title": "Understanding Actions and Events in Ember",
+    "date": "2013-10-24",
+    "event_id": 2,
+    "author_ids": [
+      4
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=bzT0ezT-Jn8#t=5844"
+    ],
+    "url": "http://www.meetup.com/EmberJS-NYC/events/135943842/",
+    "id": 111
+  },
+  {
+    "title": "Most recent improvements to the Ember 1.2 router",
+    "date": "2013-10-24",
+    "event_id": 2,
+    "author_ids": [
+      45
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=bzT0ezT-Jn8#t=4689"
+    ],
+    "url": "http://www.meetup.com/EmberJS-NYC/events/135943842/",
+    "id": 110
+  },
+  {
+    "title": "Ember App Kit & the Ember Resolver",
+    "date": "2013-10-24",
+    "event_id": 2,
+    "author_ids": [
+      86
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=bzT0ezT-Jn8#t=3676"
+    ],
+    "slides": "http://www.slideshare.net/tboyt/presentation-27430110",
+    "url": "http://www.meetup.com/EmberJS-NYC/events/135943842/",
+    "id": 109
+  },
+  {
+    "title": "(Reduce)Computed",
+    "date": "2013-10-24",
+    "event_id": 2,
+    "author_ids": [
+      85
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=bzT0ezT-Jn8#t=2665"
+    ],
+    "slides": "http://slid.es/jonathangoldman/reducecomputed",
+    "url": "http://www.meetup.com/EmberJS-NYC/events/135943842/",
+    "id": 108
+  },
+  {
+    "title": "Ember EasyForm and Ember Validations",
+    "date": "2013-10-24",
+    "event_id": 2,
+    "author_ids": [
+      29
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=bzT0ezT-Jn8#t=605"
+    ],
+    "slides": "http://slid.es/bcardarella/ember-validations-and-ember-easyform",
+    "url": "http://www.meetup.com/EmberJS-NYC/events/135943842/",
+    "id": 107
+  },
+  {
     "title": "Intro to Ember.js",
     "date": "2013-09-19",
     "author_ids": [
