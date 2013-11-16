@@ -1,7 +1,34 @@
 [
   {
+    "title": "Dance Cloud",
+    "date": "2013-11-13",
+    "event_id": 13,
+    "author_ids": [
+      88
+    ],
+    "videos": [
+      "https://vimeo.com/79446163"
+    ],
+    "url": "http://www.meetup.com/London-Emberjs-User-Group/events/148037482/",
+    "id": 115
+  },
+  {
+    "title": "Firebase & Ember",
+    "date": "2013-11-13",
+    "event_id": 13,
+    "author_ids": [
+      87
+    ],
+    "videos": [
+      "https://vimeo.com/79471076"
+    ],
+    "url": "http://www.meetup.com/London-Emberjs-User-Group/events/148037482/",
+    "id": 114
+  },
+  {
     "title": "Query Parameters",
     "date": "2013-11-13",
+    "event_id": 13,
     "author_ids": [
       82
     ],
