@@ -1,5 +1,17 @@
 [
   {
+    "title": "Query Parameters",
+    "date": "2013-11-13",
+    "author_ids": [
+      82
+    ],
+    "videos": [
+      "https://vimeo.com/79415579"
+    ],
+    "url": "http://www.meetup.com/London-Emberjs-User-Group/events/148037482/",
+    "id": 113
+  },
+  {
     "title": "Productive Out-of-the-Box",
     "date": "2013-08-30",
     "event_id": 12,
