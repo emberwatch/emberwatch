@@ -1,5 +1,31 @@
 [
   {
+    "title": "Ember & WebSockets",
+    "date": "2013-11-15",
+    "event_id": 9,
+    "author_ids": [
+      79
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=D6BhK4LyFAE#t=4533"
+    ],
+    "url": "http://www.meetup.com/Boston-Ember-js/events/146077642/",
+    "id": 117
+  },
+  {
+    "title": "Strategies extracting from Rails into Ember",
+    "date": "2013-11-15",
+    "event_id": 9,
+    "author_ids": [
+      89
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=D6BhK4LyFAE#t=907"
+    ],
+    "url": "http://www.meetup.com/Boston-Ember-js/events/146077642/",
+    "id": 116
+  },
+  {
     "title": "Dance Cloud",
     "date": "2013-11-13",
     "event_id": 13,
