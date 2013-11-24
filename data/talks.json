@@ -121,20 +121,6 @@
     "id": 113
   },
   {
-    "title": "Productive Out-of-the-Box",
-    "date": "2013-08-30",
-    "event_id": 12,
-    "author_ids": [
-      21
-    ],
-    "videos": [
-      "http://www.infoq.com/presentations/emberjs-tools-yeoman"
-    ],
-    "url": "http://emberfest.eu/munich",
-    "slides": "http://www.infoq.com/presentations/emberjs-tools-yeoman",
-    "id": 112
-  },
-  {
     "title": "Understanding Actions and Events in Ember",
     "date": "2013-10-24",
     "event_id": 2,
@@ -226,20 +212,6 @@
     "slides": "https://speakerdeck.com/jdcravens/building-web-apps-with-ember-dot-js",
     "url": "http://oredev.org/2013/wed-fri-conference/building-web-applications-with-ember-js-and-ruby-on-rails",
     "id": 105
-  },
-  {
-    "title": "Query Params with the Ember Router: Past, Present and Future",
-    "date": "2013-08-30",
-    "event_id": 12,
-    "author_ids": [
-      82
-    ],
-    "videos": [
-      "http://www.infoq.com/presentations/ember-query-string"
-    ],
-    "url": "http://emberfest.eu/munich",
-    "slides": "http://www.infoq.com/presentations/ember-query-string",
-    "id": 104
   },
   {
     "title": "Ember.js and URLs",
@@ -448,6 +420,34 @@
     ],
     "url": "http://www.meetup.com/Chicago-Ember-js/events/137166102/",
     "id": 91
+  },
+  {
+    "title": "Query Params with the Ember Router: Past, Present and Future",
+    "date": "2013-08-30",
+    "event_id": 12,
+    "author_ids": [
+      82
+    ],
+    "videos": [
+      "http://www.infoq.com/presentations/ember-query-string"
+    ],
+    "url": "http://emberfest.eu/munich",
+    "slides": "http://www.infoq.com/presentations/ember-query-string",
+    "id": 104
+  },
+  {
+    "title": "Productive Out-of-the-Box",
+    "date": "2013-08-30",
+    "event_id": 12,
+    "author_ids": [
+      21
+    ],
+    "videos": [
+      "http://www.infoq.com/presentations/emberjs-tools-yeoman"
+    ],
+    "url": "http://emberfest.eu/munich",
+    "slides": "http://www.infoq.com/presentations/emberjs-tools-yeoman",
+    "id": 112
   },
   {
     "title": "Ember.js at Bustle.com",
