@@ -569,5 +569,20 @@
     "id": 89,
     "name": "James Daniels",
     "twitter": "jamesuriah"
+  },
+  {
+    "id": 90,
+    "name": "Dennis Nazarov",
+    "twitter": "Iiterature"
+  },
+  {
+    "id": 91,
+    "name": "Roman Shtylman",
+    "twitter": "defunctzombie"
+  },
+  {
+    "id": 92,
+    "name": "Kevin Kornemann",
+    "twitter": "kevinkornemann"
   }
 ]

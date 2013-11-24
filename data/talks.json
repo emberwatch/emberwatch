@@ -1,5 +1,61 @@
 [
   {
+    "title": "ng-embereño",
+    "subtitle": "AngularJS from an Ember.js perspective",
+    "date": "2013-11-20",
+    "event_id": 2,
+    "author_ids": [
+      45
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=7ecsYtRiD5Q#t=3412"
+    ],
+    "url": "http://www.meetup.com/EmberJS-NYC/events/147324212/",
+    "slides": "https://docs.google.com/presentation/d/1e0z1pT9JuEh8G5DOtib6XFDHK0GUFtrZrU3IfxJynaA/",
+    "id": 121
+  },
+  {
+    "title": "Ember.js",
+    "subtitle": "Creating a Multimedia Application",
+    "date": "2013-11-20",
+    "event_id": 2,
+    "author_ids": [
+      90
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=7ecsYtRiD5Q#t=2481"
+    ],
+    "url": "http://www.meetup.com/EmberJS-NYC/events/147324212/",
+    "slides": "https://docs.google.com/presentation/d/1kQKg_2ZsJMnMVTvfcR1e1oUZRFfLkppLuLwCy4qtFvI/",
+    "id": 120
+  },
+  {
+    "title": "Testing Ember.js with Zuul",
+    "date": "2013-11-20",
+    "event_id": 2,
+    "author_ids": [
+      91
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=7ecsYtRiD5Q#t=1647"
+    ],
+    "url": "http://www.meetup.com/EmberJS-NYC/events/147324212/",
+    "id": 119
+  },
+  {
+    "title": "Demo of LightPrint.com",
+    "date": "2013-11-20",
+    "event_id": 2,
+    "author_ids": [
+      92
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=7ecsYtRiD5Q#t=557"
+    ],
+    "url": "http://www.meetup.com/EmberJS-NYC/events/147324212/",
+    "id": 118
+  },
+  {
     "title": "Ember & WebSockets",
     "date": "2013-11-15",
     "event_id": 9,
