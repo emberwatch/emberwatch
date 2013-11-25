@@ -422,18 +422,17 @@
     "id": 91
   },
   {
-    "title": "Query Params with the Ember Router: Past, Present and Future",
+    "title": "Experiences Building a Hypervideo-based Web App with Ember.js, Popcorn.js and HTML5",
     "date": "2013-08-30",
     "event_id": 12,
     "author_ids": [
-      82
+      93 
     ],
     "videos": [
-      "http://www.infoq.com/presentations/ember-query-string"
+      "http://www.infoq.com/presentations/hypermedia-emberjs-html5"
     ],
     "url": "http://emberfest.eu/munich",
-    "slides": "http://www.infoq.com/presentations/ember-query-string",
-    "id": 104
+    "id": 122
   },
   {
     "title": "Productive Out-of-the-Box",
@@ -448,6 +447,20 @@
     "url": "http://emberfest.eu/munich",
     "slides": "http://www.infoq.com/presentations/emberjs-tools-yeoman",
     "id": 112
+  },
+  {
+    "title": "Query Params with the Ember Router: Past, Present and Future",
+    "date": "2013-08-30",
+    "event_id": 12,
+    "author_ids": [
+      82
+    ],
+    "videos": [
+      "http://www.infoq.com/presentations/ember-query-string"
+    ],
+    "url": "http://emberfest.eu/munich",
+    "slides": "http://www.infoq.com/presentations/ember-query-string",
+    "id": 104
   },
   {
     "title": "Ember.js at Bustle.com",
