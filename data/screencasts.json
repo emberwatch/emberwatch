@@ -1,5 +1,16 @@
 [
   {
+    "title": "Build an Ember.js App",
+    "author_ids": [
+      94
+    ],
+    "date": "2013-11-29",
+    "url": "http://emberjs.balinterdi.com",
+    "videos": [
+      "http://emberjs.balinterdi.com"
+    ]
+  },
+  {
     "title": "Building an App with Ember.js",
     "author_ids": [
       2

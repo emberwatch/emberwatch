@@ -588,5 +588,12 @@
   {
     "id": 93,
     "name": "Thomas Herrmann"
+  },
+  {
+    "id": 94,
+    "name": "Balint Erdi",
+    "twitter": "baaz",
+    "github": "balinterdi",
+    "site": "http://balinterdi.com"
   }
 ]
