@@ -1,5 +1,16 @@
 [
   {
+    "title": "Ember.js & Discourse with Robin Ward",
+    "episode": 86,
+    "host": "JavaScript Jabber",
+    "member_ids": [
+      63
+    ],
+    "date": "2013-11-29",
+    "duration": "1:03:38",
+    "url": "http://javascriptjabber.com/086-jsj-ember-js-discourse-with-robin-ward/"
+  },
+  {
     "title": "Brian Cardarella",
     "episode": 12,
     "host": "Ember Hot Seat",
