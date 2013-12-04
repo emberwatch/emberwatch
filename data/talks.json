@@ -1,5 +1,31 @@
 [
   {
+    "title": "More Components",
+    "date": "2013-11-21",
+    "event_id": 3,
+    "author_ids": [
+      33
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=1CwSwBQnYgU"
+    ],
+    "url": "http://www.meetup.com/Ember-js-Seattle-Meetup/events/148056892/",
+    "id": 124
+  },
+  {
+    "title": "Ember vs Angular, why we chose Ember",
+    "date": "2013-11-21",
+    "event_id": 3,
+    "author_ids": [
+      95
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=EFmgLyR-Svo"
+    ],
+    "url": "http://www.meetup.com/Ember-js-Seattle-Meetup/events/148056892/",
+    "id": 123
+  },
+  {
     "title": "ng-embereño",
     "subtitle": "AngularJS from an Ember.js perspective",
     "date": "2013-11-20",
@@ -426,7 +452,7 @@
     "date": "2013-08-30",
     "event_id": 12,
     "author_ids": [
-      93 
+      93
     ],
     "videos": [
       "http://www.infoq.com/presentations/hypermedia-emberjs-html5"
