@@ -448,6 +448,19 @@
     "id": 91
   },
   {
+    "title": "Insights from using Ember.js in the field",
+    "date": "2013-08-30",
+    "event_id": 12,
+    "author_ids": [
+      97
+    ],
+    "videos": [
+      "http://www.infoq.com/presentations/emberjs-use-case"
+    ],
+    "url": "http://emberfest.eu/munich",
+    "id": 125
+  },
+  {
     "title": "Experiences Building a Hypervideo-based Web App with Ember.js, Popcorn.js and HTML5",
     "date": "2013-08-30",
     "event_id": 12,
