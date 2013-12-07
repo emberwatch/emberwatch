@@ -448,6 +448,19 @@
     "id": 91
   },
   {
+    "title": "Ember Reusable Components and Widgets",
+    "date": "2013-08-30",
+    "event_id": 12,
+    "author_ids": [
+      98
+    ],
+    "videos": [
+      "http://www.infoq.com/presentations/ember-view-handlebars-ui"
+    ],
+    "url": "http://emberfest.eu/munich",
+    "id": 126
+  },
+  {
     "title": "Insights from using Ember.js in the field",
     "date": "2013-08-30",
     "event_id": 12,
