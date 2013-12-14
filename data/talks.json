@@ -82,6 +82,19 @@
     "id": 118
   },
   {
+    "title": "Stop Breaking the Web",
+    "date": "2013-11-15",
+    "event_id": 14,
+    "author_ids": [
+      2
+    ],
+    "videos": [
+      "http://www.youtube.com/watch?v=BQ6at0addi4"
+    ],
+    "url": "http://2013.cascadiajs.com/speakers/tom-dale",
+    "id": 127
+  },
+  {
     "title": "Ember & WebSockets",
     "date": "2013-11-15",
     "event_id": 9,
