@@ -1,5 +1,25 @@
 [
   {
+    "title": "Ember CRM",
+    "author_ids": [
+      99
+    ],
+    "date": "2013-12-08",
+    "url": "https://www.youtube.com/watch?v=WIlxQYTA0QY",
+    "videos": [
+      "https://www.youtube.com/watch?v=WIlxQYTA0QY",
+      "http://youtu.be/cYH3PubPEfs",
+      "http://youtu.be/vBhaLf9QdbQ",
+      "http://youtu.be/N0DsAF0-oMk",
+      "http://youtu.be/ItJ7FwO-NFQ",
+      "http://youtu.be/TJMUQvEHUaQ",
+      "http://youtu.be/SRQIZPDdvAU",
+      "http://youtu.be/uZrsfA1_Gwg",
+      "http://youtu.be/q9pFPQ-J-Cs",
+      "http://youtu.be/8ARzFpwEeZ4"
+    ]
+  },
+  {
     "title": "Build an Ember.js App",
     "author_ids": [
       94
