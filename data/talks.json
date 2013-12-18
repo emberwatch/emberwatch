@@ -1,5 +1,19 @@
 [
   {
+    "title": "Complex Architectures in Ember",
+    "date": "2013-08-30",
+    "event_id": 12,
+    "author_ids": [
+      57
+    ],
+    "videos": [
+      "http://www.infoq.com/presentations/emberjs-messages-views-controller-router"
+    ],
+    "url": "http://emberfest.eu/munich",
+    "slides": "http://www.infoq.com/presentations/emberjs-messages-views-controller-router",
+    "id": 128
+  },
+  {
     "title": "More Components",
     "date": "2013-11-21",
     "event_id": 3,
