@@ -1,5 +1,14 @@
 [
   {
+    "title": "Developing an Ember Edge",
+    "author_ids": [
+      100, 101, 80, 66
+    ],
+    "publisher": "Bleeding Edge Press",
+    "url": "http://bleedingedgepress.com/our-books/developing-an-ember-edge/",
+    "price": "$19.95"
+  },
+  {
     "title": "Heretical Guide to Ember.js",
     "author_ids": [
       53
