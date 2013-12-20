@@ -1,5 +1,17 @@
 [
   {
+    "title": "Off the Menu: Building a Client-Side With Ember and Rails",
+    "date": "2013-10-09",
+    "author_ids": [
+      1
+    ],
+    "videos": [
+      "http://railsisrael2013.events.co.il/presentations/849-off-the-menu-building-a-client-side-with-ember-and-rails"
+    ],
+    "url": "http://railsisrael2013.events.co.il/presentations/849-off-the-menu-building-a-client-side-with-ember-and-rails",
+    "id": 129
+  },
+  {
     "title": "Complex Architectures in Ember",
     "date": "2013-08-30",
     "event_id": 12,
