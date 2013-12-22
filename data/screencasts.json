@@ -1,5 +1,18 @@
 [
   {
+    "title": "Warming Up With Ember.js",
+    "author_ids": [
+      102
+    ],
+    "date": "2013-12-19",
+    "url": "https://www.codeschool.com/courses/warming-up-with-emberjs",
+    "videos": [
+      "https://www.codeschool.com/courses/warming-up-with-emberjs"
+    ],
+    "price":  "$25 /m",
+    "series": "CodeSchool"
+  },
+  {
     "title": "Ember CRM",
     "author_ids": [
       99
@@ -51,7 +64,7 @@
     "videos": [
       "https://tutsplus.com/course/ember-for-beginners/"
     ],
-    "price": "25 p/m"
+    "price": "25 /m"
   },
   {
     "title": "Hands on: Ember",
@@ -63,7 +76,7 @@
     "videos": [
       "https://tutsplus.com/course/hands-on-emberjs/"
     ],
-    "price": "25 p/m"
+    "price": "25 /m"
   },
   {
     "title": "Integration Testing Ember.js Apps",
@@ -288,7 +301,7 @@
     "videos": [
       "https://tutsplus.com/course/lets-learn-ember/"
     ],
-    "price": "$19 p/m"
+    "price": "$19 /m"
   },
   {
     "title": "Ember Part 2",
@@ -296,7 +309,7 @@
       35
     ],
     "date": "2013-03-12",
-    "price": "$9 p/m",
+    "price": "$9 /m",
     "url": "http://railscasts.com/episodes/410-ember-part-2",
     "videos": [
       "http://railscasts.com/episodes/410-ember-part-2"
@@ -309,7 +322,7 @@
       35
     ],
     "date": "2013-03-04",
-    "price": "$9 p/m",
+    "price": "$9 /m",
     "url": "http://railscasts.com/episodes/408-ember-part-1",
     "videos": [
       "http://railscasts.com/episodes/408-ember-part-1"
