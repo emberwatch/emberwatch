@@ -1,5 +1,44 @@
 [
   {
+    "title": "Offline Support with Ember.js",
+    "date": "2013-12-12",
+    "author_ids": [
+      50
+    ],
+    "videos": [
+      "http://vimeo.com/81960884"
+    ],
+    "event_id": 13,
+    "url": "http://www.meetup.com/London-Emberjs-User-Group/events/153776002/",
+    "id": 132
+  },
+  {
+    "title": "Fireplace, a Firebase Adapter for Ember.js",
+    "date": "2013-12-12",
+    "author_ids": [
+      103
+    ],
+    "videos": [
+      "http://vimeo.com/81960885"
+    ],
+    "event_id": 13,
+    "url": "http://www.meetup.com/London-Emberjs-User-Group/events/153776002/",
+    "id": 131
+  },
+  {
+    "title": "Testing Ember.js",
+    "date": "2013-12-12",
+    "author_ids": [
+      100
+    ],
+    "videos": [
+      "http://vimeo.com/81988531"
+    ],
+    "event_id": 13,
+    "url": "http://www.meetup.com/London-Emberjs-User-Group/events/153776002/",
+    "id": 130
+  },
+  {
     "title": "Off the Menu: Building a Client-Side With Ember and Rails",
     "date": "2013-10-09",
     "author_ids": [
