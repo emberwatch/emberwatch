@@ -1,5 +1,44 @@
 [
   {
+    "title": "Ember.js and benchmarks for all",
+    "date": "2013-12-12",
+    "author_ids": [
+      52
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=W0BU6TH6C-M#t=3648"
+    ],
+    "event_id": 9,
+    "url": "http://www.meetup.com/Boston-Ember-js/events/150933552/",
+    "id": 135
+  },
+  {
+    "title": "Ember App Kit Rails and Pizza Time App",
+    "date": "2013-12-12",
+    "author_ids": [
+      105, 106
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=W0BU6TH6C-M#t=2150"
+    ],
+    "event_id": 9,
+    "url": "http://www.meetup.com/Boston-Ember-js/events/150933552/",
+    "id": 134
+  },
+  {
+    "title": "Ember Components - Building Expressive Markup",
+    "date": "2013-12-12",
+    "author_ids": [
+      104
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=W0BU6TH6C-M"
+    ],
+    "event_id": 9,
+    "url": "http://www.meetup.com/Boston-Ember-js/events/150933552/",
+    "id": 133
+  },
+  {
     "title": "Offline Support with Ember.js",
     "date": "2013-12-12",
     "author_ids": [
