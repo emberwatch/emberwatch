@@ -1,0 +1,103 @@
+---
+- title: An In-Depth Introduction to Ember.js
+  author_ids:
+  - 84
+  date: '2013-11-07'
+  urls:
+  - http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/
+  code: https://github.com/jkneb/ember-crud
+  demo: http://jkneb.github.io/ember-crud/
+- title: Write a CRUD App without Ember Data
+  author_ids:
+  - 78
+  date: '2013-09-25'
+  urls:
+  - http://embersherpa.com/articles/crud-example-app-without-ember-data/
+  code: https://github.com/taras/ember-crud-example
+  demo: http://embersherpa.com/articles/crud-example-app-without-ember-data/app
+- title: An Ember.js beginners tutorial
+  author_ids:
+  - 76
+  date: '2013-09-13'
+  urls:
+  - http://www.williamhart.info/an-emberjs-beginners-tutorial.html
+  code: https://gist.github.com/will-hart/6550313
+  demo: http://dev.williamhart.info/ember_roller/
+- title: Ember.js Getting Started Guide
+  author_ids:
+  - 7
+  date: '2013-05-30'
+  urls:
+  - http://emberjs.com/guides/getting-started/
+  code: https://github.com/tastejs/todomvc/tree/gh-pages/architecture-examples/emberjs
+  demo: http://todomvc.com/architecture-examples/emberjs/
+- title: Getting Started with Ember.js
+  author_ids:
+  - 41
+  date: '2013-04-13'
+  urls:
+  - http://tech.pro/tutorial/1166/getting-started-with-emberjs
+  code: https://github.com/jessecravens/techpro-emberjs
+- title: Getting Into Ember.js
+  author_ids:
+  - 36
+  date: '2013-03-14'
+  urls:
+  - http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js/
+  - http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js-part-2/
+  - http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js-part-3/
+  - http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-part-4/
+  - http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js-part-5/
+- title: Getting Started with Ember Data
+  author_ids:
+  - 22
+  date: '2013-02-22'
+  urls:
+  - http://twbrandt.github.com/2013/02/22/Ember-Data-Quick-Start-Guide/
+  code: https://github.com/twbrandt/ember_data_demo
+- title: Getting Started with Ember.js
+  author_ids:
+  - 22
+  date: '2013-02-11'
+  urls:
+  - http://twbrandt.github.com/
+- title: Building an Ember App with Rails API
+  author_ids:
+  - 29
+  date: '2013-01-07'
+  urls:
+  - http://reefpoints.dockyard.com/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1.html
+  - http://reefpoints.dockyard.com/ember/2013/01/09/building-an-ember-app-with-rails-api-part-2.html
+  - http://reefpoints.dockyard.com/ember/2013/01/10/building-an-ember-app-with-rails-api-part-3.html
+  code: https://github.com/bcardarella/ember-railsapi
+- title: Advice on & Instruction in the Use Of Ember.js
+  author_ids:
+  - 7
+  date: '2012-08-29'
+  urls:
+  - http://trek.github.com/
+  code: http://jsfiddle.net/Sly7/ZKXyg/
+- title: Writing an Ember.js App From Scratch
+  author_ids:
+  - 19
+  date: '2012-07-08'
+  urls:
+  - http://drewschrauf.com/blog/2012/07/08/writing-an-ember-js-app-from-scratch-part-1/
+  - http://drewschrauf.com/blog/2012/07/09/writing-an-ember-js-app-from-scratch-part-2/
+  code: https://github.com/drewschrauf/todo-example
+- title: Flame On! A beginner’s guide to Ember.js
+  author_ids:
+  - 16
+  date: '2012-05-15'
+  urls:
+  - http://www.adobe.com/devnet/html5/articles/flame-on-a-beginners-guide-to-emberjs.html
+  code: http://www.adobe.com/devnet/html5/articles/flame-on-a-beginners-guide-to-emberjs.html
+- title: Beginning Ember.js on Rails
+  author_ids:
+  - 10
+  date: '2012-01-31'
+  urls:
+  - http://www.cerebris.com/blog/2012/01/24/beginning-ember-js-on-rails-part-1/
+  - http://www.cerebris.com/blog/2012/01/26/beginning-ember-js-on-rails-part-2/
+  - http://www.cerebris.com/blog/2012/01/31/beginning-ember-js-on-rails-part-3/
+  code: https://github.com/dgeb/ember_rest_example

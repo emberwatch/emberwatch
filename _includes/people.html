@@ -1,0 +1,10 @@
+{% assign last_person = forloop.last %}
+{% for person in site.data.people %}
+  {% if person_id == person.id %}
+    {% if person.site %}
+      <a href="{{person.site}}">{{person.name}}</a>{% unless last_person %}, {% endunless %}
+    {% else %}
+      {{person.name}}{% unless last_person %}, {% endunless %}
+    {% endif %}
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,45 @@
+---
+title: Resources
+layout: default
+---
+<ul>
+  {% for talk in site.data.talks %}
+    <li id="talk-{{ talk.id }}">
+      <h5>
+        {% if talk.videos.size == 0 %}
+          {{talk.title}}{% if talk.subtitle %}: {{talk.subtitle}}{% endif %}
+        {% else %}
+          <a href="{{ talk.videos | first }}">
+            {{ talk.title }}{% if talk.subtitle %}: {{ talk.subtitle }}{% endif %}
+          </a>
+        {% endif %}
+        {% if talk.event_id %}
+          <span class="event-name">
+            {% for event in site.data.events %}
+              {% if talk.event_id == event.id %}
+                {{ event.name }}
+              {% endif %}
+            {% endfor %}
+          </span>
+        {% endif %}
+      </h5>
+      {% for person_id in talk.author_ids %}
+        {% include people.html %}
+      {% endfor %}
+      &middot; {{ talk.date | date: "%a %e %b %Y" }} &middot;
+      {% if talk.videos.size == 0 %}
+        Video
+      {% else %}
+        <a href="{{ talk.videos | first }}">Video</a>
+      {% endif %} &middot;
+      {% if talk.slides %}
+        <a href="{{ talk.slides }}">Slides</a>
+      {% else %}
+        Slides
+      {% endif %}
+      {% if talk.url %}
+        &middot; <a href="{{ talk.url }}">Details</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

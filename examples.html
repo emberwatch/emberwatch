@@ -1,0 +1,19 @@
+---
+title: Examples
+layout: default
+---
+<ul>
+  {% for example in site.data.examples %}
+    <li>
+      <h5>
+        <a href="{{ example.code }}">{{ example.title }}</a>
+      </h5>
+      {% if example.url %}
+        <a href="{{ example.url }}">Description</a> &middot;
+      {% endif %}
+      {% if example.demo %}
+        <a href="{{ example.demo }}">Demo</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

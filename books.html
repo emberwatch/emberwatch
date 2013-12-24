@@ -1,0 +1,21 @@
+---
+title: Books
+layout: default
+---
+<ul>
+  {% for book in site.data.books %}
+    <li>
+      <h5>
+        <a href="{{ book.url }}">{{ book.title}}</a>
+        {% if book.price %}&nbsp;&nbsp;{{ book.price }}{% endif %}
+      </h5>
+      {% for person_id in book.author_ids %}
+        {% include people.html %}
+      {% endfor %}
+      &middot;
+      {{ book.publisher }}
+      &middot;
+      <a href="{{ book.url }}">Details</a>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,33 @@
+---
+title: Tutorials
+layout: default
+---
+<ul>
+  {% for tutorial in site.data.tutorials %}
+    <li>
+      <h5>
+        <a href="{{ tutorial.urls | first }}">
+          {{tutorial.title}}
+        </a>
+      </h5>
+      {% for person_id in tutorial.author_ids %}
+        {% include people.html %}
+      {% endfor %}
+      &middot;
+      {{ tutorial.date | date: "%a %e %b %Y" }}
+      &middot;
+      {% for url in tutorial.urls %}
+        {% if forloop.length == 1 %}
+          <a href="{{url}}">Tutorial</a>
+        {% else %}
+          <a href="{{url}}">Part {{forloop.index}}</a>
+          {% unless forloop.last%} &middot; {% endunless %}
+        {% endif %}
+      {% endfor %}
+ 
+      {% if tutorial.code %}
+        &middot; <a href="{{tutorial.code}}">Code</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
