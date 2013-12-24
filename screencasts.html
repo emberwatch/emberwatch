@@ -1,0 +1,24 @@
+---
+title: Screencasts
+layout: default
+---
+<ul>
+  {% for screencast in site.data.screencasts %}
+    <li>
+      <h5>
+        <a href="{{ screencast.url }}">
+          {{ screencast.title }}{% if screencast.subtitle %}: {{ screencast.subtitle }}{% endif %}
+        </a>
+      </h5>
+      {% for person_id in screencast.author_ids %}
+        {% include people.html %}
+      {% endfor %}
+      &middot;
+      {{ screencast.date | date: "%a %e %b %Y" }}
+      &middot;
+      <a href="{{ screencast.videos | first }}">Video</a>
+      &middot;
+      <a href="{{ screencast.url }}">Details</a>
+    </li>
+  {% endfor %}
+</ul>

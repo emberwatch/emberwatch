@@ -1,0 +1,34 @@
+---
+- title: Developing an Ember Edge
+  author_ids:
+  - 100
+  - 101
+  - 80
+  - 66
+  publisher: Bleeding Edge Press
+  url: http://bleedingedgepress.com/our-books/developing-an-ember-edge/
+  price: $19.95
+- title: Heretical Guide to Ember.js
+  author_ids:
+  - 53
+  publisher: Self-Published
+  url: http://gilesbowkett.blogspot.co.uk/2013/06/heretical-guide-to-ember-js.html
+  price: $47
+- title: Ember.js in Action
+  author_ids:
+  - 18
+  publisher: Manning
+  url: http://manning.com/skeie/
+  price: $35.99
+- title: Instant Ember.js Application Development How-to
+  publisher: Packt
+  author_ids:
+  - 25
+  url: http://www.packtpub.com/emberjs-application-development/book
+  price: $6.99
+- title: ! 'Master Space and Time With JavaScript Book 4: Ember'
+  author_ids:
+  - 24
+  publisher: Self-Published
+  url: http://www.noelrappin.com/
+  price: $7

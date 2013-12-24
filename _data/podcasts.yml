@@ -1,0 +1,155 @@
+---
+- title: Ember.js & Discourse
+  episode: 86
+  host: JavaScript Jabber
+  member_ids:
+  - 63
+  date: '2013-11-29'
+  duration: '1:03:38'
+  url: http://javascriptjabber.com/086-jsj-ember-js-discourse-with-robin-ward/
+- title: Brian Cardarella
+  episode: 12
+  host: Ember Hot Seat
+  member_ids:
+  - 29
+  date: '2013-09-10'
+  duration: '38:01'
+  url: http://emberhotseat.com/2013/09/10/ember-hot-seat-episode-012.html
+- title: Ember.js with Yehuda Katz and Tom Dale
+  episode: 23
+  host: Gaslight Podcast
+  member_ids:
+  - 1
+  - 2
+  date: '2013-08-29'
+  duration: '43:38'
+  url: http://gaslight.co/blog/ember-dot-js-with-yehuda-katz-and-tom-dale
+- title: Stefan Penner
+  episode: 11
+  host: Ember Hot Seat
+  member_ids:
+  - 54
+  date: '2013-08-28'
+  duration: '47:53'
+  url: http://emberhotseat.com/2013/08/28/ember-hot-seat-episode-11.html
+- title: Luke Melia
+  episode: 10
+  host: Ember Hot Seat
+  member_ids:
+  - 4
+  date: '2013-08-13'
+  duration: '51:43'
+  url: http://emberhotseat.com/2013/08/13/ember-hot-seat-episode-10.html
+- title: Eric Berry
+  episode: 9
+  host: Ember Hot Seat
+  member_ids:
+  - 61
+  date: '2013-08-05'
+  duration: '33:25'
+  url: http://emberhotseat.com/2013/08/05/ember-hot-seat-episode-009.html
+- title: Alex Matchneer
+  episode: 8
+  host: Ember Hot Seat
+  member_ids:
+  - 45
+  date: '2013-07-24'
+  duration: '36:01'
+  url: http://emberhotseat.com/2013/07/24/ember-hot-seat-episode-008.html
+- title: Yehuda Katz
+  episode: 7
+  host: Ember Hot Seat
+  member_ids:
+  - 1
+  date: '2013-07-19'
+  duration: '51:34'
+  url: http://emberhotseat.com/2013/07/19/ember-hot-seat-episode-007.html
+- title: James Rosen
+  episode: 6
+  host: Ember Hot Seat
+  member_ids:
+  - 59
+  date: '2013-07-18'
+  duration: '35:59'
+  url: http://emberhotseat.com/2013/07/18/ember-hot-seat-episode-006.html
+- title: Gordon Hempton
+  episode: 5
+  host: Ember Hot Seat
+  member_ids:
+  - 40
+  date: '2013-07-17'
+  duration: '22:17'
+  url: http://emberhotseat.com/2013/07/17/ember-hot-seat-episode-005.html
+- title: Toran Billups
+  episode: 4
+  host: Ember Hot Seat
+  member_ids:
+  - 11
+  date: '2013-07-16'
+  duration: 37m 12s
+  url: http://emberhotseat.com/2013/07/16/ember-hot-seat-episode-004.html
+- title: Adam Hawkins
+  episode: 3
+  host: Ember Hot Seat
+  member_ids:
+  - 20
+  date: '2013-06-26'
+  duration: 38m 23s
+  url: http://emberhotseat.com/2013/06/26/ember-hot-seat-episode-003.html
+- title: Ember Tools with Ryan Florence
+  episode: 64
+  host: JavaScript Jabber
+  member_ids:
+  - 43
+  date: '2013-06-21'
+  duration: 49m 56s
+  url: http://javascriptjabber.com/064-jsj-ember-tools-with-ryan-florence/
+- title: Tom Dale and Rob Conery on the Ember.js / AngularJS Cage Match at NDC
+  episode: 169
+  host: Herding Code
+  member_ids:
+  - 2
+  date: '2013-06-17'
+  duration: 36m 19s
+  url: http://herdingcode.com/herding-code-169-tom-dale-and-rob-conery-on-the-emberjs-angularjs-cage-match-at-ndc/
+- title: Not Everything Needs to be Extracted
+  episode: 53
+  host: Giant Robots Smashing into Other Giant Robots
+  member_ids:
+  - 1
+  - 2
+  date: '2013-06-17'
+  duration: 38m 29s
+  url: http://learn.thoughtbot.com/podcast/53
+- title: Kasper Tidemann
+  episode: 2
+  host: Ember Hot Seat
+  member_ids:
+  - 50
+  date: '2013-06-12'
+  duration: '37.52'
+  url: http://emberhotseat.com/2013/06/12/ember-hot-seat-episode-002.html
+- title: Tom Dale
+  episode: 1
+  host: Ember Hot Seat
+  member_ids:
+  - 2
+  date: '2013-06-04'
+  duration: 39m 06s
+  url: http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001.html
+- title: The JavaScript Frameworks Panel
+  episode: 1
+  host: Philadelphia Emerging Technologies for the Enterprise
+  member_ids:
+  - 1
+  date: '2013-04-09'
+  duration: 1h 5m 34s
+  url: http://emergingtech.chariotsolutions.com/2013/04/techcast-ete-2013-session-1-the-ete-javascript-frameworks-panel/
+- title: Ember.js
+  episode: 34
+  host: JavaScript Jabber
+  member_ids:
+  - 7
+  date: '2012-11-02'
+  duration: 50m 11s
+  url: http://javascriptjabber.com/034-jsj-ember-js/

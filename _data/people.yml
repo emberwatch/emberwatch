@@ -1,0 +1,438 @@
+---
+- id: 1
+  name: Yehuda Katz
+  github: wycats
+  twitter: wycats
+  speakerdeck: wycats
+  site: http://yehudakatz.com/
+  company_id: 1
+- id: 2
+  name: Tom Dale
+  github: tomdale
+  twitter: tomdale
+  speakerdeck: tomdale
+  site: http://tomdale.net/
+  company_id: 1
+- id: 3
+  name: Peter Wagenet
+  github: wagenet
+  twitter: wagenet
+  slideshare: pwagenet
+  site: http://www.emberist.com/
+  company_id: 1
+- id: 4
+  name: Luke Melia
+  twitter: lukemelia
+  github: lukemelia
+  speakerdeck: lukemelia
+  site: http://www.lukemelia.com/
+  company_id: 2
+- id: 5
+  name: Mark Mansour
+- id: 6
+  name: Garret Alfert
+- id: 7
+  name: Trek Glowacki
+  twitter: trek
+  github: trek
+  site: http://trek.github.com
+  company_id: 3
+- id: 8
+  name: Andy Leeper
+  github: leepfrog
+  company_id: 4
+- id: 9
+  name: Ray Cohen
+  github: raycohen
+  twitter: raycohen
+  site: http://raycohen.com
+- id: 10
+  name: Dan Gebhardt
+  github: dgeb
+  twitter: dgeb
+  site: http://www.cerebris.com/blog/
+- id: 11
+  name: Toran Billups
+  github: toranb
+  twitter: toranb
+  site: http://www.toranbillups.com/
+- id: 12
+  name: James Croft
+  github: crofty
+  twitter: james_croft
+  site: http://matchingnotes.com/
+- id: 13
+  name: Tony Sherbondy
+- id: 14
+  name: Jeremy Mack
+  github: mutewinter
+  twitter: mutewinter
+  site: http://pileofturtles.com/
+- id: 15
+  name: Christopher Meiklejohn
+  twitter: cmeik
+  github: cmeiklejohn
+  site: http://christophermeiklejohn.com/
+- id: 16
+  name: Andy Matthews
+  twitter: commadelimited
+  github: commadelimited
+  site: http://andymatthews.net/
+- id: 17
+  name: Diego Muñoz Escalante
+  github: escalant3
+  twitter: escalant3
+  site: http://about.me/escalant3
+- id: 18
+  name: Joachim Haagen Skeie
+  github: joachimhs
+  twitter: joachimhs
+  site: http://haagen.name/
+- id: 19
+  name: Drew Schrauf
+  github: drewschrauf
+  twitter: drewschrauf
+  site: http://drewschrauf.com/
+- id: 20
+  name: Adam Hawkins
+  github: twinturbo
+  twitter: adman65
+  site: http://broadcastingadam.com/
+- id: 21
+  name: Anthony Bull
+  github: inkredabull
+  twitter: inkredabull
+  site: http://anthonybull.com/
+- id: 22
+  name: Tom Brandt
+  twitter: twbrandt
+  github: twbrandt
+  site: http://twbrandt.github.com
+- id: 23
+  name: Geoffrey Grosenbach
+  twitter: topfunky
+  github: topfunky
+  site: https://peepcode.com/
+- id: 24
+  name: Noel Rappin
+  twitter: noelrap
+  github: noelrappin
+  site: http://www.noelrappin.com/
+- id: 25
+  name: Marc Bodmer
+  twitter: marcbodmer
+  github: m-bodmer
+  site: http://www.mbodmer.com/
+- id: 26
+  name: Benoît Lemoine
+  twitter: benoit_lemoine
+  github: blemoine
+- id: 27
+  name: Mathieu Breton
+  twitter: MatBreton
+  github: mbreton
+- id: 28
+  name: Jeff Atwood
+  twitter: codinghorror
+  site: http://www.codinghorror.com/
+- id: 29
+  name: Brian Cardarella
+  site: http://dockyard.com/
+- id: 30
+  name: Mads Kristensen
+  site: http://madskristensen.net/
+- id: 31
+  name: Igor Terzic
+- id: 32
+  name: Jo Liss
+  site: http://www.solitr.com/blog/
+- id: 33
+  name: Kristofor Selden
+  site: http://krisselden.com/
+- id: 34
+  name: Justin Giancola
+- id: 35
+  name: Ryan Bates
+  site: http://railscasts.com
+- id: 36
+  name: Rey Bango
+  twitter: reybango
+  site: http://blog.reybango.com/
+- id: 37
+  name: Lukas Zielinkski
+  site: http://www.lukaszielinski.de/
+- id: 38
+  name: Peter Bergstrom
+- id: 39
+  name: Erik Bryn
+  twitter: ebryn
+  site: http://erikbryn.com
+- id: 40
+  name: Gordon L. Hempton
+  site: http://codebrief.com/
+- id: 41
+  name: Jesse Cravens
+  github: jessecravens
+  twitter: jdcravens
+  site: http://jessecravens.com/
+- id: 42
+  name: José Mota
+  twitter: josemotanet
+  site: http://josemota.net/
+- id: 43
+  name: Ryan Florence
+  twitter: ryanflorence
+  site: http://ryanflorence.com/
+- id: 44
+  name: Mark Bates
+  site: http://metabates.com/
+- id: 45
+  name: Alex Matchneer
+  twitter: machty
+  site: http://alexmatchneer.com/
+- id: 46
+  name: Benjamin Rhodes
+- id: 47
+  name: Gabriel Grant
+  twitter: gabrielmgrant
+  site: http://gabrielgrant.ca
+  github: gabrielgrant
+- id: 48
+  name: Igor Terzic
+  twitter: terzicigor
+  github: igorT
+- id: 49
+  name: Ryan Toronto
+  github: ryanto
+  site: http://ryanto.github.io/
+- id: 50
+  name: Kasper Tidemann
+  twitter: KasperTidemann
+  github: KasperTidemann
+  site: http://www.kaspertidemann.com/
+- id: 51
+  name: Justin Gordon
+  twitter: railsonmaui
+  github: justin808
+  site: http://www.railsonmaui.com/
+- id: 52
+  name: Alex Navasardyan
+  twitter: twokul
+  github: twokul
+  site: http://navasardyan.net/
+- id: 53
+  name: Giles Bowkett
+  twitter: gilesgoatboy
+  github: gilesbowkett
+  site: http://gilesbowkett.blogspot.co.uk/
+- id: 54
+  name: Stefan Penner
+  twitter: stefanpenner
+  github: stefanpenner
+  site: http://iamstef.net/
+- id: 55
+  name: Michael Grassotti
+  twitter: mgrassotti
+  github: mikegrassotti
+  site: http://mikegrassotti.github.io/
+- id: 56
+  name: Domenic Denicola
+  twitter: domenic
+  github: domenic
+  site: http://domenicdenicola.com/
+- id: 57
+  name: Matthew Beale
+  twitter: mixonic
+  github: mixonic
+  site: http://madhatted.com/
+- id: 58
+  name: Jeffrey Biles
+  twitter: jeffreybiles
+  github: jeffreybiles
+  site: http://jeffreybiles.com/
+- id: 59
+  name: James A Rosen
+  twitter: jamesarosen
+  github: jamesarosen
+  site: http://jamesarosen.com/
+- id: 60
+  name: Katie Gengler
+  twitter: katiegengler
+  github: kategengler
+  site: http://codeallday.com/
+- id: 61
+  name: Eric Berry
+  twitter: cavneb
+  github: cavneb
+  site: http://coderberry.me/
+- id: 62
+  name: Paul Chavard
+  twitter: tchak13
+  github: tchak
+  site: http://tchak.net/
+- id: 63
+  name: Robin Ward
+  twitter: evil_trout
+  github: eviltrout
+  site: http://eviltrout.com/
+- id: 64
+  name: Jiří Zajpt
+  twitter: jzajpt
+  github: jzajpt
+  site: http://jzajpt.github.io/
+- id: 65
+  name: Damien Mathieu
+  github: dmathieu
+  twitter: https://twitter.com/dmathieu
+  site: http://dmathieu.com/
+- id: 66
+  name: Bradley Priest
+  twitter: bradleypriest
+  github: bradleypriest
+  site: http://bradleypriest.com
+- id: 67
+  name: Karl Guillotte
+  twitter: karlguillotte
+  github: karlguillotte
+  site: http://about.me/karl.guillotte
+- id: 68
+  name: Rem Zolotykh
+  twitter: remzolotykh
+  github: remchi
+  site: http://remchi.me/
+- id: 69
+  name: Brandon Hays
+  twitter: tehviking
+  github: tehviking
+  site: http://brandonhays.com/blog/
+- id: 70
+  name: Andre Malan
+  twitter: ramcio
+  github: andremalan
+  site: http://andremalan.net/
+- id: 71
+  name: Irvin Zhan
+  twitter: IrvinZhan
+  github: izhan
+- id: 72
+  name: Gavin Joyce
+  twitter: gavinjoyce
+  github: gavinjoyce
+  site: http://www.gavinjoyce.com/
+- id: 73
+  name: John Allison
+  twitter: jrallison
+  github: jrallison
+  site: https://medium.com/@jrallison
+- id: 74
+  name: Tyler Love
+  twitter: tyleralove
+  github: tylr
+  site: http://tylr.org/
+- id: 75
+  name: Sam Selikoff
+  twitter: samselikoff
+  github: samselikoff
+  site: http://www.samselikoff.com/
+- id: 76
+  name: William Hart
+  twitter: wlhart
+  site: http://www.williamhart.info/
+- id: 77
+  name: Steve Kane
+  twitter: stv_kn
+  github: 4South
+- id: 78
+  name: Taras Mankovski
+  twitter: tarasm
+  github: taras
+- id: 79
+  name: Patrick Holloway
+  twitter: digitalpixelpro
+  github: patrickjholloway
+- id: 80
+  name: Wesley Workman
+  twitter: workmanw
+  github: workmanw
+  site: http://www.wesleyworkman.com/
+- id: 81
+  name: Sebastian Seilund
+  twitter: seilund
+  github: sebastianseilund
+  site: http://www.sebastianseilund.com/
+- id: 82
+  name: Alex Speller
+  twitter: alexspeller
+  github: alexspeller
+  site: http://alexspeller.com/
+- id: 83
+  name: Thomas Q. Brady
+  twitter: thomasqbrady
+  github: thomasqbrady
+  site: http://bashmodernquantity.com/
+- id: 84
+  name: Julien Knebel
+  twitter: julienknebel
+  github: jkneb
+  site: http://front-back.com/
+- id: 85
+  name: Jonathan Goldman
+  twitter: jonnii
+  site: http://jonnii.com/
+- id: 86
+  name: Thomas Boyt
+  twitter: thomasABoyt
+  site: http://www.thomasboyt.com/
+- id: 87
+  name: Matthew Rudy Jacobs
+  twitter: MatthewRudy
+- id: 88
+  name: Christopher Gammie
+  twitter: lindyhopchris
+- id: 89
+  name: James Daniels
+  twitter: jamesuriah
+- id: 90
+  name: Dennis Nazarov
+  twitter: Iiterature
+- id: 91
+  name: Roman Shtylman
+  twitter: defunctzombie
+- id: 92
+  name: Kevin Kornemann
+  twitter: kevinkornemann
+- id: 93
+  name: Thomas Herrmann
+- id: 94
+  name: Balint Erdi
+  twitter: baaz
+  github: balinterdi
+  site: http://balinterdi.com
+- id: 95
+  name: Anh-Kiet Ngo
+- id: 96
+  name: Colin Henry
+- id: 97
+  name: Stefan Fochler
+- id: 98
+  name: Sergey Bolshchikov
+- id: 99
+  name: David Adams
+- id: 100
+  name: Jamie White
+- id: 101
+  name: Christopher Sansone
+- id: 102
+  name: Adam Fortuna
+  twitter: adamfortuna
+- id: 103
+  name: Richard Livsey
+  twitter: rlivsey
+- id: 104
+  name: Eduardo Gutierrez
+- id: 105
+  name: Lin Reid
+  twitter: linstula
+- id: 106
+  name: Rmina Vargas
+  twitter: rsocci

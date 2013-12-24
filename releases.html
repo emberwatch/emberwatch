@@ -1,0 +1,22 @@
+---
+title: Releases
+layout: default
+---
+<ul>
+  {% for release in site.data.releases %}
+    <li>
+      <h5>
+        <a href="https://github.com/emberjs/ember.js/tree/{{ release.git }}">
+          {{ release.name }}
+        </a>
+      </h5>
+      {{ release.date | "%a %e %b %Y" }} &middot;
+      <a href="https://github.com/emberjs/ember.js/blob/{{ release.git }}/CHANGELOG">
+        Changelog
+      </a>
+      {% if release.blog %}
+        &middot; <a href="{{ release.blog }}">Announcement</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

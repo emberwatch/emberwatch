@@ -13,14 +13,12 @@
   <meta name="keywords" content="Ember.js,Ember,tutorial,screencast,video,talk,slides,post,JavaScript,MVC">
   <meta name="author" content="Philip Poots">
   <title>
-    <%= data.page.title || "EmberWatch" %>
+    Ember.js {{ page.title }} on EmberWatch
   </title>
 
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <%= stylesheet_link_tag "application" %>
-  <%= javascript_include_tag "all" %>
+  <link rel="stylesheet" type="text/css" href="/stylesheets/application.css">
 
-  <% if ENV['DEPLOY'] %>
   <!-- start Mixpanel -->
   <script type="text/javascript">(function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.1.min.js';d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?
 g=a[f]=[]:f="mixpanel";g.people=g.people||[];h="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config people.identify people.set people.increment".split(" ");for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.1})(document,window.mixpanel||[]);
@@ -31,10 +29,9 @@ mixpanel.init("d986d0aa139d6609419d50ff23c447c2");</script>
     mixpanel.track_links("#posts ul.tabs-content a", "Outbound Content", {'referrer': document.referrer });
     mixpanel.track_links(".top-bar .right a", "Outbound Twitter", {'referrer': document.referrer });
   </script>
-  <% end %>
 </head>
 
-<body class="<%= page_classes %>">
+<body>
   <div class="contain-to-grid">
     <nav class="top-bar">
       <ul>
@@ -48,11 +45,25 @@ mixpanel.init("d986d0aa139d6609419d50ff23c447c2");</script>
       </section>
     </nav>
   </div>
-  <%= yield %>
+  <div id="posts">
+    <dl class="sub-nav">
+      <dd {% if page.title == 'Resources' %}class="active"{% endif %}><a href="/">Talks</a></dd>
+      <dd {% if page.title == 'Screencasts' %}class="active"{% endif %}><a href="/screencasts.html">Screencasts</a></dd>
+      <dd {% if page.title == 'Tutorials' %}class="active"{% endif %}><a href="/tutorials.html">Tutorials</a></dd>
+      <dd {% if page.title == 'Books' %}class="active"{% endif %}><a href="/books.html">Books</a></dd>
+      <dd {% if page.title == 'Examples' %}class="active"{% endif %}><a href="/examples.html">Examples</a></dd>
+      <dd {% if page.title == 'Releases' %}class="active"{% endif %}><a href="releases.html">Releases</a></dd>
+      <dd {% if page.title == 'Podcasts' %}class="active"{% endif %}><a href="/podcasts.html">Podcasts</a></dd>
+      <dd {% if page.title == 'Libraries' %}class="active"{% endif %}><a href="/libraries.html">Libraries</a></dd>
+    </dl>
+    {{ content }}
+  </div>
   <div id="footer">
     <div id="wufoo-z7x3p9">
 Fill out my <a href="http://pootsbook.wufoo.com/forms/z7x3p9">online form</a>.
 </div>
+
+<script type="text/javascript" src="/javascripts/all.js"></script>
 <script type="text/javascript">var z7x3p9;(function(d, t) {
 var s = d.createElement(t), options = {
 'userName':'pootsbook', 
@@ -68,7 +79,6 @@ try { z7x3p9 = new WufooForm();z7x3p9.initialize(options);z7x3p9.display(); } ca
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
   </div>
-  <% if ENV['DEPLOY'] %>
   <script type="text/javascript">
     var _gauges = _gauges || [];
     (function() {
@@ -96,6 +106,5 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
   ga('create', 'UA-46110781-1', 'emberwatch.com');
   ga('send', 'pageview');
 </script>
-  <% end %>
 </body>
 </html>

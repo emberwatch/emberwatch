@@ -1,0 +1,31 @@
+---
+title: Libraries
+layout: default
+---
+<div class="panel">
+  See also <a href="http://emberaddons.com/">Ember Addons</a>.
+</div>
+<ul>
+  {% for library in site.data.libraries %}
+  <li>
+    <h5>
+      <a href="{{ library.github }}">{{ library.name }}</a>
+    </h5>
+    {% if library.contributor_ids %}
+      {% for person_id in library.contributor_ids %}
+        {% include people.html %}
+      {% endfor %}
+    {% endif %}
+
+    {% if library.url %}
+      &middot;
+      <a href="{{ library.url }}">Website</a>
+    {% endif %}
+
+    {% if library.video %}
+      &middot;
+      <a href="{{ library.video }}">Video</a>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>

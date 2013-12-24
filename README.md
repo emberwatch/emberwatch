@@ -1,6 +1,6 @@
 # EmberWatch Source
 
-This repository contains the development version of [emberwatch.com](http://emberwatch.com/).
+This repository contains [emberwatch.com](http://emberwatch.com/) as a Jekyll site.
 
 ## Goal
 
@@ -13,5 +13,5 @@ To get started:
 $ git clone git://github.com/emberwatch/emberwatch-source.git
 $ cd emberwatch-source
 $ bundle
-$ bundle exec middleman
+$ bundle exec jekyll serve
 ```
