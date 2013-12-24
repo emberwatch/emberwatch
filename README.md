@@ -18,4 +18,4 @@ $ jekyll serve
 
 ## Data
 
-The pages are populated by YAML in the `_data` folder.
+The pages are populated by YAML in the `_data` folder. People are normalized and referenced by id.
