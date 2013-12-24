@@ -5,6 +5,7 @@ This repository contains [emberwatch.com](http://emberwatch.com/) as a Jekyll si
 ## Goal
 
 Towards a definitive community-driven, curated collection of Ember.js resources.
+
 ## Setup
 
 To get started:
@@ -14,3 +15,7 @@ $ git clone git://github.com/emberwatch/emberwatch-source.git
 $ cd emberwatch-source
 $ jekyll serve
 ```
+
+## Organization
+
+The pages are populated by YAML in the `_data` folder.
