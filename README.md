@@ -16,6 +16,6 @@ $ cd emberwatch-source
 $ jekyll serve
 ```
 
-## Organization
+## Data
 
 The pages are populated by YAML in the `_data` folder.
