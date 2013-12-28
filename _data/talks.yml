@@ -1,4 +1,12 @@
 ---
+- title: Ember and JavaScript Frameworks
+  date: '2013-12-26'
+  author_ids:
+  - 2
+  videos:
+  - http://www.infoq.com/interviews/tom-dale-ember
+  url: http://www.infoq.com/interviews/tom-dale-ember
+  id: 136
 - title: Ember.js and benchmarks for all
   date: '2013-12-12'
   author_ids:
@@ -722,7 +730,7 @@
   date: '2013-05-23'
   event_id: 2
   url: http://www.meetup.com/EmberJS-NYC/events/116001112/
-  slides: 
+  slides:
   videos:
   - http://www.youtube.com/watch?feature=player_detailpage&v=ysduY0ocUoA#t=2067s
   id: 58
