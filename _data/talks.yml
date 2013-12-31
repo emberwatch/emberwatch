@@ -1,4 +1,14 @@
 ---
+- title: Ember.js Advanced Patterns
+  date: '2013-08-30'
+  event_id: 12
+  author_ids:
+  - 62
+  videos:
+  - http://www.infoq.com/presentations/emberjs-patterns-data
+  url: http://emberfest.eu/munich
+  slides: http://www.infoq.com/presentations/emberjs-patterns-data
+  id: 137
 - title: Ember and JavaScript Frameworks
   date: '2013-12-26'
   author_ids:
