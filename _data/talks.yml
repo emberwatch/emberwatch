@@ -1,4 +1,12 @@
 ---
+- title: The Rendering Revolution: Running Apps in the Browser with Ember.js
+  date: '2013-10-24'
+  author_ids:
+  - 7
+  videos:
+  - http://www.youtube.com/watch?v=_EKiaOElaag
+  url: http://www.atoschedule.com/events/the-rendering-revolution-running-apps-in-the-browser-with-ember-js
+  id: 138
 - title: Ember.js Advanced Patterns
   date: '2013-08-30'
   event_id: 12
