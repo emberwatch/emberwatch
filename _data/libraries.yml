@@ -60,3 +60,7 @@
   - 81
 - name: Ember CouchDB Kit
   github: https://github.com/roundscope/ember-couchdb-kit
+- name: Ember-Parallel
+  github: https://github.com/bengillies/ember-parallel
+- name: Ember-Cloaking
+  github: https://github.com/eviltrout/ember-cloaking
