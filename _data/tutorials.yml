@@ -1,4 +1,10 @@
 ---
+- title: 'Ember Components: A Deep Dive'
+  author_ids:
+  - 107
+  date: '2014-01-07'
+  urls:
+  - http://net.tutsplus.com/tutorials/javascript-ajax/ember-components-a-deep-dive/
 - title: An In-Depth Introduction to Ember.js
   author_ids:
   - 84
