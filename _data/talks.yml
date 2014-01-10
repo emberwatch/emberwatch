@@ -1,4 +1,23 @@
 ---
+- title: "Introducing Orbit.js"
+  date: '2014-01-09'
+  author_ids:
+  - 10
+  event_id: 9
+  videos:
+  - https://www.youtube.com/watch?v=vVDQY7kYV_8
+  slides: https://speakerdeck.com/dgeb/introducing-orbit-dot-js
+  url: http://www.meetup.com/Boston-Ember-js/events/155308152/
+  id: 139
+- title: "Ember-AppKit-Rails"
+  date: '2014-01-09'
+  author_ids:
+  - 29
+  event_id: 9
+  videos:
+  - https://www.youtube.com/watch?v=vVDQY7kYV_8#t=5420
+  url: http://www.meetup.com/Boston-Ember-js/events/155308152/
+  id: 140
 - title: "The Rendering Revolution: Running Apps in the Browser with Ember.js"
   date: '2013-10-24'
   author_ids:
