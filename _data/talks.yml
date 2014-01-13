@@ -1,4 +1,14 @@
 ---
+- title: "Ember-Data, the way forward"
+  date: '2013-08-30'
+  event_id: 12
+  author_ids:
+  - 48
+  videos:
+  - http://www.infoq.com/presentations/ember-data
+  url: http://emberfest.eu/munich
+  slides: http://www.infoq.com/presentations/ember-data
+  id: 141
 - title: "Introducing Orbit.js"
   date: '2014-01-09'
   author_ids:
