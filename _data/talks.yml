@@ -1,4 +1,12 @@
 ---
+- title: "Ember.js - An application framework for the future"
+  date: '2014-01-15'
+  author_ids:
+  - 18
+  videos:
+  - https://vimeo.com/84212104
+  url: http://thewcdc.net/conf/session/8
+  id: 142
 - title: "Ember-Data, the way forward"
   date: '2013-08-30'
   event_id: 12
