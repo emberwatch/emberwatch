@@ -1,4 +1,13 @@
 ---
+- title: Introduction to Ember
+  author_ids:
+  - 1
+  - 2
+  date: '2014-01-15'
+  url: http://www.tilde.io/events/introduction-to-ember-online/
+  videos:
+    - http://www.tilde.io/events/introduction-to-ember-online/
+  price: $799
 - title: Warming Up With Ember.js
   author_ids:
   - 102
