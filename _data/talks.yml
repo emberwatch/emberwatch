@@ -1,4 +1,31 @@
 ---
+- title: "Modular UI with (Angular || Ember)"
+  date: '2014-01-15'
+  event_id: 13
+  author_ids:
+  - 110
+  videos:
+  - https://vimeo.com/84355689
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/159233442/
+  id: 145
+- title: "Ember & OAuth"
+  date: '2014-01-15'
+  event_id: 13
+  author_ids:
+  - 87
+  videos:
+  - https://vimeo.com/84385535
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/159233442/
+  id: 144
+- title: "Ember Parallel"
+  date: '2014-01-15'
+  event_id: 13
+  author_ids:
+  - 109
+  videos:
+  - https://vimeo.com/84578340
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/159233442/
+  id: 143
 - title: "Ember.js - An application framework for the future"
   date: '2014-01-15'
   author_ids:
