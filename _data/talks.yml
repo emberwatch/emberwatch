@@ -1,4 +1,12 @@
 ---
+- title: "An Introduction to Ember.js"
+  date: '2013-12-12'
+  author_ids:
+  - 112
+  videos:
+  - http://www.youtube.com/watch?v=_lubCRPw17s
+  url: http://www.meetup.com/RubyJax/events/151623082/
+  id: 148
 - title: "The Ember Run Loop"
   date: '2014-01-23'
   event_id: 15
