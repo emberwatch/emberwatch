@@ -1,4 +1,14 @@
 ---
+- title: "The Ember Run Loop"
+  date: '2014-01-23'
+  event_id: 15
+  author_ids:
+  - 111
+  videos:
+  - http://www.youtube.com/watch?v=RLgPBM72LQw
+  url: http://www.meetup.com/EmberJS-SLC/events/155678492/
+  slides: http://knomedia.github.io/presentation_2014_01_23_ember_run_loop/
+  id: 147
 - title: "Testing Your Ember Applications"
   date: '2014-01-23'
   event_id: 15
