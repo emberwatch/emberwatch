@@ -1,4 +1,14 @@
 ---
+- title: "Testing Your Ember Applications"
+  date: '2014-01-23'
+  event_id: 15
+  author_ids:
+  - 61
+  videos:
+  - http://www.youtube.com/watch?v=GRT5YcXmm7E
+  url: http://www.meetup.com/EmberJS-SLC/events/155678492/
+  slides: http://coderberry.herokuapp.com/testing-your-ember-application
+  id: 146
 - title: "Modular UI with (Angular || Ember)"
   date: '2014-01-15'
   event_id: 13
