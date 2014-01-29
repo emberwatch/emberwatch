@@ -1,4 +1,12 @@
 ---
+- title: "Ember on Rails - Convention over Configuration on both sides of the tubes"
+  date: '2013-10-03'
+  author_ids:
+  - 94
+  videos:
+  - http://www.youtube.com/watch?v=AaoNtVt54FY
+  url: "http://arrrrcamp.be/talks#balint-erdi"
+  id: 149
 - title: "An Introduction to Ember.js"
   date: '2013-12-12'
   author_ids:
