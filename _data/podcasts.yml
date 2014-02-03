@@ -1,4 +1,12 @@
 ---
+- title: Erik Bryn
+  episode: 13
+  host: Ember Hot Seat
+  member_ids:
+  - 39
+  date: '2014-01-29'
+  duration: '32:38'
+  url: http://emberhotseat.com/2014/01/29/ember-hot-seat-episode-013.html
 - title: Ember.js & Discourse
   episode: 86
   host: JavaScript Jabber
