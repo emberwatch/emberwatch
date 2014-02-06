@@ -1,4 +1,49 @@
 ---
+- title: "Containers and Dependency Injection in Ember.js"
+  date: '2014-01-23'
+  event_id: 2
+  author_ids:
+  - 57
+  videos:
+  - http://www.youtube.com/watch?v=iCZUKFNXA0k#t=6318
+  url: "http://www.meetup.com/EmberJS-NYC/events/151950262/"
+  id: 154
+- title: "Building Realtime Apps with Firebase and Ember.js"
+  date: '2014-01-23'
+  event_id: 2
+  author_ids:
+  - 114
+  videos:
+  - http://www.youtube.com/watch?v=iCZUKFNXA0k#t=5418
+  url: "http://www.meetup.com/EmberJS-NYC/events/151950262/"
+  id: 153
+- title: "Introduction to the Ember.js Run Loop"
+  date: '2014-01-23'
+  event_id: 2
+  author_ids:
+  - 113
+  videos:
+  - http://www.youtube.com/watch?v=iCZUKFNXA0k#t=3265
+  url: "http://www.meetup.com/EmberJS-NYC/events/151950262/"
+  id: 152
+- title: "An HTMLBars Update"
+  date: '2014-01-23'
+  event_id: 2
+  author_ids:
+  - 45
+  videos:
+  - http://www.youtube.com/watch?v=iCZUKFNXA0k#t=2074
+  url: "http://www.meetup.com/EmberJS-NYC/events/151950262/"
+  id: 151
+- title: "Meet the Ember Inspector"
+  date: '2014-01-23'
+  event_id: 2
+  author_ids:
+  - 54
+  videos:
+  - http://www.youtube.com/watch?v=iCZUKFNXA0k#t=1464
+  url: "http://www.meetup.com/EmberJS-NYC/events/151950262/"
+  id: 150
 - title: "Ember on Rails - Convention over Configuration on both sides of the tubes"
   date: '2013-10-03'
   author_ids:
