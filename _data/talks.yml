@@ -7,6 +7,7 @@
   videos:
   - http://www.youtube.com/watch?v=iCZUKFNXA0k#t=6318
   url: "http://www.meetup.com/EmberJS-NYC/events/151950262/"
+  slides: http://www.slideshare.net/mixonic/containers-di
   id: 154
 - title: "Building Realtime Apps with Firebase and Ember.js"
   date: '2014-01-23'
@@ -25,6 +26,7 @@
   videos:
   - http://www.youtube.com/watch?v=iCZUKFNXA0k#t=3265
   url: "http://www.meetup.com/EmberJS-NYC/events/151950262/"
+  slides: http://bfbriggs.github.io/ember-run-loop#/
   id: 152
 - title: "An HTMLBars Update"
   date: '2014-01-23'
