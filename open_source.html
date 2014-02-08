@@ -1,0 +1,18 @@
+---
+title: Open Source
+layout: default
+---
+<ul>
+  {% for project in site.data.open_source %}
+    <li>
+      <h5>
+        <a href="{{ project.site }}">
+          {{ project.title }}
+        </a>
+      </h5>
+      <p>{{ project.description }} <br />
+        <a href="{{ project.code }}">Source Code</a>
+      </p>
+    </li>
+  {% endfor %}
+</ul>

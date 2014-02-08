@@ -1,0 +1,21 @@
+---
+- title: Discourse
+  code: https://github.com/discourse/discourse
+  site: http://try.discourse.org/
+  description: "Discourse is a free, open and simple platform for community discussion."
+- title: Travis CI
+  code: https://github.com/travis-ci/travis-web
+  site: https://travis-ci.org/
+  description: "The web client for Travis CI, a hosted continuous integration service for the open source community."
+- title: Balanced Dashboard
+  code: https://github.com/balanced/balanced-dashboard
+  site: https://dashboard.balancedpayments.com/#/start
+  description: "The dashboard for Balanced Payments, a payments solution for marketplaces."
+- title: Huboard
+  code: https://github.com/rauhryan/huboard
+  site: https://huboard.com
+  description: "Huboard is a Kanban board for GitHub Issues."
+- title: GiddyUp
+  code: https://github.com/basho/giddyup
+  site: http://giddyup.basho.com/
+  description: "A visual scorecard for riak_test, from Basho, creators of Riak."

@@ -1,13 +1,4 @@
 ---
-- title: Discourse
-  code: https://github.com/discourse/discourse
-  demo: http://www.discourse.org/
-- title: Travis CI
-  code: https://github.com/travis-ci/travis-web
-  demo: https://travis-ci.org/
-- title: GiddyUp
-  code: https://github.com/basho/giddyup
-  demo: http://giddyup.basho.com/
 - title: Todo MVC
   code: https://github.com/addyosmani/todomvc/tree/gh-pages/architecture-examples/emberjs
   demo: http://addyosmani.github.com/todomvc/architecture-examples/emberjs/
