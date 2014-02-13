@@ -32,3 +32,9 @@
   publisher: Self-Published
   url: http://www.noelrappin.com/
   price: $7
+- title: ! 'Ambitious Ember Applications'
+  author_ids:
+  - 115
+  publisher: Self-Published
+  url: https://leanpub.com/emberjs_applications
+  price: $12.99
