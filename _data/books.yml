@@ -38,3 +38,9 @@
   publisher: Self-Published
   url: https://leanpub.com/emberjs_applications
   price: $12.99
+- title: Ember.js - Testing on Rails
+  author_ids:
+  - 116
+  publisher: Self-Published
+  url: https://leanpub.com/emberjs-testingonrails
+  price: $15.00
