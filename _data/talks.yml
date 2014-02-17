@@ -1,4 +1,22 @@
 ---
+- title: "Iterating through Ember Data"
+  date: '2014-02-12'
+  event_id: 13
+  author_ids:
+  - 117
+  videos:
+  - https://vimeo.com/86715370
+  url: "http://www.meetup.com/London-Emberjs-User-Group/events/161526872/"
+  id: 156
+- title: "Integrating Ember.js into Existing Sites"
+  date: '2014-02-12'
+  event_id: 13
+  author_ids:
+  - 12
+  videos:
+  - https://vimeo.com/86698279
+  url: "http://www.meetup.com/London-Emberjs-User-Group/events/161526872/"
+  id: 155
 - title: "Containers and Dependency Injection in Ember.js"
   date: '2014-01-23'
   event_id: 2
