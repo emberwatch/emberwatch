@@ -64,3 +64,7 @@
   github: https://github.com/bengillies/ember-parallel
 - name: Ember-Cloaking
   github: https://github.com/eviltrout/ember-cloaking
+- name: Ember-Selectize
+  github: https://github.com/miguelcobain/ember-selectize
+- name: Ember-Leaflet
+  github: https://github.com/gabesmed/ember-leaflet
