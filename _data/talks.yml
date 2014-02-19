@@ -1,4 +1,12 @@
 ---
+- title: "Awesome Ember Tricks"
+  date: '2013-12-07'
+  author_ids:
+  - 63
+  videos:
+  - http://www.youtube.com/watch?v=kBhGXX4zbXw
+  url: "http://fitc.ca/presentation/awesome-ember-tricks/"
+  id: 157
 - title: "Iterating through Ember Data"
   date: '2014-02-12'
   event_id: 13
