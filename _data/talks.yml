@@ -1,4 +1,31 @@
 ---
+- title: "HTMLBars, the future of templating in Ember.js"
+  date: '2014-02-27'
+  event_id: 2
+  author_ids:
+  - 39
+  videos:
+  - http://www.youtube.com/watch?v=vjBs07kgjq0#t=3584
+  url: "http://www.meetup.com/EmberJS-NYC/events/161760992/"
+  id: 161
+- title: "Building Vine.co"
+  date: '2014-02-27'
+  event_id: 2
+  author_ids:
+  - 120
+  videos:
+  - http://www.youtube.com/watch?v=vjBs07kgjq0#t=1807
+  url: "http://www.meetup.com/EmberJS-NYC/events/161760992/"
+  id: 160
+- title: "Ember Controller versus ObjectController"
+  date: '2014-02-27'
+  event_id: 2
+  author_ids:
+  - 119
+  videos:
+  - http://www.youtube.com/watch?v=vjBs07kgjq0#t=565
+  url: "http://www.meetup.com/EmberJS-NYC/events/161760992/"
+  id: 159
 - title: "Building NBCNEWS.com using Ember.js"
   date: '2014-03-06'
   author_ids:
