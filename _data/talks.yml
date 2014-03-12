@@ -1,4 +1,12 @@
 ---
+- title: "Building NBCNEWS.com using Ember.js"
+  date: '2014-03-06'
+  author_ids:
+  - 118
+  videos:
+  - http://www.youtube.com/watch?v=4ixw_5keMTc
+  url: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/166977452/"
+  id: 158
 - title: "Awesome Ember Tricks"
   date: '2013-12-07'
   author_ids:
