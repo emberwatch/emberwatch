@@ -1,4 +1,13 @@
 ---
+- title: "In Defense of Frameworks"
+  date: '2014-03-13'
+  author_ids:
+  - 1
+  - 2
+  videos:
+  - http://www.youtube.com/watch?v=jScLjUlLTLI
+  url: "http://fluentconf.com/fluent2014/public/schedule/detail/34996"
+  id: 162
 - title: "HTMLBars, the future of templating in Ember.js"
   date: '2014-02-27'
   event_id: 2
