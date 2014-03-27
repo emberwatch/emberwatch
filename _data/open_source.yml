@@ -19,3 +19,7 @@
   code: https://github.com/basho/giddyup
   site: http://giddyup.basho.com/
   description: "A visual scorecard for riak_test, from Basho, creators of Riak."
+- title: EmberFlare
+  code: https://github.com/ugisozols/emberflare.com
+  site: https://emberflare.com
+  description: "Community driven place for all things Ember.js."
