@@ -1,4 +1,8 @@
 ---
+- name: 1.5.0
+  date: '2014-03-29'
+  git: v1.5.0
+  blog: http://emberjs.com/blog/2014/03/30/ember-1-5-0-and-ember-1-6-beta-released.html
 - name: 1.4.0
   date: '2014-02-12'
   git: v1.4.0
