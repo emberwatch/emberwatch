@@ -1,4 +1,12 @@
 ---
+- title: "An intro to Ember.js @ LinkedIn"
+  date: '2014-03-31'
+  author_ids:
+  - 39
+  videos:
+  - https://www.youtube.com/watch?v=XlWcj41D-So
+  url: "https://www.youtube.com/watch?v=XlWcj41D-So"
+  id: 163
 - title: "In Defense of Frameworks"
   date: '2014-03-13'
   author_ids:
