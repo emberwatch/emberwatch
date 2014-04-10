@@ -1,4 +1,12 @@
 ---
+- title: Jeremy Mack
+  episode: 14
+  host: Ember Hot Seat
+  member_ids:
+  - 14
+  date: '2014-04-08'
+  duration: '42:34'
+  url: http://emberhotseat.com/2014/04/08/ember-hot-seat-episode-014.html
 - title: Ember interview with Tom Dale
   episode: 3
   host: Front-End Developer Cast
