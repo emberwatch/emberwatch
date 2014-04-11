@@ -1,4 +1,12 @@
 ---
+- title: Ember interview with Tom Dale
+  episode: 3
+  host: Front-End Developer Cast
+  member_ids:
+  - 2
+  date: '2014-03-28'
+  duration: '39:03'
+  url: http://www.funnyant.com/ember-js-interview-with-tom-dale/
 - title: Jeremy Mack
   episode: 14
   host: Ember Hot Seat
