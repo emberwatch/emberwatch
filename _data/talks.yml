@@ -1,4 +1,24 @@
 ---
+- title: "How to Learn Ember"
+  date: '2014-03-27'
+  event_id: 2
+  author_ids:
+  - 78
+  videos:
+  - https://www.youtube.com/watch?v=dWIJ5Wk3LG4#t=1665
+  url: "http://www.meetup.com/EmberJS-NYC/events/161761132/"
+  slides: https://speakerdeck.com/embersherpa/how-to-learn-ember
+  id: 166
+- title: "Sorting with Array Controllers"
+  date: '2014-03-27'
+  event_id: 2
+  author_ids:
+  - 121
+  videos:
+  - https://www.youtube.com/watch?v=dWIJ5Wk3LG4#t=1085
+  url: "http://www.meetup.com/EmberJS-NYC/events/161761132/"
+  slides: http://slides.com/estellagonzalezmadison/deck
+  id: 165
 - title: "Single Page Apps with Ember.js"
   date: '2014-03-28'
   author_ids:
