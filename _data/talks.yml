@@ -1,4 +1,12 @@
 ---
+- title: "Single Page Apps with Ember.js"
+  date: '2014-03-28'
+  author_ids:
+  - 119
+  videos:
+  - http://research.microsoft.com/apps/video/default.aspx?id=211742
+  url: "http://research.microsoft.com/apps/video/default.aspx?id=211742"
+  id: 164
 - title: "An intro to Ember.js @ LinkedIn"
   date: '2014-03-31'
   author_ids:
