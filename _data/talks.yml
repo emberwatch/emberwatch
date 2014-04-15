@@ -1,4 +1,86 @@
 ---
+- title: "Modeling the App Store and iTunes with Ember Data"
+  date: '2014-03-25'
+  event_id: 16
+  author_ids:
+  - 14
+  videos:
+  - https://www.youtube.com/watch?v=UQx4YklXKww
+  url: "http://emberconf.com/schedule.html#mack"
+  slides: http://emberconf.com/images/slides/2014_jmack.pdf
+  id: 174
+- title: "Ember Components Transclude My Directives"
+  date: '2014-03-25'
+  event_id: 16
+  author_ids:
+  - 125
+  videos:
+  - https://www.youtube.com/watch?v=SdMos6XdvWA
+  url: "http://emberconf.com/schedule.html#paul"
+  slides: "http://johnkpaul.github.io/presentations/emberconf/components-transclude-directives/#/"
+  id: 173
+- title: "Animations and Transitions in an Ember App"
+  date: '2014-03-25'
+  event_id: 16
+  author_ids:
+  - 124
+  videos:
+  - https://www.youtube.com/watch?v=yq1eS6KgK5A
+  url: "http://emberconf.com/schedule.html#faulkner"
+  slides: "http://ef4.github.io/ember-animation-demo/#/title-slide"
+  id: 172
+- title: "No more `grunt watch`: Modern build workflows with Broccoli"
+  date: '2014-03-25'
+  event_id: 16
+  author_ids:
+  - 32
+  videos:
+  - https://www.youtube.com/watch?v=PEb4BiXH4bE
+  url: "http://emberconf.com/schedule.html#liss"
+  slides: http://www.slideshare.net/jo_liss/broccoli-32911567
+  id: 171
+- title: "Ember Data and the Way Forward"
+  date: '2014-03-25'
+  event_id: 16
+  author_ids:
+  - 48
+  videos:
+  - https://www.youtube.com/watch?v=D3mC14NfJwc
+  url: "http://emberconf.com/schedule.html#terzic"
+  slides: "http://terzicigor.com/talks/index.html#/"
+  id: 170
+- title: "Contributing to Ember: The Inside Scoop"
+  date: '2014-03-25'
+  event_id: 16
+  author_ids:
+  - 123
+  videos:
+  - https://www.youtube.com/watch?v=RNuHN_iuV9Q
+  url: "http://emberconf.com/schedule.html#jackson"
+  slides: https://speakerdeck.com/rwjblue/contributing-to-ember
+  id: 169
+- title: "Using Ember to Make the Seemingly Impossible Easy"
+  date: '2014-03-25'
+  event_id: 16
+  author_ids:
+  - 70
+  - 122
+  videos:
+  - https://www.youtube.com/watch?v=JC8TOXe8TYM
+  url: "http://emberconf.com/schedule.html#kim"
+  slides: https://speakerdeck.com/simplereach/using-ember-to-make-the-seemingly-impossible-easy
+  id: 168
+- title: "Ember Conf 2014 Keynote"
+  date: '2014-03-25'
+  event_id: 16
+  author_ids:
+  - 1
+  - 2
+  videos:
+  - https://www.youtube.com/watch?v=pON2erqemDY
+  url: "http://emberconf.com/schedule.html"
+  slides: https://speakerdeck.com/tomdale/emberconf-2014-keynote
+  id: 167
 - title: "How to Learn Ember"
   date: '2014-03-27'
   event_id: 2

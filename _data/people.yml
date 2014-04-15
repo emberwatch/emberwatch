@@ -486,3 +486,18 @@
 - id: 121
   name: Estella Madison
   twitter: chicagoing
+- id: 122
+  name: Heyjin Kim
+  twitter: heyjinkim
+  site: http://heyjinjs.us/
+- id: 123
+  name: Robert Jackson
+  twitter: rwjblue
+  github: rjackson
+- id: 124
+  name: Edward Faulkner
+  github: ef4
+- id: 125
+  name: John K. Paul
+  twitter: johnkpaul
+  github: johnkpaul
