@@ -1,4 +1,15 @@
 ---
+- title: "HTMLBars: The Next-Generation of Templating in Ember.js"
+  date: '2014-03-25'
+  event_id: 16
+  author_ids:
+  - 33
+  - 39
+  videos:
+  - https://www.youtube.com/watch?v=HY4d-0Kzp68
+  url: "http://emberconf.com/schedule.html#bryn"
+  slides: http://talks.erikbryn.com/htmlbars-emberconf
+  id: 175
 - title: "Modeling the App Store and iTunes with Ember Data"
   date: '2014-03-25'
   event_id: 16
