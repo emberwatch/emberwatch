@@ -1,4 +1,54 @@
 ---
+- title: "Convergent/Divergent"
+  date: '2014-03-26'
+  event_id: 16
+  author_ids:
+  - 128
+  videos:
+  - https://www.youtube.com/watch?v=qyVNG7fnubQ
+  url: "http://emberconf.com/schedule.html#meiklejohn"
+  slides: https://speakerdeck.com/cmeiklejohn/divergent
+  id: 180
+- title: "The Future of Ember.Component"
+  date: '2014-03-26'
+  event_id: 16
+  author_ids:
+  - 45
+  videos:
+  - https://www.youtube.com/watch?v=Syv_OTzHOr0
+  url: "http://emberconf.com/schedule.html#matchneer"
+  slides: https://speakerdeck.com/machty/emberconf-2014-mr-router-embraces-the-controller-alex-matchneer
+  id: 179
+- title: "Ember is for the Children"
+  date: '2014-03-26'
+  event_id: 16
+  author_ids:
+  - 127
+  videos:
+  - https://www.youtube.com/watch?v=NCjlhOYD_bY
+  url: "http://emberconf.com/schedule.html#brown"
+  slides: https://speakerdeck.com/devarispbrown/ember-is-for-the-children
+  id: 178
+- title: "Software Productivity and Ember: Ember CLI"
+  date: '2014-03-26'
+  event_id: 16
+  author_ids:
+  - 54
+  videos:
+  - https://www.youtube.com/watch?v=4D8z3972h64
+  url: "http://emberconf.com/schedule.html#penner"
+  slides: http://static.iamstef.net/ember_conf_2014.pdf
+  id: 177
+- title: "The {{x-foo}} in You"
+  date: '2014-03-26'
+  event_id: 16
+  author_ids:
+  - 43
+  videos:
+  - https://www.youtube.com/watch?v=nVTXJyyBxQc
+  url: "http://emberconf.com/schedule.html#florence"
+  slides: https://github.com/rpflorence/talk-emberconf-2014
+  id: 176
 - title: "HTMLBars: The Next-Generation of Templating in Ember.js"
   date: '2014-03-25'
   event_id: 16
