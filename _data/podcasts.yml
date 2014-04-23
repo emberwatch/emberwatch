@@ -1,4 +1,12 @@
 ---
+- title: Developer Communities with Leah Silber
+  episode: 27
+  host: Gaslight Podcast
+  member_ids:
+  - 126
+  date: '2014-04-17'
+  duration: '30:55'
+  url: http://gaslight.co/blog/developer-communities-with-leah-silber
 - title: Robert Jackson
   episode: 15
   host: Ember Hot Seat
