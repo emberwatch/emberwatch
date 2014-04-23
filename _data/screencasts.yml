@@ -1,4 +1,11 @@
 ---
+- title: Setting up a serious Ember project
+  author_ids:
+  - 129
+  date: '2014-04-19'
+  url: http://blog.testdouble.com/posts/2014-04-19-setting-up-a-serious-ember-project.html
+  videos:
+    - http://blog.testdouble.com/posts/2014-04-19-setting-up-a-serious-ember-project.html
 - title: Introduction to Ember
   author_ids:
   - 1
