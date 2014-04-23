@@ -1,4 +1,12 @@
 ---
+- title: "Test-Driven Development of Ember.js Applications"
+  date: '2014-04-17'
+  author_ids:
+  - 130
+  videos:
+  - https://www.youtube.com/watch?v=dlkLgJ4G-pg
+  url: "http://mtnwestjs.org/2014/sessions#AntiTyping"
+  id: 181
 - title: "Convergent/Divergent"
   date: '2014-03-26'
   event_id: 16
