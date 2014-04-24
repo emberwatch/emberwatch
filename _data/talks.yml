@@ -1,4 +1,23 @@
 ---
+- title: "EmberConf and the State of Ember.js"
+  date: '2014-04-16'
+  event_id: 13
+  author_ids:
+  - 100
+  - 132
+  videos:
+  - https://vimeo.com/92531675
+  url: "http://www.meetup.com/London-Emberjs-User-Group/events/169917902/"
+  id: 183
+- title: "Making the Pieces Fit"
+  date: '2014-04-16'
+  event_id: 13
+  author_ids:
+  - 131
+  videos:
+  - https://vimeo.com/92505942
+  url: "http://www.meetup.com/London-Emberjs-User-Group/events/169917902/"
+  id: 182
 - title: "Test-Driven Development of Ember.js Applications"
   date: '2014-04-17'
   author_ids:
