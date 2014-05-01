@@ -23,3 +23,7 @@
   code: https://github.com/ugisozols/emberflare.com
   site: https://emberflare.com
   description: "Community driven place for all things Ember.js."
+- title: Full Stack JS Amber
+  code: https://github.com/mgenev/Full-Stack-JS-Amber
+  site: https://http://fullstackjs.io/
+  description: "A full Javascript stack boilerplate with Ember in the front and Node in the back"
