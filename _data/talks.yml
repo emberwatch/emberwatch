@@ -1,4 +1,12 @@
 ---
+- title: "Prototyping an Ember.js App in 20 Minutes"
+  date: '2014-04-24'
+  author_ids:
+  - 39
+  videos:
+  - https://www.youtube.com/watch?v=Hm8XsgKT0Qw
+  url: "https://www.youtube.com/watch?v=Hm8XsgKT0Qw"
+  id: 184
 - title: "EmberConf and the State of Ember.js"
   date: '2014-04-16'
   event_id: 13
