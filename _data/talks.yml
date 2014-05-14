@@ -1,4 +1,33 @@
 ---
+- title: "Methods to animate in Ember"
+  date: "2014-05-07"
+  author_ids:
+  - 135
+  event_id: 17
+  videos:
+  - "https://www.youtube.com/watch?v=YQyB-anJNss"
+  url: "http://www.meetup.com/Amsterdam-Ember-js/events/173182982/"
+  id: 187
+- title: "Minding the DOM"
+  date: "2014-05-07"
+  author_ids:
+  - 134
+  event_id: 17
+  videos:
+  - "https://www.youtube.com/watch?v=sVosGhMJN3M"
+  url: "http://www.meetup.com/Amsterdam-Ember-js/events/173182982/"
+  slides: "http://oscarlodriguez.nl/Labs/htmlbars/"
+  id: 186
+- title: "Ember Query Paramters"
+  date: "2014-05-07"
+  event_id: 17
+  author_ids:
+  - 133
+  videos:
+  - "https://www.youtube.com/watch?v=nyD7CRuA-PU"
+  url: "http://www.meetup.com/Amsterdam-Ember-js/events/173182982/"
+  slides: "http://metaphoric.nl/files/meetup-qp-presentation/"
+  id: 185
 - title: "Prototyping an Ember.js App in 20 Minutes"
   date: '2014-04-24'
   author_ids:
