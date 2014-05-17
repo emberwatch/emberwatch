@@ -1,4 +1,32 @@
 ---
+- title: "Testing with Mocha & Ember ES6 Generators"
+  date: "2014-05-14"
+  author_ids:
+  - 137
+  event_id: 18
+  videos:
+  - "https://www.youtube.com/watch?v=UodzA1ufyW4"
+  url: "http://www.meetup.com/Ember-js-Munich/events/173267762/"
+  id: 190
+- title: "Status of Ember CLI"
+  date: "2014-05-14"
+  author_ids:
+  - 137
+  event_id: 18
+  videos:
+  - "https://www.youtube.com/watch?v=s0L2P7ZVzhc"
+  url: "http://www.meetup.com/Ember-js-Munich/events/173267762/"
+  id: 189
+- title: "Handlebars Templating"
+  date: "2014-05-14"
+  author_ids:
+  - 136
+  event_id: 18
+  videos:
+  - "https://www.youtube.com/watch?v=HMHFekt2D1Y"
+  url: "http://www.meetup.com/Ember-js-Munich/events/173267762/"
+  slides: "https://speakerdeck.com/mulderp/handlebones"
+  id: 188
 - title: "Methods to animate in Ember"
   date: "2014-05-07"
   author_ids:
