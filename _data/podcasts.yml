@@ -1,4 +1,13 @@
 ---
+- title: EmberConf Recap
+  episode: 4
+  host: Frontside the Podcast
+  member_ids:
+  - 69
+  - 138
+  date: '2014-05-13'
+  duration: '33:11'
+  url: https://frontsidethepodcast.simplecast.fm/4
 - title: Igor Terzic
   episode: 16
   host: Ember Hot Seat
