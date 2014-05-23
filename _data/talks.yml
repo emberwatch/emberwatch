@@ -1,4 +1,12 @@
 ---
+- title: "The Road to Web Components"
+  date: "2014-05-05"
+  author_ids:
+  - 2
+  videos:
+  - "https://www.youtube.com/watch?v=yLyyXHhSl8w"
+  url: "http://2014.empirejs.org/"
+  id: 191
 - title: "Testing with Mocha & Ember ES6 Generators"
   date: "2014-05-14"
   author_ids:
