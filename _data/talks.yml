@@ -6,6 +6,7 @@
   videos:
   - "https://www.youtube.com/watch?v=yLyyXHhSl8w"
   url: "http://2014.empirejs.org/"
+  slides: "https://speakerdeck.com/tomdale/the-road-to-web-components"
   id: 191
 - title: "Testing with Mocha & Ember ES6 Generators"
   date: "2014-05-14"
