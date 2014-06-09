@@ -1,4 +1,20 @@
 ---
+- title: The Ember.js Project
+  episode: 111
+  host: JavaScript Jabber
+  member_ids:
+  - 39
+  date: '2014-06-04'
+  duration: '1:08:31'
+  url: http://javascriptjabber.com/111-jsj-the-ember-js-project-with-erik-bryn/
+- title: Jo Liss
+  episode: 17
+  host: Ember Hot Seat
+  member_ids:
+  - 32
+  date: '2014-06-02'
+  duration: '25:45'
+  url: http://emberhotseat.com/2014/06/02/ember-hot-seat-episode-017.html
 - title: EmberConf Recap
   episode: 4
   host: Frontside the Podcast
