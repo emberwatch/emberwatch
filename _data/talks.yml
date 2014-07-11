@@ -1,4 +1,94 @@
 ---
+- title: "Ember: Today and Tomorrow"
+  date: "2014-06-17"
+  author_ids:
+  - 39
+  videos:
+  - https://www.youtube.com/watch?v=E2qYKzA1BQE
+  url: http://wickedgoodember.com/erik-bryn
+  slides: http://talks.erikbryn.com/ember-today-and-tomorrow/
+  id:
+  event_id: 19
+- title: Distributed Data for User Experience
+  date: "2014-06-17"
+  author_ids:
+  - 124
+  videos:
+  - https://www.youtube.com/watch?v=Pi4GyJ_8lq8
+  url: http://wickedgoodember.com/edward-faulkner
+  slides: http://ef4.github.io/distributed-ember-presentation/
+  id:
+  event_id: 19
+- title: Creating an Extensible Ember.js Application
+  date: "2014-06-17"
+  author_ids:
+  - 63
+  videos:
+  - https://www.youtube.com/watch?v=qpey5TuwyfY
+  url: http://wickedgoodember.com/robin-ward
+  slides: http://eviltrout.com/extending/
+  id:
+  event_id: 19
+- title: "Push patterns with Ember & Ember Data"
+  date: "2014-06-17"
+  author_ids:
+  - 4
+  videos:
+  - https://www.youtube.com/watch?v=fMtIqK0JH5Y
+  url: http://wickedgoodember.com/luke-melia
+  slides: https://speakerdeck.com/lukemelia/push-patterns-in-ember-and-ember-data
+  id:
+  event_id: 19
+- title: Building Autonomous Web Applications with Ember and Orbit
+  date: "2014-06-17"
+  author_ids:
+  - 10
+  videos:
+  - https://www.youtube.com/watch?v=omc4pnXv1Ds
+  url: http://wickedgoodember.com/dan-gebhardt
+  slides: https://www.youtube.com/watch?v=omc4pnXv1Ds
+  id:
+  event_id: 19
+- title: "Ember: The Magic, Demystified"
+  date: "2014-06-17"
+  author_ids:
+  - 123
+  videos:
+  - https://www.youtube.com/watch?v=OjqcI8KWesk
+  url: http://wickedgoodember.com/robert-jackson
+  slides: https://speakerdeck.com/rwjblue/ember-the-magic-demystified
+  id:
+  event_id: 19
+- title: 'Writing tests for Ember apps: Enjoying the experience'
+  date: "2014-06-17"
+  author_ids:
+  - 60
+  videos:
+  - https://www.youtube.com/watch?v=-wN-7KcCfDM
+  url: http://wickedgoodember.com/katie-gengler
+  slides: https://speakerdeck.com/katiegengler/writing-tests-for-ember-apps-enjoying-the-experience
+  id:
+  event_id: 19
+- title: Data Visualization with Ember Components and D3.js
+  date: "2014-06-17"
+  author_ids:
+  - 139
+  videos:
+  - https://www.youtube.com/watch?v=KPiRj-SWGXE
+  url: http://wickedgoodember.com/phil-renaud
+  slides: http://embervis.affin.io/slides/
+  id:
+  event_id: 19
+- title: Productive Ember Apps with Ember CLI
+  date: "2014-06-17"
+  author_ids:
+  - 140
+  videos:
+  - https://www.youtube.com/watch?v=hygxGDjhGp8
+  url: http://wickedgoodember.com/joe-fiorini
+  slides: https://speakerdeck.com/joefiorini/building-native-web-apps
+  id:
+  event_id: 19
 - title: "The Road to Web Components"
   date: "2014-05-05"
   author_ids:
