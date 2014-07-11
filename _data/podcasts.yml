@@ -16,6 +16,7 @@
   - 69
   - 138
   duration: '32:36'
+  date: '2014-06-14'
   url: https://frontsidethepodcast.simplecast.fm/6
 - title: Refactoring JavaScript Apps Into a Framework
   episode: 112
@@ -59,6 +60,14 @@
   date: '2014-05-13'
   duration: '33:11'
   url: https://frontsidethepodcast.simplecast.fm/4
+- title: Ember.js
+  episode: 23
+  host: Three Devs and a Maybe
+  member_ids:
+  - 144
+  date: '2014-05-07'
+  duration: '1:23:13'
+  url: http://threedevsandamaybe.com/posts/emberjs-with-lamin-sanneh/
 - title: Igor Terzic
   episode: 16
   host: Ember Hot Seat
@@ -280,6 +289,14 @@
   date: '2013-04-09'
   duration: 1h 5m 34s
   url: http://emergingtech.chariotsolutions.com/2013/04/techcast-ete-2013-session-1-the-ete-javascript-frameworks-panel/
+- title: Ember.js and Generalism
+  episode: 11
+  host: Upfront
+  member_ids:
+  - 145
+  date: '2013-04-05'
+  duration: '40:13'
+  url: http://upfrontpodcast.com/2013/04/05/episode11.html
 - title: Ember.js
   episode: 34
   host: JavaScript Jabber
