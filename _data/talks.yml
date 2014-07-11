@@ -246,6 +246,14 @@
   - https://www.youtube.com/watch?v=dlkLgJ4G-pg
   url: "http://mtnwestjs.org/2014/sessions#AntiTyping"
   id: 181
+- title: Single Page Apps with Ember.js
+  date: '2014-03-28'
+  author_ids:
+  - 119
+  videos:
+  - http://research.microsoft.com/apps/video/default.aspx?id=211742
+  url: http://research.microsoft.com/apps/video/default.aspx?id=211742
+  id:
 - title: "Convergent/Divergent"
   date: '2014-03-26'
   event_id: 16
