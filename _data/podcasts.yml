@@ -1,4 +1,30 @@
 ---
+- title: The Ember Router (with Alex Matchneer)
+  episode: 7
+  host: Frontside
+  member_ids:
+  - 69
+  - 138
+  - 45
+  duration: '30:56'
+  date: '2014-06-26'
+  url: https://frontsidethepodcast.simplecast.fm/7
+- title: Myth of the Lone Genius Programmer
+  episode: 6
+  host: Frontside
+  member_ids:
+  - 69
+  - 138
+  duration: '32:36'
+  url: https://frontsidethepodcast.simplecast.fm/6
+- title: Refactoring JavaScript Apps Into a Framework
+  episode: 112
+  host: JavaScript Jabber
+  member_ids:
+  - 69
+  date: '2014-06-11'
+  duration: '59:29'
+  url: http://javascriptjabber.com/112-jsj-refactoring-javascript-apps-into-a-framework-with-brandon-hays/
 - title: The Ember.js Project
   episode: 111
   host: JavaScript Jabber
@@ -15,9 +41,18 @@
   date: '2014-06-02'
   duration: '25:45'
   url: http://emberhotseat.com/2014/06/02/ember-hot-seat-episode-017.html
+- title: Backbone, Ember, and the “build your own Voltron” bias
+  episode: 5
+  host: Frontside
+  member_ids:
+  - 69
+  - 138
+  date: '2014-05-27'
+  duration: '35:08'
+  url: https://frontsidethepodcast.simplecast.fm/5
 - title: EmberConf Recap
   episode: 4
-  host: Frontside the Podcast
+  host: Frontside
   member_ids:
   - 69
   - 138
@@ -64,6 +99,33 @@
   date: '2014-03-28'
   duration: '39:03'
   url: http://www.funnyant.com/ember-js-interview-with-tom-dale/
+- title: Refactoring toward Ember
+  episode: 3
+  host: Frontside
+  member_ids:
+  - 69
+  - 138
+  date: '2014-03-10'
+  duration: '27:38'
+  url: https://frontsidethepodcast.simplecast.fm/3
+- title: Devil’s Advocate
+  episode: 2
+  host: Frontside
+  date: '2014-02-26'
+  duration: '29:49'
+  member_ids:
+  - 69
+  - 138
+  url: https://frontsidethepodcast.simplecast.fm/2
+- title: Hit Me Baby One More Time
+  episode: 1
+  host: Frontside
+  member_ids:
+  - 69
+  - 138
+  date: '2014-02-19'
+  duration: '28:34'
+  url: https://frontsidethepodcast.simplecast.fm/1
 - title: Erik Bryn
   episode: 13
   host: Ember Hot Seat
