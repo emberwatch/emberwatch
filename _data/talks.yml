@@ -124,6 +124,26 @@
   slides: https://speakerdeck.com/joefiorini/building-native-web-apps
   id:
   event_id: 19
+- title: "ember-validations & ember-easyForm"
+  date: "2014-05-20"
+  author_ids:
+  - 29
+  videos:
+  - https://www.youtube.com/watch?v=QtqgqabNkPM
+  url: http://www.meetup.com/Ember-SF/events/164898192/
+  event_id: 6
+  id:
+- title: "Ember Data"
+  subtitle: "Tips, Tricks and Lessons Learned"
+  date: "2014-05-20"
+  author_ids:
+  - 143
+  event_id: 6
+  slides: https://twitter.com/ChrisOei/status/468934043636338688
+  videos:
+  - https://www.youtube.com/watch?v=HL2bMjndviE
+  url: http://www.meetup.com/Ember-SF/events/164898192/
+  id:
 - title: "The Road to Web Components"
   date: "2014-05-05"
   author_ids:
@@ -198,6 +218,7 @@
   - https://www.youtube.com/watch?v=Hm8XsgKT0Qw
   url: "https://www.youtube.com/watch?v=Hm8XsgKT0Qw"
   id: 184
+  event_id: 20
 - title: "EmberConf and the State of Ember.js"
   date: '2014-04-16'
   event_id: 13
@@ -404,6 +425,16 @@
   - https://www.youtube.com/watch?v=XlWcj41D-So
   url: "https://www.youtube.com/watch?v=XlWcj41D-So"
   id: 163
+- title: "From Legacy to MVC"
+  subtitle: "Moving a traditional Rails/jQuery App to Ember.js"
+  date: '2014-03-13'
+  author_ids:
+  - 142
+  videos:
+  - https://www.youtube.com/watch?v=zc-SutFOK-o
+  url: http://www.meetup.com/jsmeetup/events/165987082/
+  event_id: 20
+  id:
 - title: "In Defense of Frameworks"
   date: '2014-03-13'
   author_ids:
