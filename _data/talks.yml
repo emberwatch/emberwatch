@@ -1,4 +1,39 @@
 ---
+- title: Ember Arrays
+  date: "2014-07-10"
+  author_ids:
+  - 29
+  event_id: 9
+  videos:
+  - https://www.youtube.com/watch?v=S4M78SO3gAc#t=5276
+  url: http://www.meetup.com/Boston-Ember-js/events/183866792/ 
+  slides: https://docs.google.com/presentation/d/14eKH1rkf_emVrMhYkjv8VVH1GQbm_9NaRiLbtxW62oQ/present
+  id:
+- title: "Integration tests for your Ember.js Application"
+  date: "2014-07-10"
+  author_ids:
+  - 141
+  event_id: 9
+  videos:
+  - https://www.youtube.com/watch?v=S4M78SO3gAc#t=3740
+- title: "Ember 1.6.0 and 1.7 Beta"
+  date: "2014-07-10"
+  author_ids:
+  - 123
+  event_id: 9
+  videos:
+  - https://www.youtube.com/watch?v=S4M78SO3gAc#t=3037
+  url: http://www.meetup.com/Boston-Ember-js/events/183866792/ 
+  id:
+- title: Ember.js Animations and Transitions
+  date: "2014-07-10"
+  author_ids:
+  - 124
+  event_id: 9
+  videos:
+  - https://www.youtube.com/watch?v=S4M78SO3gAc#t=453
+  url: http://www.meetup.com/Boston-Ember-js/events/183866792/ 
+  id:
 - title: "Ember: Today and Tomorrow"
   date: "2014-06-17"
   author_ids:

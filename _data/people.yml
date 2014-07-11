@@ -549,6 +549,11 @@
   site: http://riotindustries.com/
 - id: 140
   name: Joe Fiorini
-  twitter:
-  github: 
+  twitter: joefiorini
+  github: joefiorini
   site: http://joefiorini.com/
+- id: 141
+  name: Yoran Brondsema
+  twitter: YoranBrondsema
+  github: YoranBrondsema
+  site: http://yoranbrondsema.com/
