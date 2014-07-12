@@ -1,4 +1,10 @@
 ---
+- title: 'Vic Ramon’s Ember Tutorial'
+  author_ids:
+  - 112
+  date: '2014-06-12'
+  urls:
+  - http://ember.vicramon.com/
 - title: 'Ember Components: A Deep Dive'
   author_ids:
   - 107
