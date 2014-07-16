@@ -1,4 +1,41 @@
 ---
+- title: "Cross Side Scripting and Cross Site Request Forgery"
+  date: "2014-07-15"
+  author_ids:
+  - 137
+  videos:
+  - https://www.youtube.com/watch?v=PLN4LOK0UYg
+  url: http://www.meetup.com/Ember-js-Munich/events/183204182/
+  event_id: 18
+  id:
+- title: "Layout in JavaScript?"
+  date: "2014-07-15"
+  event_id: 18
+  author_ids:
+  - 137
+  url: http://www.meetup.com/Ember-js-Munich/events/183204182/
+  videos:
+  - https://www.youtube.com/watch?v=rAz6s-Yzp7w
+  id:
+- title: "Using Ember Simple Auth with ember-cli"
+  date: "2014-07-15"
+  event_id: 18
+  url: http://www.meetup.com/Ember-js-Munich/events/183204182/
+  author_ids:
+  - 146
+  videos:
+  - https://www.youtube.com/watch?v=EkedSQH6yBo
+  id:
+- title: Unit Testing in Ember.js
+  date: "2014-07-15"
+  event_id: 18
+  url: http://www.meetup.com/Ember-js-Munich/events/183204182/
+  author_ids:
+  - 97
+  videos:
+  - https://www.youtube.com/watch?v=6KE-Fj-NbnU
+  slides: http://www.slideshare.net/istefo/emberjs-munich-testing
+  id:
 - title: Ember Arrays
   date: "2014-07-10"
   author_ids:
