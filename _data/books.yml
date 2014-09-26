@@ -44,3 +44,9 @@
   publisher: Self-Published
   url: https://leanpub.com/emberjs-testingonrails
   price: $15.00
+- title: ! 'ember-cli 101: An Ember.js book with ember-cli.'
+  author_ids:
+  - 148
+  publisher: Self-Published
+  url: https://leanpub.com/ember-cli-101
+  price: $25
