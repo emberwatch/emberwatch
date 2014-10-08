@@ -1,4 +1,13 @@
 ---
+- title: "Ember CLI Bloggr example with Ember Pouch"
+  date: "2014-10-01"
+  author_ids:
+  - 149
+  videos:
+  - https://www.youtube.com/watch?v=CL1_makCgfM
+  url: http://www.meetup.com/Ember-js-Amsterdam/events/205767222/
+  event_id: 17
+  id:
 - title: "Cross Side Scripting and Cross Site Request Forgery"
   date: "2014-07-15"
   author_ids:
