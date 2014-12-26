@@ -1,4 +1,41 @@
 ---
+- title: "Developing an Ember-cli addon"
+  date: "2014-12-17"
+  author_ids:
+  - 150
+  videos:
+  - https://www.youtube.com/watch?v=aNlxCxWs4O4
+  slides: http://cl.ly/3s1A2K2Y0h3z
+  url: http://www.meetup.com/Ember-js-Amsterdam/events/217543422/
+  event_id: 17
+  id:
+- title: "The Pollster pattern: data updates using polling"
+  date: "2014-12-17"
+  author_ids:
+  - 151
+  videos:
+  - https://www.youtube.com/watch?v=EJeVvirzvA8
+  url: http://www.meetup.com/Ember-js-Amsterdam/events/217543422/
+  event_id: 17
+  id:
+- title: "The Road to Ember 2.0"
+  date: "2014-12-17"
+  author_ids:
+  - 152
+  videos:
+  - https://www.youtube.com/watch?v=ypG1mWTH4Cg
+  url: http://www.meetup.com/Ember-js-Amsterdam/events/217543422/
+  event_id: 17
+  id:
+- title: "ember-cli-pagination"
+  date: "2014-12-17"
+  author_ids:
+  - 149
+  videos:
+  - https://www.youtube.com/watch?v=vf1V3TlS-OQ
+  url: http://www.meetup.com/Ember-js-Amsterdam/events/217543422/
+  event_id: 17
+  id:
 - title: "Ember CLI Bloggr example with Ember Pouch"
   date: "2014-10-01"
   author_ids:
