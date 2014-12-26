@@ -12,7 +12,7 @@ To get started:
 
 ```sh
 $ git clone git://github.com/emberwatch/emberwatch.git
-$ cd emberwatch-source
+$ cd emberwatch
 $ jekyll serve
 ```
 
