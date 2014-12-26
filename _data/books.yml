@@ -14,6 +14,13 @@
   publisher: Bleeding Edge Press
   url: http://bleedingedgepress.com/our-books/developing-an-ember-edge/
   price: $19.95
+- title: 'Building Web Apps with Ember.js'
+  author_ids:
+  - 41
+  - 83
+  publisher: O’Reilly
+  url: http://shop.oreilly.com/product/0636920030782.do
+  price: $23.99
 - title: Heretical Guide to Ember.js
   author_ids:
   - 53
@@ -32,7 +39,7 @@
   - 25
   url: http://www.packtpub.com/emberjs-application-development/book
   price: $6.99
-- title: ! 'Master Space and Time With JavaScript Book 4: Ember'
+- title: 'Master Space and Time With JavaScript Book 4: Ember'
   author_ids:
   - 24
   publisher: Self-Published
