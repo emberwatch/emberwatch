@@ -1,4 +1,76 @@
 ---
+- title: Ember 2.0 and the Indie Web
+  episode: 16
+  host: Frontside
+  member_ids:
+  - 138
+  - 69
+  - 153
+  - 1
+  - 2
+  duration: '55:59'
+  date: '2014-12-23'
+  url: https://frontsidethepodcast.simplecast.fm/16
+- title: With Tom Dale
+  episode: 147
+  host: ShopTalk Show
+  member_ids:
+  - 2
+  duration: '01:13:46'
+  date: '2014-12-22'
+  url: http://shoptalkshow.com/episodes/147-tom-dale/
+- title: Separating Server and Client Applications
+  episode: 180
+  host: Ruby on Rails Podcast
+  member_ids:
+  - 156
+  duration: '01:12:52'
+  date: '2014-12-22'
+  url: http://5by5.tv/rubyonrails/180
+- title: Ember in Practice
+  episode: 32
+  host: Gaslight Podcast
+  member_ids:
+  - 155
+  - 80
+  duration: '32:30'
+  date: '2014-12-17'
+  url: https://teamgaslight.com/blog/gaslight-podcast-32-ember-in-practice
+- title: Learning Ember
+  episode: 179
+  host: Ruby on Rails Podcast
+  member_ids:
+  - 7
+  duration: '01:21:24'
+  date: '2014-12-12'
+  url: http://5by5.tv/rubyonrails/179
+- title: The Road to Ember 2.0
+  episode: 131
+  host: The Changelog
+  member_ids:
+  - 1
+  - 2
+  duration: '1:08:01'
+  date: '2014-11-18'
+  url: http://thechangelog.com/131/
+- title: Ember-Metal, HTMLbars, and the death of script tags
+  episode: 13
+  host: Frontside
+  member_ids:
+  - 153
+  - 57
+  - 154
+  duration: '35:15'
+  date: '2014-11-06'
+  url: https://frontsidethepodcast.simplecast.fm/13
+- title: Broccoli.js with Jo Liss
+  episode: 121
+  host: JavaScript Jabber
+  member_ids:
+  - 32
+  duration: '1:01:35'
+  date: '2014-08-13'
+  url: http://devchat.tv/js-jabber/121-jsj-broccoli-js-with-jo-liss
 - title: The Ember Router (with Alex Matchneer)
   episode: 7
   host: Frontside

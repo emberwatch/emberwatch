@@ -602,3 +602,19 @@
   site: http://bagu.org
 - id: 152
   name: Sergey Osipov
+- id: 153
+  name: Stanley Stuart
+  github: fivetanley
+  twitter: fivetanley
+- id: 154
+  name: Martin Muñoz
+  github: mmun
+  twitter:  _mmun
+- id: 155
+  name: Mitch Lloyd
+  github: mitchlloyd
+  twitter: too_mitch
+- id: 156
+  name: Josh Smith
+  github: JoshSmith
+  twitter: joshsmith
