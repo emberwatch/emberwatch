@@ -1,4 +1,10 @@
 ---
+- title: 'Rock & Roll with Ember.js'
+  author_ids:
+  - 94
+  publisher: Self-Published
+  url: http://balinterdi.com/rock-and-roll-with-emberjs/
+  price: $39
 - title: 'ember-cli 101: An Ember.js book with ember-cli.'
   author_ids:
   - 148
