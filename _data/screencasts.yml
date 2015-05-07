@@ -1,4 +1,11 @@
 ---
+- title: Embering on the Shoulders of Giants
+  author_ids: 
+  - 58
+  date: '2015-04-28'
+  url: http://www.emberscreencasts.com/posts/embering-on-the-shoulders-of-giants
+  videos:
+   - http://www.emberscreencasts.com/posts/embering-on-the-shoulders-of-giants
 - title: Setting up a serious Ember project
   author_ids:
   - 129
