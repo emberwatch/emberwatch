@@ -1,110 +1,4 @@
 ---
-- title: Brian Cardarella of DockYard - Running a Software Consultancy & Betting on Ember
-  episode: 181
-  host: Ruby on Rails Podcast
-  member_ids:
-  - 160
-  - 29
-  duration: '01:18:51'
-  date: '2015-01-09'
-  url: http://5by5.tv/rubyonrails/181
-- title: Sean Devine - Ember and API First
-  episode: 8
-  host: Full Stack Radio
-  member_ids:
-  - 160
-  duration: '58:22'
-  date: '2015-02-02'
-  url: http://fullstackradio.com/episodes/8/
-- title: I Probably Wrote 70 Tests Today or Something with Sean Devine
-  episode: 11
-  host: Descriptive
-  member_ids:
-  - 160
-  duration: '01:50:54'
-  date: '2015-02-16'
-  url: http://descriptive.audio/episodes/11
-- title: Dan Gebhardt - json-api, jsonapi-resources, orbit.js & Ember Data
-  episode: 187
-  host: Ruby on Rails Podcast
-  member_ids:
-  - 160
-  - 10
-  duration: '01:20:12'
-  date: '2015-04-02'
-  url: http://5by5.tv/rubyonrails/187
-- title: Toran Billups - Ember Counseling
-  episode: 190
-  host: Ruby on Rails Podcast
-  member_ids:
-  - 160
-  - 11
-  duration: '01:09:09'
-  date: '2015-05-01'
-  url: http://5by5.tv/rubyonrails/190
-- title: Our First Foray
-  episode: 1
-  host: Ember Weekend
-  member_ids:
-  - 158
-  - 159
-  duration: '10:16'
-  date: '2015-03-24'
-  url: https://emberweekend.com/episodes/our-first-foray
-- title: The Weekend Strikes Back
-  episode: 2
-  host: Ember Weekend
-  member_ids:
-  - 158
-  - 159
-  duration: '12:35'
-  date: '2015-03-30'
-  url: https://emberweekend.com/episodes/the-weekend-strikes-back
-- title: Broccoli, but not the vegetable
-  episode: 3
-  host: Ember Weekend
-  member_ids:
-  - 158
-  - 159
-  duration: '14:06'
-  date: '2015-04-06'
-  url: https://emberweekend.com/episodes/broccoli-but-not-the-vegetable
-- title: 'IE: Seeya L8er'
-  episode: 4
-  host: Ember Weekend
-  member_ids:
-  - 158
-  - 159
-  duration: '13:46'
-  date: '2015-04-13'
-  url: https://emberweekend.com/episodes/ie-seeya-l8er
-- title: Wicked Good Design
-  episode: 5
-  host: Ember Weekend
-  member_ids:
-  - 158
-  - 159
-  duration: '13:40'
-  date: '2015-04-20'
-  url: https://emberweekend.com/episodes/wicked-good-design
-- title: Ember in Atlanta
-  episode: 6
-  host: Ember Weekend
-  member_ids:
-  - 158
-  - 159
-  duration: '14:26'
-  date: '2015-04-27'
-  url: https://emberweekend.com/episodes/ember-in-atlanta
-- title: Champions needed
-  episode: 7
-  host: Ember Weekend
-  member_ids:
-  - 158
-  - 159
-  duration: '17:23'
-  date: '2015-05-04'
-  url: https://emberweekend.com/episodes/champions-needed
 - title: The Most Private of All APIs
   episode: 8
   host: Ember Weekend
@@ -114,6 +8,87 @@
   duration: '13:47'
   date: '2015-05-11'
   url: https://emberweekend.com/episodes/the-most-private-of-all-apis
+- title: Landed a small PR
+  episode: 9
+  host: Ember Land
+  member_ids:
+  - 123
+  - 157
+  duration: '18:00'
+  date: '2015-05-08'
+  url: http://ember.land/episodes/9
+- title: Champions needed
+  episode: 7
+  host: Ember Weekend
+  member_ids:
+  - 158
+  - 159
+  duration: '17:23'
+  date: '2015-05-04'
+  url: https://emberweekend.com/episodes/champions-needed
+- title: Toran Billups - Ember Counseling
+  episode: 190
+  host: Ruby on Rails Podcast
+  member_ids:
+  - 160
+  - 11
+  duration: '01:09:09'
+  date: '2015-05-01'
+  url: http://5by5.tv/rubyonrails/190
+- title: Ember in Atlanta
+  episode: 6
+  host: Ember Weekend
+  member_ids:
+  - 158
+  - 159
+  duration: '14:26'
+  date: '2015-04-27'
+  url: https://emberweekend.com/episodes/ember-in-atlanta
+- title: Rob loves IE8
+  episode: 8
+  host: Ember Land
+  member_ids:
+  - 123
+  - 157
+  duration: 80220
+  date: '2015-04-24'
+  url: http://ember.land/episodes/8
+- title: Wicked Good Design
+  episode: 5
+  host: Ember Weekend
+  member_ids:
+  - 158
+  - 159
+  duration: '13:40'
+  date: '2015-04-20'
+  url: https://emberweekend.com/episodes/wicked-good-design
+- title: 'IE: Seeya L8er'
+  episode: 4
+  host: Ember Weekend
+  member_ids:
+  - 158
+  - 159
+  duration: '13:46'
+  date: '2015-04-13'
+  url: https://emberweekend.com/episodes/ie-seeya-l8er
+- title: 62 Days
+  episode: 7
+  host: Ember Land
+  member_ids:
+  - 123
+  - 157
+  duration: '21:10'
+  date: '2015-04-10'
+  url: http://ember.land/episodes/7
+- title: Broccoli, but not the vegetable
+  episode: 3
+  host: Ember Weekend
+  member_ids:
+  - 158
+  - 159
+  duration: '14:06'
+  date: '2015-04-06'
+  url: https://emberweekend.com/episodes/broccoli-but-not-the-vegetable
 - title: Ember Islands with Mitch Lloyd
   episode: 23
   host: Frontside
@@ -124,6 +99,24 @@
   duration: '32:27'
   date: '2015-04-06'
   url: https://frontsidethepodcast.simplecast.fm/23
+- title: Dan Gebhardt - json-api, jsonapi-resources, orbit.js & Ember Data
+  episode: 187
+  host: Ruby on Rails Podcast
+  member_ids:
+  - 160
+  - 10
+  duration: '01:20:12'
+  date: '2015-04-02'
+  url: http://5by5.tv/rubyonrails/187
+- title: The Weekend Strikes Back
+  episode: 2
+  host: Ember Weekend
+  member_ids:
+  - 158
+  - 159
+  duration: '12:35'
+  date: '2015-03-30'
+  url: https://emberweekend.com/episodes/the-weekend-strikes-back
 - title: Deploy to the Future with Luke Melia
   episode: 22
   host: Frontside
@@ -135,6 +128,24 @@
   duration: '35:50'
   date: '2015-03-30'
   url: https://frontsidethepodcast.simplecast.fm/22
+- title: Ember 1.11 came out on time, oh wait, no it didn’t
+  episode: 6
+  host: Ember Land
+  member_ids:
+  - 123
+  - 157
+  duration: '16:53'
+  date: '2015-03-27'
+  url: http://ember.land/episodes/6
+- title: Our First Foray
+  episode: 1
+  host: Ember Weekend
+  member_ids:
+  - 158
+  - 159
+  duration: '10:16'
+  date: '2015-03-24'
+  url: https://emberweekend.com/episodes/our-first-foray
 - title: Best of EmberConf 2015 (part 2)
   episode: 21
   host: Frontside
@@ -154,64 +165,6 @@
   duration: '27:51'
   date: '2015-03-16'
   url: https://frontsidethepodcast.simplecast.fm/20
-- title: Origin Stories with Tom Dale and Alex Matchneer
-  episode: 19
-  host: Frontside
-  member_ids:
-  - 69
-  - 138
-  - 153
-  - 2
-  - 45
-  duration: '45:03'
-  date: '2015-02-28'
-  url: https://frontsidethepodcast.simplecast.fm/19
-- title: Back-End Devs and Bridging the Stack with Toran Billups
-  episode: 18
-  host: Frontside
-  member_ids:
-  - 69
-  - 153
-  - 11
-  duration: '43:23'
-  date: '2015-02-04'
-  url: https://frontsidethepodcast.simplecast.fm/18
-- title: Landed a small PR
-  episode: 9
-  host: Ember Land
-  member_ids:
-  - 123
-  - 157
-  duration: '18:00'
-  date: '2015-05-08'
-  url: http://ember.land/episodes/9
-- title: Rob loves IE8
-  episode: 8
-  host: Ember Land
-  member_ids:
-  - 123
-  - 157
-  duration: 22:17
-  date: '2015-04-24'
-  url: http://ember.land/episodes/8
-- title: 62 Days
-  episode: 7
-  host: Ember Land
-  member_ids:
-  - 123
-  - 157
-  duration: '21:10'
-  date: '2015-04-10'
-  url: http://ember.land/episodes/7
-- title: Ember 1.11 came out on time, oh wait, no it didn’t
-  episode: 6
-  host: Ember Land
-  member_ids:
-  - 123
-  - 157
-  duration: '16:53'
-  date: '2015-03-27'
-  url: http://ember.land/episodes/6
 - title: Pods, Element/Fragment RFC, Filtering Babel, Ember QUnit & Ember-CLI
   episode: 5
   host: Ember Land
@@ -230,7 +183,20 @@
   duration: '15:15'
   date: '2015-03-06'
   url: http://ember.land/episodes/4
-- title: EmberConf, Ember-CLI 0.2.0 Beta, component helper, subexpressions, Ember.inject, async-button, Ember Inspector
+- title: Origin Stories with Tom Dale and Alex Matchneer
+  episode: 19
+  host: Frontside
+  member_ids:
+  - 69
+  - 138
+  - 153
+  - 2
+  - 45
+  duration: '45:03'
+  date: '2015-02-28'
+  url: https://frontsidethepodcast.simplecast.fm/19
+- title: EmberConf, Ember-CLI 0.2.0 Beta, component helper, subexpressions, Ember.inject,
+    async-button, Ember Inspector
   episode: 3
   host: Ember Land
   member_ids:
@@ -239,7 +205,16 @@
   duration: '13:37'
   date: '2015-02-27'
   url: http://ember.land/episodes/3
-- title: Ember.js 1.10, Ember-QUnit, Community Survey, Nesting Helpers and Component Actions
+- title: I Probably Wrote 70 Tests Today or Something with Sean Devine
+  episode: 11
+  host: Descriptive
+  member_ids:
+  - 160
+  duration: '01:50:54'
+  date: '2015-02-16'
+  url: http://descriptive.audio/episodes/11
+- title: Ember.js 1.10, Ember-QUnit, Community Survey, Nesting Helpers and Component
+    Actions
   episode: 2
   host: Ember Land
   member_ids:
@@ -248,6 +223,24 @@
   duration: '5:53'
   date: '2015-02-13'
   url: http://ember.land/episodes/2
+- title: Back-End Devs and Bridging the Stack with Toran Billups
+  episode: 18
+  host: Frontside
+  member_ids:
+  - 69
+  - 153
+  - 11
+  duration: '43:23'
+  date: '2015-02-04'
+  url: https://frontsidethepodcast.simplecast.fm/18
+- title: Sean Devine - Ember and API First
+  episode: 8
+  host: Full Stack Radio
+  member_ids:
+  - 160
+  duration: '58:22'
+  date: '2015-02-02'
+  url: http://fullstackradio.com/episodes/8/
 - title: Ember.js 1.10, 1.11, HTMLBars and assigning ids to components
   episode: 1
   host: Ember Land
@@ -257,6 +250,16 @@
   duration: '7:46'
   date: '2015-01-30'
   url: http://ember.land/episodes/1
+- title: Brian Cardarella of DockYard - Running a Software Consultancy & Betting on
+    Ember
+  episode: 181
+  host: Ruby on Rails Podcast
+  member_ids:
+  - 160
+  - 29
+  duration: '01:18:51'
+  date: '2015-01-09'
+  url: http://5by5.tv/rubyonrails/181
 - title: Ember 2.0 and the Indie Web
   episode: 16
   host: Frontside
