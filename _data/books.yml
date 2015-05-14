@@ -4,13 +4,13 @@
   - 94
   publisher: Self-Published
   url: http://balinterdi.com/rock-and-roll-with-emberjs/
-  price: $39
+  payment: true
 - title: 'ember-cli 101: An Ember.js book with ember-cli.'
   author_ids:
   - 148
   publisher: Self-Published
   url: https://leanpub.com/ember-cli-101
-  price: $25
+  payment: true
 - title: Developing an Ember Edge
   author_ids:
   - 100
@@ -19,47 +19,47 @@
   - 66
   publisher: Bleeding Edge Press
   url: http://bleedingedgepress.com/our-books/developing-an-ember-edge/
-  price: $19.95
+  payment: true
 - title: 'Building Web Apps with Ember.js'
   author_ids:
   - 41
   - 83
   publisher: O’Reilly
   url: http://shop.oreilly.com/product/0636920030782.do
-  price: $23.99
+  payment: true
 - title: Heretical Guide to Ember.js
   author_ids:
   - 53
   publisher: Self-Published
   url: http://gilesbowkett.blogspot.co.uk/2013/06/heretical-guide-to-ember-js.html
-  price: $47
+  payment: true
 - title: Ember.js in Action
   author_ids:
   - 18
   publisher: Manning
   url: http://manning.com/skeie/
-  price: $35.99
+  payment: true
 - title: Instant Ember.js Application Development How-to
   publisher: Packt
   author_ids:
   - 25
   url: http://www.packtpub.com/emberjs-application-development/book
-  price: $6.99
+  payment: true
 - title: 'Master Space and Time With JavaScript Book 4: Ember'
   author_ids:
   - 24
   publisher: Self-Published
   url: http://www.noelrappin.com/
-  price: $7
+  payment: true
 - title: 'Ambitious Ember Applications'
   author_ids:
   - 115
   publisher: Self-Published
   url: https://leanpub.com/emberjs_applications
-  price: $12.99
+  payment: true
 - title: Ember.js - Testing on Rails
   author_ids:
   - 116
   publisher: Self-Published
   url: https://leanpub.com/emberjs-testingonrails
-  price: $15.00
+  payment: true

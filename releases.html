@@ -3,21 +3,6 @@ title: Releases
 layout: default
 ---
 <div class="panel">
-<p>Read more about the <a href="http://emberjs.com/blog/2013/09/06/new-ember-release-process.html">Ember.js Release Process</a> on the official blog, and see details of the latest beta and canary builds on the <a href="http://emberjs.com/builds/">builds section</a> of the official website.</p>
+<p>Page deprecated in favour of the <strong><a href="http://emberjs.com/builds/#/tagged">Builds: Tagged Releases</a></strong> section of the official Ember.js website.
+<p>Read about the <strong><a href="http://emberjs.com/blog/2013/09/06/new-ember-release-process.html">Ember.js Release Process</a></strong> on the official blog.</p>
 </div>
-
-<ul>
-  {% for release in site.data.releases %}
-    <li>
-      <h5>
-        <a href="https://github.com/emberjs/ember.js/releases/tag/{{ release.git }}">
-          {{ release.name }}
-        </a>
-      </h5>
-      {{ release.date | "%a %e %b %Y" }}
-      {% if release.blog %}
-        &middot; <a href="{{ release.blog }}">Announcement</a>
-      {% endif %}
-    </li>
-  {% endfor %}
-</ul>
