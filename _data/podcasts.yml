@@ -1,4 +1,12 @@
 ---
+- title: Tom Dale
+  episode: 108
+  host: Between Screens
+  member_ids:
+  - 2
+  duration: '12:16'
+  date: '2015-05-13'
+  url: http://betweenscreens.fm/episodes/108
 - title: The Most Private of All APIs
   episode: 8
   host: Ember Weekend
