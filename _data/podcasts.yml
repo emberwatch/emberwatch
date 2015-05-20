@@ -1,5 +1,5 @@
 ---
-- title: Tom Dale
+- title: Tom Dale (4)
   episode: 108
   host: Between Screens
   member_ids:
@@ -61,6 +61,14 @@
   duration: 80220
   date: '2015-04-24'
   url: http://ember.land/episodes/8
+- title: Tom Dale (3)
+  episode: 98
+  host: Between Screens
+  member_ids:
+  - 2
+  duration: '10:13'
+  date: '2015-04-23'
+  url: http://betweenscreens.fm/episodes/98
 - title: Wicked Good Design
   episode: 5
   host: Ember Weekend
@@ -88,15 +96,14 @@
   duration: '21:10'
   date: '2015-04-10'
   url: http://ember.land/episodes/7
-- title: Broccoli, but not the vegetable
-  episode: 3
-  host: Ember Weekend
+- title: Tom Dale (2)
+  episode: 88
+  host: Between Screens
   member_ids:
-  - 158
-  - 159
-  duration: '14:06'
-  date: '2015-04-06'
-  url: https://emberweekend.com/episodes/broccoli-but-not-the-vegetable
+  - 2
+  duration: '13:49'
+  date: '2015-04-08'
+  url: http://betweenscreens.fm/episodes/88
 - title: Ember Islands with Mitch Lloyd
   episode: 23
   host: Frontside
@@ -107,6 +114,15 @@
   duration: '32:27'
   date: '2015-04-06'
   url: https://frontsidethepodcast.simplecast.fm/23
+- title: Broccoli, but not the vegetable
+  episode: 3
+  host: Ember Weekend
+  member_ids:
+  - 158
+  - 159
+  duration: '14:06'
+  date: '2015-04-06'
+  url: https://emberweekend.com/episodes/broccoli-but-not-the-vegetable
 - title: Dan Gebhardt - json-api, jsonapi-resources, orbit.js & Ember Data
   episode: 187
   host: Ruby on Rails Podcast
@@ -116,15 +132,6 @@
   duration: '01:20:12'
   date: '2015-04-02'
   url: http://5by5.tv/rubyonrails/187
-- title: The Weekend Strikes Back
-  episode: 2
-  host: Ember Weekend
-  member_ids:
-  - 158
-  - 159
-  duration: '12:35'
-  date: '2015-03-30'
-  url: https://emberweekend.com/episodes/the-weekend-strikes-back
 - title: Deploy to the Future with Luke Melia
   episode: 22
   host: Frontside
@@ -136,6 +143,15 @@
   duration: '35:50'
   date: '2015-03-30'
   url: https://frontsidethepodcast.simplecast.fm/22
+- title: The Weekend Strikes Back
+  episode: 2
+  host: Ember Weekend
+  member_ids:
+  - 158
+  - 159
+  duration: '12:35'
+  date: '2015-03-30'
+  url: https://emberweekend.com/episodes/the-weekend-strikes-back
 - title: Ember 1.11 came out on time, oh wait, no it didn’t
   episode: 6
   host: Ember Land
@@ -182,6 +198,14 @@
   duration: '18:45'
   date: '2015-03-13'
   url: http://ember.land/episodes/5
+- title: Tom Dale (1)
+  episode: 72
+  host: Between Screens
+  member_ids:
+  - 2
+  duration: '16:01'
+  date: '2015-03-12'
+  url: http://betweenscreens.fm/episodes/72
 - title: EmberConf Recap
   episode: 4
   host: Ember Land
@@ -280,14 +304,6 @@
   duration: '55:59'
   date: '2014-12-23'
   url: https://frontsidethepodcast.simplecast.fm/16
-- title: With Tom Dale
-  episode: 147
-  host: ShopTalk Show
-  member_ids:
-  - 2
-  duration: '01:13:46'
-  date: '2014-12-22'
-  url: http://shoptalkshow.com/episodes/147-tom-dale/
 - title: Separating Server and Client Applications
   episode: 180
   host: Ruby on Rails Podcast
@@ -296,6 +312,14 @@
   duration: '01:12:52'
   date: '2014-12-22'
   url: http://5by5.tv/rubyonrails/180
+- title: With Tom Dale
+  episode: 147
+  host: ShopTalk Show
+  member_ids:
+  - 2
+  duration: '01:13:46'
+  date: '2014-12-22'
+  url: http://shoptalkshow.com/episodes/147-tom-dale/
 - title: Ember in Practice
   episode: 32
   host: Gaslight Podcast
