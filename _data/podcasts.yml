@@ -1,4 +1,13 @@
 ---
+- title: Do your job, test the betas
+  episode: 10
+  host: Ember Land
+  member_ids:
+  - 123
+  - 157
+  duration: '23:11'
+  date: '2015-05-22'
+  url: http://ember.land/episodes/10
 - title: Tom Dale (4)
   episode: 108
   host: Between Screens
