@@ -442,7 +442,7 @@
   date: '2014-03-25'
   event_id: 16
   author_ids:
-  - 48
+  - 31
   videos:
   - https://www.youtube.com/watch?v=D3mC14NfJwc
   url: "http://emberconf.com/schedule.html#terzic"
@@ -718,7 +718,7 @@
   date: '2013-08-30'
   event_id: 12
   author_ids:
-  - 48
+  - 31
   videos:
   - http://www.infoq.com/presentations/ember-data
   url: http://emberfest.eu/munich
@@ -1005,7 +1005,7 @@
 - title: Intro to Ember.js
   date: '2013-09-19'
   author_ids:
-  - 48
+  - 31
   videos:
   - http://www.youtube.com/watch?v=DrFkx9E3hjg
   url: http://socoded.com/
@@ -1412,7 +1412,7 @@
   videos:
   - http://vimeo.com/68390483
   id: 70
-- title: jQuery isn't Enough
+- title: jQuery isn’t Enough
   subtitle: An Introduction to Ember.js
   date: '2013-06-14'
   author_ids:
@@ -1528,7 +1528,7 @@
   id: 55
 - title: Ember-Data and Magic
   author_ids:
-  - 48
+  - 31
   date: '2013-05-14'
   event_id: 6
   url: http://www.meetup.com/Ember-SF/events/112139702/

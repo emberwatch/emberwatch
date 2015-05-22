@@ -143,11 +143,16 @@
   site: http://madskristensen.net/
 - id: 31
   name: Igor Terzic
+  twitter: terzicigor
+  github: igorT
+  site: http://terzicigor.com/
 - id: 32
   name: Jo Liss
   site: http://www.solitr.com/blog/
 - id: 33
   name: Kristofor Selden
+  twitter: krisselden
+  github: krisselden
   site: http://krisselden.com/
 - id: 34
   name: Justin Giancola
@@ -197,10 +202,6 @@
   twitter: gabrielmgrant
   site: http://gabrielgrant.ca
   github: gabrielgrant
-- id: 48
-  name: Igor Terzic
-  twitter: terzicigor
-  github: igorT
 - id: 49
   name: Ryan Toronto
   github: ryanto
@@ -395,6 +396,8 @@
 - id: 90
   name: Dennis Nazarov
   twitter: Iiterature
+  github: denisnazarov
+  site: http://www.mine.nyc/
 - id: 91
   name: Roman Shtylman
   twitter: defunctzombie
@@ -508,11 +511,6 @@
   name: DeVaris Brown
   twitter: devarispbrown
   site: http://thefuriousone.com/
-- id: 128
-  name: Christopher Meiklejohn
-  twitter: cmeik
-  github: cmeiklejohn
-  site: http://christophermeiklejohn.com/
 - id: 129
   name: Justin Searls
   twitter: searls
@@ -634,3 +632,191 @@
   name: Sean Devine
   github: barelyknown
   twitter: barelyknown
+- id: 161
+  name: Jeremy Brown
+  twitter: notmessenger
+  github: notmessenger
+  site: http://www.notmessenger.com/
+- id: 162
+  name: Ken Sin
+  github: ksin
+- id: 163
+  name: Mike Harris
+  github: mharris717
+- id: 164
+  name: Mike Edson
+  twitter: mikeedson
+  github: edson-
+  site: http://www.childrenshospital.org/
+- id: 165
+  name: Lauren Tan
+  twitter: sugarpirate_
+  github: poteto
+  site: https://medium.com/@sugarpirate/
+  speakerdeck: https://speakerdeck.com/poteto/boston-ember-dot-js-lazy-loading-videos
+- id: 166
+  name: Mike Stanley
+- id: 167
+  name: David McMullen
+  twitter: davecocoa7
+  github: davecocoa
+- id: 168
+  name: Bryan Crotaz
+  twitter: BryanCrotaz
+  github: Twinkletoes
+  site: http://www.silvercurve.co.uk/
+- id: 169
+  name: Nick Blanchet
+  twitter: h55nick
+  github: h55nick
+  site: http://nblanchet.com/
+- id: 170
+  name: Scott Stevenson
+  twitter: scott2211
+  github: scott2211
+  site: http://www.scottstevenson.me/
+- id: 171
+  name: Aaron Chambers
+  twitter: grandazz
+  github: achambers
+  speakerdeck: https://speakerdeck.com/achambers/ember-cli-deploy
+- id: 172
+  name: Mike Hayden
+  github: mickyginger
+  site: http://weareeverywhere.co.uk/news/
+- id: 173
+  name: Thom Langford
+  twitter: ThomLangford
+  site: http://thomlangford.com
+  slideshare: http://www.slideshare.net/44Con/flushing-away-preconceptions-of-risk
+- id: 174
+  name: Thomas Cowell
+  twitter: thomcowell
+  site: http://eightsquarestudio.com/
+- id: 175
+  name: Martin Pratt
+  twitter: martinrp_
+  site: http://weareeverywhere.co.uk/news/
+- id: 176
+  name: Stuart Harris
+  twitter: stuartharris
+  github: StuartHarris
+  site: http://red-badger.com/blog/author/stuart-harris/
+- id: 177
+  name: Despo Pentara
+  twitter: despo
+  github: despo
+  slideshare: http://www.slideshare.net/despw/codebar-bridging-the-diversity-gap
+- id: 178
+  name: Markus Padourek
+  twitter: mpadourek
+  github: Globegitter
+  site: http://sanestack.com/
+- id: 179
+  name: Thomas Marshall
+  twitter: tmrshl
+  github: thomasmarshall
+  site: http://www.thomasmarshall.com/
+- id: 180
+  name: Tom Close
+  twitter: tomclse
+- id: 181
+  name: Miles Tinsley
+  twitter: milestinsley
+  github: milestinsley
+  site: http://milestinsley.com/
+  speakerdeck: https://speakerdeck.com/milestinsley/why-mongodb-is-great-for-a-small-startup-talking-a-big-problem
+- id: 182
+  name: Joan Mira
+  twitter: gazpachu
+  github: gazpachu
+  site: http://www.gazpachu.com/en
+- id: 183
+  name: Hugh Francis
+  twitter: _HHFF
+  github: hhff
+  site: http://hughfrancis.me/
+- id: 184
+  name: Tim Evans
+  twitter: timmyce
+  github: tim-evans
+- id: 185
+  name: Gaurav Munjal
+  twitter: gaurav9576
+  github: gaurav0
+- id: 186
+  name: Nik NyBy
+  github: nikolas
+- id: 187
+  name: Manolo Familia
+  twitter: followmanolo
+- id: 188
+  name: Chris LoPresto
+  twitter: chrislopresto
+  github: chrislopresto
+  site: http://chrislopresto.com/
+- id: 189
+  name: Roger Ruiz
+  twitter: rogeruiz
+  github: rogeruiz
+  site: http://rog.gr/
+- id: 190
+  name: Jake Grinsted
+  twitter: JakeGrinsted
+  site: http://solveitsimply.com/
+- id: 191
+  name: Ivan Vanderbyl 
+  twitter: IvanVanderbyl
+  github: ivanvanderbyl
+  site: http://ivanvanderbyl.com/
+- id: 192
+  name: Steve Klabnik
+  twitter: steveklabnik
+  github: steveklabnik
+  site: http://words.steveklabnik.com/
+- id: 193
+  name: Oli Griffiths
+  twitter: oligriffiths
+  github: oligriffiths
+  site: http://about.me/oligriffiths
+  slideshare: http://www.slideshare.net/oligriffiths/emberjs-self-defining-apps
+- id: 194
+  name: Michael Madrid
+  github: kagemusha
+- id: 195
+  name: Edgar Calderon
+  site: http://calderas.me/
+- id: 196
+  name: Jeff Lang
+  twitter: jeffplang
+  github: jeffplang
+  site: http://www.phishtracks.com/
+- id: 197
+  name: Amit Schecter
+  twitter: meetamit
+  site: http://two-n.com/
+- id: 198
+  name: Dan Vingo
+  github: dvingo
+  site: http://howdoesthisevn.com/writing
+- id: 199
+  name: Daniel Sudol
+  github: danielspaniel
+- id: 200
+  name: Isaac Ezer
+  twitter: isaacezer
+  github: iezer
+  site: http://isaacezer.com/
+- id: 201
+  name: Venkat Dinavahi
+  twitter: venkatdinavahi
+  github: venkatd
+- id: 202
+  name: Chris Santero
+  github: csantero
+  site: http://simply360.com/
+- id: 203
+  name: Scott Norvell
+  twitter: scottlnorvell
+- id: 204
+  name: Andy Pye
