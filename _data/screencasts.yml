@@ -25,7 +25,7 @@
   - http://www.emberscreencasts.com/posts/39-emberget
   series: EmberScreencasts
   price: $9/month
-- title: 38- ES2015: Functions minus 'function'
+- title: "38- ES2015: Functions minus 'function'"
   author_ids:
   - 58
   date: '2015-05-16'
@@ -59,7 +59,7 @@
   - http://www.emberscreencasts.com/posts/35-crud-pt-2-create
   series: EmberScreencasts
   price: $9/month
-- title: 34- CRUD pt 1: Read, Update, Delete
+- title: '34- CRUD pt 1: Read, Update, Delete'
   author_ids:
   - 58
   date: '2015-05-02'
@@ -150,7 +150,7 @@
   videos:
   - http://www.emberscreencasts.com/posts/26-client-side-pagination-part-1-basics
   series: EmberScreencasts
-- title: 25- Advanced Handlebars: option hashes and more
+- title: '25- Advanced Handlebars: option hashes and more'
   author_ids:
   - 58
   date: '2015-03-29'
@@ -201,7 +201,7 @@
   videos:
   - http://www.emberscreencasts.com/posts/20-sorting-tables-with-sortablemixin
   series: EmberScreencasts
-- title: 19: Ember Inspector 4- Routes
+- title: '19: Ember Inspector 4- Routes'
   author_ids:
   - 58
   date: '2015-03-01'
@@ -209,7 +209,7 @@
   videos:
   - http://www.emberscreencasts.com/posts/19-ember-inspector-4-routes
   series: EmberScreencasts
-- title: 18: Ember Inspector 3- The View Tree
+- title: '18: Ember Inspector 3- The View Tree'
   author_ids:
   - 58
   date: '2015-02-21'
@@ -226,7 +226,7 @@
   videos:
   - http://www.emberscreencasts.com/posts/17-ember-inspector-2-exploring-objects
   series: EmberScreencasts
-- title: 16: Ember Inspector 1- Installing the Ember Inspector
+- title: '16: Ember Inspector 1- Installing the Ember Inspector'
   author_ids:
   - 58
   date: '2015-02-14'
@@ -235,7 +235,7 @@
   - http://www.emberscreencasts.com/posts/16-ember-inspector-1-installing-the-ember-inspector
   series: EmberScreencasts
   price: $9/month
-- title: 15: Debugging Someone Else's Rubygem
+- title: '15: Debugging Someone Else’s Rubygem'
   author_ids:
   - 58
   date: '2015-02-07'
@@ -244,7 +244,7 @@
   - http://www.emberscreencasts.com/posts/15-debugging-someone-elses-rubygem
   series: EmberScreencasts
   price: $9/month
-- title: 14: ember-cli-rails
+- title: '14: ember-cli-rails'
   author_ids:
   - 58
   date: '2015-01-31'
@@ -348,7 +348,7 @@
   url: http://www.railsonmaui.com/blog/2013/06/11/emberjs-rails4-tutorial/
   videos:
   - http://www.youtube.com/watch?v=ac1mYhCMRNc
-- title: 13: ember-easyForm
+- title: '13: ember-easyForm'
   author_ids:
   - 58
   date: '2014-06-10'
@@ -366,7 +366,7 @@
   videos:
   - http://www.youtube.com/watch?v=QSCsIa4I5yQ
   series: Ember 101
-- title: 12: Moving to Ember CLI from Ember Appkit
+- title: '12: Moving to Ember CLI from Ember Appkit'
   author_ids:
   - 58
   date: '2014-05-29'
@@ -375,7 +375,7 @@
   - http://www.emberscreencasts.com/posts/12-moving-to-ember-cli-from-ember-appkit-pro
   series: EmberScreencasts
   price: $9/month
-- title: 11: Refactoring to a Component
+- title: '11: Refactoring to a Component'
   author_ids:
   - 58
   date: '2014-05-20'
@@ -384,7 +384,7 @@
   - http://www.emberscreencasts.com/posts/11-refactoring-to-a-component
   series: EmberScreencasts
   price: $9/month
-- title: 10: Create and Destroy
+- title: '10: Create and Destroy'
   author_ids:
   - 58
   date: '2014-05-18'
@@ -393,7 +393,7 @@
   - http://www.emberscreencasts.com/posts/10-create-and-destroy
   series: EmberScreencasts
   price: $9/month
-- title: 9: Ember.computed
+- title: '9: Ember.computed'
   author_ids:
   - 58
   date: '2014-05-06'
@@ -401,7 +401,7 @@
   videos:
   - http://www.emberscreencasts.com/posts/9-embercomputed
   series: EmberScreencasts
-- title: 8: Persistence with Ember Data and Ember App Kit
+- title: '8: Persistence with Ember Data and Ember App Kit'
   author_ids:
   - 58
   date: '2014-04-29'
@@ -410,7 +410,7 @@
   - http://www.emberscreencasts.com/posts/8-persistence-with-ember-data-and-ember-app-kit
   series: EmberScreencasts
   price: $9/month
-- title: 7: Transferring to Ember App Kit
+- title: '7: Transferring to Ember App Kit'
   author_ids:
   - 58
   date: '2014-04-24'
@@ -419,7 +419,7 @@
   - http://www.emberscreencasts.com/posts/7-transferring-to-ember-app-kit
   series: EmberScreencasts
   price: $9/month
-- title: 6: Intro to Ember App Kit
+- title: '6: Intro to Ember App Kit'
   author_ids:
   - 58
   date: '2014-04-17'
@@ -428,7 +428,7 @@
   - http://www.emberscreencasts.com/posts/6-intro-to-ember-app-kit
   series: EmberScreencasts
   price: $9/month
-- title: 5: Embedding Youtube Videos
+- title: '5: Embedding Youtube Videos'
   author_ids:
   - 58
   date: '2014-03-31'
@@ -437,7 +437,7 @@
   - http://www.emberscreencasts.com/posts/5-embedding-youtube-videos
   series: EmberScreencasts
   price: $9/month
-- title: 4: Setting up Testing
+- title: '4: Setting up Testing'
   author_ids:
   - 58
   date: '2014-03-20'
@@ -446,7 +446,7 @@
   - http://www.emberscreencasts.com/posts/4-setting-up-testing
   series: EmberScreencasts
   price: $9/month
-- title: 3: Metaprogramming with defineProperty
+- title: '3: Metaprogramming with defineProperty'
   author_ids:
   - 58
   date: '2014-03-16'
@@ -454,7 +454,7 @@
   videos:
   - http://www.emberscreencasts.com/posts/3-metaprogramming-with-defineproperty
   series: EmberScreencasts
-- title: 2: Switching to Ember Data
+- title: '2: Switching to Ember Data'
   author_ids:
   - 58
   date: '2014-03-10'
@@ -463,7 +463,7 @@
   - http://www.emberscreencasts.com/posts/2-switching-to-ember-data
   series: EmberScreencasts
   price: $9/month
-- title: 1: Custom Adapters for Ember Data
+- title: '1: Custom Adapters for Ember Data'
   author_ids:
   - 58
   date: '2014-03-04'
