@@ -1,4 +1,31 @@
 ---
+- title: "Fiddling with Ember CLI, Ember Twiddle"
+  date: "2015-05-19"
+  author_ids:
+  - 150
+  videos:
+  - https://www.youtube.com/watch?v=OgqTHCNa5R0
+  url: http://www.meetup.com/Ember-js-Amsterdam/events/222419007/
+  event_id: 17
+  id:
+- title: "TBA ;-)"
+  date: "2015-05-19"
+  author_ids:
+  - 45
+  videos:
+  - https://www.youtube.com/watch?v=E6UuqZEkOHQ
+  url: http://www.meetup.com/Ember-js-Amsterdam/events/222419007/
+  event_id: 17
+  id:
+- title: "Plans for Ember 2.0"
+  date: "2015-05-19"
+  author_ids:
+  - 39
+  videos:
+  - https://www.youtube.com/watch?v=QQra2wm8B_A
+  url: http://www.meetup.com/Ember-js-Amsterdam/events/222419007/
+  event_id: 17
+  id:
 - title: "Developing an Ember-cli addon"
   date: "2014-12-17"
   author_ids:
