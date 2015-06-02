@@ -1,4 +1,10 @@
 ---
+- title: 'Ember.js Web Development with Ember CLI'
+  author_ids:
+  - 205
+  publisher: Packt Publishing
+  url: https://www.packtpub.com/web-development/emberjs-web-development-ember-cli
+  payment: true
 - title: 'Rock & Roll with Ember.js'
   author_ids:
   - 94
