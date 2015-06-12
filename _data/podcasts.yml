@@ -1,4 +1,12 @@
 ---
+- title: 'Ember 2.0'
+  episode: 314
+  host: ITbende
+  member_ids:
+  - 149
+  duration: '54:33'
+  date: '2015-06-12'
+  url: http://www.itbende.nl/blog/2015/06/itbende-podcast-nr-314-ember-2-0/
 - title: Do your job, test the betas
   episode: 10
   host: Ember Land
