@@ -7,6 +7,15 @@
   duration: '54:33'
   date: '2015-06-12'
   url: http://www.itbende.nl/blog/2015/06/itbende-podcast-nr-314-ember-2-0/
+- title: 'The Curiously Strong Weekend'
+  episode: 12
+  host: Ember Weekend
+  member_ids:
+  - 158
+  - 159
+  duration: '19:25'
+  date: '2015-06-08'
+  url: https://emberweekend.com/episodes/the-curiously-strong-weekend
 - title: 'Rob’s heading to Vegas!'
   episode: 11
   host: Ember Land
@@ -16,6 +25,15 @@
   duration: '15:24'
   date: '2015-06-05'
   url: http://ember.land/episodes/11
+- title: E3r W5d with R4t D4a
+  episode: 11
+  host: Ember Weekend
+  member_ids:
+  - 158
+  - 159
+  duration: '17:38'
+  date: '2015-06-01'
+  url: https://emberweekend.com/episodes/e3r-w5d-with-r4t-d4a
 - title: Do your job, test the betas
   episode: 10
   host: Ember Land
