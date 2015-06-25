@@ -10,9 +10,11 @@ layout: default
           {{ project.title }}
         </a>
       </h5>
-      <p>{{ project.description }} <br />
-        <a href="{{ project.code }}">Source Code</a>
-      </p>
+      <div class="metadata">
+        <p>{{ project.description }} <br />
+          <a href="{{ project.code }}">Source Code</a>
+        </p>
+      </div>
     </li>
   {% endfor %}
 </ul>

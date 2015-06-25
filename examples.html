@@ -8,12 +8,14 @@ layout: default
       <h5>
         <a href="{{ example.code }}">{{ example.title }}</a>
       </h5>
-      {% if example.url %}
-        <a href="{{ example.url }}">Description</a> &middot;
-      {% endif %}
-      {% if example.demo %}
-        <a href="{{ example.demo }}">Demo</a>
-      {% endif %}
+      <div class="metadata">
+        {% if example.url %}
+          <a href="{{ example.url }}">Description</a> &middot;
+        {% endif %}
+        {% if example.demo %}
+          <a href="{{ example.demo }}">Demo</a>
+        {% endif %}
+      </div>
     </li>
   {% endfor %}
 </ul>

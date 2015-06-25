@@ -10,15 +10,17 @@ layout: default
           {{ screencast.title }}{% if screencast.subtitle %}: {{ screencast.subtitle }}{% endif %}
         </a>
       </h5>
-      {% for person_id in screencast.author_ids %}
-        {% include people.html %}
-      {% endfor %}
-      &middot;
-      {{ screencast.date | date: "%a %e %b %Y" }}
-      &middot;
-      <a href="{{ screencast.videos | first }}">Video</a>
-      &middot;
-      <a href="{{ screencast.url }}">Details</a>
+      <div class="metadata">
+        {% for person_id in screencast.author_ids %}
+          {% include people.html %}
+        {% endfor %}
+        &middot;
+        {{ screencast.date | date: "%a %e %b %Y" }}
+        &middot;
+        <a href="{{ screencast.videos | first }}">Video</a>
+        &middot;
+        <a href="{{ screencast.url }}">Details</a>
+      </div>
     </li>
   {% endfor %}
 </ul>

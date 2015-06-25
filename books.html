@@ -9,13 +9,15 @@ layout: default
         <a href="{{ book.url }}">{{ book.title}}</a>
         {% if book.payment%}${% endif %}
       </h5>
-      {% for person_id in book.author_ids %}
-        {% include people.html %}
-      {% endfor %}
-      &middot;
-      {{ book.publisher }}
-      &middot;
-      <a href="{{ book.url }}">Details</a>
+      <div class="metadata">
+        {% for person_id in book.author_ids %}
+          {% include people.html %}
+        {% endfor %}
+        &middot;
+        {{ book.publisher }}
+        &middot;
+        <a href="{{ book.url }}">Details</a>
+      </div>
     </li>
   {% endfor %}
 </ul>
