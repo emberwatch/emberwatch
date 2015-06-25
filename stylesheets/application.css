@@ -56,6 +56,12 @@ nav ul li{
 nav ul li.name h1{
   margin:0px;
   font-size:17px;
+
+  padding-left: 48px;
+  background-image: url(../images/logo.svg);
+  background-position: left 13px;
+  background-size: 40px auto;
+  background-repeat: no-repeat;
 }
 
 nav ul li.name h1 .light{
