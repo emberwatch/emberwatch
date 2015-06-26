@@ -23,23 +23,25 @@ layout: default
           </span>
         {% endif %}
       </h5>
-      {% for person_id in talk.author_ids %}
-        {% include people.html %}
-      {% endfor %}
-      &middot; {{ talk.date | date: "%a %e %b %Y" }} &middot;
-      {% if talk.videos.size == 0 %}
-        Video
-      {% else %}
-        <a href="{{ talk.videos | first }}">Video</a>
-      {% endif %} &middot;
-      {% if talk.slides %}
-        <a href="{{ talk.slides }}">Slides</a>
-      {% else %}
-        Slides
-      {% endif %}
-      {% if talk.url %}
-        &middot; <a href="{{ talk.url }}">Details</a>
-      {% endif %}
+      <div class="metadata">
+        {% for person_id in talk.author_ids %}
+          {% include people.html %}
+        {% endfor %}
+        &middot; {{ talk.date | date: "%a %e %b %Y" }} &middot;
+        {% if talk.videos.size == 0 %}
+          Video
+        {% else %}
+          <a href="{{ talk.videos | first }}">Video</a>
+        {% endif %} &middot;
+        {% if talk.slides %}
+          <a href="{{ talk.slides }}">Slides</a>
+        {% else %}
+          Slides
+        {% endif %}
+        {% if talk.url %}
+          &middot; <a href="{{ talk.url }}">Details</a>
+        {% endif %}
+      </div>
     </li>
   {% endfor %}
 </ul>

@@ -11,13 +11,15 @@ layout: default
             {{ podcast.host }} {{ podcast.episode }}
           </span>
       </h5>
-      {% for person_id in podcast.member_ids %}
-        {% include people.html %}
-      {% endfor %}
-      &middot;
-      {{ podcast.date | date: "%a %e %b %Y" }}
-      &middot;
-      {{ podcast.duration }}
+      <div class="metadata">
+        {% for person_id in podcast.member_ids %}
+          {% include people.html %}
+        {% endfor %}
+        &middot;
+        {{ podcast.date | date: "%a %e %b %Y" }}
+        &middot;
+        {{ podcast.duration }}
+      </div>
     </li>
   {% endfor %}
 </ul>
