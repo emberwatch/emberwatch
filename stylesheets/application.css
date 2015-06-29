@@ -183,11 +183,11 @@ section li h5 .video_play_button{
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   -webkit-tap-highlight-color: transparent; /* For some Androids */
 
-  -webkit-animation:play_button_appear 0.2s linear 1;
-  -moz-animation:play_button_appear 0.2s linear 1;
-  -ms-animation:play_button_appear 0.2s linear 1;
-  -o-animation:play_button_appear 0.2s linear 1;
-  animation:play_button_appear 0.2s linear 1;
+  -webkit-animation:play_button_appear 0.4s linear 1;
+  -moz-animation:play_button_appear 0.4s linear 1;
+  -ms-animation:play_button_appear 0.4s linear 1;
+  -o-animation:play_button_appear 0.4s linear 1;
+  animation:play_button_appear 0.4s linear 1;
 
   -webkit-animation-fill-mode:forwards;
   -moz-animation-fill-mode:forwards;
