@@ -31,7 +31,7 @@ layout: default
         {% if talk.videos.size == 0 %}
           Video
         {% else %}
-          <a href="{{ talk.videos | first }}">Video</a>
+          <a class="video-link" href="{{ talk.videos | first }}">Video</a>
         {% endif %} &middot;
         {% if talk.slides %}
           <a href="{{ talk.slides }}">Slides</a>
