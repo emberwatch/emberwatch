@@ -55,6 +55,8 @@
 
 				//we style in the CSS.
 				play_button.className = "video_play_button";
+				//...and a fix for iOS fast clicking.
+				play_button.setAttribute("ontouchstart", "");
 
 				//this is the listener that triggers the inline embed.
 				play_button.addEventListener("click", function(){

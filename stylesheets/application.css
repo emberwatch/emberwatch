@@ -175,6 +175,10 @@ section li h5 .video_play_button{
   background-position: center center;
   background-size: auto 10px;
   background-repeat: no-repeat;
+
+  /* disable grey box when clicking on iOS + Android */
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-tap-highlight-color: transparent; /* For some Androids */
 }
 
 section li h5 .video_play_button:active{
