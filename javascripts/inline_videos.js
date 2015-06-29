@@ -90,8 +90,14 @@
 						//this code is what we use to generate a video.
 						var video_container = generateVideo(video_id);
 						item.querySelector(".metadata").appendChild(video_container);
+
+						//there's a video on the page now, so we wanna flip the play button to a stop button.
+						play_button.classList.add("stop");
 					} else {
 						removeElement(existing_embed);
+
+						//video has been removed so we need to put it back to a play button.
+						play_button.classList.remove("stop");
 					}
 				});
 
