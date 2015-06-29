@@ -68,12 +68,18 @@
 					if(existing_embed === null){
 						var video_container = generateVideo(video_id);
 						item.querySelector(".metadata").appendChild(video_container);
+
+						//there's a video on the page now, so we wanna flip the play button to a stop button.
+						play_button.classList.add("stop");
 					} else {
 						//remove from page.
 						existing_embed.parentNode.removeChild(existing_embed);
 						
 						//just being tidy...
 						delete existing_embed;
+
+						//video has been removed so we need to put it back to a play button.
+						play_button.classList.remove("stop");
 					}
 				});
 

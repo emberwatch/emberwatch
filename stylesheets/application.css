@@ -196,6 +196,11 @@ section li h5 .video_play_button{
   animation-fill-mode:forwards;
 }
 
+section li h5 .video_play_button.stop{
+  background-image:url(../images/stop_icon.svg);
+  background-size: auto 8px;
+}
+
 section li h5 .video_play_button:active{
   -webkit-transform:scale(0.9);
   -moz-transform:scale(0.9);
