@@ -16,12 +16,21 @@
 		video_container.className = "video_container";
 
 		var iframe = document.createElement("iframe");
-		iframe.src = "https://www.youtube.com/embed/" + video_id;
+		iframe.src = "https://www.youtube.com/embed/" + video_id + "?autoplay=1";
 		iframe.setAttribute("allowfullscreen", "");
 
 		video_container.appendChild(iframe);
 
 		return video_container;
+	}
+
+	//function to delete an element from the DOM
+	var removeElement = function(element){
+		//remove from page.
+		element.parentNode.removeChild(element);
+		
+		//just being tidy...
+		delete element;
 	}
 
 	//this runs on any page, on any list of items that Jekyll has populated. Note how we grab all the list items on the page.
@@ -66,14 +75,30 @@
 					//if there is no embed for this list item, let's generate one and add it.
 					//but if there already is something there, we gotta remove it to prevent 1) duplicated videos and 2) a toggle effect when pressing the play button
 					if(existing_embed === null){
+
+						//behaviour for autoplay:
+						//because we want to stop one video when a user opens another one, we run this loop to check for any other open videos.
+						//if we find one, we remove it.
+						//the reason this code looks so similar to the top level loop is because it's exactly the same!
+						list_items.forEach(function(item){
+							var other_embed = item.querySelector(".metadata .video_container");
+							if(other_embed !== null){
+								removeElement(other_embed);
+								item.querySelector(".video_play_button").classList.remove("stop");
+							}
+						});
+
+						//this code is what we use to generate a video.
 						var video_container = generateVideo(video_id);
 						item.querySelector(".metadata").appendChild(video_container);
+
+						//there's a video on the page now, so we wanna flip the play button to a stop button.
+						play_button.classList.add("stop");
 					} else {
-						//remove from page.
-						existing_embed.parentNode.removeChild(existing_embed);
-						
-						//just being tidy...
-						delete existing_embed;
+						removeElement(existing_embed);
+
+						//video has been removed so we need to put it back to a play button.
+						play_button.classList.remove("stop");
 					}
 				});
 
