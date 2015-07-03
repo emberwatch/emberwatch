@@ -58,17 +58,18 @@
 			if(result !== null && result.length >= 2){
 				var video_id = result[1];
 
-				//our if statement succeeded which means that the module has successfully extracted what we think is a video id fromt the url.
-				//let's make a play button!
-				var play_button = document.createElement("button");
 
-				//we style in the CSS.
-				play_button.className = "video_play_button";
-				//...and a fix for iOS fast clicking.
-				play_button.setAttribute("ontouchstart", "");
+				var thumbnail = item.querySelector(".thumbnail");
+
+				thumbnail.classList.remove("default");
+				thumbnail.classList.add("video");
+
+				thumbnail.setAttribute("ontouchstart", "");
 
 				//this is the listener that triggers the inline embed.
-				play_button.addEventListener("click", function(){
+				thumbnail.addEventListener("click", function(){
+					var list_container = document.querySelector("section ul");
+
 					//let's check to see if a video embed is already open...
 					var existing_embed = item.querySelector(".metadata .video_container");
 
@@ -93,19 +94,17 @@
 						item.querySelector(".metadata").appendChild(video_container);
 
 						//there's a video on the page now, so we wanna flip the play button to a stop button.
-						play_button.classList.add("stop");
+						thumbnail.classList.add("stop");
 					} else {
 						removeElement(existing_embed);
 
 						//video has been removed so we need to put it back to a play button.
-						play_button.classList.remove("stop");
+						thumbnail.classList.remove("stop");
 					}
-				});
+				});				
 
-				//finally we add the play icon to the far left of the respective header.
-				var header = item.querySelector("h5");
-				//this is basically what jQuery prepend does:
-				header.insertBefore(play_button, header.firstChild);
+				thumbnail.setAttribute("style", "background-image:url(http://img.youtube.com/vi/" + video_id + "/hqdefault.jpg)");
+
 			}
 		}
 	});
