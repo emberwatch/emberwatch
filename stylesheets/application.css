@@ -153,6 +153,7 @@ section li a{
 section li .metadata{
   font-size:14px;
   padding-top:10px;
+  color:#999;
 }
 
 section li .metadata a{
