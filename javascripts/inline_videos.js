@@ -67,7 +67,9 @@
 				thumbnail.setAttribute("ontouchstart", "");
 
 				//this is the listener that triggers the inline embed.
-				thumbnail.addEventListener("click", function(){
+				var toggleVideo = function(e){
+					e.preventDefault();
+
 					var list_container = document.querySelector("section ul");
 
 					//let's check to see if a video embed is already open...
@@ -101,7 +103,10 @@
 						//video has been removed so we need to put it back to a play button.
 						thumbnail.classList.remove("stop");
 					}
-				});				
+				};
+
+				thumbnail.addEventListener("click", toggleVideo);
+				item.querySelector("h5 a").addEventListener("click", toggleVideo);			
 
 				thumbnail.setAttribute("style", "background-image:url(http://img.youtube.com/vi/" + video_id + "/hqdefault.jpg)");
 
