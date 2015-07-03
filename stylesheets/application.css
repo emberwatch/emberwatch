@@ -137,6 +137,14 @@ section li h5 span{
   margin-left:10px;
 }
 
+@media screen and (max-width:600px){
+  section li h5 span{
+    margin:0px;
+    margin-top:10px;
+    display:block;
+  }
+}
+
 section li a{
   color:inherit;
 }
@@ -175,7 +183,7 @@ section li .thumbnail{
   top:5px;
   left:0px;
   width:60px;
-  height:40px;
+  height:34px;
 
   background-size:cover;
   background-position:center center;
@@ -224,7 +232,7 @@ section li .thumbnail.video:after{
   content:'';
 
   color: #FFF;
-  background: rgba(0,0,0,0.5);
+  background: rgba(0,0,0,0.4);
   border: none;
   border-radius: 0px;
   width:100%;
@@ -310,7 +318,7 @@ section ul.tile li h5{
   margin-top:10px;
 }
 
-section ul.tile li h5 .event-name{
+section ul.tile li h5 span{
   display:block;
   margin:0px;
   margin-top:10px;
