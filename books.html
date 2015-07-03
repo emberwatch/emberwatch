@@ -2,21 +2,30 @@
 title: Books
 layout: default
 ---
-<ul>
+<ul class="tile">
   {% for book in site.data.books %}
     <li>
-      <h5>
-        <a href="{{ book.url }}">{{ book.title}}</a>
-        {% if book.payment%}${% endif %}
-      </h5>
+      <div class="thumbnail book">
+        <div class="title">{{ book.title}}</div>
+
+        <div class="price">
+          {% if book.payment%}
+            Paid
+          {% else %}
+            Free
+          {% endif %}
+        </div>
+      </div>
       <div class="metadata">
-        {% for person_id in book.author_ids %}
-          {% include people.html %}
-        {% endfor %}
-        &middot;
-        {{ book.publisher }}
-        &middot;
-        <a href="{{ book.url }}">Details</a>
+        <p>
+          {% for person_id in book.author_ids %}
+            {% include people.html %}
+          {% endfor %}
+        </p>
+        <p>{{ book.publisher }}</p>
+        <p>
+          <a href="{{ book.url }}">More Details</a>
+        </p>
       </div>
     </li>
   {% endfor %}

@@ -4,7 +4,8 @@ layout: default
 ---
 <ul>
   {% for talk in site.data.talks %}
-    <li id="talk-{{ talk.id }}">
+    <li id="talk-{{ talk.id }}" class="thumbnail_enabled">
+      <div class="thumbnail default"></div>
       <h5>
         {% if talk.videos.size == 0 %}
           {{talk.title}}{% if talk.subtitle %}: {{talk.subtitle}}{% endif %}
