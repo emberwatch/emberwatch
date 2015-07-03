@@ -5,17 +5,19 @@ layout: default
 <ul class="tile">
   {% for book in site.data.books %}
     <li>
-      <div class="thumbnail book">
-        <div class="title">{{ book.title}}</div>
+      <a href="{{ book.url }}">
+        <div class="thumbnail book">
+          <div class="title">{{ book.title}}</div>
 
-        <div class="price">
-          {% if book.payment%}
-            Paid
-          {% else %}
-            Free
-          {% endif %}
+          <div class="price">
+            {% if book.payment%}
+              Paid
+            {% else %}
+              Free
+            {% endif %}
+          </div>
         </div>
-      </div>
+      </a>
       <div class="metadata">
         <p>
           {% for person_id in book.author_ids %}
