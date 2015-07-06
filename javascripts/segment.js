@@ -27,7 +27,10 @@
                 n.parentNode.insertBefore(e, n)
             };
             analytics.SNIPPET_VERSION = "3.0.1";
-            analytics.load("duhCFWFVnJujW1xmCQQ93jVRGXBqW2gh");
+
+            //switch these for dev // production.
+            // analytics.load("duhCFWFVnJujW1xmCQQ93jVRGXBqW2gh"); //DEV KEY
+            analytics.load("y2TiuwaPhoIo0JzEtOWGBtJQkm0ECH5G"); //PRODUCTION KEY
 
             //This isn't default Segment code. I wrote this bit to identify the page that a user is on.
             var page_title = document.body.getAttribute("data-page-title");
