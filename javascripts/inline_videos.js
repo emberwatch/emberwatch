@@ -99,7 +99,9 @@
 						thumbnail.classList.add("stop");
 
 						if(analytics){
-							analytics.track('Opened inline video');
+							analytics.track('InlineVideoPlay', {
+							  video_url: 'https://www.youtube.com/watch?v=' + video_id
+							});
 						}
 						
 					} else {
