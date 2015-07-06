@@ -87,7 +87,7 @@
 							var other_embed = item.querySelector(".metadata .video_container");
 							if(other_embed !== null){
 								removeElement(other_embed);
-								item.querySelector(".video_play_button").classList.remove("stop");
+								item.querySelector(".thumbnail").classList.remove("stop");
 							}
 						});
 
