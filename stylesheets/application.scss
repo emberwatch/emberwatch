@@ -1,0 +1,401 @@
+---
+# stylesheet
+# @author nabil freeman http://github.com/nabilfreeman
+---
+
+@mixin box-sizing($type){
+  -webkit-box-sizing:$type;
+  -moz-box-sizing:$type;
+  -ms-box-sizing:$type;
+  -o-box-sizing:$type;
+  box-sizing:$type;
+}
+
+@mixin transform($command){
+  -webkit-transform:$command;
+  -moz-transform:$command;
+  -ms-transform:$command;
+  -o-transform:$command;
+  transform:$command;
+}
+
+$mobile: "screen and (max-width:600px)";
+
+*{
+  outline:none;
+
+  @include box-sizing(border-box);
+}
+
+
+body{
+  margin:0px;
+  padding:0px;
+
+  background:#FBFBFB;
+  color:#333;
+
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+
+  .container{
+    width:100%;
+    max-width:960px;
+    margin:0 auto;
+    padding:0px 20px;
+  }
+}
+
+
+/* NAV BAR STYLING */
+nav{
+  background:transparent;
+  height:60px;
+  line-height:60px;
+  width:100%;
+  color:#e45036;
+  overflow-y:auto; /*clearfix*/
+  border-bottom:1px solid #F0F0F0;
+
+  & a{
+    color:inherit;
+    text-decoration:none;
+  }
+
+  & ul{
+    margin:0px;
+    padding:0px;
+    list-style:none;
+    float:left;
+    font-weight:bold;
+
+    &.right{
+      float:right;
+      font-size:14px;
+    }
+
+    & li{
+      display:inline-block;
+
+      &.name h1{
+        margin:0px;
+        font-size:17px;
+
+        padding-left: 48px;
+        background-image: url(../images/logo.svg);
+        background-position: left 20px;
+        background-size: 40px auto;
+        background-repeat: no-repeat;
+
+        & .light{
+          font-weight:normal;
+        }
+      }
+    }
+  }
+}
+
+
+/* CATEGORIES LIST */
+ul.tabs{
+  width:100%;
+  margin:30px 0px;
+  padding:0px;
+  list-style:none;
+  font-size:17px;
+
+  padding-bottom:30px;
+  border-bottom:1px solid #F0F0F0;
+
+  & li{
+    display:inline;
+    color:#2ba6cb;
+    padding:5px 0px;
+    margin-right:10px;
+    line-height:40px;
+
+    &.active{
+      color:#FFF;
+      font-weight:bold;
+      background:#2ba6cb;
+      border-radius:50px;
+      padding:5px 10px;
+    }
+
+    & a{
+      text-decoration:none;
+      color:inherit;
+    }
+  }
+}
+
+
+/* MAIN CONTENT */
+section{
+  & ul{
+    margin:0px;
+    padding:0px;
+    list-style:none;
+
+    & li{
+      margin-bottom:30px;
+      position:relative;
+
+      &.thumbnail_enabled{
+        padding-left:70px;
+      }
+
+      & h5{
+        color:#e45036;
+        font-size:17px;
+        margin:0px;
+
+        & span{
+          font-size:14px;
+          font-weight:normal;
+          color:#999;
+          margin-left:10px;
+
+          @media #{$mobile} {
+            margin:0px;
+            margin-top:10px;
+            display:block;
+          }
+        }
+      }
+
+      & a{
+        color:inherit;
+      }
+
+      & .metadata{
+        font-size:14px;
+        padding-top:10px;
+        color:#999;
+
+        & a{
+          color:#2ba6cb;
+          text-decoration:none;
+        }
+      }
+    }
+  }
+}
+
+
+/* FOOTER */
+footer{
+  margin:30px 0px;
+  padding-top:30px;
+  border-top:1px solid #F0F0F0;
+}
+
+footer a{
+  font-weight:bold;
+  color:#2ba6cb;
+}
+
+
+
+
+
+
+/*THUMBNAILS*/
+section li .thumbnail{
+  position:absolute;
+  top:5px;
+  left:0px;
+  width:60px;
+  height:34px;
+
+  background-size:cover;
+  background-position:center center;
+  background-repeat:no-repeat;
+
+  &.default{
+    background:#F0F0F0;
+
+    &:before{
+      content:'http://';
+      font-family:'Menlo', monospace;
+      text-align:center;
+      line-height:24px;
+
+      position:absolute;
+      top:50%;
+      left:50%;
+      height:24px;
+      margin-top:-12px;
+      width:50px;
+      margin-left:-25px;
+
+      font-size:10px;
+    }
+  }
+}
+
+
+/* VIDEO FUNCTIONALITY ON LIST ITEMS */
+section li {
+  & .thumbnail.video{
+    &:active{
+      @include transform(scale(0.95));
+    }
+
+    &:after{
+      content:'';
+
+      color: #FFF;
+      background: rgba(0,0,0,0.4);
+      border: none;
+      border-radius: 0px;
+      width:100%;
+      height:100%;
+      
+      padding:0px;
+      font-size:10px;
+
+      position:absolute;
+      top:0px;
+      left:0px;
+
+      box-shadow:0px 0px 20px #FFF;
+
+      cursor:pointer;
+
+      background-image: url(../images/play_icon.svg);
+      background-position: center center;
+      background-size: auto 10px;
+      background-repeat: no-repeat;
+
+      /* disable grey box when clicking on iOS + Android */
+      -webkit-tap-highlight-color: rgba(0,0,0,0);
+      -webkit-tap-highlight-color: transparent; /* For some Androids */
+    }
+
+    &.stop:after{
+      background-image:url(../images/stop_icon.svg);
+      background-size: auto 8px;
+    }
+  }
+
+  & .video_container{
+    margin-top:20px;
+    overflow-y:auto;
+
+    margin-left:-70px;
+
+    & iframe{
+      float:left;
+      width: 480px;
+      height: 320px;
+      border: none;
+    }
+
+    @media #{$mobile} {
+      margin-left:-90px;
+      margin-right:-20px;
+      background:#F0F0F0;
+      padding:0px 20px;
+
+      & iframe{
+        width: 100%;
+        height: 240px;
+      }
+    }
+  }
+}
+
+
+/*TILE MODE ON LIST ITEMS*/
+section ul.tile{
+  overflow-y:auto;
+
+  /*whitespace fix*/
+  font-size:0px;
+
+  & li{
+    display:inline-block;
+
+    vertical-align:top;
+    width:160px;
+   
+    margin-right:20px;
+
+    &.thumbnail_enabled{
+      padding-left:0px;
+    }
+
+    & h5{
+      margin-top:10px;
+
+      & span{
+        display:block;
+        margin:0px;
+        margin-top:10px;
+      }
+    }
+
+    & .metadata{
+      padding-top:20px;
+
+      & p{
+        font-size:15px;
+        line-height:24px;
+        margin:0px;
+        margin-bottom:5px;
+      }
+    }
+
+    & .thumbnail.book{
+      display:block;
+
+      position:relative;
+
+      width:100%;
+      height:240px;
+
+      top:auto;
+      left:auto;
+
+      background:#e45036;
+
+      background-image: url(../images/logo.svg);
+      background-position: 20px 204px;
+      background-size: auto 16px;
+      background-repeat: no-repeat;
+
+      & .title{
+        display:inline-block;
+        margin-top:30px;
+
+        font-family:'Georgia', 'Cambria', sans-serif;
+        font-size:16px;
+        text-decoration:none;
+
+        padding:20px;
+        width:100%;
+
+        color:#e45036;
+        background:#F0F0F0;
+      }
+
+      & .price{
+
+        position:absolute;
+        bottom:15px;
+        right:15px;
+
+        font-size:14px;
+        background:#451209;
+        color:#fff;
+
+        padding:5px 15px;
+
+        margin-top:20px;
+
+        display:inline-block;
+        border-radius:50px;
+      }
+    }
+  }
+}
