@@ -97,6 +97,13 @@
 
 						//there's a video on the page now, so we wanna flip the play button to a stop button.
 						thumbnail.classList.add("stop");
+
+						if(analytics){
+							analytics.track('InlineVideoPlay', {
+							  video_url: 'https://www.youtube.com/watch?v=' + video_id
+							});
+						}
+						
 					} else {
 						removeElement(existing_embed);
 
