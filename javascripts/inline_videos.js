@@ -16,7 +16,7 @@
 		video_container.className = "video_container";
 
 		var iframe = document.createElement("iframe");
-		iframe.src = "https://www.youtube.com/embed/" + video_id + "?autoplay=1";
+		iframe.src = "https://www.youtube.com/embed/" + video_id + "?autoplay=1&showinfo=0&autohide=1";
 		iframe.setAttribute("allowfullscreen", "");
 
 		video_container.appendChild(iframe);

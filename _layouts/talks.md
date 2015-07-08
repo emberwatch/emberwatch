@@ -1,14 +1,33 @@
 ---
 layout: default
 ---
-<h1>{{page.title}}</h1>
-<h2>{{page.author_id}}</h2>
-<h3>{{page.event_id}}</h3>
-<p>
-{{page.video_provider}} video with id: {{page.video_id}}, url: {{page.video}}.
-</p>
+<div class="video_page">
+	<section class="details">
+		<h1>{{page.title}}</h1>
+		<h2>
+			{% for person_id in page.author_ids %}
+				{% include people.html %}
+			{% endfor %}
+		</h2>
+	</section>
+	<section class="video">
+		{% if page.video_provider == "youtube" %}
+			<div class="video_container">
+				<iframe src="http://youtube.com/embed/{{ page.video_id }}?showinfo=0&autohide=1"></iframe>
+			</div>
+		{% endif %}
+	</section>
 
-<p>
-<a href="{{page.url}}">Details</a>.
-</p>
+	{% if page.slides_format == "pdf" %}
+		<section class="slides">
+			<button ontouchstart>Toggle slides</button>
+			
+			<div class="slides_container pdf">
+				<object data="{{ page.slides_url }}#view=FitH" type="application/pdf"></object>
+			</div>
+		</section>
+	{% endif %}
+
+</div>
+
 {{content}}
