@@ -28,6 +28,16 @@ layout: default
 		</section>
 	{% endif %}
 
+	{% if page.slides_format == "slideshare" %}
+		<section class="slides">
+			<button ontouchstart>Toggle slides</button>
+			
+			<div class="slides_container slideshare">
+				<script async class="speakerdeck-embed" data-id="24879a5060310131f6d34a2b50a01ca4" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+			</div>
+		</section>
+	{% endif %}
+
 </div>
 
 {{content}}
