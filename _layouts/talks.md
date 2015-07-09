@@ -13,7 +13,12 @@ layout: default
 	<section class="video">
 		{% if page.video_provider == "youtube" %}
 			<div class="video_container">
-				<iframe src="http://youtube.com/embed/{{ page.video_id }}?showinfo=0&autohide=1"></iframe>
+				<iframe src="http://youtube.com/embed/{{ page.video_id }}?showinfo=0&autohide=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			</div>
+		{% endif %}
+		{% if page.video_provider == "vimeo" %}
+			<div class="video_container">
+				<iframe src="https://player.vimeo.com/video/{{ page.video_id }}" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 			</div>
 		{% endif %}
 	</section>
@@ -33,7 +38,17 @@ layout: default
 			<button ontouchstart>Toggle slides</button>
 			
 			<div class="slides_container speakerdeck">
-				<script async class="speakerdeck-embed" data-id="24879a5060310131f6d34a2b50a01ca4" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+				<script async class="speakerdeck-embed" data-id="{{ page.slides_id }}" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+			</div>
+		</section>
+	{% endif %}
+
+	{% if page.slides_format == "slideshare" %}
+		<section class="slides">
+			<button ontouchstart>Toggle slides</button>
+			
+			<div class="slides_container slideshare">
+				<iframe src="//www.slideshare.net/slideshow/embed_code/key/{{ page.slides_id }}" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 			</div>
 		</section>
 	{% endif %}
