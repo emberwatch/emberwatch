@@ -1,7 +1,8 @@
 //NB: These load in the order of first to last! Get the order right or face the consequences!!!!
 var enabled_modules = [
 	"segment",
-	"inline_videos"
+	"inline_videos",
+	"toggle_slides"
 ];
 
 enabled_modules.forEach(function(module){
