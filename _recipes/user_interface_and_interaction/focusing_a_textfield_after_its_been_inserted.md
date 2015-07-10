@@ -1,6 +1,7 @@
 ---
 title: Focusing an Ember.TextField after it's been inserted
 section: User Interface and interaction
+layout: default
 ---
 ### Problem
 You have an Ember.TextField instance that you would like become focused after it's been inserted.

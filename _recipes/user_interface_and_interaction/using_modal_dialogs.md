@@ -1,6 +1,7 @@
 ---
 title: Using modal dialogs
 section: User Interface and interaction
+layout: default
 ---
 ### Problem
 You want to show part of your UI in a modal dialog.

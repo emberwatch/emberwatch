@@ -1,5 +1,7 @@
 ---
 title: To be done
+section: Meta
+layout: default
 ---
 1. [Adding Pagination to an ArrayController]()
 1. [Updating Views Real-Time with WebSockets]()

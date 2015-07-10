@@ -1,6 +1,7 @@
 ---
 title: Understanding the Cookbook format
 section: contribution
+layout: default
 ---
 ### Problem
 You want to contribute, but aren't familiar with the Cookbook format or don't know

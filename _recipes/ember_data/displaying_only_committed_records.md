@@ -1,6 +1,7 @@
 ---
 title: Displaying only committed records
 section: Ember Data
+layout: default
 ---
 ## Problem
 

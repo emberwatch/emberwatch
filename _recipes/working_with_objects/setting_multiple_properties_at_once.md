@@ -1,6 +1,7 @@
 ---
 title: Setting multiple properties at once
 section: Working with Objects
+layout: default
 ---
 ### Problem
 You want to set multiple properties on an object with a single method call.

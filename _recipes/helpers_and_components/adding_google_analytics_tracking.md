@@ -1,6 +1,7 @@
 ---
 title: Adding Google Analytics tracking
 section: Helpers and components
+layout: default
 ---
 ### Problem
 

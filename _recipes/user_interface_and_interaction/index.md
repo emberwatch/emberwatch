@@ -1,6 +1,7 @@
 ---
 title: User Interface and interaction
 section: User Interface and interaction
+layout: default
 ---
 Here are some recipes that will help you provide a better user experience.
 

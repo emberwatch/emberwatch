@@ -1,6 +1,7 @@
 ---
 title: Incrementing or decrementing a property
 section: Working with Objects
+layout: default
 ---
 ### Problem
 You want to increment or decrement a property.

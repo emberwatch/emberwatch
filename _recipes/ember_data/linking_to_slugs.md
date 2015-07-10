@@ -1,6 +1,7 @@
 ---
 title: Linking to slugs
 section: Ember Data
+layout: default
 ---
 ## Problem
 

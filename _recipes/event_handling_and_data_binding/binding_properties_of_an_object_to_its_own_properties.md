@@ -1,6 +1,7 @@
 ---
 title: Binding properties of an Object to its own properties
 section: Event handling and data binding
+layout: default
 ---
 ### Problem
 You want to base the value of one property on the value of another property.

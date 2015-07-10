@@ -1,6 +1,7 @@
 ---
 title: Suggesting a Recipe
 section: Contributing
+layout: default
 ---
 ### Problem
 You'd like to submit a recipe to the Ember Cookbook.

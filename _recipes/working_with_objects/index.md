@@ -1,6 +1,7 @@
 ---
 title: Working with Objects
 section: Working with Objects
+layout: default
 ---
 Here are some recipes to help you understand working with Ember Objects.
 

@@ -1,6 +1,7 @@
 ---
 title: Adding CSS classes to your components based on properties
 section: User Interface and interaction
+layout: default
 ---
 ### Problem
 You want to add or remove CSS class names to your Ember Components based on properties of the component.

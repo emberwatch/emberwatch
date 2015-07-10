@@ -1,6 +1,7 @@
 ---
 title: Adding CSS classes to your components
 section: User Interface and interaction
+layout: default
 ---
 ### Problem
 

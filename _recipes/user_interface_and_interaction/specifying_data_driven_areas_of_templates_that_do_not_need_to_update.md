@@ -1,6 +1,7 @@
 ---
 title: Specifying data driven areas of templates that do not need to update
 section: User Interface and interaction
+layout: default
 ---
 ### Problem
 You have a section of a template that is based on a data but you don't need the template to update

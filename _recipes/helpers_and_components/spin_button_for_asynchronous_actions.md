@@ -1,6 +1,7 @@
 ---
 title: Spin button for asynchronous actions
 section: Helpers and components
+layout: default
 ---
 ### Problem
 You want a button component that spins to show asynchronous action till completion. Eg- Save Button.

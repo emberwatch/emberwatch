@@ -1,6 +1,7 @@
 ---
 title: Event handling and data binding
 section: Event handling and data binding
+layout: default
 ---
 Here are some recipes for managing events and dealing with bindings.
 

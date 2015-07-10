@@ -1,6 +1,7 @@
 ---
 title: Resetting scroll on route changes
 section: User Interface and interaction
+layout: default
 ---
 ### Problem
 

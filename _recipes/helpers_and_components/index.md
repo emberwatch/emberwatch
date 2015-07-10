@@ -1,6 +1,7 @@
 ---
 title: Helpers and components
 section: Helpers and components
+layout: default
 ---
 Here are some recipes to help you encapsulate your code into Components and build Helpers.
 

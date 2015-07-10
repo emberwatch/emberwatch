@@ -1,6 +1,7 @@
 ---
 title: Contributing
 section: Contributing
+layout: default
 ---
 The Ember Cookbook provides answers and solutions to common Ember questions and problems. Anyone is welcome to
 [contribute](./understanding_the_cookbook_format).

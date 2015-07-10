@@ -1,6 +1,7 @@
 ---
 title: Deciding if a recipe is a good fit
 section: Contributing
+layout: default
 ---
 ### Problem
 You have an idea for a recipe, but aren't sure it is a good fit for the Cookbook.
