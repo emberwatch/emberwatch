@@ -61,11 +61,11 @@ the same thing as Handlebars helpers defined above.
 export default Ember.Controller.extend({
   format: "YYYYMMDD",
   date: null,
-  formattedDate: function() {
+  formattedDate: Ember.computed('data', 'format', function() {
     var date = this.get('date'),
         format = this.get('format');
     return moment(date).format(format);
-  }.property('date', 'format')
+  })
 });
 ```
 
