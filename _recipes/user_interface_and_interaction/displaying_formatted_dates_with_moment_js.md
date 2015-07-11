@@ -1,6 +1,7 @@
 ---
 title: Displaying formatted dates with momentjs
 section: User Interface and interaction
+layout: default
 ---
 ### Problem
 

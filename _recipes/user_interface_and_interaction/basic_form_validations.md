@@ -1,6 +1,7 @@
 ---
 title: Basic form validations
 section: User Interface and interaction
+layout: default
 ---
 ## Problem
 
