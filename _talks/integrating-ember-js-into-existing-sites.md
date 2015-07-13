@@ -7,9 +7,8 @@ author_ids:
 video: https://vimeo.com/86698279
 video_provider: vimeo
 video_id: 86698279
-slides_url: http://www.slideshare.net/istefo/emberjs-munich-testing
 slides_format: slideshare
-slides_id: daBStqY0BvYaRv
-url: "http://www.meetup.com/London-Emberjs-User-Group/events/161526872/"
+slides_url: http://www.slideshare.net/istefo/emberjs-munich-testing
+url: http://www.meetup.com/London-Emberjs-User-Group/events/161526872/
 layout: talks
 ---

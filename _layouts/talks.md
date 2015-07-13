@@ -23,32 +23,13 @@ layout: default
 		{% endif %}
 	</section>
 
-	{% if page.slides_format == "pdf" %}
+	{% if page.slides_url %}
 		<section class="slides">
 			<button ontouchstart>Toggle slides</button>
-			
-			<div class="slides_container pdf">
-				<object data="{{ page.slides_url }}#view=FitH" type="application/pdf"></object>
-			</div>
-		</section>
-	{% endif %}
 
-	{% if page.slides_format == "speakerdeck" %}
-		<section class="slides">
-			<button ontouchstart>Toggle slides</button>
-			
-			<div class="slides_container speakerdeck">
-				<script async class="speakerdeck-embed" data-id="{{ page.slides_id }}" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-			</div>
-		</section>
-	{% endif %}
-
-	{% if page.slides_format == "slideshare" %}
-		<section class="slides">
-			<button ontouchstart>Toggle slides</button>
-			
-			<div class="slides_container slideshare">
-				<iframe src="//www.slideshare.net/slideshow/embed_code/key/{{ page.slides_id }}" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+			<div class="slides_container">
+				<a class="embedly-card" href="{{ page.slides_url }}"></a>
+				<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 			</div>
 		</section>
 	{% endif %}
