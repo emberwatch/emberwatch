@@ -1,6 +1,7 @@
 ---
 title: Participating if you don't know Ember
 section: Contributing
+layout: default
 ---
 ### Problem
 You are new to Ember, but want to help write the Cookbook.
