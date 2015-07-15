@@ -25,8 +25,6 @@ layout: default
 
 	{% if page.slides_url %}
 		<section class="slides">
-			<button ontouchstart>Toggle slides</button>
-
 			<div class="slides_container">
 				<a class="embedly-card" href="{{ page.slides_url }}"></a>
 				<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
