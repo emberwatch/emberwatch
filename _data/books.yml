@@ -1,4 +1,10 @@
 ---
+- title: 'Deliver Audacious Web Apps with Ember 2'
+  author_ids:
+  - 206
+  publisher: Pragmatic Programmers
+  url: https://pragprog.com/book/mwjsember/deliver-audacious-web-apps-with-ember-2
+  payment: true
 - title: 'Ember.js Web Development with Ember CLI'
   author_ids:
   - 205

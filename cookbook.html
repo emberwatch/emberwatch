@@ -1,0 +1,9 @@
+---
+title: Cookbook
+layout: default
+---
+<ul>
+  {% for recipe in site.recipes %}
+    <li>{{ recipe.section }} | <a href="{{recipe.url}}">{{ recipe.title }}</a></li>
+  {% endfor %}
+</ul>
