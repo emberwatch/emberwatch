@@ -1,48 +1,70 @@
 ---
-title: Talks
-layout: default
+title: Ember.js resources
+layout: homepage
 ---
-<ul>
-  {% for talk in site.data.talks %}
-    <li id="talk-{{ talk.id }}" class="thumbnail_enabled">
-      <div class="thumbnail default"></div>
-      <h5>
-        {% if talk.videos.size == 0 %}
-          {{talk.title}}{% if talk.subtitle %}: {{talk.subtitle}}{% endif %}
-        {% else %}
-          <a href="{{ talk.videos | first }}">
-            {{ talk.title }}{% if talk.subtitle %}: {{ talk.subtitle }}{% endif %}
-          </a>
-        {% endif %}
-        {% if talk.event_id %}
-          <span class="event-name">
-            {% for event in site.data.events %}
-              {% if talk.event_id == event.id %}
-                {{ event.name }}
-              {% endif %}
-            {% endfor %}
-          </span>
-        {% endif %}
-      </h5>
-      <div class="metadata">
-        {% for person_id in talk.author_ids %}
-          {% include people.html %}
-        {% endfor %}
-        &middot; {{ talk.date | date: "%a %e %b %Y" }} &middot;
-        {% if talk.videos.size == 0 %}
-          Video
-        {% else %}
-          <a class="video-link" href="{{ talk.videos | first }}">Video</a>
-        {% endif %} &middot;
-        {% if talk.slides %}
-          <a href="{{ talk.slides }}">Slides</a>
-        {% else %}
-          Slides
-        {% endif %}
-        {% if talk.url %}
-          &middot; <a href="{{ talk.url }}">Details</a>
-        {% endif %}
-      </div>
+<div class="hello">
+    <h1>
+        Welcome to EmberWatch
+    </h1>
+    <p>
+        EmberWatch is a community-run resource for EmberJS. Here you'll find keynotes, useful books, tutorials and more!
+    </p>
+</div>
+<ul class="homepage">
+    <li>
+        <h1>Talks <a href="talks.html">View all</a></h1>
+        <div class="homepage_tiles">
+            <div class="wrapper">
+                {% for talk in site.data.talks %}
+                    <div class="tile">
+                        <h6>
+                            {{ talk.title }}
+                        </h6>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
     </li>
-  {% endfor %}
+    <li>
+        <h1>Screencasts <a href="screencasts.html">View all</a></h1>
+        <div class="homepage_tiles">
+            <div class="wrapper">
+                {% for screencast in site.data.screencasts %}
+                    <div class="tile">
+                        <h6>
+                            {{ screencast.title }}
+                        </h6>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </li>
+    <li>
+        <h1>Podcasts <a href="podcasts.html">View all</a></h1>
+        <div class="homepage_tiles">
+            <div class="wrapper">
+                {% for podcast in site.data.podcasts %}
+                    <div class="tile">
+                        <h6>
+                            {{ podcast.title }}
+                        </h6>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </li>
+    <li>
+        <h1>Books <a href="books.html">View all</a></h1>
+        <div class="homepage_tiles">
+            <div class="wrapper">
+                {% for book in site.data.books %}
+                    <div class="tile">
+                        <h6>
+                            {{ book.title }}
+                        </h6>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </li>
 </ul>

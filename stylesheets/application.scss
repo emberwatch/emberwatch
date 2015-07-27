@@ -3,6 +3,8 @@
 # @author nabil freeman http://github.com/nabilfreeman
 ---
 
+@import "keyframes.css";
+
 @mixin box-sizing($type){
   -webkit-box-sizing:$type;
   -moz-box-sizing:$type;
@@ -17,6 +19,22 @@
   -ms-transform:$command;
   -o-transform:$command;
   transform:$command;
+}
+
+@mixin animation($command){
+  -webkit-animation:$command;
+  -moz-animation:$command;
+  -ms-animation:$command;
+  -o-animation:$command;
+  animation:$command;
+}
+
+@mixin animation-delay($command){
+  -webkit-animation-delay:$command;
+  -moz-animation-delay:$command;
+  -ms-animation-delay:$command;
+  -o-animation-delay:$command;
+  animation-delay:$command;
 }
 
 $mobile: "screen and (max-width:600px)";
@@ -128,6 +146,19 @@ ul.tabs{
   }
 }
 
+.hello{
+    margin:30px auto;
+    margin-top:80px;
+    font-size:20px;
+    line-height:30px;
+    text-align:center;
+    max-width:640px;
+
+    & h1{
+        font-size:28px;
+    }
+}
+
 
 /* MAIN CONTENT */
 section{
@@ -136,9 +167,144 @@ section{
     padding:0px;
     list-style:none;
 
+    &.homepage{
+        padding-top:40px;
+
+        & li{
+            padding-bottom:40px;
+            margin-bottom:0px;
+
+            & .homepage_tiles .wrapper{
+                margin-left:120px;
+                opacity:0;
+                @include animation(homepage-fade 1s ease-out 1 forwards);
+            }
+
+            &:nth-child(2) .homepage_tiles .wrapper{
+                @include animation-delay(0.3s);
+            }
+
+            &:nth-child(3) .homepage_tiles .wrapper{
+                @include animation-delay(0.6s);
+            }
+
+            &:nth-child(4) .homepage_tiles .wrapper{
+                @include animation-delay(0.9s);
+            }
+
+            &:nth-child(5) .homepage_tiles .wrapper{
+                @include animation-delay(1.2s);
+            }
+
+            &:nth-child(6) .homepage_tiles .wrapper{
+                @include animation-delay(1.5s);
+            }
+        }
+    }
+
     & li{
       margin-bottom:30px;
       position:relative;
+
+      & h1{
+          font-size:24px;
+          margin:0px;
+          margin-bottom:20px;
+
+          & a{
+              background:#2ba6cb;
+              float:right;
+              font-size:15px;
+              text-decoration:none;
+              color:#FFF;
+              border-radius:50px;
+              padding:6px 10px;
+              line-height:20px;
+          }
+      }
+
+      & .homepage_tiles{
+          overflow-y:hidden;
+          overflow-x:auto;
+          white-space:nowrap;
+          font-size:0px;
+          background:#F0F0F0;
+          padding:20px 0px;
+
+        //   &:before{
+        //       content:'';
+        //       position:absolute;
+        //       bottom:40px;
+        //       left:0px;
+        //       width:40px;
+        //       height:160px;;
+        //       background:rgba(0,0,0,0.4);
+        //       z-index:99999;
+        //   }
+          //
+        //   &:after{
+        //       content:'';
+        //       position:absolute;
+        //       bottom:40px;
+        //       right:0px;
+        //       width:40px;
+        //       height:160px;
+        //       background:rgba(0,0,0,0.4);
+        //       z-index:99999;
+        //   }
+
+          & .tile{
+              font-size:16px;
+              width:240px;
+              height:160px;
+              margin-right:20px;
+              display:inline-block;
+              white-space:normal;
+              background:#e45036;
+
+              background-image:url(http://lorempixel.com/480/320/);
+              background-size:cover;
+              background-repeat:no-repeat;
+              background-position:center center;
+
+              cursor:pointer;
+
+              vertical-align:top;
+
+              position:relative;
+
+              &:last-child{
+                  margin-right:0px;
+              }
+
+              & h6{
+                  position:absolute;
+                  left:0px;
+                  bottom:0px;
+                  padding:20px;
+                  font-size:18px;
+                  color:#FFF;
+                  margin:0px;
+                  width:100%;
+
+                  background:rgba(0,0,0,0.5);
+              }
+          }
+
+          &::-webkit-scrollbar {
+              height: 10px;
+          }
+
+          &::-webkit-scrollbar-track {
+          }
+
+          &::-webkit-scrollbar-thumb {
+              background-color:#CDCDCD;
+              cursor:pointer;
+              height:10px;
+          }
+
+      }
 
       &.thumbnail_enabled{
         padding-left:70px;
@@ -254,7 +420,7 @@ section li {
       border-radius: 0px;
       width:100%;
       height:100%;
-      
+
       padding:0px;
       font-size:10px;
 
@@ -322,7 +488,7 @@ section ul.tile{
 
     vertical-align:top;
     width:160px;
-   
+
     margin-right:20px;
 
     &.thumbnail_enabled{
