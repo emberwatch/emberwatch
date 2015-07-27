@@ -1,0 +1,59 @@
+@-webkit-keyframes homepage-fade{
+    from{
+        margin-left:120px;
+        opacity:0;
+    }
+
+    to{
+        margin-left:0px;
+        opacity:1;
+    }
+}
+
+@-moz-keyframes homepage-fade{
+    from{
+        margin-left:120px;
+        opacity:0;
+    }
+
+    to{
+        margin-left:0px;
+        opacity:1;
+    }
+}
+
+@-ms-keyframes homepage-fade{
+    from{
+        margin-left:120px;
+        opacity:0;
+    }
+
+    to{
+        margin-left:0px;
+        opacity:1;
+    }
+}
+
+@-o-keyframes homepage-fade{
+    from{
+        margin-left:120px;
+        opacity:0;
+    }
+
+    to{
+        margin-left:0px;
+        opacity:1;
+    }
+}
+
+@keyframes homepage-fade{
+    from{
+        margin-left:120px;
+        opacity:0;
+    }
+
+    to{
+        margin-left:0px;
+        opacity:1;
+    }
+}
