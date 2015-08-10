@@ -2,7 +2,7 @@
 - name: EmberCamp
   id: 1
   date: '2013-02-15'
-- name: Ember.js NYC
+- name: Ember NYC
   id: 2
 - name: Ember.js Seattle
   id: 3
@@ -16,15 +16,15 @@
   id: 7
 - name: Ruby Hangout
   id: 8
-- name: Ember.js Boston
+- name: Boston Ember
   id: 9
-- name: Chicago Ember.js
+- name: Chicago Ember
   id: 10
 - name: Ember ATX
   id: 11
 - name: Ember Fest 2013
   id: 12
-- name: Ember.js London
+- name: Ember London
   id: 13
 - name: Cascadia JS 2013
   id: 14
@@ -32,7 +32,7 @@
   id: 15
 - name: Ember Conf 2014
   id: 16
-- name: Ember Amsterdam
+- name: Ember.js Amsterdam
   id: 17
 - name: Ember Munich
   id: 18
@@ -43,3 +43,7 @@
 - name: San Francisco JavaScript
   id: 20
   site: http://www.meetup.com/jsmeetup/
+- name: Ember Dallas
+  id: 21
+- name: Ember.js Dublin
+  id: 22
