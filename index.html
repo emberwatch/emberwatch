@@ -3,46 +3,51 @@ title: Talks
 layout: default
 ---
 <ul>
-  {% for talk in site.data.talks %}
-    <li id="talk-{{ talk.id }}" class="thumbnail_enabled">
-      <div class="thumbnail default"></div>
-      <h5>
-        {% if talk.videos.size == 0 %}
-          {{talk.title}}{% if talk.subtitle %}: {{talk.subtitle}}{% endif %}
-        {% else %}
-          <a href="{{ talk.videos | first }}">
-            {{ talk.title }}{% if talk.subtitle %}: {{ talk.subtitle }}{% endif %}
-          </a>
-        {% endif %}
-        {% if talk.event_id %}
-          <span class="event-name">
-            {% for event in site.data.events %}
-              {% if talk.event_id == event.id %}
-                {{ event.name }}
-              {% endif %}
-            {% endfor %}
-          </span>
-        {% endif %}
-      </h5>
-      <div class="metadata">
-        {% for person_id in talk.author_ids %}
-          {% include people.html %}
-        {% endfor %}
-        &middot; {{ talk.date | date: "%a %e %b %Y" }} &middot;
-        {% if talk.videos.size == 0 %}
-          Video
-        {% else %}
-          <a class="video-link" href="{{ talk.videos | first }}">Video</a>
-        {% endif %} &middot;
-        {% if talk.slides %}
-          <a href="{{ talk.slides }}">Slides</a>
-        {% else %}
-          Slides
-        {% endif %}
-        {% if talk.url %}
-          &middot; <a href="{{ talk.url }}">Details</a>
-        {% endif %}
-      </div>
-    </li>
+  {% assign talks_by_date = site.data.talks | group_by_month:"date" %}
+
+  {% for group in talks_by_date %}
+    <h2>{{group.name}}</h2>
+    {% for talk in group.items %}
+      <li id="talk-{{ talk.id }}" class="thumbnail_enabled">
+        <div class="thumbnail default"></div>
+        <h5>
+          {% if talk.videos.size == 0 %}
+            {{talk.title}}{% if talk.subtitle %}: {{talk.subtitle}}{% endif %}
+          {% else %}
+            <a href="{{ talk.videos | first }}">
+              {{ talk.title }}{% if talk.subtitle %}: {{ talk.subtitle }}{% endif %}
+            </a>
+          {% endif %}
+          {% if talk.event_id %}
+            <span class="event-name">
+              {% for event in site.data.events %}
+                {% if talk.event_id == event.id %}
+                  {{ event.name }}
+                {% endif %}
+              {% endfor %}
+            </span>
+          {% endif %}
+        </h5>
+        <div class="metadata">
+          {% for person_id in talk.author_ids %}
+            {% include people.html %}
+          {% endfor %}
+          &middot; {{ talk.date | date: "%a %e %b %Y" }} &middot;
+          {% if talk.videos.size == 0 %}
+            Video
+          {% else %}
+            <a class="video-link" href="{{ talk.videos | first }}">Video</a>
+          {% endif %} &middot;
+          {% if talk.slides %}
+            <a href="{{ talk.slides }}">Slides</a>
+          {% else %}
+            Slides
+          {% endif %}
+          {% if talk.url %}
+            &middot; <a href="{{ talk.url }}">Details</a>
+          {% endif %}
+        </div>
+      </li>
+    {% endfor %}
   {% endfor %}
 </ul>
