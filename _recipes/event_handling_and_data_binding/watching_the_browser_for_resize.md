@@ -33,16 +33,16 @@ export default Ember.Service.extend({
         var desktopSize = self.get('desktopBreakpoint');
         var tabletSize = self.get('tabletBreakpoint');
 
-        if (window.matchMedia("(min-width: "+desktopSize+"px")) {
+        if (window.matchMedia("(min-width: "+desktopSize+"px").matches) {
             self.set('isDesktop', true);
             self.set('isTablet', false);
             self.set('isMobile', false);
         }
-        else if ("(min-width: "+tabletSize+"px) and (max-width: "+desktopSize+"px)") {
+        else if (window.matchMedia("(min-width: "+tabletSize+"px) and (max-width: "+desktopSize+"px)").matches) {
             self.set('isDesktop', false);
             self.set('isTablet', true);
             self.set('isMobile', false);
-        } 
+        }
         else {
             self.set('isDesktop', false);
             self.set('isTablet', false);
