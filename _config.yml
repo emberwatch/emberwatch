@@ -3,3 +3,5 @@ highlighter: pygments
 collections:
   recipes:
     output: true
+sass:
+    sass_dir: _sass

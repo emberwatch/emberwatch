@@ -1,8 +1,12 @@
 ---
 title: Incrementing or decrementing a property
-section: Working with Objects
-layout: default
+section: Cookbook
+cookbook-section: Working with Objects
+layout: cookbook-recipe
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ### Problem
 You want to increment or decrement a property.
 

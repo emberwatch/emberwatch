@@ -1,8 +1,12 @@
 ---
 title: Understanding the Cookbook format
-section: contribution
-layout: default
+section: Cookbook
+cookbook-section: Contribution
+layout: cookbook-recipe
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ### Problem
 You want to contribute, but aren't familiar with the Cookbook format or don't know
 how your contribution should be formatted.

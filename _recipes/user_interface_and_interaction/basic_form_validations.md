@@ -1,8 +1,12 @@
 ---
 title: Basic form validations
-section: User Interface and interaction
-layout: default
+section: Cookbook
+cookbook-section: User Interface and Interaction
+layout: cookbook-recipe
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ## Problem
 
 You want to validate your form text fields. The validation should only
@@ -17,7 +21,8 @@ that the field has been focused, and add a computed property named
 been focused. The component expects to get the validation result as the
 `valid` property.
 
-```app/components/validated-input.js
+`app/components/validated-input.js`
+{% highlight js %}
 export default Ember.Component.extend({
   beenFocused: false,
   valid: null,
@@ -30,23 +35,28 @@ export default Ember.Component.extend({
     this.set('beenFocused', true);
   }
 });
-```
+{% endhighlight %}
 
 And in the template of the component, put an `{{input}}` and wrap it
 into a div, which would have the class of `has-error` bound to
 `hasError`.
 
-```app/templates/components/validated-input.hbs
+`app/templates/components/validated-input.hbs`
+{% highlight html %}
+{% raw %}
 <div class="{{if hasError 'has-error'}} form-group">
     {{input type=type value=value size=size pattern=pattern name=name placeholder=placeholder disaled=disabled maxlength=maxlength tabindex=tabindex class=input-class}}
   </div>
-```
+{% endraw %}
+{% endhighlight %}
 
 The use like this:
 
-```handlebars
+{% highlight html %}
+{% raw %}
 {{validated-input value=name valid=nameValid placeholder="Name" type="text" input-class="form-control"}}
-```
+{% endraw %}
+{% endhighlight %}
 
 ## Discussion
 
@@ -66,5 +76,4 @@ if `hasError` property of the component is true. It's true only when
 the validation fails and the field has been focused at.
 
 <!---#### Example
-
 <a class="jsbin-embed" href="http://jsbin.com/UpaXeta/3/embed?live">JS Bin</a><script src="http://static.jsbin.com/js/embed.js"></script> -->

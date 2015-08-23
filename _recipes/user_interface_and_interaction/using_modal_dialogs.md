@@ -1,8 +1,12 @@
 ---
 title: Using modal dialogs
-section: User Interface and interaction
-layout: default
+section: Cookbook
+cookbook-section: User Interface and Interaction
+layout: cookbook-recipe
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ### Problem
 You want to show part of your UI in a modal dialog.
 
@@ -15,23 +19,29 @@ You can use a route's `render` method to render a specific controller and
 template into a named outlet. In this case we can setup our application template
 to handle the main outlet and a modal outlet:
 
-```handlebars
+{% highlight html %}
+{% raw %}
 {{outlet}}
 {{outlet 'modal'}}
-```
+{% endraw %}
+{% endhighlight %}
 
 Then you can render a controller and template into the `modal` outlet.  Sending
 an action in a template will propagate to the application route's actions.
 
 In a template:
 
-```handlebars
+{% highlight html %}
+{% raw %}
 <button {{action 'openModal' 'myModal'}}>Open modal</button>
-```
+{% endraw %}
+{% endhighlight %}
+
 
 In your application route:
 
-```app/routes/application.js
+`app/routes/application.js`
+{% highlight html %}
 export default Ember.Route.extend({
   actions: {
     openModal: function(modalName) {
@@ -42,7 +52,7 @@ export default Ember.Route.extend({
     }
   }
 });
-```
+{% endhighlight %}
 
 When closing a modal, you can use the route's `disconnectOutlet` method to remove
 the modal from the DOM.

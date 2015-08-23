@@ -1,7 +1,24 @@
 ---
 title: Ember Data
-section: Ember Data
+section: Cookbook
+cookbook-section: Ember Data
+layout: cookbook-recipe
 index: true
-layout: default
 ---
-1. [Displaying Only Committed DS.Model Records](./displaying_only_committed_records)
+### <span class="section-label">Section:</span> {{ page.cookbook-section }}
+
+Ember Data recipes:
+
+<ol>
+{% for section in site.data.cookbook-sections %}
+  {% if page.cookbook-section == section.name %}
+    {% for recipe_id in section.recipe_ids %}
+      {% for recipe in site.data.cookbook-recipes %}
+        {% if recipe_id == recipe.id %}
+          <li><a href="{{ recipe.recipe-file }}.html">{{ recipe.name }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+</ol>

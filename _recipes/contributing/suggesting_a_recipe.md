@@ -1,8 +1,12 @@
 ---
 title: Suggesting a Recipe
-section: Contributing
-layout: default
+section: Cookbook
+cookbook-section: Contribution
+layout: cookbook-recipe
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ### Problem
 You'd like to submit a recipe to the Ember Cookbook.
 

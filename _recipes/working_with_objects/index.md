@@ -1,10 +1,24 @@
 ---
 title: Working with Objects
-section: Working with Objects
-layout: default
+section: Cookbook
+cookbook-section: Working with Objects
+layout: cookbook-recipe
+index: true
 ---
+### <span class="section-label">Section:</span> {{ page.cookbook-section }}
+
 Here are some recipes to help you understand working with Ember Objects.
 
-1. [Incrementing Or Decrementing A Property](./incrementing_or_decrementing_a_property)
-1. [Setting Multiple Properties At Once](./setting_multiple_properties_at_once)
-1. [Continuous Redrawing of Views](./continuous_redrawing_of_views)
+<ol>
+{% for section in site.data.cookbook-sections %}
+  {% if page.cookbook-section == section.name %}
+    {% for recipe_id in section.recipe_ids %}
+      {% for recipe in site.data.cookbook-recipes %}
+        {% if recipe_id == recipe.id %}
+          <li><a href="{{ recipe.recipe-file }}.html">{{ recipe.name }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+</ol>

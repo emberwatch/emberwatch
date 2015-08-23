@@ -1,8 +1,12 @@
 ---
 title: Setting multiple properties at once
-section: Working with Objects
-layout: default
+section: Cookbook
+cookbook-section: Working with Objects
+layout: cookbook-recipe
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ### Problem
 You want to set multiple properties on an object with a single method call.
 
@@ -17,5 +21,4 @@ person.setProperties({
 ```
 
 <!---#### Example
-
 <a class="jsbin-embed" href="http://jsbin.com/wukapotoyi/3/edit?live">JS Bin</a>-->

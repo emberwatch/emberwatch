@@ -1,8 +1,12 @@
 ---
 title: Displaying only committed records
-section: Ember Data
-layout: default
+section: Cookbook
+cookbook-section: Ember Data
+layout: cookbook-recipe
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ## Problem
 
 You want to display only the committed `DS.Model` records from the ArrayController `content` array.

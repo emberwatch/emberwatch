@@ -1,22 +1,27 @@
 ---
 title: Binding properties of an Object to its own properties
-section: Event handling and data binding
-layout: default
+section: Cookbook
+cookbook-section: Event Handling and Data Binding
+layout: cookbook-recipe
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ### Problem
 You want to base the value of one property on the value of another property.
 
 ### Solution
 Use one of the computed property macros like `Ember.computed.alias` or `Ember.computed.gte`
 
-```app/models/person.js
+`app/models/person.js`
+{% highlight js %}
 export default Ember.Object.extend({
 	firstName : null,
 	lastName : null,
 	surname : Ember.computed.alias("lastName"),
 	eligibleForRetirement: Ember.computed.gte("age", 65)
 });
-```
+{% endhighlight %}
 
 ### Discussion
 Ember.js includes a number of macros that will help create properties whose values are based

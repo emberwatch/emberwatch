@@ -1,0 +1,34 @@
+---
+# cookbook stylesheet
+# @author greyhwndz http://github.com/greyhwndz
+---
+/* $brand-primary: #f00; */
+@import "bootstrap";
+
+/* COOKBOOK MAIN */
+.cookbook-section-name a:hover,
+.cookbook-section-name a:focus {
+  text-decoration: none;
+}
+
+section ul li {
+  margin-bottom: 0;
+}
+span.recipe-label {
+  font-size: 1.1em;
+  color: #aaa;
+  letter-spacing: .1em;
+  margin-bottom: 0;
+}
+h3 span.section-label {
+  font-size: .5em;
+  color: #aaa;
+  text-transform: uppercase;
+  letter-spacing: .03em;
+}
+h4.recipe-sections {
+  font-size: .82em;
+  color: #999;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+}

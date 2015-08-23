@@ -1,8 +1,12 @@
 ---
 title: Linking to slugs
-section: Ember Data
-layout: default
+section: Cookbook
+cookbook-section: Ember Data
+layout: cookbook-recipe
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ## Problem
 
 The default behavior of Ember's `link-to` helper and `Ember.Route`'s

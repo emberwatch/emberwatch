@@ -1,7 +1,9 @@
 ---
 title: To be done
-section: Meta
-layout: default
+section: Cookbook
+cookbook-section: Meta
+layout: cookbook-recipe
+index: true
 ---
 1. [Adding Pagination to an ArrayController]()
 1. [Updating Views Real-Time with WebSockets]()

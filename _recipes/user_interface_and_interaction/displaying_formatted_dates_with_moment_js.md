@@ -1,8 +1,12 @@
 ---
 title: Displaying formatted dates with momentjs
-section: User Interface and interaction
-layout: default
+section: Cookbook
+cookbook-section: User Interface and Interaction
+layout: cookbook-recipe
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ### Problem
 
 Display JavaScript Date objects in human readable format.
@@ -20,34 +24,37 @@ Let's look at a simple example. You're working on a website for your
 client, and one of the requirements is to have the current date on the index page in human readable format. This is a perfect place to use a
 Handlebars helper that "pretty prints" the current date:
 
-```app/helpers/current-date.js
+`app/helpers/current-date.js`
+{% highlight js %}
 export default Ember.Handlebars.makeBoundHelper(function() {
   return moment().format('LL');
 });
-```
+{% endhighlight %}
 
 Your template will look like:
 
-```html
+{% highlight html %}
 Today's date: {{current-date}}  // Today's date: August 30 2013
-```
+{% endhighlight %}
 
 You can even enhance your code and pass in the date format to the helper:
 
-```app/routes/application.js
+`app/routes/application.js`
+{% highlight js %}
 Ember.Handlebars.registerBoundHelper('currentDate', function(format) {
   return moment().format(format);
 });
-
 export default Ember.Route.extend({
 });
-```
+{% endhighlight %}
 
 Now you would need to pass an additional parameter to the helper:
 
-```html
+{% highlight html %}
+{% raw %}
 Today's date: {{current-date 'LL'}}  // Today's date: August 30 2013
-```
+{% endraw %}
+{% endhighlight %}
 
 Let's look at another example. Say you need
 to create a simple control that allows you to type in a date and
@@ -57,7 +64,8 @@ Define `formattedDate` computed property that depends on
 `date` and `format`. Computed property in this example does
 the same thing as Handlebars helpers defined above.
 
-```app/controllers/application.js
+`app/controllers/application.js`
+{% highlight js %}
 export default Ember.Controller.extend({
   format: "YYYYMMDD",
   date: null,
@@ -67,13 +75,16 @@ export default Ember.Controller.extend({
     return moment(date).format(format);
   })
 });
-```
+{% endhighlight %}
 
-```/app/templates/application.hbs
+`/app/templates/application.hbs`
+{% highlight html %}
+{% raw %}
 {{input value=date}}
 {{input value=format}}
 <div>{{formattedDate}}</div>
-```
+{% endraw %}
+{% endhighlight %}
 
 ### Discussion
 
@@ -93,5 +104,4 @@ Handlebars helper with one big difference:
 date format on the date property again.
 
 <!---#### Example
-
 <a class="jsbin-embed" href="http://jsbin.com/nipujoneqe/1/embed?live">JS Bin</a>-->

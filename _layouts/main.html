@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+
+  <meta name="description" content="Collection of resources for learning Ember.js including Videos, Talks, Slides, Tutorials, Posts and Screencasts.">
+  <meta name="keywords" content="Ember.js,Ember,tutorial,screencast,video,talk,slides,post,JavaScript,MVC">
+  <meta name="author" content="Philip Poots">
+  <title>
+    Ember.js {{ page.title }} on EmberWatch
+  </title>
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="stylesheet" type="text/css" href="/stylesheets/application.css">
+  <link rel="stylesheet" type="text/css" href="/stylesheets/cookbook.css">
+  <link rel="stylesheet" type="text/css" href="/stylesheets/syntax.css">
+
+</head>
+
+<body data-page-title="{{ page.title }}">
+  <nav>
+    <div class="container">
+      <ul>
+        <li class="name">
+          <h1>
+            <a href="/">
+              <i class="foundicon-glasses"></i> Ember<span class="light">Watch</span>
+            </a>
+          </h1>
+        </li>
+      </ul>
+
+      <ul class="right">
+        <li>
+          <a href="http://twitter.com/emberwatch">
+            @emberwatch
+          </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <ul class="tabs">
+    <div class="container">
+      <li {% if page.section == 'Resources' %}class="active"{% endif %}><a href="/">Talks</a></li>
+      <li {% if page.section == 'Screencasts' %}class="active"{% endif %}><a href="/screencasts.html">Screencasts</a></li>
+      <li {% if page.section == 'Podcasts' %}class="active"{% endif %}><a href="/podcasts.html">Podcasts</a></li>
+      <li {% if page.section == 'Tutorials' %}class="active"{% endif %}><a href="/tutorials.html">Tutorials</a></li>
+      <li {% if page.section == 'Books' %}class="active"{% endif %}><a href="/books.html">Books</a></li>
+    <li {% if page.section == 'Cookbook' %}class="active"{% endif %}><a href="/recipes">Cookbook</a></li>
+    </div>
+  </ul>
+
+  {{ content }}
+
+  <footer>
+    <div class="container">
+      Submit new material to <a href="https://emberflare.com/entries/new">EmberFlare</a>!
+    </div>
+  </footer>
+
+  <script type="text/javascript" src="/javascripts/main.js"></script>
+
+</body>
+</html>

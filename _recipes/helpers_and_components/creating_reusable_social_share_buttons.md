@@ -1,5 +1,12 @@
-note: no metadata because code blocks are breaking jekyll
-
+---
+title: Creating a Re-usable Social Share Buttons
+section: Cookbook
+cookbook-section: Helpers and Components
+layout: cookbook-recipe
+---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ### Problem
 You want to create a reusable [Tweet button](https://dev.twitter.com/docs/tweet-button)
 for your application.
@@ -8,24 +15,27 @@ for your application.
 Write a custom component that renders the Tweet button with specific attributes
 passed in.
 
-```handlebars
+{% highlight html %}
+{% raw %}
 {{share-twitter class='twitter-share-button' href=url
                     data-text=text
                     data-size="large"
                     data-hashtags="emberjs"}}
-```
+{% endraw %}
+{% endhighlight %}
 
-```app/components/share-twitter.js
+`app/components/share-twitter.js`
+{% highlight js %}
 export default Ember.Component.extend({
   tagName: 'a',
   classNames: 'twitter-share-button',
   attributeBindings: ['data-size', 'data-url', 'data-text', 'data-hashtags']
 });
-```
+{% endhighlight %}
 
 Include Twitter's widget code in your HTML:
 
-```javascript
+```html
 <script>
 window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
 </script>
