@@ -1,4 +1,12 @@
 ---
+- title: 'Building a modern bridge between Ember 2.0 and Rails 5 with JSON API'
+  author_ids:
+  - 207
+  date: '2015-08-13'
+  date_created: '2015-04-14'
+  date_updated: '2015-08-13'
+  urls:
+  - http://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
 - title: 'Getting Started with Ember.js using Ember-CLI'
   author_ids:
   - 147
