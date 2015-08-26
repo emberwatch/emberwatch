@@ -31,6 +31,14 @@
   date_updated: '2015-07-25'
   urls:
   - http://alexdiliberto.com/posts/ember-closure-actions/
+- title: 'Controllers are dead; Long live Controllers'
+  author_ids:
+  - 209
+  date: '2015-05-25'
+  date_created: '2015-05-25'
+  date_updated: '2015-05-25'
+  urls:
+  - http://locks.svbtle.com/controllers-are-dead-long-life-controllers/
 - title: 'Getting Started with Ember.js using Ember-CLI'
   author_ids:
   - 147
