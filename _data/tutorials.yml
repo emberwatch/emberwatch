@@ -23,6 +23,14 @@
   date_updated: '2015-05-13'
   urls:
   - http://madhatted.com/2015/5/14/ember-js-2-0-preview-with-canary/
+- title: 'Spotlight: Ember Closure Actions'
+  author_ids:
+  - 208
+  date: '2015-07-25'
+  date_created: '2015-07-25'
+  date_updated: '2015-07-25'
+  urls:
+  - http://alexdiliberto.com/posts/ember-closure-actions/
 - title: 'Getting Started with Ember.js using Ember-CLI'
   author_ids:
   - 147
