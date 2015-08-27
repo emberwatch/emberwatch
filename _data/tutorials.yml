@@ -121,6 +121,18 @@
     ember:
       start: 1.0
       end: 1.13
+- title: Ember Time
+  author_ids:
+  - 100
+  date: '2013-06-08'
+  date_created: '2013-06-08'
+  date_updated: '2013-06-08'
+  urls:
+  - http://jgwhite.co.uk/2013/06/08/ember-time.html
+  versions:
+    ember:
+      start: 1.0
+      end: 1.10
     data:
       start:
       end:
