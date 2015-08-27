@@ -39,12 +39,26 @@
   date_updated: '2015-05-25'
   urls:
   - http://locks.svbtle.com/controllers-are-dead-long-life-controllers/
+  versions:
+    ember:
+      start:
+      end:
+    data:
+      start:
+      end:
 - title: 'Getting Started with Ember.js using Ember-CLI'
   author_ids:
   - 147
   date: '2014-07-27'
   urls:
   - http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/
+  versions:
+    ember:
+      start:
+      end:
+    data:
+      start:
+      end:
 - title: 'Vic Ramon’s Ember Tutorial'
   author_ids:
   - 112
@@ -95,6 +109,21 @@
   - http://emberjs.com/guides/getting-started/
   code: https://github.com/tastejs/todomvc/tree/gh-pages/architecture-examples/emberjs
   demo: http://todomvc.com/architecture-examples/emberjs/
+- title: Ember Without Data
+  author_ids:
+  - 100
+  date: '2013-04-29'
+  date_created: '2013-04-29'
+  date_updated: '2013-04-29'
+  urls:
+  - http://jgwhite.co.uk/2013/04/29/ember-without-data.html
+  versions:
+    ember:
+      start: 1.0
+      end: 1.13
+    data:
+      start:
+      end:
 - title: Getting Started with Ember.js
   author_ids:
   - 41
@@ -102,6 +131,7 @@
   urls:
   - http://tech.pro/tutorial/1166/getting-started-with-emberjs
   code: https://github.com/jessecravens/techpro-emberjs
+
 - title: Getting Into Ember.js
   author_ids:
   - 36
