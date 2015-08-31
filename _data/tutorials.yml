@@ -7,6 +7,14 @@
   date_updated: '2015-08-29'
   urls:
   - http://balinterdi.com/2015/08/29/how-to-do-a-select-dropdown-in-ember-20.html
+- title: '5 Essential Ember 2.0 Concepts You Must Understand'
+  author_ids:
+  - 207
+  date: '2015-08-29'
+  date_created: '2015-04-29'
+  date_updated: '2015-08-29'
+  urls:
+  - http://emberigniter.com/5-essential-ember-2.0-concepts/
 - title: 'Building a modern bridge between Ember 2.0 and Rails 5 with JSON API'
   author_ids:
   - 207
