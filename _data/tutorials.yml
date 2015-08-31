@@ -1,4 +1,12 @@
 ---
+- title: 'How to Do a Select (Dropdown) in Ember 2.0?'
+  author_ids:
+  - 94
+  date: '2015-08-29'
+  date_created: '2015-08-29'
+  date_updated: '2015-08-29'
+  urls:
+  - http://balinterdi.com/2015/08/29/how-to-do-a-select-dropdown-in-ember-20.html
 - title: 'Building a modern bridge between Ember 2.0 and Rails 5 with JSON API'
   author_ids:
   - 207
