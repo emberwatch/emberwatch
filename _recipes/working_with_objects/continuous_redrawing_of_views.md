@@ -1,7 +1,8 @@
 ---
 title: Continuous Redrawing of Views
-section: Working with Objects
-layout: default
+section: Cookbook
+cookbook-section: Working with Objects
+layout: cookbook-recipe
 author: Bill Heaton
 email: pixelhandler@gmail.com
 github: pixelhandler
