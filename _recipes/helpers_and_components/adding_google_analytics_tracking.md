@@ -1,8 +1,12 @@
 ---
 title: Adding Google Analytics tracking
-section: Helpers and components
-layout: default
+section: Cookbook
+cookbook-section: Helpers and Components
+layout: cookbook-recipe
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ### Problem
 
 You want to add analytics to your Ember application.
@@ -39,11 +43,11 @@ Add google analytic's base code to the html file that renders your ember app.
 Then reopen the application router and add this function. It will be called when
 `didTransition` is fired by the router.
 
-```app/router.js
+`app/router.js`
+{% highlight js %}
 var Router = Ember.Router.extend({
   // customization goes here
 });
-
 Router.reopen({
   notifyGoogleAnalytics: Ember.on('didTransition', function() {
     return ga('send', 'pageview', {
@@ -52,9 +56,8 @@ Router.reopen({
       });
   })
 });
-
 export default Router;
-```
+{% endhighlight %}
 
 ### Discussion
 

@@ -1,7 +1,20 @@
 ---
 title: Cookbook
-layout: default
+layout: cookbook-recipe
 ---
+<h2>Welcome to the Ember.js Cookbook!</h2>
+<p>
+  The Cookbook provides answers and solutions
+  to common Ember questions and problems. Anyone is welcome to <a href="/recipes/contributing/">contribute</a>.
+</p>
+
+<p>Here are all of the available recipes:</p>
+<ol>
+{% for section in site.data.cookbook-sections %}
+  <li>{{ section.name }}</li>
+{% endfor %}
+</ol>
+<hr>
 <ul>
   {% for recipe in site.recipes %}
     <li>{{ recipe.section }} | <a href="{{recipe.url}}">{{ recipe.title }}</a></li>

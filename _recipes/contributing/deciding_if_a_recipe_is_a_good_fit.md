@@ -1,8 +1,12 @@
 ---
-title: Deciding if a recipe is a good fit
-section: Contributing
-layout: default
+title: Deciding if a Recipe is a Good Fit
+section: Cookbook
+cookbook-section: Contribution
+layout: cookbook-recipe
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ### Problem
 You have an idea for a recipe, but aren't sure it is a good fit for the Cookbook.
 

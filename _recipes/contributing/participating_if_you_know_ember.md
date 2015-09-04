@@ -1,8 +1,12 @@
 ---
 title: Participating if you know Ember
-section: Contributing
-layout: default
+section: Cookbook
+cookbook-section: Contribution
+layout: cookbook-recipe
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ### Problem
 You are familiar with Ember and want to help write the Cookbook.
 
@@ -22,7 +26,7 @@ Based on your experience and knowledge of Ember, we recommend submitting pull re
   <dd><em>Problem</em>, <em>Solution</em> &amp; <em>Discussion</em> is the right way to help if you have a deeper understanding of the topic and can write cogently about why the solution is a good idea, explain pitfalls of other solutions, etc.</dd>
 </dl>
 
-You will be able to suggest possible recipes by forking this project and submitting a pull request with a new recipe (see [Suggesting a Recipe](../suggesting_a_recipe)).
+You will be able to suggest possible recipes by forking this project and submitting a pull request with a new recipe (see [Suggesting a Recipe](/recipes/contributing/suggesting_a_recipe.html)).
 
 [fork_repo]: https://github.com/emberjs/guides
 [suggesting_a_recipe]: ./suggesting_a_recipe

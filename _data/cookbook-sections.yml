@@ -1,0 +1,25 @@
+---
+- id: 1
+  name: Working with Objects
+  section-path: working_with_objects
+  recipe_ids: [1, 2]
+- id: 2
+  name: User Interface and Interaction
+  section-path: user_interface_and_interaction
+  recipe_ids: [3, 4, 5, 6, 7, 8, 9, 10]
+- id: 3
+  name: Event Handling and Data Binding
+  section-path: 'event_handling_and_data_binding'
+  recipe_ids: [11, 12]
+- id: 4
+  name: Helpers and Components
+  section-path: 'helpers_and_components'
+  recipe_ids: [13, 14, 15]
+- id: 5
+  name: Ember Data
+  section-path: 'ember_data'
+  recipe_ids: [16, 17]
+- id: 6
+  name: Contributing
+  section-path: 'contributing'
+  recipe_ids: [18, 19, 20, 21, 22]

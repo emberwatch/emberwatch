@@ -1,0 +1,160 @@
+---
+- id: 1
+  name: Incrementing or Decrementing a Property
+  recipe-file: incrementing_or_decrementing_a_property
+  section_id: 1
+  author_ids: []
+  tags: []
+  categories: []
+  version-meta:
+    emberjs: 2.0.0
+    ember-data: 2.0.0
+    date_created:
+    date_updated:
+- id: 2
+  name: Setting Multiple Properties at once
+  recipe-file: setting_multiple_properties_at_once
+  section_id: 1
+  author_ids: []
+  tags: []
+  categories: []
+- id: 3
+  name: Adding CSS classes to your components
+  recipe-file: adding_css_classes_to_your_components
+  section_id: 2
+  author_ids: []
+  tags: []
+  categories: []
+- id: 4
+  name: Adding CSS classes to your components based on properties
+  recipe-file: adding_css_classes_to_your_components_based_on_properties
+  section_id: 2
+  author_ids: []
+  tags: []
+  categories: []
+- id: 5
+  name: Basic form validations
+  recipe-file: basic_form_validations
+  section_id: 2
+  author_ids: []
+  tags: []
+  categories: []
+- id: 6
+  name: Displaying formatted dates with momentjs
+  recipe-file: displaying_formatted_dates_with_moment_js
+  section_id: 2
+  author_ids: []
+  tags: []
+  categories: []
+- id: 7
+  name: Focusing an Ember.TextField after it's been inserted
+  recipe-file: focusing_a_textfield_after_its_been_inserted
+  section_id: 2
+  author_ids: []
+  tags: []
+  categories: []
+- id: 8
+  name: Resetting scroll on route changes
+  recipe-file: resetting_scroll_on_route_changes
+  section_id: 2
+  author_ids: []
+  tags: []
+  categories: []
+- id: 9
+  name: Specifying data driven areas of templates that do not need to update
+  recipe-file: specifying_data_driven_areas_of_templates_that_do_not_need_to_update
+  section_id: 2
+  author_ids: []
+  tags: []
+  categories: []
+- id: 10
+  name: Using Modal Dialogs
+  recipe-file: using_modal_dialogs
+  section_id: 2
+  author_ids: []
+  tags: []
+  categories: []
+- id: 11
+  name: Binding properties of an Object to its own properties
+  recipe-file: binding_properties_of_an_object_to_its_own_properties
+  section_id: 3
+  author_ids: []
+  tags: []
+  categories: []
+- id: 12
+  name: Watching the browser for resize
+  recipe-file: watching_the_browser_for_resize
+  section_id: 3
+  author_ids: []
+  tags: []
+  categories: []
+- id: 13
+  name: Adding Google Analytics Tracking
+  recipe-file: adding_google_analytics_tracking
+  section_id: 4
+  author_ids: []
+  tags: []
+  categories: []
+- id: 14
+  name: Creating Reusable Social Share Buttons
+  recipe-file: creating_reusable_social_share_buttons
+  section_id: 4
+  author_ids: []
+  tags: []
+  categories: []
+- id: 15
+  name: Spin Button for Asynchronous Actions
+  recipe-file: spin_button_for_asynchronous_actions
+  section_id: 4
+  author_ids: []
+  tags: []
+  categories: []
+- id: 16
+  name: Displaying Only Committed Records
+  recipe-file: displaying_only_committed_records
+  section_id: 5
+  author_ids: []
+  tags: []
+  categories: []
+- id: 17
+  name: Linking to slugs
+  recipe-file: linking_to_slugs
+  section_id: 5
+  author_ids: []
+  tags: []
+  categories: []
+- id: 18
+  name: Deciding if a recipe is a good fit
+  recipe-file: deciding_if_a_recipe_is_a_good_fit
+  section_id: 6
+  author_ids: []
+  tags: []
+  categories: []
+- id: 19
+  name: Participating if you don't know Ember
+  recipe-file: participating_if_you_dont_know_ember
+  section_id: 6
+  author_ids: []
+  tags: []
+  categories: []
+- id: 20
+  name: Participating if you know Ember
+  recipe-file: participating_if_you_know_ember
+  section_id: 6
+  author_ids: []
+  tags: []
+  categories: []
+- id: 21
+  name: Suggesting a Recipe
+  recipe-file: suggesting_a_recipe
+  section_id: 6
+  author_ids: []
+  tags: []
+  categories: []
+- id: 22
+  name: Understanding the Cookbook Format
+  recipe-file: understanding_the_cookbook_format
+  section_id: 6
+  author_ids: []
+  tags: []
+  categories: []

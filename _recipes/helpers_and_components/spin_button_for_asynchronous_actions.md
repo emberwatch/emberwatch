@@ -1,8 +1,12 @@
 ---
 title: Spin button for asynchronous actions
-section: Helpers and components
-layout: default
+section: Cookbook
+cookbook-section: Helpers and Components
+layout: cookbook-recipe
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ### Problem
 You want a button component that spins to show asynchronous action till completion. Eg- Save Button.
 
@@ -11,12 +15,16 @@ Write an Ember Component to change to loading state when action is taking place.
 
 For example a button to save data could be as
 
-```app/templates/application.hbs
+`app/templates/application.hbs`
+{% highlight html %}
+{% raw %}
 {{spin-button id="forapplication" isLoading = isLoading buttonText=buttonText action='saveData'}}
-```
+{% endraw %}
+{% endhighlight %}
 
-```app/templates/components/spin-button.hbs
-
+`app/templates/components/spin-button.hbs`
+{% highlight html %}
+{% raw %}
 <button id={{id}} {{action 'showLoading'}}>
   {{#if isLoading}}
     <img src="http://i639.photobucket.com/albums/uu116/pksjce/spiffygif_18x18.gif">
@@ -24,16 +32,17 @@ For example a button to save data could be as
     {{buttonText}}
   {{/if}}
 </button>
-```
+{% endraw %}
+{% endhighlight %}
 
-```app/controllers/application.js
+`app/controllers/application.js`
+{% highlight js %}
 export default Ember.Controller.extend({
     isLoading:false,
     buttonText:"Submit",
     actions:{
         saveData:function(){
             var self = this;
-
            //Do Asynchronous action here. Set "isLoading = false" after a timeout.
             Ember.run.later(function(){
                 self.set('isLoading', false);
@@ -41,9 +50,10 @@ export default Ember.Controller.extend({
         }
     }
 });
-```
+{% endhighlight %}
 
-```app/components/spin-button.js
+`app/components/spin-button.js`
+{% highlight js %}
 export default Ember.Component.extend({
 	classNames: ['button'],
     buttonText:"Save",
@@ -57,7 +67,7 @@ export default Ember.Component.extend({
         }
     }
 });
-```
+{% endhighlight %}
 
 ### Discussion
 

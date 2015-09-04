@@ -1,9 +1,24 @@
 ---
 title: Event handling and data binding
-section: Event handling and data binding
-layout: default
+section: Cookbook
+cookbook-section: Event Handling and Data Binding
+layout: cookbook-recipe
+index: true
 ---
+### <span class="section-label">Section:</span> {{ page.cookbook-section }}
+
 Here are some recipes for managing events and dealing with bindings.
 
-1. [Binding Properties of an Object to Its Own Properties](./binding_properties_of_an_object_to_its_own_properties)
-2. [Watching the browser for resize](./watching_the_browser_for_resize)
+<ol>
+{% for section in site.data.cookbook-sections %}
+  {% if page.cookbook-section == section.name %}
+    {% for recipe_id in section.recipe_ids %}
+      {% for recipe in site.data.cookbook-recipes %}
+        {% if recipe_id == recipe.id %}
+          <li><a href="{{ recipe.recipe-file }}.html">{{ recipe.name }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+</ol>
