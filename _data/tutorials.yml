@@ -7,6 +7,14 @@
   date_updated: '2015-08-13'
   urls:
   - http://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
+- title: 'Spotlight: Ember Closure Actions'
+  author_ids:
+  - 208
+  date: '2015-07-25'
+  date_created: '2015-07-25'
+  date_updated: '2015-07-25'
+  urls:
+  - http://alexdiliberto.com/posts/ember-closure-actions/
 - title: 'Getting Started with Ember.js using Ember-CLI'
   author_ids:
   - 147
