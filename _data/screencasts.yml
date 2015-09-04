@@ -1,4 +1,276 @@
 ---
+- title: 71 - Upgrade Ember with ember-cli-deprecation-workflow
+  author_ids:
+  - 58
+  date: 2015-09-04
+  url: http://www.emberscreencasts.com/posts/71-upgrade-ember-with-ember-cli-deprecation-workflow
+  videos:
+  - http://www.emberscreencasts.com/posts/71-upgrade-ember-with-ember-cli-deprecation-workflow
+  series: EmberScreencasts
+  price: $9/month
+- title: 70 - ember-hold-button
+  author_ids:
+  - 58
+  date: 2015-09-02
+  url: http://www.emberscreencasts.com/posts/70-ember-hold-button
+  videos:
+  - http://www.emberscreencasts.com/posts/70-ember-hold-button
+  series: EmberScreencasts
+- title: 69 - Custom Validators with Multiple Keys
+  author_ids:
+  - 58
+  date: 2015-08-28
+  url: http://www.emberscreencasts.com/posts/69-custom-validators-with-multiple-keys
+  videos:
+  - http://www.emberscreencasts.com/posts/69-custom-validators-with-multiple-keys
+  series: EmberScreencasts
+  price: $9/month
+- title: 68 - Custom Validations with ember-validations
+  author_ids:
+  - 58
+  date: 2015-08-26
+  url: http://www.emberscreencasts.com/posts/68-custom-validations-with-ember-validations
+  videos:
+  - http://www.emberscreencasts.com/posts/68-custom-validations-with-ember-validations
+  series: EmberScreencasts
+- title: 67 - Conditional Validations
+  author_ids:
+  - 58
+  date: 2015-08-21
+  url: http://www.emberscreencasts.com/posts/67-conditional-validations
+  videos:
+  - http://www.emberscreencasts.com/posts/67-conditional-validations
+  series: EmberScreencasts
+  price: $9/month
+- title: 66 - Advanced Validations with ember-validations
+  author_ids:
+  - 58
+  date: 2015-08-19
+  url: http://www.emberscreencasts.com/posts/66-advanced-validations-with-ember-validations
+  videos:
+  - http://www.emberscreencasts.com/posts/66-advanced-validations-with-ember-validations
+  series: EmberScreencasts
+- title: 65 - Displaying Validation Errors
+  author_ids:
+  - 58
+  date: 2015-08-14
+  url: http://www.emberscreencasts.com/posts/65-displaying-validation-errors
+  videos:
+  - http://www.emberscreencasts.com/posts/65-displaying-validation-errors
+  series: EmberScreencasts
+  price: $9/month
+- title: 64 - Form Validation with ember-validations
+  author_ids:
+  - 58
+  date: 2015-08-12
+  url: http://www.emberscreencasts.com/posts/64-form-validation-with-ember-validations
+  videos:
+  - http://www.emberscreencasts.com/posts/64-form-validation-with-ember-validations
+  series: EmberScreencasts
+- title: 63 - Content Security Policy
+  author_ids:
+  - 58
+  date: 2015-08-07
+  url: http://www.emberscreencasts.com/posts/63-content-security-policy
+  videos:
+  - http://www.emberscreencasts.com/posts/63-content-security-policy
+  series: EmberScreencasts
+  price: $9/month
+- title: 62 - ES2015 Modules - Import, Export
+  author_ids:
+  - 58
+  date: 2015-08-05
+  url: http://www.emberscreencasts.com/posts/62-es2015-modules-import-export
+  videos:
+  - http://www.emberscreencasts.com/posts/62-es2015-modules-import-export
+  series: EmberScreencasts
+- title: 24 (revised) - Handlebars Subexpressions
+  author_ids:
+  - 58
+  date: 2015-08-03
+  url: http://www.emberscreencasts.com/posts/24-revised-handlebars-subexpressions
+  videos:
+  - http://www.emberscreencasts.com/posts/24-revised-handlebars-subexpressions
+  series: EmberScreencasts
+  price: $9/month
+- title: 61 - Computed Properties: Array Setters
+  author_ids:
+  - 58
+  date: 2015-07-31
+  url: http://www.emberscreencasts.com/posts/61-computed-properties-array-setters
+  videos:
+  - http://www.emberscreencasts.com/posts/61-computed-properties-array-setters
+  series: EmberScreencasts
+  price: $9/month
+- title: 60 - Computed Properties: Setters
+  author_ids:
+  - 58
+  date: 2015-07-29
+  url: http://www.emberscreencasts.com/posts/60-computed-properties-setters
+  videos:
+  - http://www.emberscreencasts.com/posts/60-computed-properties-setters
+  series: EmberScreencasts
+- title: 9 (revised) - Computed Property Macros
+  author_ids:
+  - 58
+  date: 2015-07-27
+  url: http://www.emberscreencasts.com/posts/9-revised-computed-property-macros
+  videos:
+  - http://www.emberscreencasts.com/posts/9-revised-computed-property-macros
+  series: EmberScreencasts
+- title: 59 - Computed Properties: Working with Arrays
+  author_ids:
+  - 58
+  date: 2015-07-26
+  url: http://www.emberscreencasts.com/posts/59-computed-properties-working-with-arrays
+  videos:
+  - http://www.emberscreencasts.com/posts/59-computed-properties-working-with-arrays
+  series: EmberScreencasts
+  price: $9/month
+- title: 58 - Intro to Computed Properties
+  author_ids:
+  - 58
+  date: 2015-07-25
+  url: http://www.emberscreencasts.com/posts/58-intro-to-computed-properties
+  videos:
+  - http://www.emberscreencasts.com/posts/58-intro-to-computed-properties
+  series: EmberScreencasts
+- title: 57 - ember-cli-flash
+  author_ids:
+  - 58
+  date: 2015-07-19
+  url: http://www.emberscreencasts.com/posts/57-ember-cli-flash
+  videos:
+  - http://www.emberscreencasts.com/posts/57-ember-cli-flash
+  series: EmberScreencasts
+  price: $9/month
+- title: 56 - ember-pikaday
+  author_ids:
+  - 58
+  date: 2015-07-18
+  url: http://www.emberscreencasts.com/posts/56-ember-pikaday
+  videos:
+  - http://www.emberscreencasts.com/posts/56-ember-pikaday
+  series: EmberScreencasts
+- title: 55 - Awesome Select Boxes
+  author_ids:
+  - 58
+  date: 2015-07-12
+  url: http://www.emberscreencasts.com/posts/55-awesome-select-boxes
+  videos:
+  - http://www.emberscreencasts.com/posts/55-awesome-select-boxes
+  series: EmberScreencasts
+  price: $9/month
+- title: 54 - Select Boxes in Ember 2.0
+  author_ids:
+  - 58
+  date: 2015-07-11
+  url: http://www.emberscreencasts.com/posts/54-select-boxes-in-ember-20
+  videos:
+  - http://www.emberscreencasts.com/posts/54-select-boxes-in-ember-20
+  series: EmberScreencasts
+- title: 53 - dragEnter and dragLeave
+  author_ids:
+  - 58
+  date: 2015-07-05
+  url: http://www.emberscreencasts.com/posts/53-dragenter-and-dragleave
+  videos:
+  - http://www.emberscreencasts.com/posts/53-dragenter-and-dragleave
+  series: EmberScreencasts
+  price: $9/month
+- title: 52 - dotEnv
+  author_ids:
+  - 58
+  date: 2015-07-04
+  url: http://www.emberscreencasts.com/posts/52-dotenv
+  videos:
+  - http://www.emberscreencasts.com/posts/52-dotenv
+  series: EmberScreencasts
+- title: 51 - Drag and Drop (with file uploads)
+  author_ids:
+  - 58
+  date: 2015-06-28
+  url: http://www.emberscreencasts.com/posts/51-drag-and-drop-with-file-uploads
+  videos:
+  - http://www.emberscreencasts.com/posts/51-drag-and-drop-with-file-uploads
+  series: EmberScreencasts
+  price: $9/month
+- title: 50 - Browser Events
+  author_ids:
+  - 58
+  date: 2015-06-27
+  url: http://www.emberscreencasts.com/posts/50-browser-events
+  videos:
+  - http://www.emberscreencasts.com/posts/50-browser-events
+  series: EmberScreencasts
+- title: 49 - Image Upload Preview
+  author_ids:
+  - 58
+  date: 2015-06-21
+  url: http://www.emberscreencasts.com/posts/49-image-upload-preview
+  videos:
+  - http://www.emberscreencasts.com/posts/49-image-upload-preview
+  series: EmberScreencasts
+  price: $9/month
+- title: 48 - Upload a File as Part of a Form
+  author_ids:
+  - 58
+  date: 2015-06-20
+  url: http://www.emberscreencasts.com/posts/48-upload-a-file-as-part-of-a-form
+  videos:
+  - http://www.emberscreencasts.com/posts/48-upload-a-file-as-part-of-a-form
+  series: EmberScreencasts
+- title: 47 - Time series Line Graphs with ember-cli-chart
+  author_ids:
+  - 58
+  date: 2015-06-15
+  url: http://www.emberscreencasts.com/posts/47-time-series-line-graphs-with-ember-cli-chart
+  videos:
+  - http://www.emberscreencasts.com/posts/47-time-series-line-graphs-with-ember-cli-chart
+  series: EmberScreencasts
+  price: $9/month
+- title: 46 - Bar Charts with ember-cli-chart
+  author_ids:
+  - 58
+  date: 2015-06-14
+  url: http://www.emberscreencasts.com/posts/46-bar-charts-with-ember-cli-chart
+  videos:
+  - http://www.emberscreencasts.com/posts/46-bar-charts-with-ember-cli-chart
+  series: EmberScreencasts
+- title: 45 - Custom Test Helpers in Ember CLI
+  author_ids:
+  - 58
+  date: 2015-06-07
+  url: http://www.emberscreencasts.com/posts/custom-test-helpers-in-ember-cli
+  videos:
+  - http://www.emberscreencasts.com/posts/custom-test-helpers-in-ember-cli
+  series: EmberScreencasts
+  price: $9/month
+- title: 44 - ES2015 Template Strings
+  author_ids:
+  - 58
+  date: 2015-06-06
+  url: http://www.emberscreencasts.com/posts/es2015-template-strings
+  videos:
+  - http://www.emberscreencasts.com/posts/es2015-template-strings
+  series: EmberScreencasts
+- title: 43 - On Init
+  author_ids:
+  - 58
+  date: 2015-05-31
+  url: http://www.emberscreencasts.com/posts/43-on-init
+  videos:
+  - http://www.emberscreencasts.com/posts/43-on-init
+  series: EmberScreencasts
+  price: $9/month
+- title: 42 - Object Instantiation
+  author_ids:
+  - 58
+  date: 2015-05-30
+  url: http://www.emberscreencasts.com/posts/object-instantiation
+  videos:
+  - http://www.emberscreencasts.com/posts/object-instantiation
+  series: EmberScreencasts
 - title: 41- Mixins
   author_ids:
   - 58
