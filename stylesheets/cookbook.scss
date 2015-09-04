@@ -5,6 +5,14 @@
 /* $brand-primary: #f00; */
 @import "bootstrap";
 /* COOKBOOK MAIN */
+
+nav ul li.name h1 {
+  /* fix for logo */
+  font-weight: bold;
+  background-position: left 0;
+  line-height: 1.2;
+}
+
 .cookbook-section-name a:hover,
 .cookbook-section-name a:focus {
   text-decoration: none;

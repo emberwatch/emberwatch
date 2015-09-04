@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Cookbook
 section: Cookbook
 layout: cookbook-recipe
 index: true
