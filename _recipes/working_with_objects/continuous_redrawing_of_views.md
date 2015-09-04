@@ -8,6 +8,9 @@ email: pixelhandler@gmail.com
 github: pixelhandler
 website: pixelhandler.com
 ---
+<span class="recipe-label">Recipe:</span>
+## {{ page.title }}
+-----
 ## Problem
 You'd like to redraw your views every few seconds/minutes e.g. to update
 relative timestamps (like on twitter.com).
