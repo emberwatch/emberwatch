@@ -15,7 +15,7 @@ Here are all of the available recipes:
 <ol>
 {% for recipe in site.data.cookbook-recipes %}
 {% if recipe.section_id == section.id %}
-<li><a href="{{ section.section-path }}/{{ recipe.recipe-file }}.html">{{ recipe.name }}</a></li>
+<li><a href="/recipes/{{ section.section-path }}/{{ recipe.recipe-file }}.html">{{ recipe.name }}</a></li>
 {% endif %}
 {% endfor %}
 </ol>

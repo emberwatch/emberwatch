@@ -15,7 +15,7 @@ Here are some recipes to help you encapsulate your code into Components and buil
     {% for recipe_id in section.recipe_ids %}
       {% for recipe in site.data.cookbook-recipes %}
         {% if recipe_id == recipe.id %}
-          <li><a href="{{ recipe.recipe-file }}.html">{{ recipe.name }}</a></li>
+          <li><a href="/recipes/{{section.section-path}}/{{ recipe.recipe-file }}.html">{{ recipe.name }}</a></li>
         {% endif %}
       {% endfor %}
     {% endfor %}
