@@ -93,7 +93,7 @@
   - http://www.emberscreencasts.com/posts/24-revised-handlebars-subexpressions
   series: EmberScreencasts
   price: $9/month
-- title: 61 - Computed Properties: Array Setters
+- title: "61 - Computed Properties: Array Setters"
   author_ids:
   - 58
   date: 2015-07-31
@@ -102,7 +102,7 @@
   - http://www.emberscreencasts.com/posts/61-computed-properties-array-setters
   series: EmberScreencasts
   price: $9/month
-- title: 60 - Computed Properties: Setters
+- title: "60 - Computed Properties: Setters"
   author_ids:
   - 58
   date: 2015-07-29
@@ -118,7 +118,7 @@
   videos:
   - http://www.emberscreencasts.com/posts/9-revised-computed-property-macros
   series: EmberScreencasts
-- title: 59 - Computed Properties: Working with Arrays
+- title: "59 - Computed Properties: Working with Arrays"
   author_ids:
   - 58
   date: 2015-07-26
