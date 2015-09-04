@@ -2,7 +2,7 @@
 - id: 1
   name: Working with Objects
   section-path: working_with_objects
-  recipe_ids: [1, 2]
+  recipe_ids: [1, 2, 23]
 - id: 2
   name: User Interface and Interaction
   section-path: user_interface_and_interaction

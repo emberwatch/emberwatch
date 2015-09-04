@@ -158,3 +158,10 @@
   author_ids: []
   tags: []
   categories: []
+- id: 23
+  name: Continuous Redrawing of Views
+  recipe-file: continuous_redrawing_of_views
+  section_id: 1
+  author_ids: []
+  tags: []
+  categories: []
