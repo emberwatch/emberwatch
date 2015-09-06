@@ -1,5 +1,245 @@
 ---
-- title: Fiddling with Ember CLI, Ember Twiddle
+- title: ember-metrics
+  date: '2015-08-12'
+  author_ids:
+  - 165
+  videos:
+  - https://www.youtube.com/watch?v=2tPgA9RMza0
+  url: http://www.meetup.com/Boston-Ember-js/events/223929990/
+  event_id: 9
+- title: Ember 2.0 update
+  date: '2015-08-12'
+  author_ids:
+  - 123
+  videos:
+  - https://www.youtube.com/watch?v=2tPgA9RMza0
+  url: http://www.meetup.com/Boston-Ember-js/events/223929990/
+  event_id: 9
+- title: Ember Twiddle
+  date: '2015-07-23'
+  author_ids:
+  - 185
+  videos:
+  - https://www.youtube.com/watch?v=ltzN4v-ymo4
+  url: http://www.meetup.com/EmberJS-NYC/events/223509427/
+  event_id: 2
+- title: EmberObserver.com
+  date: '2015-07-23'
+  author_ids:
+  - 60
+  videos:
+  - https://www.youtube.com/watch?v=ltzN4v-ymo4
+  url: http://www.meetup.com/EmberJS-NYC/events/223509427/
+  event_id: 2
+- title: ember-list-view with Glimmer
+  date: '2015-07-23'
+  author_ids:
+  - 232
+  videos:
+  - https://www.youtube.com/watch?v=ltzN4v-ymo4
+  url: http://www.meetup.com/EmberJS-NYC/events/223509427/
+  event_id: 2
+- title: Ember-CLI-Chrome
+  date: '2015-07-23'
+  author_ids:
+  - 233
+  videos:
+  - https://www.youtube.com/watch?v=ltzN4v-ymo4
+  url: http://www.meetup.com/EmberJS-NYC/events/223509427/
+  event_id: 2
+- title: Ember Considered Harmful
+  date: '2015-07-22'
+  author_ids:
+  - 238
+  videos:
+  - 
+  url: http://www.meetup.com/emberjsdublin/events/223806906/
+  event_id: 22
+- title: Taming Content Editable with Ember
+  date: '2015-07-22'
+  author_ids:
+  - 239
+  videos:
+  - 
+  url: http://www.meetup.com/emberjsdublin/events/223806906/
+  event_id: 22
+- title: Custom Computed Property Macros
+  date: '2015-07-22'
+  author_ids:
+  - 72
+  videos:
+  - 
+  url: http://www.meetup.com/emberjsdublin/events/223806906/
+  event_id: 22
+- title: Building a Side Cart with Spree Ember 
+  date: '2015-07-09'
+  author_ids:
+  - 183
+  videos:
+  - https://vimeo.com/133635980
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/221724935/
+  event_id: 13
+- title: Recording acceptance tests with the Ember-cli-test-recorder 
+  date: '2015-07-09'
+  author_ids:
+  - 224
+  videos:
+  - https://vimeo.com/133657584
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/221724935/
+  event_id: 13
+- title: Now You’re Thinking with Pods
+  date: '2015-07-09'
+  author_ids:
+  - 237
+  videos:
+  - https://www.youtube.com/watch?v=M8Q-PmQshqg
+  url: http://www.meetup.com/Boston-Ember-js/events/223448596/
+  event_id: 9
+- title: Testing Ember with Ember CLI Mirage
+  date: '2015-07-09'
+  author_ids:
+  - 223
+  videos:
+  - https://vimeo.com/133635981
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/221724935/
+  event_id: 13
+- title: JSON API 
+  date: '2015-07-09'
+  author_ids:
+  - 160
+  videos:
+  - https://www.youtube.com/watch?v=M8Q-PmQshqg
+  url: http://www.meetup.com/Boston-Ember-js/events/223448596/
+  event_id: 9
+- title: Compose all the things
+  date: '2015-06-16'
+  author_ids:
+  - 241
+  videos:
+  - https://www.youtube.com/watch?v=IaFjXFuG7OY&index=1&list=PLE7tQUdRKcyaG1xOBeXbz0dlh7LZkFdyH
+  url: 
+  event_id: 24
+- title: Ember Data 1.0
+  date: '2015-06-16'
+  author_ids:
+  - 31
+  videos:
+  - https://www.youtube.com/watch?v=xlplXK6SBao&index=8&list=PLE7tQUdRKcyaG1xOBeXbz0dlh7LZkFdyH
+  url: 
+  event_id: 24
+- title: Nathan Hammond
+  date: '2015-06-16'
+  author_ids:
+  - 245
+  videos:
+  - https://www.youtube.com/watch?v=ok9v9-Tcq0o&index=5&list=PLE7tQUdRKcyaG1xOBeXbz0dlh7LZkFdyH
+  url: 
+  event_id: 24
+- title: 'Graffiti: The Coveted Universal Web Component Format'
+  date: '2015-06-16'
+  author_ids:
+  - 242
+  videos:
+  - https://www.youtube.com/watch?v=ywkDHUMICCc&index=2&list=PLE7tQUdRKcyaG1xOBeXbz0dlh7LZkFdyH
+  url: 
+  event_id: 24
+- title: Estelle DeBlois
+  date: '2015-06-16'
+  author_ids:
+  - 243
+  videos:
+  - https://www.youtube.com/watch?v=vqmPVhZ__WI&index=4&list=PLE7tQUdRKcyaG1xOBeXbz0dlh7LZkFdyH
+  url: 
+  event_id: 24
+- title: Taking Ember Offline
+  date: '2015-06-16'
+  author_ids:
+  - 244
+  videos:
+  - https://www.youtube.com/watch?v=VhZS4n2DMyU&index=6&list=PLE7tQUdRKcyaG1xOBeXbz0dlh7LZkFdyH
+  url: 
+  event_id: 24
+- title: 'Keynote: The End of Single Page Apps'
+  date: '2015-06-16'
+  author_ids:
+  - 240
+  videos:
+  - https://www.youtube.com/watch?v=MN7d1TZNvTg&index=9&list=PLE7tQUdRKcyaG1xOBeXbz0dlh7LZkFdyH
+  url: 
+  event_id: 24
+- title: Writing Code to Update our Code
+  date: '2015-06-16'
+  author_ids:
+  - 148
+  videos:
+  - https://www.youtube.com/watch?v=XiBlT93H2aw&index=3&list=PLE7tQUdRKcyaG1xOBeXbz0dlh7LZkFdyH
+  url: 
+  event_id: 24
+- title: The Observer tip-jar
+  date: '2015-06-16'
+  author_ids:
+  - 54
+  videos:
+  - https://www.youtube.com/watch?v=vvZEddrClAQ&index=7&list=PLE7tQUdRKcyaG1xOBeXbz0dlh7LZkFdyH
+  url: 
+  event_id: 24
+- title: ember-cli-deploy 
+  date: '2015-06-11'
+  author_ids:
+  - 236
+  videos:
+  - https://www.youtube.com/watch?v=YYHLDfIQtgM
+  url: http://www.meetup.com/Boston-Ember-js/events/222484812/
+  event_id: 9
+- title: Un-artificial Intelligence 
+  date: '2015-06-11'
+  author_ids:
+  - 221
+  videos:
+  - https://vimeo.com/132196377
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/221220654/
+  event_id: 13
+- title: JavaScript Transformation
+  date: '2015-06-11'
+  author_ids:
+  - 222
+  videos:
+  - https://vimeo.com/132198620
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/221220654/
+  event_id: 13
+- title: 'SANE Stack: Progress Report'
+  date: '2015-06-11'
+  author_ids:
+  - 178
+  videos:
+  - https://vimeo.com/132203795
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/221220654/
+  event_id: 13
+- title: Rx.Observable in Ember.js
+  date: '2015-05-28'
+  author_ids:
+  - 45
+  videos:
+  - https://www.youtube.com/watch?v=sZs-VXWIDh0
+  url: http://www.meetup.com/EmberJS-NYC/events/222013516/
+  event_id: 2
+- title: Building Configurable Interfaces with Ember
+  date: '2015-05-28'
+  author_ids:
+  - 201
+  videos:
+  - https://www.youtube.com/watch?v=sZs-VXWIDh0
+  url: http://www.meetup.com/EmberJS-NYC/events/222013516/
+  event_id: 2
+- title: Building the Intercom Content Composer
+  date: '2015-05-28'
+  author_ids:
+  - 72
+  videos:
+  - https://www.youtube.com/watch?v=sZs-VXWIDh0
+  url: http://www.meetup.com/EmberJS-NYC/events/222013516/
+  event_id: 2
+- title: Fiddling with Ember CLI, Ember Twiddle 
   date: '2015-05-19'
   author_ids:
   - 150
@@ -7,16 +247,14 @@
   - https://www.youtube.com/watch?v=OgqTHCNa5R0
   url: http://www.meetup.com/Ember-js-Amsterdam/events/222419007/
   event_id: 17
-  id: 
-- title: TBA ;-)
+- title: Ember 2.0 
   date: '2015-05-19'
   author_ids:
-  - 45
+  - 39
   videos:
-  - https://www.youtube.com/watch?v=E6UuqZEkOHQ
+  - https://www.youtube.com/watch?v=QQra2wm8B_A
   url: http://www.meetup.com/Ember-js-Amsterdam/events/222419007/
   event_id: 17
-  id: 
 - title: Plans for Ember 2.0
   date: '2015-05-19'
   author_ids:
@@ -26,30 +264,378 @@
   url: http://www.meetup.com/Ember-js-Amsterdam/events/222419007/
   event_id: 17
   id: 
-- title: New Component Patterns in Ember.js
-  date: '2015-01-22'
+- title: 'Ember core member: TBA'
+  date: '2015-05-19'
+  author_ids:
+  - 45
+  videos:
+  - https://www.youtube.com/watch?v=E6UuqZEkOHQ
+  url: http://www.meetup.com/Ember-js-Amsterdam/events/222419007/
+  event_id: 17
+- title: TBA ;-)
+  date: '2015-05-19'
+  author_ids:
+  - 45
+  videos:
+  - https://www.youtube.com/watch?v=E6UuqZEkOHQ
+  url: http://www.meetup.com/Ember-js-Amsterdam/events/222419007/
+  event_id: 17
+  id: 
+- title: Fiddling with Ember CLI, Ember Twiddle
+  date: '2015-05-19'
+  author_ids:
+  - 150
+  videos:
+  - https://www.youtube.com/watch?v=OgqTHCNa5R0
+  url: http://www.meetup.com/Ember-js-Amsterdam/events/222419007/
+  event_id: 17
+  id: 
+- title: Taming Content Editable with Ember 
+  date: '2015-05-14'
+  author_ids:
+  - 72
+  videos:
+  - https://vimeo.com/128728111
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/221220636/
+  event_id: 13
+- title: SMIFF Music
+  date: '2015-05-14'
+  author_ids:
+  - 220
+  videos:
+  - 
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/221220636/
+  event_id: 13
+- title: Introduction to Ember, Building a Basic Twitter App 
+  date: '2015-05-14'
+  author_ids:
+  - 218
+  videos:
+  - https://vimeo.com/128728112
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/221220636/
+  event_id: 13
+- title: An overview of integrating Elastic Search into an Ember app with a Rails
+    backend
+  date: '2015-05-14'
+  author_ids:
+  - 235
+  videos:
+  - https://www.youtube.com/watch?v=9I2KgK2mYGM
+  url: http://www.meetup.com/Boston-Ember-js/events/221752373/
+  event_id: 9
+- title: Ember 2.0 Progress
+  date: '2015-05-14'
+  author_ids:
+  - 123
+  videos:
+  - https://www.youtube.com/watch?v=9I2KgK2mYGM
+  url: http://www.meetup.com/Boston-Ember-js/events/221752373/
+  event_id: 9
+- title: Full-stack development environments with Docker 
+  date: '2015-05-14'
+  author_ids:
+  - 219
+  videos:
+  - https://vimeo.com/128729539
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/221220636/
+  event_id: 13
+- title: Ember CLI and Super Easy™ Heroku Deployments
+  date: '2015-04-30'
+  author_ids:
+  - 234
+  videos:
+  - 
+  url: http://www.meetup.com/Chicago-Ember-js/events/221397703/
+  event_id: 10
+- title: Ember Waypoints library
+  date: '2015-04-23'
+  author_ids:
+  - 231
+  videos:
+  - https://www.youtube.com/watch?v=d7ocGnN9fh4
+  url: http://www.meetup.com/EmberJS-NYC/events/220915091/
+  event_id: 2
+- title: Our journey with the Tomster at British Gas
+  date: '2015-04-08'
+  author_ids:
+  - 215
+  videos:
+  - https://vimeo.com/124930055
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/220323842/
+  event_id: 13
+- title: Hamsters on fire - Rapid prototyping with Ember & Firebase
+  date: '2015-04-08'
+  author_ids:
+  - 216
+  videos:
+  - https://vimeo.com/124906884
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/220323842/
+  event_id: 13
+- title: Routes manuva - Unpacking Ember’s routes and the router
+  date: '2015-04-08'
+  author_ids:
+  - 217
+  videos:
+  - https://vimeo.com/124906883
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/220323842/
+  event_id: 13
+- title: Space-age File Picking and Conversion with Ember and Ink Filepicker
+  date: '2015-03-26'
+  author_ids:
+  - 229
+  videos:
+  - https://www.youtube.com/watch?v=dpaw4oIAEA0
+  url: http://www.meetup.com/EmberJS-NYC/events/220789954/
+  event_id: 2
+- title: ember-modal-dialog (aka Modal Wormholes)
+  date: '2015-03-26'
+  author_ids:
+  - 188
+  videos:
+  - https://www.youtube.com/watch?v=dpaw4oIAEA0
+  url: http://www.meetup.com/EmberJS-NYC/events/220789954/
+  event_id: 2
+- title: Using Aviary’s image editor with Ember
+  date: '2015-03-26'
+  author_ids:
+  - 230
+  videos:
+  - https://www.youtube.com/watch?v=dpaw4oIAEA0
+  url: http://www.meetup.com/EmberJS-NYC/events/220789954/
+  event_id: 2
+- title: '2020: Looking Ahead To The Future of Web Development'
+  date: '2015-03-12'
+  author_ids:
+  - 214
+  videos:
+  - https://vimeo.com/122421169
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/218940841/
+  event_id: 13
+- title: 'Zelda: A {{link-to}} the past'
+  date: '2015-03-12'
+  author_ids:
+  - 171
+  videos:
+  - https://vimeo.com/122410608
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/218940841/
+  event_id: 13
+- title: 'Hamsters on a Train: A small sample of what I’ve learned about using Ember
+    on Rails'
+  date: '2015-03-12'
+  author_ids:
+  - 213
+  videos:
+  - https://vimeo.com/122410609
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/218940841/
+  event_id: 13
+- title: PHYSICAL DESIGN
+  date: '2015-03-04'
+  author_ids:
+  - 124
+  videos:
+  - https://www.youtube.com/watch?v=p8aF-7-_cE8&index=15&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: CLOSING KEYNOTE
+  date: '2015-03-04'
+  author_ids:
+  - 252
+  videos:
+  - https://www.youtube.com/watch?v=qWcNZ3j3y6g&index=16&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: MINITALKS
+  date: '2015-03-04'
+  author_ids:
+  - 126
+  videos:
+  - https://www.youtube.com/watch?v=K4fyHxg3Ldk&index=17&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: BUILDING REAL-TIME APPLICATIONS WITH EMBER
+  date: '2015-03-04'
+  author_ids:
+  - 251
+  videos:
+  - https://www.youtube.com/watch?v=nfGORL8ebn8&index=14&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: BUILDING CUSTOM APPS WITH EMBER CLI
+  date: '2015-03-04'
+  author_ids:
+  - 250
+  videos:
+  - https://www.youtube.com/watch?v=J6vPwvFdUiE&index=13&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: INTERACTION DESIGN WITH EMBER 2.0 AND POLYMER
+  date: '2015-03-04'
+  author_ids:
+  - 249
+  videos:
+  - https://www.youtube.com/watch?v=Z8NDAiOZ8SE&index=12&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: GROWING EMBER ONE TOMSTER AT A TIME
+  date: '2015-03-04'
+  author_ids:
+  - 100
+  videos:
+  - https://www.youtube.com/watch?v=xsG0gDkvDPw&index=11&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: ALIGNING EMBER WITH WEB STANDARDS
+  date: '2015-03-04'
   author_ids:
   - 57
   videos:
-  - https://www.youtube.com/watch?v=nvB8iAwc2QQ#t=6534
-  url: http://www.meetup.com/EmberJS-NYC/events/219040871/
-  event_id: 2
-- title: HAL Adapter for Ember Data
-  date: '2015-01-22'
+  - https://www.youtube.com/watch?v=knYeLk1EuHw&index=10&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: FAULT TOLERANT UX
+  date: '2015-03-04'
   author_ids:
-  - 119
+  - 10
   videos:
-  - https://www.youtube.com/watch?v=nvB8iAwc2QQ#t=1556
-  url: http://www.meetup.com/EmberJS-NYC/events/219040871/
-  event_id: 2
-- title: Deploying Ember Apps
-  date: '2015-01-22'
+  - https://www.youtube.com/watch?v=s2awUFvA-0I&index=18&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: DYNAMIC GRAPHIC COMPOSITION IN EMBER
+  date: '2015-03-03'
+  author_ids:
+  - 248
+  videos:
+  - https://www.youtube.com/watch?v=J-LpgGqyxcI&index=8&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: BRING SANITY TO FRONTEND INFRASTRUCTURE WITH EMBER
+  date: '2015-03-03'
   author_ids:
   - 75
   videos:
-  - https://www.youtube.com/watch?v=nvB8iAwc2QQ#t=4497
-  url: http://www.meetup.com/EmberJS-NYC/events/219040871/
+  - https://www.youtube.com/watch?v=iwPsNTkyCcA&index=7&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: AMBITIOUS UX FOR AMBITIOUS APPS
+  date: '2015-03-03'
+  author_ids:
+  - 165
+  videos:
+  - https://www.youtube.com/watch?v=TlU0m18Pr-Y&index=6&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: THE ART OF EMBER DEPLOYMENT
+  date: '2015-03-03'
+  author_ids:
+  - 4
+  videos:
+  - https://www.youtube.com/watch?v=4EDetv_Rw5U&index=5&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: HIJACKING HACKER NEWS WITH EMBER.JS
+  date: '2015-03-03'
+  author_ids:
+  - 247
+  videos:
+  - https://www.youtube.com/watch?v=PXB93Z8azZE&index=4&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: DESIGNING FOR EMBER APPS
+  date: '2015-03-03'
+  author_ids:
+  - 246
+  videos:
+  - https://www.youtube.com/watch?v=ijiNbF2Wu0E&index=3&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: EMBER.JS PERFORMANCE
+  date: '2015-03-03'
+  author_ids:
+  - 54
+  videos:
+  - https://www.youtube.com/watch?v=iTZxo6bSx44&index=2&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+  url: 
+  event_id: 23
+- title: TEST-DRIVEN DEVELOPMENT BY EXAMPLE
+  date: '2015-03-03'
+  author_ids:
+  - 11
+  videos:
+  - https://www.youtube.com/watch?v=2b1vcg_XSR8&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU&index=9
+  url: 
+  event_id: 23
+- title: Opening Keynote
+  date: '2015-03-03'
+  author_ids:
+  - 2
+  videos:
+  - https://www.youtube.com/watch?v=o12-90Dm-Qs&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU&index=1
+  url: 
+  event_id: 23
+- title: Opening Keynote
+  date: '2015-03-03'
+  author_ids:
+  - 1
+  videos:
+  - https://www.youtube.com/watch?v=o12-90Dm-Qs&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU&index=1
+  url: 
+  event_id: 23
+- title: Watching Ember
+  date: '2015-02-26'
+  author_ids:
+  - 228
+  videos:
+  - https://www.youtube.com/watch?v=gRpz5SZ7b7Q
+  url: http://www.meetup.com/EmberJS-NYC/events/219969546/
   event_id: 2
+- title: Quick Feature Flags for Ember CLI Applications
+  date: '2015-02-26'
+  author_ids:
+  - 227
+  videos:
+  - https://www.youtube.com/watch?v=gRpz5SZ7b7Q
+  url: http://www.meetup.com/EmberJS-NYC/events/219969546/
+  event_id: 2
+- title: Building a Graphical HTML Editor in Ember
+  date: '2015-02-26'
+  author_ids:
+  - 225
+  videos:
+  - https://www.youtube.com/watch?v=gRpz5SZ7b7Q
+  url: http://www.meetup.com/EmberJS-NYC/events/219969546/
+  event_id: 2
+- title: ember-tour
+  date: '2015-02-26'
+  author_ids:
+  - 226
+  videos:
+  - https://www.youtube.com/watch?v=gRpz5SZ7b7Q
+  url: http://www.meetup.com/EmberJS-NYC/events/219969546/
+  event_id: 2
+- title: How we made Futurelearn more accessible
+  date: '2015-02-12'
+  author_ids:
+  - 210
+  videos:
+  - https://vimeo.com/119842870
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/218940813/
+  event_id: 13
+- title: 'Mobile web apps. Are we there yet?'
+  date: '2015-02-12'
+  author_ids:
+  - 211
+  videos:
+  - https://vimeo.com/119847301
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/218940813/
+  event_id: 13
+- title: Components on the Web and Native apps
+  date: '2015-02-12'
+  author_ids:
+  - 212
+  videos:
+  - https://vimeo.com/119864047
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/218940813/
+  event_id: 13
 - title: Refactoring Ember.js Apps
   date: '2015-01-22'
   author_ids:
@@ -66,6 +652,30 @@
   - https://www.youtube.com/watch?v=nvB8iAwc2QQ#t=744
   url: http://www.meetup.com/EmberJS-NYC/events/219040871/
   event_id: 2
+- title: Deploying Ember Apps
+  date: '2015-01-22'
+  author_ids:
+  - 75
+  videos:
+  - https://www.youtube.com/watch?v=nvB8iAwc2QQ#t=4497
+  url: http://www.meetup.com/EmberJS-NYC/events/219040871/
+  event_id: 2
+- title: New Component Patterns in Ember.js
+  date: '2015-01-22'
+  author_ids:
+  - 57
+  videos:
+  - https://www.youtube.com/watch?v=nvB8iAwc2QQ#t=6534
+  url: http://www.meetup.com/EmberJS-NYC/events/219040871/
+  event_id: 2
+- title: HAL Adapter for Ember Data
+  date: '2015-01-22'
+  author_ids:
+  - 119
+  videos:
+  - https://www.youtube.com/watch?v=nvB8iAwc2QQ#t=1556
+  url: http://www.meetup.com/EmberJS-NYC/events/219040871/
+  event_id: 2
 - title: Testing Your Ember Application
   date: '2015-01-17'
   author_ids:
@@ -74,6 +684,38 @@
   - https://www.youtube.com/watch?v=uZxD1Aj5lJs
   url: http://www.meetup.com/Ember-Dallas/events/218581991/
   event_id: 21
+- title: Five Intriguing Patterns (Anti-patterns?) from an Ember newbie
+  date: '2015-01-15'
+  author_ids:
+  - 166
+  videos:
+  - https://www.youtube.com/watch?v=8TKE8E1Quwo
+  url: http://www.meetup.com/Boston-Ember-js/events/219649397/
+  event_id: 9
+- title: i18n
+  date: '2015-01-15'
+  author_ids:
+  - 29
+  videos:
+  - https://www.youtube.com/watch?v=8TKE8E1Quwo
+  url: http://www.meetup.com/Boston-Ember-js/events/219649397/
+  event_id: 9
+- title: removing Ember.ObjectController
+  date: '2015-01-15'
+  author_ids:
+  - 123
+  videos:
+  - https://www.youtube.com/watch?v=8TKE8E1Quwo
+  url: http://www.meetup.com/Boston-Ember-js/events/219649397/
+  event_id: 9
+- title: ember-lazy-video component
+  date: '2015-01-15'
+  author_ids:
+  - 165
+  videos:
+  - https://www.youtube.com/watch?v=8TKE8E1Quwo
+  url: http://www.meetup.com/Boston-Ember-js/events/219649397/
+  event_id: 9
 - title: "“Dialling it in” Q&A---UI versus CLI Testing  :  Working around Ember-Data?
     \ :  Maintaining observability"
   date: '2015-01-08'
@@ -99,12 +741,13 @@
   - https://www.youtube.com/watch?v=vf1V3TlS-OQ
   url: http://www.meetup.com/Ember-js-Amsterdam/events/217543422/
   event_id: 17
-- title: 'The Pollster pattern: data updates using polling'
+- title: Developing an Ember-cli addon
   date: '2014-12-17'
   author_ids:
-  - 151
+  - 150
   videos:
-  - https://www.youtube.com/watch?v=EJeVvirzvA8
+  - https://www.youtube.com/watch?v=aNlxCxWs4O4
+  slides: http://cl.ly/3s1A2K2Y0h3z
   url: http://www.meetup.com/Ember-js-Amsterdam/events/217543422/
   event_id: 17
   id: 
@@ -117,13 +760,12 @@
   url: http://www.meetup.com/Ember-js-Amsterdam/events/217543422/
   event_id: 17
   id: 
-- title: Developing an Ember-cli addon
+- title: 'The Pollster pattern: data updates using polling'
   date: '2014-12-17'
   author_ids:
-  - 150
+  - 151
   videos:
-  - https://www.youtube.com/watch?v=aNlxCxWs4O4
-  slides: http://cl.ly/3s1A2K2Y0h3z
+  - https://www.youtube.com/watch?v=EJeVvirzvA8
   url: http://www.meetup.com/Ember-js-Amsterdam/events/217543422/
   event_id: 17
   id: 
@@ -136,20 +778,20 @@
   url: http://www.meetup.com/Ember-js-Amsterdam/events/217543422/
   event_id: 17
   id: 
-- title: Building Chrome Extension using Ember CLI
-  date: '2014-11-25'
-  author_ids:
-  - 169
-  videos:
-  - https://www.youtube.com/watch?v=r1Ot6oPGeh0#t=605
-  url: http://www.meetup.com/EmberJS-NYC/events/215895962/
-  event_id: 2
 - title: Dependency Injection in ember-cli using Instagram API
   date: '2014-11-25'
   author_ids:
   - 162
   videos:
   - https://www.youtube.com/watch?v=r1Ot6oPGeh0
+  url: http://www.meetup.com/EmberJS-NYC/events/215895962/
+  event_id: 2
+- title: Building Chrome Extension using Ember CLI
+  date: '2014-11-25'
+  author_ids:
+  - 169
+  videos:
+  - https://www.youtube.com/watch?v=r1Ot6oPGeh0#t=605
   url: http://www.meetup.com/EmberJS-NYC/events/215895962/
   event_id: 2
 - title: Building Chrome Extension using Ember CLI
@@ -184,20 +826,20 @@
   - https://www.youtube.com/watch?v=r1Ot6oPGeh0#t=2745
   url: http://www.meetup.com/EmberJS-NYC/events/215895962/
   event_id: 2
-- title: 'Secure coding: win the project, save lives, and get the gal (or guy)'
-  date: '2014-11-20'
-  author_ids:
-  - 173
-  videos:
-  - http://vimeo.com/112791023
-  url: http://www.meetup.com/London-Emberjs-User-Group/events/206596312/
-  event_id: 13
 - title: Server side Pre-rendering Solutions
   date: '2014-11-20'
   author_ids:
   - 172
   videos:
   - http://vimeo.com/112788412
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/206596312/
+  event_id: 13
+- title: 'Secure coding: win the project, save lives, and get the gal (or guy)'
+  date: '2014-11-20'
+  author_ids:
+  - 173
+  videos:
+  - http://vimeo.com/112791023
   url: http://www.meetup.com/London-Emberjs-User-Group/events/206596312/
   event_id: 13
 - title: Ember CLI Deploy
@@ -223,20 +865,20 @@
   - https://www.youtube.com/watch?v=0V_Eh7r3ffA
   url: http://www.meetup.com/Chicago-Ember-js/events/203706052/
   event_id: 10
-- title: Weather Roulette 
-  date: '2014-10-30'
-  author_ids:
-  - 186
-  videos:
-  - https://www.youtube.com/watch?v=Fxua8T6FT3U#t=2186
-  url: http://www.meetup.com/EmberJS-NYC/events/206445542/
-  event_id: 2
 - title: Tips the docs didn’t teach me
   date: '2014-10-30'
   author_ids:
   - 60
   videos:
   - https://www.youtube.com/watch?v=Fxua8T6FT3U#t=1277
+  url: http://www.meetup.com/EmberJS-NYC/events/206445542/
+  event_id: 2
+- title: Weather Roulette 
+  date: '2014-10-30'
+  author_ids:
+  - 186
+  videos:
+  - https://www.youtube.com/watch?v=Fxua8T6FT3U#t=2186
   url: http://www.meetup.com/EmberJS-NYC/events/206445542/
   event_id: 2
 - title: ember-cli-jquery-ui
@@ -279,20 +921,20 @@
   - http://vimeo.com/109672721
   url: http://www.meetup.com/London-Emberjs-User-Group/events/203008522/
   event_id: 13
-- title: Ember.js and C# .Net full Stack
-  date: '2014-10-15'
-  author_ids:
-  - 164
-  videos:
-  - https://www.youtube.com/watch?v=8TKE8E1Quwo#t=1934
-  url: http://www.meetup.com/Boston-Ember-js/events/219649397/
-  event_id: 9
 - title: ember-lazy-video component
   date: '2014-10-15'
   author_ids:
   - 165
   videos:
   - https://www.youtube.com/watch?v=8TKE8E1Quwo#t=1249
+  url: http://www.meetup.com/Boston-Ember-js/events/219649397/
+  event_id: 9
+- title: Ember.js and C# .Net full Stack
+  date: '2014-10-15'
+  author_ids:
+  - 164
+  videos:
+  - https://www.youtube.com/watch?v=8TKE8E1Quwo#t=1934
   url: http://www.meetup.com/Boston-Ember-js/events/219649397/
   event_id: 9
 - title: removing Ember.ObjectController
@@ -303,20 +945,20 @@
   - https://www.youtube.com/watch?v=8TKE8E1Quwo
   url: http://www.meetup.com/Boston-Ember-js/events/219649397/
   event_id: 9
-- title: Five Intriguing Patterns from an Ember newbie
-  date: '2014-10-15'
-  author_ids:
-  - 166
-  videos:
-  - https://www.youtube.com/watch?v=8TKE8E1Quwo#t=402
-  url: http://www.meetup.com/Boston-Ember-js/events/219649397/
-  event_id: 9
 - title: i18n
   date: '2014-10-15'
   author_ids:
   - 29
   videos:
   - https://www.youtube.com/watch?v=8TKE8E1Quwo#t=2525
+  url: http://www.meetup.com/Boston-Ember-js/events/219649397/
+  event_id: 9
+- title: Five Intriguing Patterns from an Ember newbie
+  date: '2014-10-15'
+  author_ids:
+  - 166
+  videos:
+  - https://www.youtube.com/watch?v=8TKE8E1Quwo#t=402
   url: http://www.meetup.com/Boston-Ember-js/events/219649397/
   event_id: 9
 - title: Ember CLI Bloggr example with Ember Pouch
@@ -410,12 +1052,12 @@
   - http://vimeo.com/106261417
   url: http://www.meetup.com/London-Emberjs-User-Group/events/199009522/
   event_id: 13
-- title: Ember.setState(this.get(React)) — React analysis from Ember core perspective
-  date: 2014/08/28
+- title: simply360 Demo & Experience report
+  date: '2014-08-28'
   author_ids:
-  - 45
+  - 202
   videos:
-  - https://www.youtube.com/watch?v=hk49K2SJXDY#t=4504
+  - https://www.youtube.com/watch?v=hk49K2SJXDY#t=467
   url: http://www.meetup.com/EmberJS-NYC/events/193407112/
   event_id: 2
 - title: Extending Applications with Ember
@@ -426,12 +1068,12 @@
   - https://www.youtube.com/watch?v=hk49K2SJXDY#t=1513
   url: http://www.meetup.com/EmberJS-NYC/events/193407112/
   event_id: 2
-- title: simply360 Demo & Experience report
-  date: '2014-08-28'
+- title: Ember.setState(this.get(React)) — React analysis from Ember core perspective
+  date: 2014/08/28
   author_ids:
-  - 202
+  - 45
   videos:
-  - https://www.youtube.com/watch?v=hk49K2SJXDY#t=467
+  - https://www.youtube.com/watch?v=hk49K2SJXDY#t=4504
   url: http://www.meetup.com/EmberJS-NYC/events/193407112/
   event_id: 2
 - title: simply360 Demo & Experience report
@@ -482,12 +1124,12 @@
   - https://www.youtube.com/watch?v=RzMswWbGrpI#t=2603
   url: http://www.meetup.com/EmberJS-NYC/events/191260582/
   event_id: 2
-- title: Using Ember Data with a Non-standard Backend
+- title: Migrating Complicated Apps to Ember.js
   date: '2014-07-17'
   author_ids:
-  - 168
+  - 181
   videos:
-  - https://vimeo.com/101579258
+  - http://vimeo.com/101568057
   url: http://www.meetup.com/London-Emberjs-User-Group/events/189309462/
   event_id: 13
 - title: A Closer Look at Computed Properties
@@ -498,12 +1140,12 @@
   - http://vimeo.com/101568056
   url: http://www.meetup.com/London-Emberjs-User-Group/events/189309462/
   event_id: 13
-- title: Migrating Complicated Apps to Ember.js
+- title: Using Ember Data with a Non-standard Backend
   date: '2014-07-17'
   author_ids:
-  - 181
+  - 168
   videos:
-  - http://vimeo.com/101568057
+  - https://vimeo.com/101579258
   url: http://www.meetup.com/London-Emberjs-User-Group/events/189309462/
   event_id: 13
 - title: Using Ember Data with a Non-standard Backend
@@ -626,14 +1268,14 @@
   - https://www.youtube.com/watch?v=G77i1v0byL0#t=2620
   url: http://www.meetup.com/EmberJS-NYC/events/181912422/
   event_id: 2
-- title: Productive Ember Apps with Ember CLI
+- title: Creating an Extensible Ember.js Application
   date: '2014-06-17'
   author_ids:
-  - 140
+  - 63
   videos:
-  - https://www.youtube.com/watch?v=hygxGDjhGp8
-  url: http://wickedgoodember.com/joe-fiorini
-  slides: https://speakerdeck.com/joefiorini/building-native-web-apps
+  - https://www.youtube.com/watch?v=qpey5TuwyfY
+  url: http://wickedgoodember.com/robin-ward
+  slides: http://eviltrout.com/extending/
   id: 
   event_id: 19
 - title: 'Writing tests for Ember apps: Enjoying the experience'
@@ -706,14 +1348,14 @@
   slides: https://speakerdeck.com/lukemelia/push-patterns-in-ember-and-ember-data
   id: 
   event_id: 19
-- title: Creating an Extensible Ember.js Application
+- title: Productive Ember Apps with Ember CLI
   date: '2014-06-17'
   author_ids:
-  - 63
+  - 140
   videos:
-  - https://www.youtube.com/watch?v=qpey5TuwyfY
-  url: http://wickedgoodember.com/robin-ward
-  slides: http://eviltrout.com/extending/
+  - https://www.youtube.com/watch?v=hygxGDjhGp8
+  url: http://wickedgoodember.com/joe-fiorini
+  slides: https://speakerdeck.com/joefiorini/building-native-web-apps
   id: 
   event_id: 19
 - title: Emberkit
@@ -724,12 +1366,12 @@
   - http://vimeo.com/98276162
   url: http://www.meetup.com/London-Emberjs-User-Group/events/184725262/
   event_id: 13
-- title: Introduction to D3.js
+- title: Ember with D3 for Data Visulaization
   date: '2014-05-29'
   author_ids:
-  - 197
+  - 122
   videos:
-  - https://www.youtube.com/watch?v=lVcSGybnP54#t=759
+  - https://www.youtube.com/watch?v=lVcSGybnP54#t=2665
   url: http://www.meetup.com/EmberJS-NYC/events/173542172/
   event_id: 2
 - title: EmberShare (Share.js integration)
@@ -740,12 +1382,12 @@
   - https://www.youtube.com/watch?v=lVcSGybnP54#t=5693
   url: http://www.meetup.com/EmberJS-NYC/events/173542172/
   event_id: 2
-- title: Ember with D3 for Data Visulaization
+- title: Introduction to D3.js
   date: '2014-05-29'
   author_ids:
-  - 122
+  - 197
   videos:
-  - https://www.youtube.com/watch?v=lVcSGybnP54#t=2665
+  - https://www.youtube.com/watch?v=lVcSGybnP54#t=759
   url: http://www.meetup.com/EmberJS-NYC/events/173542172/
   event_id: 2
 - title: Visualizing Heirarchical Data using D3.js, Neo4j, Ember.js & Ember Data
@@ -772,20 +1414,20 @@
   - https://www.youtube.com/watch?v=AK6xMvq4E5Q
   url: http://www.meetup.com/emberjsdublin/events/179186602/
   event_id: 22
-- title: Websockets and Ember Data
-  date: '2014-05-21'
-  author_ids:
-  - 132
-  videos:
-  - http://vimeo.com/96427738
-  url: http://www.meetup.com/London-Emberjs-User-Group/events/177646192/
-  event_id: 13
 - title: 'Box2D with Javascript: a practical introduction to 2d physics on the web'
   date: '2014-05-21'
   author_ids:
   - 182
   videos:
   - 
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/177646192/
+  event_id: 13
+- title: Websockets and Ember Data
+  date: '2014-05-21'
+  author_ids:
+  - 132
+  videos:
+  - http://vimeo.com/96427738
   url: http://www.meetup.com/London-Emberjs-User-Group/events/177646192/
   event_id: 13
 - title: Modern build workflows with Broccoli
@@ -796,6 +1438,15 @@
   - http://vimeo.com/96431267
   url: http://www.meetup.com/London-Emberjs-User-Group/events/177646192/
   event_id: 13
+- title: ember-validations & ember-easyForm
+  date: '2014-05-20'
+  author_ids:
+  - 29
+  videos:
+  - https://www.youtube.com/watch?v=QtqgqabNkPM
+  url: http://www.meetup.com/Ember-SF/events/164898192/
+  event_id: 6
+  id: 
 - title: Ember Data
   subtitle: Tips, Tricks and Lessons Learned
   date: '2014-05-20'
@@ -806,15 +1457,6 @@
   videos:
   - https://www.youtube.com/watch?v=HL2bMjndviE
   url: http://www.meetup.com/Ember-SF/events/164898192/
-  id: 
-- title: ember-validations & ember-easyForm
-  date: '2014-05-20'
-  author_ids:
-  - 29
-  videos:
-  - https://www.youtube.com/watch?v=QtqgqabNkPM
-  url: http://www.meetup.com/Ember-SF/events/164898192/
-  event_id: 6
   id: 
 - title: Ember at Scale
   date: '2014-05-20'
@@ -876,15 +1518,6 @@
   - https://www.youtube.com/watch?v=s0L2P7ZVzhc
   url: http://www.meetup.com/Ember-js-Munich/events/173267762/
   id: 189
-- title: Methods to animate in Ember
-  date: '2014-05-07'
-  author_ids:
-  - 135
-  event_id: 17
-  videos:
-  - https://www.youtube.com/watch?v=YQyB-anJNss
-  url: http://www.meetup.com/Amsterdam-Ember-js/events/173182982/
-  id: 187
 - title: Minding the DOM
   date: '2014-05-07'
   author_ids:
@@ -895,6 +1528,15 @@
   url: http://www.meetup.com/Amsterdam-Ember-js/events/173182982/
   slides: http://oscarlodriguez.nl/Labs/htmlbars/
   id: 186
+- title: Methods to animate in Ember
+  date: '2014-05-07'
+  author_ids:
+  - 135
+  event_id: 17
+  videos:
+  - https://www.youtube.com/watch?v=YQyB-anJNss
+  url: http://www.meetup.com/Amsterdam-Ember-js/events/173182982/
+  id: 187
 - title: Ember Query Parameters
   date: '2014-05-07'
   event_id: 17
@@ -931,14 +1573,6 @@
   - https://www.youtube.com/watch?v=dlkLgJ4G-pg
   url: http://mtnwestjs.org/2014/sessions#AntiTyping
   id: 181
-- title: Benchmarking Javascript
-  date: '2014-04-16'
-  author_ids:
-  - 52
-  videos:
-  - https://www.youtube.com/watch?v=XQ0FZSgWArc#t=3800
-  url: http://www.meetup.com/EmberJS-NYC/events/169199292/
-  event_id: 2
 - title: Making the Pieces Fit
   date: '2014-04-16'
   event_id: 13
@@ -958,6 +1592,14 @@
   - https://vimeo.com/92531675
   url: http://www.meetup.com/London-Emberjs-User-Group/events/169917902/
   id: 183
+- title: Benchmarking Javascript
+  date: '2014-04-16'
+  author_ids:
+  - 52
+  videos:
+  - https://www.youtube.com/watch?v=XQ0FZSgWArc#t=3800
+  url: http://www.meetup.com/EmberJS-NYC/events/169199292/
+  event_id: 2
 - title: Abusing Computed Properties for Fun & Profit
   date: '2014-04-16'
   author_ids:
@@ -966,20 +1608,20 @@
   - https://www.youtube.com/watch?v=XQ0FZSgWArc#t=2624
   url: http://www.meetup.com/EmberJS-NYC/events/169199292/
   event_id: 2
-- title: Building Real-Time Collaborative Apps using Ember Data and Google Drive
-  date: '2014-04-16'
-  author_ids:
-  - 201
-  videos:
-  - https://www.youtube.com/watch?v=XQ0FZSgWArc#t=1363
-  url: http://www.meetup.com/EmberJS-NYC/events/169199292/
-  event_id: 2
 - title: Internationalization in Ember
   date: '2014-04-16'
   author_ids:
   - 200
   videos:
   - https://www.youtube.com/watch?v=XQ0FZSgWArc#t=474
+  url: http://www.meetup.com/EmberJS-NYC/events/169199292/
+  event_id: 2
+- title: Building Real-Time Collaborative Apps using Ember Data and Google Drive
+  date: '2014-04-16'
+  author_ids:
+  - 201
+  videos:
+  - https://www.youtube.com/watch?v=XQ0FZSgWArc#t=1363
   url: http://www.meetup.com/EmberJS-NYC/events/169199292/
   event_id: 2
 - title: An intro to Ember.js @ LinkedIn
@@ -1092,17 +1734,16 @@
   url: http://emberconf.com/schedule.html#matchneer
   slides: https://speakerdeck.com/machty/emberconf-2014-mr-router-embraces-the-controller-alex-matchneer
   id: 179
-- title: 'HTMLBars: The Next-Generation of Templating in Ember.js'
+- title: 'Contributing to Ember: The Inside Scoop'
   date: '2014-03-25'
   event_id: 16
   author_ids:
-  - 33
-  - 39
+  - 123
   videos:
-  - https://www.youtube.com/watch?v=HY4d-0Kzp68
-  url: http://emberconf.com/schedule.html#bryn
-  slides: http://talks.erikbryn.com/htmlbars-emberconf
-  id: 175
+  - https://www.youtube.com/watch?v=RNuHN_iuV9Q
+  url: http://emberconf.com/schedule.html#jackson
+  slides: https://speakerdeck.com/rwjblue/contributing-to-ember
+  id: 169
 - title: Ember Components Transclude My Directives
   date: '2014-03-25'
   event_id: 16
@@ -1144,26 +1785,27 @@
   url: http://emberconf.com/schedule.html#terzic
   slides: http://terzicigor.com/talks/index.html#/
   id: 170
-- title: 'Contributing to Ember: The Inside Scoop'
+- title: 'HTMLBars: The Next-Generation of Templating in Ember.js'
   date: '2014-03-25'
   event_id: 16
   author_ids:
-  - 123
+  - 33
+  - 39
   videos:
-  - https://www.youtube.com/watch?v=RNuHN_iuV9Q
-  url: http://emberconf.com/schedule.html#jackson
-  slides: https://speakerdeck.com/rwjblue/contributing-to-ember
-  id: 169
-- title: Modeling the App Store and iTunes with Ember Data
+  - https://www.youtube.com/watch?v=HY4d-0Kzp68
+  url: http://emberconf.com/schedule.html#bryn
+  slides: http://talks.erikbryn.com/htmlbars-emberconf
+  id: 175
+- title: 'No more `grunt watch`: Modern build workflows with Broccoli'
   date: '2014-03-25'
   event_id: 16
   author_ids:
-  - 14
+  - 32
   videos:
-  - https://www.youtube.com/watch?v=UQx4YklXKww
-  url: http://emberconf.com/schedule.html#mack
-  slides: http://emberconf.com/images/slides/2014_jmack.pdf
-  id: 174
+  - https://www.youtube.com/watch?v=PEb4BiXH4bE
+  url: http://emberconf.com/schedule.html#liss
+  slides: http://www.slideshare.net/jo_liss/broccoli-32911567
+  id: 171
 - title: Ember Conf 2014 Keynote
   date: '2014-03-25'
   event_id: 16
@@ -1175,16 +1817,16 @@
   url: http://emberconf.com/schedule.html
   slides: https://speakerdeck.com/tomdale/emberconf-2014-keynote
   id: 167
-- title: 'No more `grunt watch`: Modern build workflows with Broccoli'
+- title: Modeling the App Store and iTunes with Ember Data
   date: '2014-03-25'
   event_id: 16
   author_ids:
-  - 32
+  - 14
   videos:
-  - https://www.youtube.com/watch?v=PEb4BiXH4bE
-  url: http://emberconf.com/schedule.html#liss
-  slides: http://www.slideshare.net/jo_liss/broccoli-32911567
-  id: 171
+  - https://www.youtube.com/watch?v=UQx4YklXKww
+  url: http://emberconf.com/schedule.html#mack
+  slides: http://emberconf.com/images/slides/2014_jmack.pdf
+  id: 174
 - title: From Legacy to MVC
   subtitle: Moving a traditional Rails/jQuery App to Ember.js
   date: '2014-03-13'
@@ -1212,24 +1854,6 @@
   - http://www.youtube.com/watch?v=4ixw_5keMTc
   url: http://www.meetup.com/Ember-js-Seattle-Meetup/events/166977452/
   id: 158
-- title: Ember Controller versus ObjectController
-  date: '2014-02-27'
-  event_id: 2
-  author_ids:
-  - 119
-  videos:
-  - http://www.youtube.com/watch?v=vjBs07kgjq0#t=565
-  url: http://www.meetup.com/EmberJS-NYC/events/161760992/
-  id: 159
-- title: Building Vine.co
-  date: '2014-02-27'
-  event_id: 2
-  author_ids:
-  - 120
-  videos:
-  - http://www.youtube.com/watch?v=vjBs07kgjq0#t=1807
-  url: http://www.meetup.com/EmberJS-NYC/events/161760992/
-  id: 160
 - title: HTMLBars, the future of templating in Ember.js
   date: '2014-02-27'
   event_id: 2
@@ -1239,6 +1863,24 @@
   - http://www.youtube.com/watch?v=vjBs07kgjq0#t=3584
   url: http://www.meetup.com/EmberJS-NYC/events/161760992/
   id: 161
+- title: Building Vine.co
+  date: '2014-02-27'
+  event_id: 2
+  author_ids:
+  - 120
+  videos:
+  - http://www.youtube.com/watch?v=vjBs07kgjq0#t=1807
+  url: http://www.meetup.com/EmberJS-NYC/events/161760992/
+  id: 160
+- title: Ember Controller versus ObjectController
+  date: '2014-02-27'
+  event_id: 2
+  author_ids:
+  - 119
+  videos:
+  - http://www.youtube.com/watch?v=vjBs07kgjq0#t=565
+  url: http://www.meetup.com/EmberJS-NYC/events/161760992/
+  id: 159
 - title: Iterating through Ember Data
   date: '2014-02-12'
   event_id: 13
@@ -1257,16 +1899,15 @@
   - https://vimeo.com/86698279
   url: http://www.meetup.com/London-Emberjs-User-Group/events/161526872/
   id: 155
-- title: Containers and Dependency Injection in Ember.js
+- title: Building Realtime Apps with Firebase and Ember.js
   date: '2014-01-23'
   event_id: 2
   author_ids:
-  - 57
+  - 114
   videos:
-  - http://www.youtube.com/watch?v=iCZUKFNXA0k#t=6318
+  - http://www.youtube.com/watch?v=iCZUKFNXA0k#t=5418
   url: http://www.meetup.com/EmberJS-NYC/events/151950262/
-  slides: http://www.slideshare.net/mixonic/containers-di
-  id: 154
+  id: 153
 - title: Introduction to the Ember.js Run Loop
   date: '2014-01-23'
   event_id: 2
@@ -1287,15 +1928,16 @@
   url: http://www.meetup.com/EmberJS-SLC/events/155678492/
   slides: http://knomedia.github.io/presentation_2014_01_23_ember_run_loop/
   id: 147
-- title: Building Realtime Apps with Firebase and Ember.js
+- title: Containers and Dependency Injection in Ember.js
   date: '2014-01-23'
   event_id: 2
   author_ids:
-  - 114
+  - 57
   videos:
-  - http://www.youtube.com/watch?v=iCZUKFNXA0k#t=5418
+  - http://www.youtube.com/watch?v=iCZUKFNXA0k#t=6318
   url: http://www.meetup.com/EmberJS-NYC/events/151950262/
-  id: 153
+  slides: http://www.slideshare.net/mixonic/containers-di
+  id: 154
 - title: An HTMLBars Update
   date: '2014-01-23'
   event_id: 2
@@ -1305,15 +1947,6 @@
   - http://www.youtube.com/watch?v=iCZUKFNXA0k#t=2074
   url: http://www.meetup.com/EmberJS-NYC/events/151950262/
   id: 151
-- title: Meet the Ember Inspector
-  date: '2014-01-23'
-  event_id: 2
-  author_ids:
-  - 54
-  videos:
-  - http://www.youtube.com/watch?v=iCZUKFNXA0k#t=1464
-  url: http://www.meetup.com/EmberJS-NYC/events/151950262/
-  id: 150
 - title: Testing Your Ember Applications
   date: '2014-01-23'
   event_id: 15
@@ -1324,6 +1957,15 @@
   url: http://www.meetup.com/EmberJS-SLC/events/155678492/
   slides: http://coderberry.herokuapp.com/testing-your-ember-application
   id: 146
+- title: Meet the Ember Inspector
+  date: '2014-01-23'
+  event_id: 2
+  author_ids:
+  - 54
+  videos:
+  - http://www.youtube.com/watch?v=iCZUKFNXA0k#t=1464
+  url: http://www.meetup.com/EmberJS-NYC/events/151950262/
+  id: 150
 - title: Modular UI with (Angular || Ember)
   date: '2014-01-15'
   event_id: 13
@@ -1359,15 +2001,6 @@
   - https://vimeo.com/84385535
   url: http://www.meetup.com/London-Emberjs-User-Group/events/159233442/
   id: 144
-- title: Ember-AppKit-Rails
-  date: '2014-01-09'
-  author_ids:
-  - 29
-  event_id: 9
-  videos:
-  - https://www.youtube.com/watch?v=vVDQY7kYV_8#t=5420
-  url: http://www.meetup.com/Boston-Ember-js/events/155308152/
-  id: 140
 - title: Introducing Orbit.js
   date: '2014-01-09'
   author_ids:
@@ -1378,6 +2011,15 @@
   slides: https://speakerdeck.com/dgeb/introducing-orbit-dot-js
   url: http://www.meetup.com/Boston-Ember-js/events/155308152/
   id: 139
+- title: Ember-AppKit-Rails
+  date: '2014-01-09'
+  author_ids:
+  - 29
+  event_id: 9
+  videos:
+  - https://www.youtube.com/watch?v=vVDQY7kYV_8#t=5420
+  url: http://www.meetup.com/Boston-Ember-js/events/155308152/
+  id: 140
 - title: Ember and JavaScript Frameworks
   date: '2013-12-26'
   author_ids:
@@ -1386,24 +2028,6 @@
   - http://www.infoq.com/interviews/tom-dale-ember
   url: http://www.infoq.com/interviews/tom-dale-ember
   id: 136
-- title: Ember Components - Building Expressive Markup
-  date: '2013-12-12'
-  author_ids:
-  - 104
-  videos:
-  - https://www.youtube.com/watch?v=W0BU6TH6C-M
-  event_id: 9
-  url: http://www.meetup.com/Boston-Ember-js/events/150933552/
-  id: 133
-- title: Ember.js and benchmarks for all
-  date: '2013-12-12'
-  author_ids:
-  - 52
-  videos:
-  - https://www.youtube.com/watch?v=W0BU6TH6C-M#t=3648
-  event_id: 9
-  url: http://www.meetup.com/Boston-Ember-js/events/150933552/
-  id: 135
 - title: Testing Ember.js
   date: '2013-12-12'
   author_ids:
@@ -1413,6 +2037,24 @@
   event_id: 13
   url: http://www.meetup.com/London-Emberjs-User-Group/events/153776002/
   id: 130
+- title: Ember.js and benchmarks for all
+  date: '2013-12-12'
+  author_ids:
+  - 52
+  videos:
+  - https://www.youtube.com/watch?v=W0BU6TH6C-M#t=3648
+  event_id: 9
+  url: http://www.meetup.com/Boston-Ember-js/events/150933552/
+  id: 135
+- title: Ember Components - Building Expressive Markup
+  date: '2013-12-12'
+  author_ids:
+  - 104
+  videos:
+  - https://www.youtube.com/watch?v=W0BU6TH6C-M
+  event_id: 9
+  url: http://www.meetup.com/Boston-Ember-js/events/150933552/
+  id: 133
 - title: An Introduction to Ember.js
   date: '2013-12-12'
   author_ids:
@@ -1457,15 +2099,6 @@
   - http://www.youtube.com/watch?v=kBhGXX4zbXw
   url: http://fitc.ca/presentation/awesome-ember-tricks/
   id: 157
-- title: More Components
-  date: '2013-11-21'
-  event_id: 3
-  author_ids:
-  - 33
-  videos:
-  - http://www.youtube.com/watch?v=1CwSwBQnYgU
-  url: http://www.meetup.com/Ember-js-Seattle-Meetup/events/148056892/
-  id: 124
 - title: Ember vs Angular, why we chose Ember
   date: '2013-11-21'
   event_id: 3
@@ -1475,15 +2108,15 @@
   - http://www.youtube.com/watch?v=EFmgLyR-Svo
   url: http://www.meetup.com/Ember-js-Seattle-Meetup/events/148056892/
   id: 123
-- title: Testing Ember.js with Zuul
-  date: '2013-11-20'
-  event_id: 2
+- title: More Components
+  date: '2013-11-21'
+  event_id: 3
   author_ids:
-  - 91
+  - 33
   videos:
-  - http://www.youtube.com/watch?v=7ecsYtRiD5Q#t=1647
-  url: http://www.meetup.com/EmberJS-NYC/events/147324212/
-  id: 119
+  - http://www.youtube.com/watch?v=1CwSwBQnYgU
+  url: http://www.meetup.com/Ember-js-Seattle-Meetup/events/148056892/
+  id: 124
 - title: Demo of LightPrint.com
   date: '2013-11-20'
   event_id: 2
@@ -1493,6 +2126,15 @@
   - http://www.youtube.com/watch?v=7ecsYtRiD5Q#t=557
   url: http://www.meetup.com/EmberJS-NYC/events/147324212/
   id: 118
+- title: Testing Ember.js with Zuul
+  date: '2013-11-20'
+  event_id: 2
+  author_ids:
+  - 91
+  videos:
+  - http://www.youtube.com/watch?v=7ecsYtRiD5Q#t=1647
+  url: http://www.meetup.com/EmberJS-NYC/events/147324212/
+  id: 119
 - title: ng-embereño
   subtitle: AngularJS from an Ember.js perspective
   date: '2013-11-20'
@@ -1730,14 +2372,6 @@
   - http://www.youtube.com/watch?v=DrFkx9E3hjg
   url: http://socoded.com/
   id: 106
-- title: Tapas with Ember
-  date: '2013-09-18'
-  author_ids:
-  - 14
-  url: http://www.meetup.com/TechLife-Cincinnati/events/138546202/
-  videos:
-  - http://www.youtube.com/watch?v=BP7lTpNfkyU
-  id: 102
 - title: Ember and Batterii
   date: '2013-09-18'
   author_ids:
@@ -1746,6 +2380,14 @@
   videos:
   - http://www.youtube.com/watch?v=8s9HAkmad9Y
   id: 101
+- title: Tapas with Ember
+  date: '2013-09-18'
+  author_ids:
+  - 14
+  url: http://www.meetup.com/TechLife-Cincinnati/events/138546202/
+  videos:
+  - http://www.youtube.com/watch?v=BP7lTpNfkyU
+  id: 102
 - title: Complex Architectures in Ember
   date: '2013-09-18'
   author_ids:
@@ -1803,16 +2445,6 @@
   - http://www.youtube.com/watch?v=zC7o1YkmkG0
   url: http://www.meetup.com/Chicago-Ember-js/events/137166102/
   id: 91
-- title: Ember-Data, the way forward
-  date: '2013-08-30'
-  event_id: 12
-  author_ids:
-  - 31
-  videos:
-  - http://www.infoq.com/presentations/ember-data
-  url: http://emberfest.eu/munich
-  slides: http://www.infoq.com/presentations/ember-data
-  id: 141
 - title: Complex Architectures in Ember
   date: '2013-08-30'
   event_id: 12
@@ -1823,6 +2455,16 @@
   url: http://emberfest.eu/munich
   slides: http://www.infoq.com/presentations/emberjs-messages-views-controller-router
   id: 128
+- title: Ember-Data, the way forward
+  date: '2013-08-30'
+  event_id: 12
+  author_ids:
+  - 31
+  videos:
+  - http://www.infoq.com/presentations/ember-data
+  url: http://emberfest.eu/munich
+  slides: http://www.infoq.com/presentations/ember-data
+  id: 141
 - title: Ember.js Advanced Patterns
   date: '2013-08-30'
   event_id: 12
@@ -1851,26 +2493,6 @@
   - http://www.infoq.com/presentations/emberjs-use-case
   url: http://emberfest.eu/munich
   id: 125
-- title: Experiences Building a Hypervideo-based Web App with Ember.js, Popcorn.js
-    and HTML5
-  date: '2013-08-30'
-  event_id: 12
-  author_ids:
-  - 93
-  videos:
-  - http://www.infoq.com/presentations/hypermedia-emberjs-html5
-  url: http://emberfest.eu/munich
-  id: 122
-- title: 'Query Params with the Ember Router: Past, Present and Future'
-  date: '2013-08-30'
-  event_id: 12
-  author_ids:
-  - 82
-  videos:
-  - http://www.infoq.com/presentations/ember-query-string
-  url: http://emberfest.eu/munich
-  slides: http://www.infoq.com/presentations/ember-query-string
-  id: 104
 - title: Productive Out-of-the-Box
   date: '2013-08-30'
   event_id: 12
@@ -1881,6 +2503,26 @@
   url: http://emberfest.eu/munich
   slides: http://www.infoq.com/presentations/emberjs-tools-yeoman
   id: 112
+- title: 'Query Params with the Ember Router: Past, Present and Future'
+  date: '2013-08-30'
+  event_id: 12
+  author_ids:
+  - 82
+  videos:
+  - http://www.infoq.com/presentations/ember-query-string
+  url: http://emberfest.eu/munich
+  slides: http://www.infoq.com/presentations/ember-query-string
+  id: 104
+- title: Experiences Building a Hypervideo-based Web App with Ember.js, Popcorn.js
+    and HTML5
+  date: '2013-08-30'
+  event_id: 12
+  author_ids:
+  - 93
+  videos:
+  - http://www.infoq.com/presentations/hypermedia-emberjs-html5
+  url: http://emberfest.eu/munich
+  id: 122
 - title: Ember.js at Bustle.com
   date: '2013-08-22'
   event_id: 2
@@ -1929,15 +2571,6 @@
   videos:
   - http://www.youtube.com/watch?v=gz7Jy2abm10#t=101
   id: 87
-- title: Lessons from an Amateur
-  date: '2013-07-25'
-  event_id: 2
-  author_ids:
-  - 71
-  url: http://www.meetup.com/EmberJS-NYC/events/127183702/
-  videos:
-  - http://www.youtube.com/watch?v=-0qngpFNM5A#t=1255
-  id: 81
 - title: Ember App Kit
   date: '2013-07-25'
   event_id: 2
@@ -1947,6 +2580,15 @@
   videos:
   - http://www.youtube.com/watch?v=-0qngpFNM5A#t=1828
   id: 82
+- title: Lessons from an Amateur
+  date: '2013-07-25'
+  event_id: 2
+  author_ids:
+  - 71
+  url: http://www.meetup.com/EmberJS-NYC/events/127183702/
+  videos:
+  - http://www.youtube.com/watch?v=-0qngpFNM5A#t=1255
+  id: 81
 - title: The Ember Router
   date: '2013-07-25'
   event_id: 2
@@ -2025,16 +2667,6 @@
   - http://www.youtube.com/watch?v=L9OOMygo1HI
   id: 72
 - title: The Promise Land
-  subtitle: Part 1
-  author_ids:
-  - 56
-  date: '2013-06-20'
-  event_id: 2
-  url: http://www.meetup.com/EmberJS-NYC/events/118044342/
-  videos:
-  - http://www.youtube.com/watch?v=mZHO1ZTsoFk#t=2495s
-  id: 67
-- title: The Promise Land
   subtitle: Part 2
   author_ids:
   - 54
@@ -2044,6 +2676,16 @@
   videos:
   - http://www.youtube.com/watch?v=mZHO1ZTsoFk#t=5152s
   id: 68
+- title: The Promise Land
+  subtitle: Part 1
+  author_ids:
+  - 56
+  date: '2013-06-20'
+  event_id: 2
+  url: http://www.meetup.com/EmberJS-NYC/events/118044342/
+  videos:
+  - http://www.youtube.com/watch?v=mZHO1ZTsoFk#t=2495s
+  id: 67
 - title: Ember Router Enhancements
   author_ids:
   - 45
@@ -2073,14 +2715,6 @@
   videos:
   - http://www.youtube.com/watch?v=mZHO1ZTsoFk#t=384s
   id: 64
-- title: Building URL Driven Apps with Ember.js
-  author_ids:
-  - 2
-  date: '2013-06-14'
-  url: http://ndcoslo.oktaset.com/t-11579
-  videos:
-  - http://vimeo.com/68390483
-  id: 70
 - title: jQuery isn’t Enough
   subtitle: An Introduction to Ember.js
   date: '2013-06-14'
@@ -2091,6 +2725,14 @@
   - http://www.youtube.com/watch?v=1ZdBeDL0s7I
   url: http://events.jquery.org/2013/portland/#program
   id: 73
+- title: Building URL Driven Apps with Ember.js
+  author_ids:
+  - 2
+  date: '2013-06-14'
+  url: http://ndcoslo.oktaset.com/t-11579
+  videos:
+  - http://vimeo.com/68390483
+  id: 70
 - title: Ember Data
   author_ids:
   - 52
@@ -2195,15 +2837,6 @@
   videos:
   - http://www.youtube.com/watch?v=VuIFdXmi080&t=24m5s
   id: 55
-- title: Ember-Data and Magic
-  author_ids:
-  - 31
-  date: '2013-05-14'
-  event_id: 6
-  url: http://www.meetup.com/Ember-SF/events/112139702/
-  videos:
-  - https://www.youtube.com/watch?v=2WpymH6Qc3Q
-  id: 57
 - title: Light up Your Web Apps with Ember.js
   author_ids:
   - 47
@@ -2213,26 +2846,15 @@
   videos:
   - https://www.youtube.com/watch?v=mZm2F3R6sdI
   id: 58
-- title: Introducing Ember.ListView
+- title: Ember-Data and Magic
   author_ids:
-  - 39
-  date: '2013-04-24'
-  event_id: 3
-  url: http://www.meetup.com/Ember-js-Seattle-Meetup/events/111338642/
+  - 31
+  date: '2013-05-14'
+  event_id: 6
+  url: http://www.meetup.com/Ember-SF/events/112139702/
   videos:
-  - http://www.youtube.com/watch?v=i3vEjbjV8Sk
-  slides: http://talks.erikbryn.com/ember-list-view/
-  id: 54
-- title: Ember.js Testing Made Easy and Fast!
-  author_ids:
-  - 39
-  date: '2013-04-24'
-  event_id: 3
-  url: http://www.meetup.com/Ember-js-Seattle-Meetup/events/111338642/
-  videos:
-  - http://www.youtube.com/watch?v=nO1hxT9GBTs
-  slides: http://talks.erikbryn.com/ember-testing/
-  id: 52
+  - https://www.youtube.com/watch?v=2WpymH6Qc3Q
+  id: 57
 - title: Ember Reader
   subtitle: Building an Ember.js App From Scratch
   author_ids:
@@ -2243,6 +2865,26 @@
   videos:
   - http://www.youtube.com/watch?v=obaWh8xL2C0
   id: 53
+- title: Ember.js Testing Made Easy and Fast!
+  author_ids:
+  - 39
+  date: '2013-04-24'
+  event_id: 3
+  url: http://www.meetup.com/Ember-js-Seattle-Meetup/events/111338642/
+  videos:
+  - http://www.youtube.com/watch?v=nO1hxT9GBTs
+  slides: http://talks.erikbryn.com/ember-testing/
+  id: 52
+- title: Introducing Ember.ListView
+  author_ids:
+  - 39
+  date: '2013-04-24'
+  event_id: 3
+  url: http://www.meetup.com/Ember-js-Seattle-Meetup/events/111338642/
+  videos:
+  - http://www.youtube.com/watch?v=i3vEjbjV8Sk
+  slides: http://talks.erikbryn.com/ember-list-view/
+  id: 54
 - title: How I Learned Ember.js
   author_ids:
   - 14
@@ -2289,16 +2931,6 @@
   - http://www.youtube.com/watch?v=tcG058l2xh4
   event_id: 3
   id: 47
-- title: Custom Events
-  subtitle: handling dragging using jQuery special events
-  author_ids:
-  - 33
-  date: '2013-03-27'
-  url: http://www.meetup.com/Ember-js-Seattle-Meetup/events/94768622/
-  videos:
-  - http://www.youtube.com/watch?v=jTV5mY2kxlU
-  event_id: 3
-  id: 48
 - title: Ember.js
   subtitle: Rise of the Clients
   author_ids:
@@ -2310,6 +2942,16 @@
   slides: http://talks.erikbryn.com/rise-of-the-clients/
   event_id: 3
   id: 45
+- title: Custom Events
+  subtitle: handling dragging using jQuery special events
+  author_ids:
+  - 33
+  date: '2013-03-27'
+  url: http://www.meetup.com/Ember-js-Seattle-Meetup/events/94768622/
+  videos:
+  - http://www.youtube.com/watch?v=jTV5mY2kxlU
+  event_id: 3
+  id: 48
 - title: Ember.js Blitzkrieg
   author_ids:
   - 20
@@ -2319,16 +2961,16 @@
   - http://lecture2go.uni-hamburg.de/veranstaltungen/-/v/14786
   event_id: 7
   id: 60
-- title: Optimizing an API For Ember Data
+- title: Contributing to Ember
   author_ids:
-  - 10
+  - 3
   date: '2013-02-15'
-  url: http://cgcardona.github.com/2013/02/15/notes-from-the-optimizing-your-api-for-ember-data-session/
+  url: http://cgcardona.github.com/2013/02/15/notes-from-the-contributing-to-ember-session/
   videos:
-  - http://www.youtube.com/watch?v=rfQcmLLE3-w
-  slides: https://speakerdeck.com/dgeb/optimizing-an-api-for-ember-data
+  - http://www.youtube.com/watch?v=TvxpqVhHvFY
+  slides: https://addepar.com/ember/PeterWagenet.pdf
   event_id: 1
-  id: 42
+  id: 37
 - title: Ember.js and Client Side Validations
   author_ids:
   - 29
@@ -2386,16 +3028,16 @@
   - http://www.youtube.com/watch?v=ZJI0ZQndDDc
   event_id: 1
   id: 38
-- title: Contributing to Ember
+- title: Optimizing an API For Ember Data
   author_ids:
-  - 3
+  - 10
   date: '2013-02-15'
-  url: http://cgcardona.github.com/2013/02/15/notes-from-the-contributing-to-ember-session/
+  url: http://cgcardona.github.com/2013/02/15/notes-from-the-optimizing-your-api-for-ember-data-session/
   videos:
-  - http://www.youtube.com/watch?v=TvxpqVhHvFY
-  slides: https://addepar.com/ember/PeterWagenet.pdf
+  - http://www.youtube.com/watch?v=rfQcmLLE3-w
+  slides: https://speakerdeck.com/dgeb/optimizing-an-api-for-ember-data
   event_id: 1
-  id: 37
+  id: 42
 - title: Ember
   subtitle: State of the Union
   author_ids:
@@ -2408,16 +3050,6 @@
   slides: https://addepar.com/ember/EmberStateoftheUnion.pdf
   event_id: 1
   id: 34
-- title: Ember In Action
-  author_ids:
-  - 34
-  date: '2013-02-15'
-  url: http://cgcardona.github.com/2013/02/15/notes-from-the-ember-in-action-talk/
-  videos:
-  - http://www.youtube.com/watch?v=NDYW7Z24SJY
-  slides: http://www.justinappears.com/slides/ember-camp/
-  event_id: 1
-  id: 35
 - title: UI Patterns
   author_ids:
   - 7
@@ -2428,6 +3060,16 @@
   slides: https://speakerdeck.com/trek/ui-patterns-and-reuse-or-why-i-hope-we-never-need-an-ember-dot-js-widget-library
   event_id: 1
   id: 36
+- title: Ember In Action
+  author_ids:
+  - 34
+  date: '2013-02-15'
+  url: http://cgcardona.github.com/2013/02/15/notes-from-the-ember-in-action-talk/
+  videos:
+  - http://www.youtube.com/watch?v=NDYW7Z24SJY
+  slides: http://www.justinappears.com/slides/ember-camp/
+  event_id: 1
+  id: 35
 - title: 1 an avec Ember.js
   author_ids:
   - 26
@@ -2520,14 +3162,6 @@
   videos: []
   slides: http://mutewinter.github.com/why_ember/
   id: 24
-- title: Addepar and Ember
-  author_ids:
-  - 13
-  date: '2012-10-30'
-  url: http://www.meetup.com/Ember-SF/events/86450582/
-  videos:
-  - https://addepar.com/ember/
-  id: 21
 - title: Ember Data (@40:58)
   author_ids:
   - 2
@@ -2537,6 +3171,14 @@
   - https://addepar.com/ember/
   slides: https://speakerdeck.com/tomdale/30
   id: 22
+- title: Addepar and Ember
+  author_ids:
+  - 13
+  date: '2012-10-30'
+  url: http://www.meetup.com/Ember-SF/events/86450582/
+  videos:
+  - https://addepar.com/ember/
+  id: 21
 - title: Ember 1.0 App Structure
   subtitle: The Best Router API Yet (@1:04:25)
   author_ids:
@@ -2646,14 +3288,14 @@
   - http://www.youtube.com/watch?v=B8vyxHZc4fo
   slides: https://speakerdeck.com/schmonference/ember-dot-js-in-the-wild
   id: 10
-- title: Ember.js Router & ember-rails Update
+- title: Ember Router / Ember Rails
   author_ids:
   - 1
   date: '2012-06-14'
   url: http://www.meetup.com/EmberJS-NYC/events/64798132/?action=detail&eventId=64798132
   videos:
   - http://www.cloudee.com/go#/c/4fdfec8517ee3d671800001d
-  id: 7
+  id: 9
 - title: Ember.js Views
   author_ids:
   - 9
@@ -2663,14 +3305,14 @@
   - http://www.cloudee.com/go#/c/4fdfec8517ee3d671800001d
   slides: https://speakerdeck.com/u/raycohen/p/ember-views
   id: 8
-- title: Ember Router / Ember Rails
+- title: Ember.js Router & ember-rails Update
   author_ids:
   - 1
   date: '2012-06-14'
   url: http://www.meetup.com/EmberJS-NYC/events/64798132/?action=detail&eventId=64798132
   videos:
   - http://www.cloudee.com/go#/c/4fdfec8517ee3d671800001d
-  id: 9
+  id: 7
 - title: Ember.js
   subtitle: Focus on your app not on boilerplate code
   author_ids:

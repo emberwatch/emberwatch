@@ -657,7 +657,7 @@
   twitter: sugarpirate_
   github: poteto
   site: https://medium.com/@sugarpirate/
-  speakerdeck: https://speakerdeck.com/poteto/boston-ember-dot-js-lazy-loading-videos
+  speakerdeck: poteto
 - id: 166
   name: Mike Stanley
 - id: 167
@@ -683,7 +683,7 @@
   name: Aaron Chambers
   twitter: grandazz
   github: achambers
-  speakerdeck: https://speakerdeck.com/achambers/ember-cli-deploy
+  speakerdeck: achambers
 - id: 172
   name: Mike Hayden
   github: mickyginger
@@ -692,7 +692,7 @@
   name: Thom Langford
   twitter: ThomLangford
   site: http://thomlangford.com
-  slideshare: http://www.slideshare.net/44Con/flushing-away-preconceptions-of-risk
+  slideshare: 44Con
 - id: 174
   name: Thomas Cowell
   twitter: thomcowell
@@ -710,7 +710,7 @@
   name: Despo Pentara
   twitter: despo
   github: despo
-  slideshare: http://www.slideshare.net/despw/codebar-bridging-the-diversity-gap
+  slideshare: despw
 - id: 178
   name: Markus Padourek
   twitter: mpadourek
@@ -729,7 +729,7 @@
   twitter: milestinsley
   github: milestinsley
   site: http://milestinsley.com/
-  speakerdeck: https://speakerdeck.com/milestinsley/why-mongodb-is-great-for-a-small-startup-talking-a-big-problem
+  speakerdeck: milestinsley
 - id: 182
   name: Joan Mira
   twitter: gazpachu
@@ -784,7 +784,7 @@
   twitter: oligriffiths
   github: oligriffiths
   site: http://about.me/oligriffiths
-  slideshare: http://www.slideshare.net/oligriffiths/emberjs-self-defining-apps
+  slideshare: oligriffiths
 - id: 194
   name: Michael Madrid
   github: kagemusha
@@ -849,3 +849,220 @@
   twitter: locks
   github: locks
   site: http://locks.svbtle.com/
+- name: Nicky Thompson
+  twitter: knotnicky 
+  site: http://symphonicknot.com/
+  id: 210
+- name: Miguel Camba
+  twitter: miguelcamba
+  site: http://miguelcamba.com/
+  id: 211
+- name: Robert Knight
+  twitter: robknight_
+  github: robertknight
+  site: http://robertknight.github.io/
+  id: 212
+- name: Nik Wakelin
+  twitter: nikz
+  github: nikz
+  site: http://nikwakelin.com/
+  id: 213
+- name: Peter O’Shaughnessy
+  twitter: poshaughnessy
+  github: poshaughnessy
+  site: http://www.peteroshaughnessy.com/
+  id: 214
+- name: Deepan Aiyasamy
+  twitter: deepanice
+  id: 215
+- name: Vaidas Mykolaitis
+  twitter: codepreneurr
+  site: http://www.codepreneur.io/
+  id: 216
+- name: Chris Game
+  twitter: TheGameOf79
+  id: 217
+- name: Steve Tyler
+  twitter: stevetyler_uk
+  site: http://steve-tyler.co.uk/
+  slideshare: SteveTyler3
+  id: 218
+- name: David Rhys White
+  twitter: davidrhyswhite
+  github: davidrhyswhite
+  site: http://davidrhyswhite.github.io/
+  id: 219
+- name: Andrew Faraday
+  twitter: MarmiteJunction
+  github: AJFaraday
+  site: http://www.andrewfaraday.com/
+  id: 220
+- name: Melinda Seckington
+  twitter: mseckington
+  github: mseckington
+  site: http://missgeeky.com/
+  slideshare: mseckington
+  id: 221
+- name: Sebastian McKenzie
+  twitter: sebmck
+  github: sebmck
+  site: http://sebmck.com/
+  id: 222
+- name: Will Raxworthy
+  twitter: willrax
+  github: willrax
+  site: http://blog.willrax.com/
+  speakerdeck: willrax
+  id: 223
+- name: Nikos Katsikanis
+  twitter: nikosMaths
+  id: 224
+- name: Michael Nutt
+  twitter: michaeln3
+  github: mnutt
+  site: http://nuttnet.net/
+  id: 225
+- name: Jonathan Dayton
+  twitter: goDownhillFast
+  github: jondayton
+  site: http://jonathandayton.com/
+  id: 226
+- name: David Kerr
+  twitter: Dave_Kerr_
+  github: davek09
+  site: http://www.davekerr.co/
+  slideshare: DavidKerr8
+  id: 227
+- name: Philip Poots
+  twitter: pootsbook
+  github: pootsbook
+  site: http://crossingtheruby.com/
+  slideshare: pootsbook
+  id: 228
+- name: Max Minkoff
+  twitter: mminkoff
+  github: mminkoff
+  id: 229
+- name: Danielle Adams
+  twitter: adamzdanielle
+  id: 230
+- name: Hassan Abdel-Rahman
+  twitter: habdelra
+  github: habdelra
+  id: 231
+- name: Ray Tiley
+  twitter: raytiley
+  github: raytiley
+  site: http://raytiley.com/
+  id: 232
+- name: Justin McNally
+  twitter: j_mcnally
+  github: j-mcnally
+  site: http://www.kohactive.com/
+  id: 233
+- name: Tony Coconate
+  twitter: tonycoco
+  github: tonycoco
+  site: http://www.tonycoconate.com/
+  speakerdeck: tonycoco
+  id: 234
+- name: Mike Monroe
+  id: 235
+- name: Raymond Cox
+  twitter: RaymondCox
+  github: raymondjcox
+  site: https://raymondjcox.com/
+  id: 236
+- name: Elad Shahar
+  twitter: Elad
+  github: SaladFork
+  site: https://blog.eladshahar.com/
+  id: 237
+- name: Pat O’Callaghan
+  twitter: patocallaghan
+  github: patocallaghan
+  site: http://littleglitch.io/
+  speakerdeck: patocallaghan
+  id: 238
+- name: Paddy O’Brien
+  github: paddyobrien
+  speakerdeck: paddyobrien
+  id: 239
+- name: Chris Tse
+  twitter: christse
+  github: christse
+  site: http://cardstack.io/
+  speakerdeck: christse
+  id: 240
+- name: Mike North
+  twitter: michaellnorth
+  github: mike-north
+  speakerdeck: truenorth
+  slideshare: mikelnorth
+  id: 241
+- name: Jay Phelps
+  twitter: _jayphelps
+  github: jayphelps
+  site: http://jayphelps.com/
+  speakerdeck: jayphelps
+  slideshare: jayphelps
+  id: 242
+- name: Estelle DeBlois
+  twitter: edeblois
+  github: brzpegasus
+  site: https://dockyard.com/
+  speakerdeck: brzpegasus
+  id: 243
+- name: John Kleinschmidt
+  twitter: jkleinsc
+  github: jkleinsc
+  site: http://resplendentdev.com/
+  id: 244
+- name: Nathan Hammond
+  twitter: nathanhammond
+  github: nathanhammond
+  site: http://www.nathanhammond.com/
+  slideshare: NathanHammond4
+  id: 245
+- name: Steve Trevathan
+  twitter: strevat
+  site: https://dockyard.com/
+  speakerdeck: kidfribble
+  id: 246
+- name: Godfrey Chan
+  twitter: chancancode
+  github: chancancode
+  site: https://about.me/godfreychan
+  speakerdeck: chancancode
+  slideshare: godfreykfc
+  id: 247
+- name: Chris Henn
+  twitter: cwhnn
+  github: chnn
+  site: http://chrishenn.net/writing/
+  speakerdeck: chnn
+  id: 248
+- name: Bryan Langslet
+  twitter: blangslet
+  github: blangslet
+  site: http://blangslet.com/
+  speakerdeck: blangslet
+  id: 249
+- name: Brittany Storoz
+  twitter: brittanystoroz
+  github: brittanystoroz
+  id: 250
+- name: Steve Kinney
+  twitter: stevekinney
+  github: stevekinney
+  site: http://www.stevekinney.net/
+  speakerdeck: stevekinney
+  slideshare: stevekinney
+  id: 251
+- name: Chris Eppstein
+  twitter: chriseppstein
+  github: chriseppstein
+  site: http://chriseppstein.github.io/
+  slideshare: chriseppstein
+  id: 252
+
