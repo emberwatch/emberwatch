@@ -30,3 +30,8 @@
   site: http://basho.com/
   employee_ids:
   - 15
+- id: 6
+  name: CheckMate
+  site: http://www.checkmate.io/
+  employee_ids:
+  - 253

@@ -1,4 +1,12 @@
 ---
+- title: 'Upgrading Ember: The Way It Was Intended (Part I)'
+  author_ids:
+  - 253
+  date: '2015-09-07'
+  date_created: '2015-09-07'
+  date_updated: '2015-09-07'
+  urls:
+  - http://jhawk.co/upgrading-ember-i
 - title: 'How to Do a Select (Dropdown) in Ember 2.0?'
   author_ids:
   - 94
