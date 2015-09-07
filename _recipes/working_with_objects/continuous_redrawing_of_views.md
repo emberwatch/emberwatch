@@ -16,7 +16,7 @@ You'd like to redraw your views every few seconds/minutes e.g. to update
 relative timestamps (like on twitter.com).
 
 ### Solution
-Have a clock object with a `pulse` attribute in your application which 
+Have a clock object with a `pulse` attribute in your application which
 increments using a timed interval. You want to let view(s) bind values to be
 refreshed when the `pulse` attribute increments.
 
@@ -39,7 +39,9 @@ with a time of 250 milliseconds as the interval. A property is set at the end
 of the interval. Since the `tick` method observes the incremented property
 another interval is triggered each time the property increases.
 
-```app/services/clock.js
+`app/services/clock.js`
+
+```javascript
 export default Ember.Object.extend({
     pulse: Ember.computed.oneWay('_seconds').readOnly(),
     tick: function () {
@@ -60,7 +62,9 @@ export default Ember.Object.extend({
 In this recipe, an application initializer is used to inject an instance of the
 `ClockService` object, setting a controller's `clock` property to this instance.
 
-```app/initializers/services.js
+`app/initializers/services.js`
+
+```javascript
 export default {
   name: 'services',
   initialize: function(container, app) {
@@ -80,7 +84,9 @@ initialization.
 The controller has (session) data to display `seconds` to visitors, as well as
 a handful of properties used as conditions in the Handlebars template.
 
-```app/controllers/interval.js
+`app/controllers/interval.js`
+
+```javascript
 export default Ember.ObjectController.extend({
     secondsBinding: 'clock.pulse',
     fullSecond: function () {
@@ -103,13 +109,17 @@ instance when added to the list. The comment item controller sets up
 the `seconds` binding, used by the template to show the time since the
 comment was created.
 
-```app/controllers/comment-item.js
+`app/controllers/comment-item.js`
+
+```javascript
 export default Ember.ObjectController.extend({
     seconds: Ember.computed.oneWay('clock.pulse').readOnly()
 });
 ```
 
-```app/controllers/comments.js
+`app/controllers/comments.js`
+
+```javascript
 import ClockService from '../services/clock';
 
 export default Ember.ArrayController.extend({
@@ -133,7 +143,9 @@ The `seconds` value is computed from the `pulse` attribute. And the controller
 has a few properties to select a component to render, `fullSecond`,
 `quarterSecond`, `halfSecond`, `threeQuarterSecond`.
 
-```app/templates/interval.hbs
+`app/templates/interval.hbs`
+
+```handlebars
 {{#if fullSecond}}
   {{nyan-start}}
 {{/if}}
@@ -151,7 +163,10 @@ has a few properties to select a component to render, `fullSecond`,
 ```
 
 A template for a list of comments
-```app/templates/comments.hbs
+
+`app/templates/comments.hbs`
+
+```handlebars
 <form {{action "add" on="submit"}}>
   {{input value=comment}}
   <button>Add Comment</button>
@@ -168,7 +183,9 @@ A template for a list of comments
 This helper is used in the template like so `{{digital-clock seconds}}`,
 `seconds` is the property of the controller that will be displayed (h:m:s).
 
-```app/helpers/digital-clock.js
+`app/helpers/digital-clock.js`
+
+```javascript
 export default Ember.Handlebars.makeBoundHelper(function(seconds) {
     var h = Math.floor(seconds / 3600);
     var m = Math.floor((seconds % 3600) / 60);
