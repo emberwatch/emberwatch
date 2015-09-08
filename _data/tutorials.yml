@@ -39,6 +39,28 @@
   date_updated: '2015-07-25'
   urls:
   - http://alexdiliberto.com/posts/ember-closure-actions/
+- title: 'Ember: Moving from Ember sprinkles to Ember CLI. Part 2'
+  author_ids:
+  - 254
+  date: '2015-06-24'
+  date_created: '2015-04-24'
+  versions:
+    ember:
+      start: 1.13.0
+      end: 
+  urls:
+  - http://www.benjaminfleischer.com/ember-cli-components/
+- title: 'Ember: Sprinkling in Components. Part 1'
+  author_ids:
+  - 254
+  date: '2015-06-11'
+  date_created: '2015-06-11'
+  versions:
+    ember:
+      start: 1.13.2
+      end:
+  urls:
+  - http://www.benjaminfleischer.com/ember-sprinkling-in-components/
 - title: 'Previewing Ember 2.0 on Canary'
   author_ids:
   - 57
