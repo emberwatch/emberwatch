@@ -14,19 +14,20 @@ To begin with, visit our GitHub repository at [EmberWatch Github Repo](https://g
 ## Ways to contribute
 
 ### Suggesting content
-  - If you don't think creating a `Pull Request (PR)` is workable now, you can share some links to resources that you think would benefit the Ember.js community by creating issues.
+
+If you don't think creating a `Pull Request (PR)` is workable now, you can share some links to resources that you think would benefit the Ember.js community by creating an [issue](https://github.com/emberwatch/emberwatch/issues/new).
 
 ### Raising issues
 
-Feedback is a valuable thing for helping us know some aspects of the site that is not working as expected.
+Feedback is a valuable thing that helps us know aspects of the site that is not working as expected.
 
 ### Addressing issues
 
-If you find issues that you want to address yourself, you can go ahead and create a `Pull Request (PR)` and submit them so can we work on having it address the issue.
+If you find issues that you feel you can address yourself, we would be glad to submit a `Pull Request (PR)` from you so we can work on addressing the issue.
 
 ### Creating PRs directly
 
-Though creating an issue first would give us an opportunity to talk about the issue and have a means to validate that our solution in our PR would smoothly integrate into our site, It is not a requirement. You can create and submit PRs right away.
+Creating an issue would give us an opportunity to talk about it. We will have a means to validate that our solution in your PR would smoothly integrate into our site. Creating an issue initially is not a requirement though. You can create and submit PRs right away.
 
 [EmberWatch Github Repo](https://github.com/emberwatch/emberwatch) contains emberwatch.com as a [Jekyll](http://jekyllrb.com) site.
 
