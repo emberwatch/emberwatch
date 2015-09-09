@@ -1653,14 +1653,6 @@
   - http://research.microsoft.com/apps/video/default.aspx?id=211742
   url: http://research.microsoft.com/apps/video/default.aspx?id=211742
   id: 164
-- title: Single Page Apps with Ember.js
-  date: '2014-03-28'
-  author_ids:
-  - 119
-  videos:
-  - http://research.microsoft.com/apps/video/default.aspx?id=211742
-  url: http://research.microsoft.com/apps/video/default.aspx?id=211742
-  id:
 - title: Sorting with Array Controllers
   date: '2014-03-27'
   event_id: 2
