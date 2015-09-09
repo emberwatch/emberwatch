@@ -59,7 +59,7 @@
   author_ids:
   - 238
   videos:
-  -
+  - https://www.youtube.com/watch?v=y-vrwnttzcU
   url: http://www.meetup.com/emberjsdublin/events/223806906/
   event_id: 22
 - title: Taming Content Editable with Ember
@@ -67,7 +67,7 @@
   author_ids:
   - 239
   videos:
-  -
+  - https://www.youtube.com/watch?v=di98W3eW5GY
   url: http://www.meetup.com/emberjsdublin/events/223806906/
   event_id: 22
 - title: Custom Computed Property Macros
@@ -75,7 +75,7 @@
   author_ids:
   - 72
   videos:
-  -
+  - https://www.youtube.com/watch?v=lUEHhUb5sc0
   url: http://www.meetup.com/emberjsdublin/events/223806906/
   event_id: 22
 - title: Building a Side Cart with Spree Ember 
