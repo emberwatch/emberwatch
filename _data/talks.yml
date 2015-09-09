@@ -358,6 +358,7 @@
   - 234
   videos:
   -
+  slides: https://speakerdeck.com/tonycoco/ember-cli-and-super-easy-heroku-deployments
   url: http://www.meetup.com/Chicago-Ember-js/events/221397703/
   event_id: 10
 - title: Ember Waypoints library
