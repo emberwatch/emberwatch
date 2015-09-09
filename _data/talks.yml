@@ -246,6 +246,12 @@
   - https://www.youtube.com/watch?v=sZs-VXWIDh0
   url: http://www.meetup.com/EmberJS-NYC/events/222013516/
   event_id: 2
+- title: 'Ember Data Adapters & Serializers'
+  date: '2015-05-20'
+  author_ids:
+  - 255
+  videos:
+  - https://www.youtube.com/watch?v=kX8MJbGbvCc
 - title: Fiddling with Ember CLI, Ember Twiddle 
   date: '2015-05-19'
   author_ids:
