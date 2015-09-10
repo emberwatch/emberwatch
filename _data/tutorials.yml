@@ -63,6 +63,14 @@
   date_updated: '2015-07-25'
   urls:
   - http://alexdiliberto.com/posts/ember-closure-actions/
+- title: 'Declarative Breadcrumb Navigation in Ember.js'
+  author_ids:
+  - 165
+  date: '2015-06-01'
+  date_created: '2015-06-01'
+  date_updated: '2015-06-01'
+  urls:
+  - https://medium.com/delightful-ui-for-ember-apps/declarative-breadcrumb-navigation-in-ember-js-5908a92a5de3
 - title: 'Ember: Moving from Ember sprinkles to Ember CLI. Part 2'
   author_ids:
   - 254
