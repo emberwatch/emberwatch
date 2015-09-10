@@ -1,4 +1,12 @@
 ---
+- title: 'Ember Library #1: Addons, News & Podcasts, Oh My!'
+  author_ids:
+  - 253
+  date: '2015-09-10'
+  date_created: '2015-09-10'
+  date_updated: '2015-09-10'
+  urls:
+  - http://jhawk.co/ember-library-i
 - title: 'Upgrading Ember: The Road To 2.0 (Part III)'
   author_ids:
   - 253
