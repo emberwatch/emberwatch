@@ -47,6 +47,14 @@
   date_updated: '2015-08-13'
   urls:
   - http://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
+- title: 'Applying the Adapter Pattern for Analytics in Ember.js Apps'
+  author_ids:
+  - 165
+  date: '2015-08-07'
+  date_created: '2015-08-07'
+  date_updated: '2015-08-07'
+  urls:
+  - https://medium.com/the-ember-way/applying-the-adapter-pattern-for-analytics-in-ember-js-apps-29448cbcedf3
 - title: 'Spotlight: Ember Closure Actions'
   author_ids:
   - 208
