@@ -31,6 +31,14 @@
   date_updated: '2015-09-07'
   urls:
   - http://jhawk.co/upgrading-ember-i
+- title: 'Ember closure actions have return values'
+  author_ids:
+  - 257
+  date: '2015-09-07'
+  date_created: '2015-09-07'
+  date_updated: '2015-09-07'
+  urls:
+  - http://alisdair.mcdiarmid.org/ember-closure-actions-have-return-values/
 - title: 'Easy user login with ember-simple-auth'
   author_ids:
   - 258
