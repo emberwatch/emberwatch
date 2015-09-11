@@ -1085,6 +1085,11 @@
   twitter: mwpmaybe
   site: http://perlkour.pl/
   id: 256
+- name: Alisdair McDiarmid
+  twitter: alisdair
+  github: alisdair
+  site: http://alisdair.mcdiarmid.org/
+  id: 257
 - name: Ben Holmes
   twitter: bdvholmes
   github: bdvholmes
