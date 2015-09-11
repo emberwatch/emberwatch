@@ -7,6 +7,14 @@
   date_updated: '2015-09-10'
   urls:
   - http://jhawk.co/ember-library-i
+- title: 'Easy login sessions with Ember.js and Torii'
+  author_ids:
+  - 256
+  date: '2015-09-09'
+  date_created: '2015-09-09'
+  date_updated: '2015-09-09'
+  urls:
+  - http://perlkour.pl/2015/09/easy-login-sessions-with-ember-js-and-torii/
 - title: 'Upgrading Ember: The Road To 2.0 (Part III)'
   author_ids:
   - 253
