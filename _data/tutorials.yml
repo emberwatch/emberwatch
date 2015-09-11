@@ -103,6 +103,14 @@
   date_updated: '2015-07-23'
   urls:
   - http://emberup.co/upgrading-brocfile-js-dont-you-mean-ember-cli-build-js/
+- title: 'Ember component integration tests'
+  author_ids:
+  - 257
+  date: '2015-06-20'
+  date_created: '2015-06-20'
+  date_updated: '2015-06-20'
+  urls:
+  - http://alisdair.mcdiarmid.org/ember-component-integration-tests/
 - title: 'Declarative Breadcrumb Navigation in Ember.js'
   author_ids:
   - 165
