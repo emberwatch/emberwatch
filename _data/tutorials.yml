@@ -31,6 +31,14 @@
   date_updated: '2015-09-07'
   urls:
   - http://jhawk.co/upgrading-ember-i
+- title: 'Easy user login with ember-simple-auth'
+  author_ids:
+  - 258
+  date: '2015-09-05'
+  date_created: '2015-09-05'
+  date_updated: '2015-09-05'
+  urls:
+  - http://emberup.co/easy-ember-js-logins-with-ember-simple-auth/
 - title: 'How to Do a Select (Dropdown) in Ember 2.0?'
   author_ids:
   - 94
