@@ -2,12 +2,16 @@
 title: Tutorials
 layout: default
 ---
+
 <ul>
-  {% for tutorial in site.data.tutorials %}
+  {% assign tutorials_by_date = site.data.tutorials | group_by_month:"date" %}
+  {% for group in tutorials_by_date %}
+  <h2>{{ group.name }}</h2>
+    {% for tutorial in group.items %}
     <li>
       <h5>
         <a href="{{ tutorial.urls | first }}">
-          {{tutorial.title}}
+          {{ tutorial.title }}
         </a>
       </h5>
       <div class="metadata">
@@ -31,5 +35,6 @@ layout: default
         {% endif %}
       </div>
     </li>
+    {% endfor %}
   {% endfor %}
 </ul>
