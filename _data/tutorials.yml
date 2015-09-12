@@ -127,6 +127,14 @@
   date_updated: '2015-08-13'
   urls:
   - http://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
+- title: 'Performant Array Computed Properties'
+  author_ids:
+  - 237
+  date: '2015-08-10'
+  date_created: '2015-08-10'
+  date_updated: '2015-08-10'
+  urls:
+  - https://blog.eladshahar.com/performant-array-computed-properties.html
 - title: 'Applying the Adapter Pattern for Analytics in Ember.js Apps'
   author_ids:
   - 165
