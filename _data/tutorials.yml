@@ -175,6 +175,14 @@
   date_updated: '2015-06-20'
   urls:
   - http://alisdair.mcdiarmid.org/ember-component-integration-tests/
+- title: 'Emberjs - Computed Properties and Promises…..don’t'
+  author_ids:
+  - 259
+  date: '2015-06-10'
+  date_created: '2015-06-10'
+  date_updated: '2015-06-10'
+  urls:
+  - http://www.thesoftwaresimpleton.com/blog/2015/06/10/cps-promise/
 - title: 'Declarative Breadcrumb Navigation in Ember.js'
   author_ids:
   - 165
