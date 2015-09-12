@@ -63,6 +63,14 @@
   date_updated: '2015-09-05'
   urls:
   - http://emberup.co/easy-ember-js-logins-with-ember-simple-auth/
+- title: 'Emberjs - Detail View Without Switching Routes'
+  author_ids:
+  - 259
+  date: '2015-09-02'
+  date_created: '2015-09-02'
+  date_updated: '2015-09-02'
+  urls:
+  - http://www.thesoftwaresimpleton.com/blog/2015/09/02/list-detail/
 - title: 'How to Do a Select (Dropdown) in Ember 2.0?'
   author_ids:
   - 94
