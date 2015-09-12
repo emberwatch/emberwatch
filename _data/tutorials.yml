@@ -79,6 +79,14 @@
   date_updated: '2015-08-29'
   urls:
   - http://emberigniter.com/5-essential-ember-2.0-concepts/
+- title: 'Building Team Time Zone, part 1: Inception, Prototype, and Planning'
+  author_ids:
+  - 257
+  date: '2015-08-14'
+  date_created: '2015-08-14'
+  date_updated: '2015-08-14'
+  urls:
+  - http://alisdair.mcdiarmid.org/building-team-time-zone-inception-prototype-and-planning/
 - title: 'Building a modern bridge between Ember 2.0 and Rails 5 with JSON API'
   author_ids:
   - 207
