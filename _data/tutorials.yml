@@ -79,6 +79,14 @@
   date_updated: '2015-08-29'
   urls:
   - http://emberigniter.com/5-essential-ember-2.0-concepts/
+- title: 'Building Team Time Zone, part 5: Deployment, Release, Retrospective'
+  author_ids:
+  - 257
+  date: '2015-08-24'
+  date_created: '2015-08-24'
+  date_updated: '2015-08-24'
+  urls:
+  - http://alisdair.mcdiarmid.org/building-team-time-zone-deployment-release-retrospective/
 - title: 'Building Team Time Zone, part 4: Authenticating with Slack'
   author_ids:
   - 257
