@@ -1,4 +1,12 @@
 ---
+- title: 'Fit Any Backend Into Ember with Custom Adapters & Serializers'
+  author_ids:
+  - 207
+  date: '2015-09-11'
+  date_created: '2015-09-11'
+  date_updated: '2015-09-11'
+  urls:
+  - http://emberigniter.com/fit-any-backend-into-ember-custom-adapters-serializers/
 - title: 'Ember Library #2: The Reference Section'
   author_ids:
   - 253
