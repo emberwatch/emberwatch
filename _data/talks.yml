@@ -1,4 +1,25 @@
 ---
+- title: ember-cli-deploy - One Command to Deploy Them All
+  date: '2015-09-10'
+  author_ids:
+  - 171
+  videos:
+  - https://vimeo.com/139125310
+  event_id: 13
+- title: The story of Ember Twiddle
+  date: '2015-09-10'
+  author_ids:
+  - 82
+  videos:
+  - https://vimeo.com/139125309
+  event_id: 13
+- title: ember-grid
+  date: '2015-09-10'
+  author_ids:
+  - 168
+  videos:
+  - https://vimeo.com/139126170
+  event_id: 13
 - title: Ember.js, and why the framework helps you unlocking unprecedented productivity
   date: '2015-09-06'
   author_ids:
