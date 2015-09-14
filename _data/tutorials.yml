@@ -95,6 +95,14 @@
   date_updated: '2015-09-02'
   urls:
   - http://www.thesoftwaresimpleton.com/blog/2015/09/02/list-detail/
+- title: 'Server-Side Validation in Your Ember Application'
+  author_ids:
+  - 260
+  date: '2015-08-30'
+  date_created: '2015-08-30'
+  date_updated: '2015-08-30'
+  urls:
+  - https://www.bignerdranch.com/blog/server-side-validation-in-your-ember-application/
 - title: 'How to Do a Select (Dropdown) in Ember 2.0?'
   author_ids:
   - 94
