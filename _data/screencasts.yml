@@ -14,6 +14,12 @@
   - http://www.emberscreencasts.com/posts/71-upgrade-ember-with-ember-cli-deprecation-workflow
   series: EmberScreencasts
   price: $9/month
+- title: 'How-To create an Ember.js application in nitrous.io'
+  author_ids:
+  - 261
+  date: '2015-09-03'
+  videos:
+  - https://www.youtube.com/watch?v=_o8r5zIDekE
 - title: 70 - ember-hold-button
   author_ids:
   - 58
