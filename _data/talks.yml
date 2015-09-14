@@ -1,4 +1,28 @@
 ---
+- title: 'Exploring Ember with a Breakable Toy'
+  date: '2015-09-10'
+  author_ids:
+  - 263
+  videos:
+  - https://www.youtube.com/watch?v=JoRTYJjbf-I&t=5146
+  url: http://www.meetup.com/Boston-Ember-js/events/223484847/ 
+  event_id: 9
+- title: 'The Next Performance Frontier'
+  date: '2015-09-10'
+  author_ids:
+  - 124
+  videos:
+  - https://www.youtube.com/watch?v=JoRTYJjbf-I&t=4165
+  url: http://www.meetup.com/Boston-Ember-js/events/223484847/ 
+  event_id: 9
+- title: 'Practical Performance: How I Spent My Summer'
+  date: '2015-09-10'
+  author_ids:
+  - 232
+  videos:
+  - https://www.youtube.com/watch?v=JoRTYJjbf-I&t=152
+  url: http://www.meetup.com/Boston-Ember-js/events/223484847/ 
+  event_id: 9
 - title: ember-cli-deploy - One Command to Deploy Them All
   date: '2015-09-10'
   author_ids:
