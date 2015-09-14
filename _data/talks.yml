@@ -27,8 +27,24 @@
   videos:
   - https://www.youtube.com/watch?v=DIOrWkuCq6k
   event_id: 25
+- title: 'Observing Ember Addons'
+  date: '2015-08-13'
+  author_ids:
+  - 60
+  videos:
+  - https://www.youtube.com/watch?v=2tPgA9RMza0&t=3803
+  url: http://www.meetup.com/Boston-Ember-js/events/223929990/
+  event_id: 9
+- title: 'Refactoring & Upgrading with Ember.js'
+  date: '2015-08-13'
+  author_ids:
+  - 262
+  videos:
+  - 'https://www.youtube.com/watch?v=2tpga9rmza0&t=1440'
+  url: http://www.meetup.com/Boston-Ember-js/events/223929990/
+  event_id: 9
 - title: ember-metrics
-  date: '2015-08-12'
+  date: '2015-08-13'
   author_ids:
   - 165
   videos:
@@ -36,7 +52,7 @@
   url: http://www.meetup.com/Boston-Ember-js/events/223929990/
   event_id: 9
 - title: Ember 2.0 update
-  date: '2015-08-12'
+  date: '2015-08-13'
   author_ids:
   - 123
   videos:
