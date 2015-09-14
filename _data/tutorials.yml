@@ -1,4 +1,12 @@
 ---
+- title: 'Use helpers to remove two-way bindings'
+  author_ids:
+  - 258
+  date: '2015-09-11'
+  date_created: '2015-09-11'
+  date_updated: '2015-09-11'
+  urls:
+  - http://emberup.co/bindings-with-htmlbars-helpers/
 - title: 'Fit Any Backend Into Ember with Custom Adapters & Serializers'
   author_ids:
   - 207
