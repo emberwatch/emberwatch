@@ -15,6 +15,14 @@
   date_updated: '2015-09-11'
   urls:
   - http://jhawk.co/ember-library-ii
+- title: 'Complex Component Design in Ember.js - Intro'
+  author_ids:
+  - 94
+  date: '2015-09-10'
+  date_created: '2015-09-10'
+  date_updated: '2015-09-10'
+  urls:
+  - http://balinterdi.com/2015/09/10/complex-component-design-in-ember-intro.html
 - title: 'Ember Library #1: Addons, News & Podcasts, Oh My!'
   author_ids:
   - 253
