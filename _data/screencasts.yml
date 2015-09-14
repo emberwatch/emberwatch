@@ -1,4 +1,10 @@
 ---
+- title: 'Setup Bootstrap with Ember.js'
+  author_ids:
+  - 261
+  date: '2015-09-09'
+  videos:
+  - https://www.youtube.com/watch?v=DjgmQqKS1TU
 - title: 71 - Upgrade Ember with ember-cli-deprecation-workflow
   author_ids:
   - 58
