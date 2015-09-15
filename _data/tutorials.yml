@@ -445,3 +445,10 @@
   - http://www.cerebris.com/blog/2012/01/26/beginning-ember-js-on-rails-part-2/
   - http://www.cerebris.com/blog/2012/01/31/beginning-ember-js-on-rails-part-3/
   code: https://github.com/dgeb/ember_rest_example
+- title: Ember Run Loop Tutorial by @netguru and @jniechcial
+  author_ids:
+  - 265
+  date: '2015-09-15'
+  urls:
+  - http://on.netguru.co/ember-ebook-form
+
