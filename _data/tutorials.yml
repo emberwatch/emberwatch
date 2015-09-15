@@ -159,6 +159,14 @@
   date_updated: '2015-08-14'
   urls:
   - http://alisdair.mcdiarmid.org/building-team-time-zone-inception-prototype-and-planning/
+- title: 'A Beginner’s Guide to the Ember Run Loop'
+  author_ids:
+  - 264
+  date: '2015-08-14'
+  date_created: '2015-08-14'
+  date_updated: '2015-08-14'
+  urls:
+  - https://teamgaslight.com/blog/a-beginners-guide-to-the-ember-run-loop
 - title: 'Building a modern bridge between Ember 2.0 and Rails 5 with JSON API'
   author_ids:
   - 207
