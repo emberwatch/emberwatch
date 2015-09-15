@@ -292,6 +292,12 @@
     data:
       start:
       end:
+- title: Using Recursive Components in Ember.js
+  author_ids:
+  - 267
+  date: '2015-04-13'
+  urls:
+  - https://robots.thoughtbot.com/using-recursive-components-in-emberjs
 - title: 'Getting Started with Ember.js using Ember-CLI'
   author_ids:
   - 147
@@ -389,7 +395,6 @@
   urls:
   - http://tech.pro/tutorial/1166/getting-started-with-emberjs
   code: https://github.com/jessecravens/techpro-emberjs
-
 - title: Getting Into Ember.js
   author_ids:
   - 36
