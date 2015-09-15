@@ -207,6 +207,14 @@
   date_updated: '2015-07-23'
   urls:
   - http://emberup.co/upgrading-brocfile-js-dont-you-mean-ember-cli-build-js/
+- title: 'Destructuring Parameters in Ember.Helpers'
+  author_ids:
+  - 266
+  date: '2015-07-20'
+  date_created: '2015-07-20'
+  date_updated: '2015-07-20'
+  urls:
+  - https://robots.thoughtbot.com/destructuring-parameters-in-ember-helpers
 - title: 'Ember component integration tests'
   author_ids:
   - 257
@@ -451,4 +459,3 @@
   date: '2015-09-15'
   urls:
   - http://on.netguru.co/ember-ebook-form
-
