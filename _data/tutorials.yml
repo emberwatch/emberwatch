@@ -143,6 +143,14 @@
   date_updated: '2015-08-24'
   urls:
   - http://alisdair.mcdiarmid.org/building-team-time-zone-deployment-release-retrospective/
+- title: 'Getting Started With Ember.js 2.0 Using Ember CLI'
+  author_ids:
+  - 269
+  date: '2015-08-21'
+  date_created: '2015-08-21'
+  date_updated: '2015-08-21'
+  urls:
+  - https://www.twilio.com/blog/2015/08/getting-started-with-ember-js-2-0-using-ember-cli.html
 - title: 'Building Team Time Zone, part 4: Authenticating with Slack'
   author_ids:
   - 257
