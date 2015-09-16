@@ -87,6 +87,14 @@
   date_updated: '2015-09-05'
   urls:
   - http://emberup.co/easy-ember-js-logins-with-ember-simple-auth/
+- title: 'Using Ember Data With Firebase'
+  author_ids:
+  - 269
+  date: '2015-09-02'
+  date_created: '2015-09-02'
+  date_updated: '2015-09-02'
+  urls:
+  - https://www.twilio.com/blog/2015/09/using-ember-data-with-firebase.html
 - title: 'Emberjs - Detail View Without Switching Routes'
   author_ids:
   - 259
