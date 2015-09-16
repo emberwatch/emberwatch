@@ -59,6 +59,15 @@
   - https://www.youtube.com/watch?v=Nbcnnjf89M4
   url: http://www.meetup.com/Ember-SF/events/223448055/
   event_id: 6
+- title: 'Angle Bracket Components Sneak Peak'
+  date: '2015-08-27'
+  author_ids:
+  - 1
+  - 247
+  videos:
+  - https://www.youtube.com/watch?v=LsUSurw6sg4
+  url: http://www.meetup.com/Ember-SF/events/223448055/
+  event_id: 6
 - title: 'Observing Ember Addons'
   date: '2015-08-13'
   author_ids:
