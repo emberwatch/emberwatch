@@ -111,6 +111,14 @@
   date_updated: '2015-08-29'
   urls:
   - http://balinterdi.com/2015/08/29/how-to-do-a-select-dropdown-in-ember-20.html
+- title: 'How an Ember JS Bin works and how to create your own'
+  author_ids:
+  - 119
+  date: '2015-08-30'
+  date_created: '2015-08-30'
+  date_updated: '2015-08-30'
+  urls:
+  - https://medium.com/@bantic/how-an-ember-js-bin-works-and-how-to-create-your-own-930ad962887d
 - title: '5 Essential Ember 2.0 Concepts You Must Understand'
   author_ids:
   - 207
