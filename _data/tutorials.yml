@@ -119,6 +119,14 @@
   date_updated: '2015-08-29'
   urls:
   - http://emberigniter.com/5-essential-ember-2.0-concepts/
+- title: '10 Steps for Ramping into Ember.js Quickly'
+  author_ids:
+  - 268
+  date: '2015-08-24'
+  date_created: '2015-08-24'
+  date_updated: '2015-08-24'
+  urls:
+  - http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/
 - title: 'Building Team Time Zone, part 5: Deployment, Release, Retrospective'
   author_ids:
   - 257
