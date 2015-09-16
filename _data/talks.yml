@@ -76,6 +76,14 @@
   - https://www.youtube.com/watch?v=9lXQ024NoRc
   url: http://www.meetup.com/Ember-SF/events/223448055/
   event_id: 6
+- title: 'Designing Mental Models for Ember'
+  date: '2015-08-27'
+  author_ids:
+  - 155
+  videos:
+  - https://www.youtube.com/watch?v=1E2E7qEkyeA
+  url: http://www.meetup.com/Ember-SF/events/223448055/
+  event_id: 6
 - title: 'Observing Ember Addons'
   date: '2015-08-13'
   author_ids:
