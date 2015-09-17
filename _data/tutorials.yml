@@ -363,6 +363,12 @@
   date: '2014-06-12'
   urls:
   - http://ember.vicramon.com/
+- title: Don't override init
+  author_ids:
+  - 29
+  date: '2014-04-28'
+  urls:
+  - https://dockyard.com/blog/2014/04/28/dont-override-init
 - title: 'Ember Components: A Deep Dive'
   author_ids:
   - 107
