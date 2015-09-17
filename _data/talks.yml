@@ -1,4 +1,22 @@
 ---
+- title: 'Securing your Ember Application (Part 2)'
+  date: '2015-09-14'
+  author_ids:
+  - 270
+  videos:
+  - https://vimeo.com/139197840
+  slides: https://distrinet.cs.kuleuven.be/events/websecurity/files/20150902_DeRyck_EmberJSMeetup.pdf
+  url: http://www.meetup.com/Ember-js-Belgium/events/224581553/
+  event_id: 26
+- title: 'Securing your Ember Application (Part 1)'
+  date: '2015-09-14'
+  author_ids:
+  - 270
+  videos:
+  - https://vimeo.com/139188362
+  slides: https://distrinet.cs.kuleuven.be/events/websecurity/files/20150902_DeRyck_EmberJSMeetup.pdf
+  url: http://www.meetup.com/Ember-js-Belgium/events/224581553/
+  event_id: 26
 - title: 'Exploring Ember with a Breakable Toy'
   date: '2015-09-10'
   author_ids:
