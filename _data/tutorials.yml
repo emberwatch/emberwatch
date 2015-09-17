@@ -338,6 +338,12 @@
   date: '2015-04-13'
   urls:
   - https://robots.thoughtbot.com/using-recursive-components-in-emberjs
+- title: Ember QUnit 0.2.x
+  author_ids:
+  - 123
+  date: '2015-02-06'
+  urls:
+  - https://dockyard.com/blog/2015/02/06/ember-qunit-0-2
 - title: 'Getting Started with Ember.js using Ember-CLI'
   author_ids:
   - 147
