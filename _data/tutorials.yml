@@ -271,6 +271,14 @@
   date_updated: '2015-07-20'
   urls:
   - https://robots.thoughtbot.com/destructuring-parameters-in-ember-helpers
+- title: 'Quick Tip: How To Pass Information From Your Template To Your Route in Ember.js'
+  author_ids:
+  - 271
+  date: '2015-07-03'
+  date_created: '2015-07-03'
+  date_updated: '2015-07-03'
+  urls:
+  - http://www.programwitherik.com/quick-tip-how-to-pass-information-from-your-template-to-your-route-in-ember-js/
 - title: 'Ember component integration tests'
   author_ids:
   - 257
