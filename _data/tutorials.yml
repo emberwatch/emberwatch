@@ -223,6 +223,14 @@
   date_updated: '2015-08-10'
   urls:
   - https://blog.eladshahar.com/performant-array-computed-properties.html
+- title: 'Polymorphic URLs in Ember'
+  author_ids:
+  - 29
+  date: '2015-08-08'
+  date_created: '2015-08-08'
+  date_updated: '2015-08-08'
+  urls:
+  - https://dockyard.com/blog/2015/08/08/polymorphic-urls-in-ember
 - title: 'Applying the Adapter Pattern for Analytics in Ember.js Apps'
   author_ids:
   - 165
