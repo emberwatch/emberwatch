@@ -239,6 +239,14 @@
   date_updated: '2015-08-07'
   urls:
   - https://medium.com/the-ember-way/applying-the-adapter-pattern-for-analytics-in-ember-js-apps-29448cbcedf3
+- title: 'Ember Services Tutorial'
+  author_ids:
+  - 271
+  date: '2015-07-27'
+  date_created: '2015-07-27'
+  date_updated: '2015-07-27'
+  urls:
+  - http://www.programwitherik.com/ember-services-tutorial/
 - title: 'Spotlight: Ember Closure Actions'
   author_ids:
   - 208
