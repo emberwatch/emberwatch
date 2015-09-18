@@ -247,6 +247,14 @@
   date_updated: '2015-07-25'
   urls:
   - http://alexdiliberto.com/posts/ember-closure-actions/
+- title: 'Using bare arguments with Ember components'
+  author_ids:
+  - 157
+  date: '2015-07-24'
+  date_created: '2015-07-24'
+  date_updated: '2015-07-24'
+  urls:
+  - https://dockyard.com/blog/2015/07/24/using-bare-arguments-with-ember-components
 - title: 'Upgrading: Brocfile.js? Oh you mean ember-cli-build.js'
   author_ids:
   - 258
