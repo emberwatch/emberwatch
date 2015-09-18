@@ -373,6 +373,12 @@
     data:
       start:
       end:
+- title: 'Ember Macros for DRY and Testable Code'
+  author_ids:
+  - 105
+  date: '2014-06-27'
+  urls:
+  - https://dockyard.com/blog/2014/06/27/ember-macros-for-DRY-and-testable-code
 - title: 'Vic Ramon’s Ember Tutorial'
   author_ids:
   - 112
