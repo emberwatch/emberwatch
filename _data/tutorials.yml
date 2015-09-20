@@ -385,6 +385,12 @@
   date: '2015-04-13'
   urls:
   - https://robots.thoughtbot.com/using-recursive-components-in-emberjs
+- title: Ember Services and Dependency Injection
+  author_ids:
+  - 272
+  date: '2015-03-22'
+  urls:
+  - http://www.hutchinson.io/ember-services-and-dependency-injection/
 - title: Ember QUnit 0.2.x
   author_ids:
   - 123
