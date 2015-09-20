@@ -372,6 +372,13 @@
     data:
       start:
       end:
+- title: Dynamically Loading Ember Components
+  author_ids:
+  - 272
+  date: '2015-04-23'
+  date_created: '2015-04-23'
+  urls:
+  - http://www.hutchinson.io/dynamically-loading-ember-components/
 - title: Using Recursive Components in Ember.js
   author_ids:
   - 267
