@@ -1,4 +1,12 @@
 ---
+- title: Test-Driving Ember.js Models
+  author_ids:
+  - 273
+  date: '2015-09-21'
+  date_created: '2015-09-21'
+  date_updated: '2015-09-21'
+  urls:
+  - https://semaphoreci.com/community/tutorials/test-driving-ember-js-models
 - title: 'Ember Spotlight #1: Ember-Social'
   author_ids:
   - 253
