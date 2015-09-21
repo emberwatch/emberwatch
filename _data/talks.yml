@@ -1,4 +1,28 @@
 ---
+- title: Ember CLI Deploy 0.5.0
+  date: '2015-09-16'
+  author_ids:
+  - 275
+  videos:
+  - https://www.youtube.com/watch?v=d4xwIv_9Cg0
+  url: http://www.meetup.com/Ember-js-Munich/events/223830507/
+  event_id: 18
+- title: Smart Spaces UI
+  date: '2015-09-16'
+  author_ids:
+  - 276
+  videos:
+  - https://www.youtube.com/watch?v=eL-cJCWKoe0
+  url: http://www.meetup.com/Ember-js-Munich/events/223830507/
+  event_id: 18
+- title: Ember Simple Auth 1.0
+  date: '2015-09-16'
+  author_ids:
+  - 146
+  videos:
+  - https://www.youtube.com/watch?v=aeH_9YGgt9E
+  url: http://www.meetup.com/Ember-js-Munich/events/223830507/
+  event_id: 18
 - title: 'Securing your Ember Application (Part 2)'
   date: '2015-09-14'
   author_ids:
