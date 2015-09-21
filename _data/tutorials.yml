@@ -7,6 +7,14 @@
   date_updated: '2015-09-21'
   urls:
   - https://semaphoreci.com/community/tutorials/test-driving-ember-js-models
+- title: How To Use Ember Observers
+  author_ids:
+  - 271
+  date: '2015-09-20'
+  date_created: '2015-09-20'
+  date_updated: '2015-09-20'
+  urls:
+  - http://www.programwitherik.com/how-to-use-ember-ember-observers/
 - title: Two Techniques for Keeping Your Ember.js Project Clean
   author_ids:
   - 274
