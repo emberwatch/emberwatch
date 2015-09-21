@@ -7,6 +7,14 @@
   date_updated: '2015-09-21'
   urls:
   - https://semaphoreci.com/community/tutorials/test-driving-ember-js-models
+- title: Two Techniques for Keeping Your Ember.js Project Clean
+  author_ids:
+  - 274
+  date: '2015-09-17'
+  date_created: '2015-09-17'
+  date_updated: '2015-09-17'
+  urls:
+  - http://spin.atomicobject.com/2015/09/17/ember-js-clean/
 - title: 'Ember Spotlight #1: Ember-Social'
   author_ids:
   - 253
