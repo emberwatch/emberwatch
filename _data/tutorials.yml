@@ -327,6 +327,14 @@
   date_updated: '2015-07-03'
   urls:
   - http://www.programwitherik.com/quick-tip-how-to-pass-information-from-your-template-to-your-route-in-ember-js/
+- title: How to Build a Rails 5 API only and Ember Application
+  author_ids:
+  - 278
+  date: '2015-06-30'
+  date_created: '2015-06-30'
+  date_updated: '2015-06-30'
+  urls:
+  - http://wyeworks.com/blog/2015/6/30/how-to-build-a-rails-5-api-only-and-ember-application
 - title: 'Ember component integration tests'
   author_ids:
   - 257
