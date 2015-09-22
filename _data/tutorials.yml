@@ -247,6 +247,14 @@
   date_updated: '2015-08-13'
   urls:
   - http://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
+- title: Building a UI Around an Ember 2.0 Data App
+  author_ids:
+  - 207
+  date: '2015-08-25'
+  date_created: '2015-08-12'
+  date_updated: '2015-08-25'
+  urls:
+  - http://emberigniter.com/building-user-interface-around-ember-data-app/
 - title: A Beginner's Guide To Ember CLI
   author_ids:
   - 271
