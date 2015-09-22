@@ -5,12 +5,14 @@
   date: '2015-09-09'
   videos:
   - https://www.youtube.com/watch?v=DjgmQqKS1TU
+  url:  https://www.youtube.com/watch?v=DjgmQqKS1TU
 - title: How To Avoid The White Screen of Death In Your Ember Apps
   author_ids:
   - 277
   date: '2015-09-07'
   videos:
   - https://www.youtube.com/watch?v=PaQxzUL-UTQ
+  url: https://www.youtube.com/watch?v=PaQxzUL-UTQ
 - title: 71 - Upgrade Ember with ember-cli-deprecation-workflow
   author_ids:
   - 58
@@ -24,6 +26,7 @@
   author_ids:
   - 261
   date: '2015-09-03'
+  url: https://www.youtube.com/watch?v=_o8r5zIDekE
   videos:
   - https://www.youtube.com/watch?v=_o8r5zIDekE
 - title: 70 - ember-hold-button
