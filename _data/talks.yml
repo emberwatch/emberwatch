@@ -1,4 +1,12 @@
 ---
+- title: Using ES7 decorators in Ember
+  date: '2015-09-22'
+  author_ids:
+  - 279
+  videos:
+  - https://www.youtube.com/watch?v=NVb9sfURUPU
+  url: http://www.meetup.com/Ember-js-Amsterdam/events/224579314/
+  event_id: 17
 - title: Ember CLI Deploy 0.5.0
   date: '2015-09-16'
   author_ids:
