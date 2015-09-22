@@ -231,6 +231,14 @@
   date_updated: '2015-08-14'
   urls:
   - http://alisdair.mcdiarmid.org/building-team-time-zone-inception-prototype-and-planning/
+- title: How to do an "if equals" conditional comparison in Handlebars
+  author_ids:
+  - 207
+  date: '2015-08-14'
+  date_created: '2015-08-14'
+  date_updated: '2015-08-14'
+  urls:
+  - http://emberigniter.com/how-to-equals-conditional-comparison-handlebars/
 - title: 'A Beginner’s Guide to the Ember Run Loop'
   author_ids:
   - 264
