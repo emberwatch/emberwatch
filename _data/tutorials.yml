@@ -327,6 +327,14 @@
   date_updated: '2015-07-03'
   urls:
   - http://www.programwitherik.com/quick-tip-how-to-pass-information-from-your-template-to-your-route-in-ember-js/
+- title: Clearing All Records in the Local Ember Data Store
+  author_ids:
+  - 207
+  date: '2015-06-23'
+  date_created: '2015-06-23'
+  date_updated: '2015-06-23'
+  urls:
+  - http://emberigniter.com/clear-ember-data-store/
 - title: 'Ember component integration tests'
   author_ids:
   - 257
