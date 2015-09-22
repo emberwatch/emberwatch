@@ -279,6 +279,14 @@
   date_updated: '2015-08-07'
   urls:
   - https://medium.com/the-ember-way/applying-the-adapter-pattern-for-analytics-in-ember-js-apps-29448cbcedf3
+- title: How to Transform Just About Any Data Structure with Reduce
+  author_ids:
+  - 207
+  date: '2015-08-03'
+  date_created: '2015-08-03'
+  date_updated: '2015-08-03'
+  urls:
+  - http://emberigniter.com/transform-any-data-structure-with-javascript-reduce/
 - title: 'Ember Services Tutorial'
   author_ids:
   - 271
