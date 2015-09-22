@@ -303,6 +303,14 @@
   date_updated: '2015-07-23'
   urls:
   - http://emberup.co/upgrading-brocfile-js-dont-you-mean-ember-cli-build-js/
+- title: Integration tests for components
+  author_ids:
+  - 258
+  date: '2015-07-22'
+  date_created: '2015-07-22'
+  date_updated: '2015-07-22'
+  urls:
+  - http://emberup.co/integration-tests-for-components/
 - title: 'Destructuring Parameters in Ember.Helpers'
   author_ids:
   - 266
