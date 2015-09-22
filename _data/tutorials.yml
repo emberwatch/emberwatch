@@ -343,6 +343,14 @@
   date_updated: '2015-06-30'
   urls:
   - http://wyeworks.com/blog/2015/6/30/how-to-build-a-rails-5-api-only-and-ember-application
+- title: Clearing All Records in the Local Ember Data Store
+  author_ids:
+  - 207
+  date: '2015-06-23'
+  date_created: '2015-06-23'
+  date_updated: '2015-06-23'
+  urls:
+  - http://emberigniter.com/clear-ember-data-store/
 - title: 'Ember component integration tests'
   author_ids:
   - 257
