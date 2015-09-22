@@ -1,4 +1,12 @@
 ---
+- title: 'Ember Spotlight #2: Ember-World-Flags'
+  author_ids:
+  - 253
+  date: '2015-09-22'
+  date_created: '2015-09-22'
+  date_updated: '2015-09-22'
+  urls:
+  - http://jhawk.co/ember-spotlight-2
 - title: Test-Driving Ember.js Models
   author_ids:
   - 273
