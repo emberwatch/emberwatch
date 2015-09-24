@@ -351,6 +351,14 @@
   date_updated: '2015-06-23'
   urls:
   - http://emberigniter.com/clear-ember-data-store/
+- title: Accessing the Global App Object in an Ember CLI App
+  author_ids:
+  - 207
+  date: '2015-07-02'
+  date_created: '2015-07-02'
+  date_updated: '2015-07-02'
+  urls:
+  - http://emberigniter.com/accessing-global-object-in-ember-cli-app/
 - title: 'Ember component integration tests'
   author_ids:
   - 257
