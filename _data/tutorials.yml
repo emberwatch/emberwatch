@@ -327,6 +327,14 @@
   date_updated: '2015-07-20'
   urls:
   - https://robots.thoughtbot.com/destructuring-parameters-in-ember-helpers
+- title: How to Modify the Content Security Policy on a new Ember CLI app
+  author_ids:
+  - 207
+  date: '2015-07-08'
+  date_created: '2015-07-08'
+  date_updated: '2015-07-08'
+  urls:
+  - http://emberigniter.com/modify-content-security-policy-on-new-ember-cli-app/
 - title: 'Quick Tip: How To Pass Information From Your Template To Your Route in Ember.js'
   author_ids:
   - 271
