@@ -287,6 +287,14 @@
   date_updated: '2015-07-27'
   urls:
   - http://www.programwitherik.com/ember-services-tutorial/
+- title: Parent to Children Component Communication for UI State
+  author_ids:
+  - 207
+  date: '2015-07-27'
+  date_created: '2015-07-27'
+  date_updated: '2015-07-27'
+  urls:
+  - http://emberigniter.com/parent-to-children-component-communication/
 - title: 'Spotlight: Ember Closure Actions'
   author_ids:
   - 208
