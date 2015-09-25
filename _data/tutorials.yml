@@ -287,6 +287,14 @@
   date_updated: '2015-08-03'
   urls:
   - http://emberigniter.com/transform-any-data-structure-with-javascript-reduce/
+- title: Should Components Load Data?
+  author_ids:
+  - 207
+  date: '2015-08-05'
+  date_created: '2015-08-05'
+  date_updated: '2015-08-05'
+  urls:
+  - http://emberigniter.com/should-components-load-data/
 - title: 'Ember Services Tutorial'
   author_ids:
   - 271
