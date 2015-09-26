@@ -544,6 +544,12 @@
   date: '2014-06-27'
   urls:
   - https://dockyard.com/blog/2014/06/27/ember-macros-for-DRY-and-testable-code
+- title: Authentication for Single Page Apps
+  author_ids:
+  - 57
+  date: '2014-06-17'
+  urls:
+  - http://madhatted.com/2014/6/17/authentication-for-single-page-apps
 - title: 'Vic Ramon’s Ember Tutorial'
   author_ids:
   - 112
