@@ -552,6 +552,12 @@
   date: '2014-06-27'
   urls:
   - https://dockyard.com/blog/2014/06/27/ember-macros-for-DRY-and-testable-code
+- title: Building Ember CLI Addons Simply
+  author_ids:
+  - 159
+  date: '2014-06-23'
+  urls:
+  - http://hashrocket.com/blog/posts/building-ember-addons
 - title: Authentication for Single Page Apps
   author_ids:
   - 57
