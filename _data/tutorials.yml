@@ -606,6 +606,12 @@
   - http://www.williamhart.info/an-emberjs-beginners-tutorial.html
   code: https://gist.github.com/will-hart/6550313
   demo: http://dev.williamhart.info/ember_roller/
+- title: Ember Routing - The When and Why of Nesting
+  author_ids:
+  - 281
+  date: '2013-07-29'
+  urls:
+  - http://hashrocket.com/blog/posts/ember-routing-the-when-and-why-of-nesting
 - title: Ember.js Getting Started Guide
   author_ids:
   - 7
