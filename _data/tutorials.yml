@@ -533,6 +533,12 @@
   date: '2015-02-06'
   urls:
   - https://dockyard.com/blog/2015/02/06/ember-qunit-0-2
+- title: A Compendium of Hooks in EmberCLI
+  author_ids:
+  - 159
+  date: '2014-12-22'
+  urls:
+  - http://hashrocket.com/blog/posts/a-compendium-of-hooks-in-embercli
 - title: 'Getting Started with Ember.js using Ember-CLI'
   author_ids:
   - 147
