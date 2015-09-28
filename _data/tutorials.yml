@@ -555,6 +555,12 @@
   date: '2014-12-22'
   urls:
   - http://hashrocket.com/blog/posts/a-compendium-of-hooks-in-embercli
+- title: Javascript components and Ember
+  author_ids:
+  - 82
+  date: '2014-12-09'
+  urls:
+  - http://alexspeller.com/javascript-components-and-ember/
 - title: Server Side Validations with Ember Data and DS.Errors
   author_ids:
   - 82
