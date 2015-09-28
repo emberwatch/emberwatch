@@ -1,4 +1,12 @@
 ---
+- title: Using Ember Simple Auth 1.0 with Devise
+  author_ids:
+  - 282
+  date: '2015-09-28'
+  date_created: '2015-09-28'
+  date_updated: '2015-09-28'
+  urls:
+  - http://romulomachado.github.io/2015/09/28/using-ember-simple-auth-with-devise.html
 - title: Announcing Torii 0.6.0
   author_ids:
   - 57
