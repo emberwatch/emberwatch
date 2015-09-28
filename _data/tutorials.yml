@@ -399,6 +399,14 @@
   date_updated: '2015-07-08'
   urls:
   - http://emberigniter.com/modify-content-security-policy-on-new-ember-cli-app/
+- title: Broccoli - The Build Tool, Not the Vegetable
+  author_ids:
+  - 158
+  date: '2015-07-08'
+  date_created: '2015-07-08'
+  date_updated: '2015-07-08'
+  urls:
+  - http://hashrocket.com/blog/posts/broccoli-the-build-tool-not-the-vegetable
 - title: 'Quick Tip: How To Pass Information From Your Template To Your Route in Ember.js'
   author_ids:
   - 271
