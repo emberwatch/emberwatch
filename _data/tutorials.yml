@@ -471,6 +471,14 @@
   date_updated: '2015-06-10'
   urls:
   - http://www.thesoftwaresimpleton.com/blog/2015/06/10/cps-promise/
+- title: A Clean Pattern for Modal Dialogs
+  author_ids:
+  - 157
+  date: '2015-06-08'
+  date_created: '2015-06-08'
+  date_updated: '2015-06-08'
+  urls:
+  - https://dockyard.com/blog/2015/06/08/a-clean-pattern-for-modal-dialogs
 - title: 'Declarative Breadcrumb Navigation in Ember.js'
   author_ids:
   - 165
