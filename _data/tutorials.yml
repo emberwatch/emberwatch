@@ -1,4 +1,12 @@
 ---
+- title: 'Ember Spotlight #3: Ember-Redirect'
+  author_ids:
+  - 253
+  date: '2015-09-29'
+  date_created: '2015-09-29'
+  date_updated: '2015-09-29'
+  urls:
+  - http://jhawk.co/ember-spotlight-3
 - title: Using Ember Simple Auth 1.0 with Devise
   author_ids:
   - 282
