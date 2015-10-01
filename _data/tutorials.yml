@@ -23,6 +23,14 @@
   date_updated: '2015-09-28'
   urls:
   - http://romulomachado.github.io/2015/09/28/using-ember-simple-auth-with-devise.html
+- title: 'Ember Best Practices: DRYer and less fragile Acceptance Tests'
+  author_ids:
+  - 105
+  date: '2015-09-25'
+  date_created: '2015-09-25'
+  date_updated: '2015-09-25'
+  urls:
+  - https://dockyard.com/blog/2015/09/25/ember-best-practices-acceptance-tests
 - title: Announcing Torii 0.6.0
   author_ids:
   - 57
