@@ -471,6 +471,14 @@
   date_updated: '2015-07-02'
   urls:
   - http://emberigniter.com/accessing-global-object-in-ember-cli-app/
+- title: Ember Macros for DRY and Testable Code
+  author_ids:
+  - 105
+  date: '2015-06-27'
+  date_created: '2015-06-27'
+  date_updated: '2015-06-27'
+  urls:
+  - https://dockyard.com/blog/2014/06/27/ember-macros-for-DRY-and-testable-code
 - title: 'Ember component integration tests'
   author_ids:
   - 257
