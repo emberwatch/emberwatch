@@ -14,7 +14,7 @@
 - id: 4
   name: Helpers and Components
   section-path: 'helpers_and_components'
-  recipe_ids: [13, 14, 15]
+  recipe_ids: [13, 14, 15, 24]
 - id: 5
   name: Ember Data
   section-path: 'ember_data'
