@@ -166,7 +166,8 @@ A template for a list of comments
 
 `app/templates/comments.hbs`
 
-```handlebars
+{% highlight html %}
+{% raw %}
 <form {{action "add" on="submit"}}>
   {{input value=comment}}
   <button>Add Comment</button>
@@ -176,7 +177,8 @@ A template for a list of comments
   <li>{{item.comment}} ({{digital-clock item.seconds}})</li>
 {{/each}}
 </ul>
-```
+{% endraw %}
+{% endhighlight %}
 
 #### Handlebars helper to format the clock display (h:m:s)
 

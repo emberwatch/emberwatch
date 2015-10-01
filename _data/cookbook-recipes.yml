@@ -165,3 +165,10 @@
   author_ids: []
   tags: []
   categories: []
+- id: 24
+  name: Composing Components
+  recipe-file: composing-components
+  section_id: 4
+  author_ids: []
+  tags: []
+  categories: []
