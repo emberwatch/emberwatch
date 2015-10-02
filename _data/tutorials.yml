@@ -1,4 +1,12 @@
 ---
+- title: 'What ActiveModel::Serializers Can Do for Ember Data API'
+  author_ids:
+  - 265
+  date: '2015-10-02'
+  date_created: '2015-09-29'
+  date_updated: '2015-09-29'
+  urls:
+  - https://netguru.co/blog/active-model-serializers-ember
 - title: Router Service for Ember Apps
   author_ids:
   - 280
@@ -519,7 +527,7 @@
   versions:
     ember:
       start: 1.13.0
-      end: 
+      end:
   urls:
   - http://www.benjaminfleischer.com/ember-cli-components/
 - title: 'Ember: Sprinkling in Components. Part 1'
