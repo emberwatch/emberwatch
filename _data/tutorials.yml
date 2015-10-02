@@ -564,6 +564,13 @@
     data:
       start:
       end:
+- title: Non-RESTful Actions Mixin for Ember Data Model
+  author_ids:
+  - 283
+  date: '2015-05-19'
+  date_created: '2015-05-19'
+  urls:
+  - http://articles.jeffjewiss.com/non-restful-actions-mixin-for-ember-data-model/
 - title: Dynamically Loading Ember Components
   author_ids:
   - 272
