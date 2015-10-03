@@ -586,6 +586,13 @@
   date_created: '2015-04-23'
   urls:
   - http://www.hutchinson.io/dynamically-loading-ember-components/
+- title: Detecting Ember.js Components Entering or Leaving the Viewport
+  author_ids:
+  - 165
+  date: '2015-04-20'
+  date_created: '2015-04-20'
+  urls:
+  - https://dockyard.com/blog/2015/04/20/ember-in-viewport
 - title: Using Recursive Components in Ember.js
   author_ids:
   - 267
