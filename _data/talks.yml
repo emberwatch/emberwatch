@@ -15,6 +15,14 @@
   - https://vimeo.com/139890518
   url: https://vimeo.com/globalembermeetup
   event_id: 27
+- title: Visualising Data the Ember Way with E3
+  date: '2015-09-20'
+  author_ids:
+  - 258
+  videos:
+  - https://vimeo.com/139890520
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
 - title: Ember CLI Deploy 0.5.0
   date: '2015-09-16'
   author_ids:
