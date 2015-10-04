@@ -1,4 +1,10 @@
 ---
+- title: 'Mind the Front-End Gap: Navigating the Path from Rails to Ember'
+  date: '2015-09-25'
+  author_ids:
+  - 285
+  videos:
+  - https://vimeo.com/140388294
 - title: Using ES7 decorators in Ember
   date: '2015-09-22'
   author_ids:
