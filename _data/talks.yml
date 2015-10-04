@@ -7,6 +7,14 @@
   - https://www.youtube.com/watch?v=NVb9sfURUPU
   url: http://www.meetup.com/Ember-js-Amsterdam/events/224579314/
   event_id: 17
+- title: CRUD in Glimmerland
+  date: '2015-09-20'
+  author_ids:
+  - 78
+  videos:
+  - https://vimeo.com/139890518
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
 - title: Ember CLI Deploy 0.5.0
   date: '2015-09-16'
   author_ids:
