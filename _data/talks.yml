@@ -1,4 +1,12 @@
 ---
+- title: 'Inside Glimmer: What Makes Ember''s Rendering Engine Tick'
+  date: '2015-10-02'
+  author_ids:
+  - 2
+  videos:
+  - https://www.youtube.com/watch?v=VY-r7Ac06ho
+  url: http://fullstackfest.com/
+  event_id: 28
 - title: 'Mind the Front-End Gap: Navigating the Path from Rails to Ember'
   date: '2015-09-25'
   author_ids:
