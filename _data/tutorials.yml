@@ -15,6 +15,14 @@
   date_updated: '2015-09-29'
   urls:
   - https://netguru.co/blog/active-model-serializers-ember
+- title: Adding Analytics to Your Ember Apps Once and for All Using Segment's Analytics.js
+  author_ids:
+  - 280
+  date: '2015-09-30'
+  date_created: '2015-09-30'
+  date_updated: '2015-09-30'
+  urls:
+  - https://60devs.com/adding-analytics-to-your-ember-apps-once-and-for-all-using-segment-analytics-js.html
 - title: Router Service for Ember Apps
   author_ids:
   - 280
