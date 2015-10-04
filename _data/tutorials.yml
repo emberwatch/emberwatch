@@ -1,4 +1,12 @@
 ---
+- title: Model-based sidebars in Ember
+  author_ids:
+  - 284
+  date: '2015-10-02'
+  date_created: '2015-10-02'
+  date_updated: '2015-10-02'
+  urls:
+  - http://blog.humblecoder.com/model-based-sidebars-in-ember/
 - title: 'What ActiveModel::Serializers Can Do for Ember Data API'
   author_ids:
   - 265
