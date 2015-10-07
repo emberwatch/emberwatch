@@ -7,6 +7,14 @@
   videos:
   - https://www.youtube.com/watch?v=DrFXw0QGDLM
   url: https://www.youtube.com/watch?v=DrFXw0QGDLM
+- title: 72 - Introduction to Ember Actions
+  author_ids:
+  - 58
+  date: 2015-09-12
+  url: https://www.emberscreencasts.com/posts/72-introduction-to-ember-actions
+  videos:
+  - https://www.emberscreencasts.com/posts/72-introduction-to-ember-actions
+  series: EmberScreencasts
 - title: 'Setup Bootstrap with Ember.js'
   author_ids:
   - 261
