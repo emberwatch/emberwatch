@@ -7,6 +7,14 @@
   videos:
   - https://www.youtube.com/watch?v=DrFXw0QGDLM
   url: https://www.youtube.com/watch?v=DrFXw0QGDLM
+- title: 76 - Closure Actions in Ember 2.0 Components - Passing Functions
+  author_ids:
+  - 58
+  date: 2015-09-20
+  url: https://www.emberscreencasts.com/posts/76-closure-actions-in-ember-20-components-passing-functions
+  videos:
+  - https://www.emberscreencasts.com/posts/76-closure-actions-in-ember-20-components-passing-functions
+  series: EmberScreencasts
 - title: 75 - Actions and Components in Ember 1.x
   author_ids:
   - 58
