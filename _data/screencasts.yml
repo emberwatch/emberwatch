@@ -7,10 +7,18 @@
   videos:
   - https://www.youtube.com/watch?v=DrFXw0QGDLM
   url: https://www.youtube.com/watch?v=DrFXw0QGDLM
+- title: 78 - Closure Actions in Ember 2.0 Components - Return Value
+  author_ids:
+  - 58
+  date: 2015-09-30
+  url: https://www.emberscreencasts.com/posts/78-closure-action-in-ember-20-components-return-values
+  videos:
+  - https://www.emberscreencasts.com/posts/78-closure-action-in-ember-20-components-return-values
+  series: EmberScreencasts
 - title: 77 - Closure Actions in Ember 2.0 Components - Metaprogramming with Parameter Currying
   author_ids:
   - 58
-  date: 2015-09-20
+  date: 2015-09-30
   url: https://www.emberscreencasts.com/posts/77-closure-actions-in-ember-20-components-metaprogramming-with-parameter-currying
   videos:
   - https://www.emberscreencasts.com/posts/77-closure-actions-in-ember-20-components-metaprogramming-with-parameter-currying
@@ -19,7 +27,7 @@
 - title: 76 - Closure Actions in Ember 2.0 Components - Passing Functions
   author_ids:
   - 58
-  date: 2015-09-20
+  date: 2015-09-30
   url: https://www.emberscreencasts.com/posts/76-closure-actions-in-ember-20-components-passing-functions
   videos:
   - https://www.emberscreencasts.com/posts/76-closure-actions-in-ember-20-components-passing-functions
