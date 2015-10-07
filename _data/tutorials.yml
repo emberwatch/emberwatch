@@ -1,4 +1,12 @@
 ---
+- title: 'Ember Spotlight #4: Ember-CLI-Document-Title'
+  author_ids:
+  - 253
+  date: '2015-10-07'
+  date_created: '2015-10-07'
+  date_updated: '2015-10-07'
+  urls:
+  - http://jhawk.co/ember-spotlight-4
 - title: Model-based sidebars in Ember
   author_ids:
   - 284
