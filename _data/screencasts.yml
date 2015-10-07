@@ -7,6 +7,15 @@
   videos:
   - https://www.youtube.com/watch?v=DrFXw0QGDLM
   url: https://www.youtube.com/watch?v=DrFXw0QGDLM
+- title: 73 - Action Bubbling
+  author_ids:
+  - 58
+  date: 2015-09-12
+  url: https://www.emberscreencasts.com/posts/73-action-bubbling
+  videos:
+  - https://www.emberscreencasts.com/posts/73-action-bubbling
+  series: EmberScreencasts
+  price: $9
 - title: 72 - Introduction to Ember Actions
   author_ids:
   - 58
