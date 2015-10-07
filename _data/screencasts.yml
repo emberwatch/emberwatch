@@ -7,6 +7,15 @@
   videos:
   - https://www.youtube.com/watch?v=DrFXw0QGDLM
   url: https://www.youtube.com/watch?v=DrFXw0QGDLM
+- title: 75 - Actions and Components in Ember 1.x
+  author_ids:
+  - 58
+  date: 2015-09-20
+  url: https://www.emberscreencasts.com/posts/75-actions-and-components-in-ember-1x
+  videos:
+  - https://www.emberscreencasts.com/posts/75-actions-and-components-in-ember-1x
+  series: EmberScreencasts
+  price: $9
 - title: 74 - ember-modal-dialog
   author_ids:
   - 58
