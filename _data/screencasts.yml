@@ -7,6 +7,14 @@
   videos:
   - https://www.youtube.com/watch?v=DrFXw0QGDLM
   url: https://www.youtube.com/watch?v=DrFXw0QGDLM
+- title: 74 - ember-modal-dialog
+  author_ids:
+  - 58
+  date: 2015-09-20
+  url: https://www.emberscreencasts.com/posts/74-ember-modal-dialog
+  videos:
+  - https://www.emberscreencasts.com/posts/74-ember-modal-dialog
+  series: EmberScreencasts
 - title: 73 - Action Bubbling
   author_ids:
   - 58
