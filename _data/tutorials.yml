@@ -1,4 +1,12 @@
 ---
+- title: How to Write Smoke Tests for an Ember Rails Stack
+  author_ids:
+  - 286
+  date: '2015-09-01'
+  date_created: '2015-09-01'
+  date_updated: '2015-09-01'
+  urls:
+  - http://blog.codeship.com/how-to-write-smoke-tests-for-an-ember-rails-stack/
 - title: Model-based sidebars in Ember
   author_ids:
   - 284
