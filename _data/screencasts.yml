@@ -7,6 +7,15 @@
   videos:
   - https://www.youtube.com/watch?v=DrFXw0QGDLM
   url: https://www.youtube.com/watch?v=DrFXw0QGDLM
+- title: 77 - Closure Actions in Ember 2.0 Components - Metaprogramming with Parameter Currying
+  author_ids:
+  - 58
+  date: 2015-09-20
+  url: https://www.emberscreencasts.com/posts/77-closure-actions-in-ember-20-components-metaprogramming-with-parameter-currying
+  videos:
+  - https://www.emberscreencasts.com/posts/77-closure-actions-in-ember-20-components-metaprogramming-with-parameter-currying
+  series: EmberScreencasts
+  price: $9
 - title: 76 - Closure Actions in Ember 2.0 Components - Passing Functions
   author_ids:
   - 58
