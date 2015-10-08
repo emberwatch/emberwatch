@@ -1,4 +1,12 @@
 ---
+- title: Ember 2.0 and the Road Ahead
+  date: '2015-10-06'
+  author_ids:
+  - 1
+  videos:
+  - https://www.youtube.com/watch?v=iSuCraN0yEY
+  url: http://www.meetup.com/Ember-PDX/
+  event_id: 29
 - title: 'Inside Glimmer: What Makes Ember''s Rendering Engine Tick'
   date: '2015-10-02'
   author_ids:
