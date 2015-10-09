@@ -1,4 +1,13 @@
 ---
+- title: 79 - Closure Actions in Ember 2.0 Components - Block Components
+  author_ids:
+  - 58
+  date: 2015-10-02
+  url: https://www.emberscreencasts.com/posts/79-closure-actions-in-ember-20-components-block-components
+  videos:
+  - https://www.emberscreencasts.com/posts/79-closure-actions-in-ember-20-components-block-components
+  series: EmberScreencasts
+  price: $9
 - title: 'HTMLbars Deep Dive'
   author_ids:
   - 1
