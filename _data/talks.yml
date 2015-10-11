@@ -1,4 +1,12 @@
 ---
+- title: Introduction to ui-list
+  date: '2015-10-10'
+  author_ids:
+  - 117
+  videos:
+  - https://vimeo.com/141975827
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
 - title: Introduction to ember-cli-opinionated
   date: '2015-10-10'
   author_ids:
