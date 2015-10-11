@@ -1,4 +1,12 @@
 ---
+- title: Javascript Essentials for Ember.js Developers
+  date: '2015-10-10'
+  author_ids:
+  - 291
+  videos:
+  - https://vimeo.com/142001242
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
 - title: Inside Ember Twiddle
   date: '2015-10-10'
   author_ids:
