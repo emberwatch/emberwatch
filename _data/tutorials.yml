@@ -1,4 +1,12 @@
 ---
+- title: Routable modal dialog in Ember.js
+  author_ids:
+  - 287
+  date: '2015-10-09'
+  date_created: '2015-10-09'
+  date_updated: '2015-10-09'
+  urls:
+  - http://adamniedzielski.github.io/blog/2015/10/09/routable-modal-dialog-in-ember-dot-js/
 - title: How to Write Smoke Tests for an Ember Rails Stack
   author_ids:
   - 286
