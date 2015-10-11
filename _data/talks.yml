@@ -1,4 +1,12 @@
 ---
+- title: Inside Ember Twiddle
+  date: '2015-10-10'
+  author_ids:
+  - 185
+  videos:
+  - https://vimeo.com/141977383
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
 - title: Introduction to ui-list
   date: '2015-10-10'
   author_ids:
