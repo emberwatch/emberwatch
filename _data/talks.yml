@@ -1,6 +1,14 @@
 ---
+- title: Introduction to ember-cli-opinionated
+  date: '2015-10-10'
+  author_ids:
+  - 253
+  videos:
+  - https://vimeo.com/141975109
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
 - title: Introduction to ember-state-services
-  date: '2015-10-06'
+  date: '2015-10-10'
   author_ids:
   - 290
   videos:
