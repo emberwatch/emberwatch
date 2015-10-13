@@ -1,4 +1,13 @@
 ---
+- title: Track table selections in Ember
+  author_ids:
+  - 284
+  date: '2015-10-12'
+  date_created: '2015-10-12'
+  date_updated: '2015-10-12'
+  urls:
+  - http://blog.humblecoder.com/track-table-selections-in-ember/
+  
 - title: Routable modal dialog in Ember.js
   author_ids:
   - 287
