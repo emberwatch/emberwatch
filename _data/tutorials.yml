@@ -1,4 +1,12 @@
 ---
+- title: 'Ember Spotlight #5: Ember-Sinon'
+  author_ids:
+  - 253
+  date: '2015-10-14'
+  date_created: '2015-10-14'
+  date_updated: '2015-10-14'
+  urls:
+  - http://jhawk.co/ember-spotlight-4
 - title: Track table selections in Ember
   author_ids:
   - 284
