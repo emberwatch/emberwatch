@@ -24,6 +24,14 @@
   date_updated: '2015-10-09'
   urls:
   - http://adamniedzielski.github.io/blog/2015/10/09/routable-modal-dialog-in-ember-dot-js/
+- title: Decorating Arrays in Ember
+  author_ids:
+  - 288
+  date: '2015-09-06'
+  date_created: '2015-09-06'
+  date_updated: '2015-09-06'
+  urls:
+  - https://robots.thoughtbot.com/decorating-arrays-in-ember
 - title: How to Write Smoke Tests for an Ember Rails Stack
   author_ids:
   - 286
