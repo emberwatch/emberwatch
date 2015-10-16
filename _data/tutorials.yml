@@ -319,6 +319,14 @@
   date_updated: '2015-08-29'
   urls:
   - http://emberigniter.com/5-essential-ember-2.0-concepts/
+- title: 'Knowing When Your Ember App is Done Loading'
+  author_ids:
+  - 293
+  date: '2015-08-29'
+  date_created: '2015-08-29'
+  date_updated: '2015-08-29'
+  urls:
+  - http://spin.atomicobject.com/2015/08/29/ember-app-done-loading/
 - title: '10 Steps for Ramping into Ember.js Quickly'
   author_ids:
   - 268
