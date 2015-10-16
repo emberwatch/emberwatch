@@ -1,4 +1,12 @@
 ---
+- title: Introduction to ember-state-services
+  date: '2015-10-06'
+  author_ids:
+  - 290
+  videos:
+  - https://vimeo.com/141974064
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
 - title: FastBoot and Beyond
   date: '2015-10-06'
   author_ids:
