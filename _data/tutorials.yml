@@ -1,4 +1,12 @@
 ---
+- title: 'A Gentle Introduction to Ember 2.0'
+  author_ids:
+  - 289
+  date: '2015-10-10'
+  date_created: '2015-10-10'
+  date_updated: '2015-10-10'
+  urls:
+  - https://medium.com/@jamesfuthey/a-gentle-introduction-to-ember-2-0-8ef1f378ee4
 - title: 'Ember Spotlight #5: Ember-Sinon'
   author_ids:
   - 253
@@ -15,7 +23,14 @@
   date_updated: '2015-10-12'
   urls:
   - http://blog.humblecoder.com/track-table-selections-in-ember/
-  
+- title: 'Getting Started with Ember 2.0: Ember-cli'
+  author_ids:
+  - 289
+  date: '2015-06-11'
+  date_created: '2015-06-11'
+  date_updated: '2015-06-11'
+  urls:
+  - https://medium.com/@jamesfuthey/getting-started-with-ember-cli-3dd0a4022415
 - title: Routable modal dialog in Ember.js
   author_ids:
   - 287
