@@ -47,6 +47,14 @@
   date_updated: '2015-10-11'
   urls:
   - http://emberigniter.com/communication-between-distant-components/
+- title: 'Implementing an Offscreen Menu in Ember.js'
+  author_ids:
+  - 292
+  date: '2015-10-08'
+  date_created: '2015-10-08'
+  date_updated: '2015-10-08'
+  urls:
+  - http://spin.atomicobject.com/2015/10/08/offscreen-emberjs-menu/
 - title: 'A Gentle Introduction to Ember 2.0'
   author_ids:
   - 289
