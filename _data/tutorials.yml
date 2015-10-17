@@ -1,4 +1,12 @@
 ---
+- title: 'The sendAction call does not fire'
+  author_ids:
+  - 207
+  date: '2015-10-06'
+  date_created: '2015-10-06'
+  date_updated: '2015-10-06'
+  urls:
+  - http://emberigniter.com/send-action-does-not-fire/
 - title: 'How to Load Multiple Models in a Single Route'
   author_ids:
   - 207
@@ -7,6 +15,14 @@
   date_updated: '2015-09-26'
   urls:
   - http://emberigniter.com/load-multiple-models-single-route/
+- title: 'Communication Between Distant Components'
+  author_ids:
+  - 207
+  date: '2015-10-11'
+  date_created: '2015-10-11'
+  date_updated: '2015-10-11'
+  urls:
+  - http://emberigniter.com/communication-between-distant-components/
 - title: 'A Gentle Introduction to Ember 2.0'
   author_ids:
   - 289
