@@ -31,6 +31,14 @@
   date_updated: '2015-09-26'
   urls:
   - http://emberigniter.com/load-multiple-models-single-route/
+- title: 'Ember CLI Mirage A Tutorial With Examples'
+  author_ids:
+  - 271
+  date: '2015-10-12'
+  date_created: '2015-10-12'
+  date_updated: '2015-10-12'
+  urls:
+  - http://www.programwitherik.com/ember-mirage-tutorial-and-examples/
 - title: 'Communication Between Distant Components'
   author_ids:
   - 207
