@@ -31,6 +31,14 @@
   date_updated: '2015-09-26'
   urls:
   - http://emberigniter.com/load-multiple-models-single-route/
+- title: 'Ember CLI Mirage A Tutorial With Examples'
+  author_ids:
+  - 271
+  date: '2015-10-12'
+  date_created: '2015-10-12'
+  date_updated: '2015-10-12'
+  urls:
+  - http://www.programwitherik.com/ember-mirage-tutorial-and-examples/
 - title: 'Communication Between Distant Components'
   author_ids:
   - 207
@@ -39,6 +47,14 @@
   date_updated: '2015-10-11'
   urls:
   - http://emberigniter.com/communication-between-distant-components/
+- title: 'Implementing an Offscreen Menu in Ember.js'
+  author_ids:
+  - 292
+  date: '2015-10-08'
+  date_created: '2015-10-08'
+  date_updated: '2015-10-08'
+  urls:
+  - http://spin.atomicobject.com/2015/10/08/offscreen-emberjs-menu/
 - title: 'A Gentle Introduction to Ember 2.0'
   author_ids:
   - 289
