@@ -7,14 +7,14 @@
   date_updated: '2015-10-17'
   urls:
   - http://jhawk.co/addon-nomenclature
-- title: 'Controllers or Components?'
+- title: 'Should we use controllers in Ember 2.0?'
   author_ids:
   - 207
   date: '2015-10-14'
   date_created: '2015-10-14'
   date_updated: '2015-10-14'
   urls:
-  - http://emberigniter.com/controllers-vs-components/
+  - http://emberigniter.com/should-we-use-controllers-ember-2.0/
 - title: 'Communication Between Distant Components'
   author_ids:
   - 207
