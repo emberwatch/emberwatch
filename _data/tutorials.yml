@@ -519,14 +519,6 @@
   date_updated: '2015-08-07'
   urls:
   - https://medium.com/the-ember-way/applying-the-adapter-pattern-for-analytics-in-ember-js-apps-29448cbcedf3
-- title: How to Transform Just About Any Data Structure with Reduce
-  author_ids:
-  - 207
-  date: '2015-08-03'
-  date_created: '2015-08-03'
-  date_updated: '2015-08-03'
-  urls:
-  - http://emberigniter.com/transform-any-data-structure-with-javascript-reduce/
 - title: Should Components Load Data?
   author_ids:
   - 207
@@ -535,6 +527,22 @@
   date_updated: '2015-08-05'
   urls:
   - http://emberigniter.com/should-components-load-data/
+- title: Speed Up Ember.js List Rendering By Example
+  author_ids:
+  - 294
+  date: '2015-08-03'
+  date_created: '2015-08-03'
+  date_updated: '2015-08-03'
+  urls:
+  - http://strauss.io/blog/2015-speed-up-ember-js-list-rendering-by-example.html
+- title: How to Transform Just About Any Data Structure with Reduce
+  author_ids:
+  - 207
+  date: '2015-08-03'
+  date_created: '2015-08-03'
+  date_updated: '2015-08-03'
+  urls:
+  - http://emberigniter.com/transform-any-data-structure-with-javascript-reduce/
 - title: 'Ember Services Tutorial'
   author_ids:
   - 271
