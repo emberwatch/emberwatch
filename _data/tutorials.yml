@@ -7,6 +7,14 @@
   date_updated: '2015-10-17'
   urls:
   - http://jhawk.co/addon-nomenclature
+- title: 'Using ES7 Async Functions In Ember'
+  author_ids:
+  - 295
+  date: '2015-10-14'
+  date_created: '2015-10-14'
+  date_updated: '2015-10-14'
+  urls:
+  - https://topaxi.codes/using-es7-async-functions-in-ember/
 - title: 'Should we use controllers in Ember 2.0?'
   author_ids:
   - 207
