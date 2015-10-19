@@ -725,6 +725,14 @@
   date_updated: '2015-05-13'
   urls:
   - http://madhatted.com/2015/5/14/ember-js-2-0-preview-with-canary/
+- title: 'Using ES7 Decorators In Ember'
+  author_ids:
+  - 295
+  date: '2015-05-28'
+  date_created: '2015-05-28'
+  date_updated: '2015-05-28'
+  urls:
+  - https://topaxi.codes/es7-decorators-in-ember/
 - title: 'Spotlight: Ember Closure Actions'
   author_ids:
   - 208
