@@ -15,6 +15,14 @@
   date_updated: '2015-10-17'
   urls:
   - http://jhawk.co/addon-nomenclature
+- title: 'Creating a Todo Application using the Phoenix Framework and Ember.js'
+  author_ids:
+  - 297
+  date: '2015-10-15'
+  date_created: '2015-10-15'
+  date_updated: '2015-10-15'
+  urls:
+  - http://resolve.digital/blog/posts/creating-a-todo-application-using-the-phoenix-framework-and-ember-js
 - title: 'Using ES7 Async Functions In Ember'
   author_ids:
   - 295
