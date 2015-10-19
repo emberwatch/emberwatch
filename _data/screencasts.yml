@@ -6,6 +6,15 @@
   videos:
   - https://www.youtube.com/watch?v=RN_kVPga9y8
   url: https://www.youtube.com/watch?v=RN_kVPga9y8
+- title: 81 - Load Data with Instance Initializers
+  author_ids:
+  - 58
+  date: 2015-10-12
+  url: https://www.emberscreencasts.com/posts/81-load-data-with-instance-initiliazers
+  videos:
+  - https://www.emberscreencasts.com/posts/81-load-data-with-instance-initiliazers
+  series: EmberScreencasts
+  price: $9
 - title: 80 - Inject Code with Application Initializers
   author_ids:
   - 58
