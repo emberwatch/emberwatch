@@ -1,4 +1,12 @@
 ---
+- title: 'Stubbing a JSON API spec API with ember-cli-mirage'
+  author_ids:
+  - 296
+  date: '2015-10-17'
+  date_created: '2015-10-17'
+  date_updated: '2015-10-17'
+  urls:
+  - https://github.com/jsncmgs1/mirage-tutorial/blob/master/tutorial.md
 - title: 'Ember Addon Nomenclature'
   author_ids:
   - 253
