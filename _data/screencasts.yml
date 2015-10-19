@@ -6,6 +6,14 @@
   videos:
   - https://www.youtube.com/watch?v=RN_kVPga9y8
   url: https://www.youtube.com/watch?v=RN_kVPga9y8
+- title: 80 - Inject Code with Application Initializers
+  author_ids:
+  - 58
+  date: 2015-10-12
+  url: https://www.emberscreencasts.com/posts/80-inject-code-with-application-initializers
+  videos:
+  - https://www.emberscreencasts.com/posts/80-inject-code-with-application-initializers
+  series: EmberScreencasts
 - title: 79 - Closure Actions in Ember 2.0 Components - Block Components
   author_ids:
   - 58
