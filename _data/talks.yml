@@ -1,12 +1,4 @@
 ---
-- title: Building Chrome Extensions With EmberJS
-  date: '2014-06-26'
-  author_ids:
-  - 233
-  videos:
-  - https://www.youtube.com/watch?v=NtkpDL2yKGo
-  url: https://www.youtube.com/watch?v=NtkpDL2yKGo
-  event_id: 10
 - title: A Comprehensive Overview of Services
   date: '2015-10-07'
   author_ids:
@@ -663,6 +655,14 @@
   - https://www.youtube.com/watch?v=dpaw4oIAEA0
   url: http://www.meetup.com/EmberJS-NYC/events/220789954/
   event_id: 2
+- title: EmberConf 2015 Recap
+  date: '2015-03-24'
+  author_ids:
+  - 7
+  videos:
+  - https://www.youtube.com/watch?v=u27NkvZF7ok
+  url: https://www.youtube.com/watch?v=u27NkvZF7ok
+  event_id: 10
 - title: '2020: Looking Ahead To The Future of Web Development'
   date: '2015-03-12'
   author_ids:
@@ -1520,6 +1520,14 @@
   - https://www.youtube.com/watch?v=G77i1v0byL0
   url: http://www.meetup.com/EmberJS-NYC/events/181912422/
   event_id: 2
+- title: Building Chrome Extensions With EmberJS
+  date: '2014-06-26'
+  author_ids:
+  - 233
+  videos:
+  - https://www.youtube.com/watch?v=NtkpDL2yKGo
+  url: https://www.youtube.com/watch?v=NtkpDL2yKGo
+  event_id: 10
 - title: Custom Ember Data Adapters / Self Defining Apps
   date: '2014-06-26'
   author_ids:
