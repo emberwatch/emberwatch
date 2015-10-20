@@ -1,4 +1,12 @@
 ---
+- title: A Comprehensive Overview of Services
+  date: '2015-10-07'
+  author_ids:
+  - 298
+  videos:
+  - https://www.youtube.com/watch?v=bPy9cd3dsKM
+  url: https://www.youtube.com/watch?v=bPy9cd3dsKM
+  event_id: 10
 - title: Javascript Essentials for Ember.js Developers
   date: '2015-10-10'
   author_ids:
