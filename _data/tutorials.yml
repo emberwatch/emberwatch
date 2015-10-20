@@ -1,4 +1,12 @@
 ---
+- title: 'Continuous integration with Codeship and Divshot'
+  author_ids:
+  - 298
+  date: '2015-10-18'
+  date_created: '2015-10-18'
+  date_updated: '2015-10-18'
+  urls:
+  - http://www.codeandtechno.com/code/2015/10/18/continuous-integration-for-emberjs-apps-with-codeship-and-divshot
 - title: 'Stubbing a JSON API spec API with ember-cli-mirage'
   author_ids:
   - 296
