@@ -1,4 +1,12 @@
 ---
+- title: Building Chrome Extensions With EmberJS
+  date: '2015-10-07'
+  author_ids:
+  - 233
+  videos:
+  - https://www.youtube.com/watch?v=NtkpDL2yKGo
+  url: https://www.youtube.com/watch?v=NtkpDL2yKGo
+  event_id: 10
 - title: A Comprehensive Overview of Services
   date: '2015-10-07'
   author_ids:
