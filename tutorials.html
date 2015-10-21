@@ -13,6 +13,7 @@ layout: default
         <a href="{{ tutorial.urls | first }}">
           {{ tutorial.title }}
         </a>
+        <a target="_blank" href="{{ tutorial.urls | first }}"><img src="/images/link-new-tab.png" style="vertical-align: bottom"></a>
       </h5>
       <div class="metadata">
         {% for person_id in tutorial.author_ids %}

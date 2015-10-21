@@ -9,6 +9,7 @@ layout: default
         <a href="{{ screencast.url }}">
           {{ screencast.title }}{% if screencast.subtitle %}: {{ screencast.subtitle }}{% endif %}
         </a>
+        <a target="_blank" href="{{ screencast.url }}"><img src="/images/link-new-tab.png" style="vertical-align: bottom"></a>
       </h5>
       <div class="metadata">
         {% for person_id in screencast.author_ids %}

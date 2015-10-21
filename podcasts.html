@@ -10,6 +10,7 @@ layout: default
           <span class="event-name">
             {{ podcast.host }} {{ podcast.episode }}
           </span>
+          <a target="_blank" href="{{ podcast.url }}"><img src="/images/link-new-tab.png" style="vertical-align: bottom"></a>
       </h5>
       <div class="metadata">
         {% for person_id in podcast.member_ids %}
