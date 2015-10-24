@@ -1,4 +1,12 @@
 ---
+- title: 82 - Introduction to Services
+  author_ids:
+  - 58
+  date: 2015-10-19
+  url: https://emberflare.com/entries/82-introduction-to-services
+  videos:
+  - https://emberflare.com/entries/82-introduction-to-services
+  series: EmberScreencasts
 - title: 'A lap around the Ember source code'
   author_ids:
   - 1
