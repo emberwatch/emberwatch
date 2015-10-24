@@ -1,4 +1,13 @@
 ---
+- title: 83 - Session Services
+  author_ids:
+  - 58
+  date: 2015-10-19
+  url: https://emberflare.com/entries/83-session-service
+  videos:
+  - https://emberflare.com/entries/83-session-service
+  series: EmberScreencasts
+  price: $9
 - title: 82 - Introduction to Services
   author_ids:
   - 58
