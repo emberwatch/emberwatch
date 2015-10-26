@@ -1,4 +1,12 @@
 ---
+- title: 'Ember Spotlight #6: Ember-Pagefront'
+  author_ids:
+  - 253
+  date: '2015-10-20'
+  date_created: '2015-10-20'
+  date_updated: '2015-10-20'
+  urls:
+  - http://jhawk.co/ember-spotlight-6
 - title: 'Continuous integration with Codeship and Divshot'
   author_ids:
   - 299
