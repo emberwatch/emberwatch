@@ -1,4 +1,13 @@
 ---
+- title: 85 - Authenticated Routes
+  author_ids:
+  - 58
+  date: 2015-10-26
+  url: https://emberflare.com/entries/85-authenticated-routes
+  videos:
+  - https://emberflare.com/entries/85-authenticated-routes
+  series: EmberScreencasts
+  price: $9
 - title: 84 - Remember you Session with Cookies
   author_ids:
   - 58
