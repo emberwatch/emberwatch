@@ -135,14 +135,6 @@
   date_updated: '2015-10-12'
   urls:
   - http://blog.humblecoder.com/track-table-selections-in-ember/
-- title: 'Getting Started with Ember 2.0: Ember-cli'
-  author_ids:
-  - 289
-  date: '2015-06-11'
-  date_created: '2015-06-11'
-  date_updated: '2015-06-11'
-  urls:
-  - https://medium.com/@jamesfuthey/getting-started-with-ember-cli-3dd0a4022415
 - title: Routable modal dialog in Ember.js
   author_ids:
   - 287
@@ -591,6 +583,14 @@
   date_updated: '2015-08-03'
   urls:
   - http://emberigniter.com/transform-any-data-structure-with-javascript-reduce/
+- title: 'Deploy Your Ember App Along With Your Ruby on Rails App via Capistrano'
+  author_ids:
+  - 300
+  date: '2015-07-31'
+  date_created: '2015-07-31'
+  date_updated: '2015-07-31'
+  urls:
+  - http://www.mtmckenna.com/posts/2015/07/31/deploying-ember-along-with-rails-via-capistrano/
 - title: 'Ember Services Tutorial'
   author_ids:
   - 271
@@ -687,6 +687,14 @@
   date_updated: '2015-06-23'
   urls:
   - http://emberigniter.com/clear-ember-data-store/
+- title: 'Getting Started with Ember 2.0: Ember-cli'
+  author_ids:
+  - 289
+  date: '2015-06-11'
+  date_created: '2015-06-11'
+  date_updated: '2015-06-11'
+  urls:
+  - https://medium.com/@jamesfuthey/getting-started-with-ember-cli-3dd0a4022415
 - title: Accessing the Global App Object in an Ember CLI App
   author_ids:
   - 207
