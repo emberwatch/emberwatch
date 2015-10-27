@@ -55,6 +55,14 @@
   date_updated: '2015-10-14'
   urls:
   - https://topaxi.codes/using-es7-async-functions-in-ember/
+- title: 'Ember Spotlight #5: Ember-Sinon'
+  author_ids:
+  - 253
+  date: '2015-10-14'
+  date_created: '2015-10-14'
+  date_updated: '2015-10-14'
+  urls:
+  - http://jhawk.co/ember-spotlight-5
 - title: 'Should we use controllers in Ember 2.0?'
   author_ids:
   - 207
@@ -63,6 +71,22 @@
   date_updated: '2015-10-14'
   urls:
   - http://emberigniter.com/should-we-use-controllers-ember-2.0/
+- title: 'Ember CLI Mirage A Tutorial With Examples'
+  author_ids:
+  - 271
+  date: '2015-10-12'
+  date_created: '2015-10-12'
+  date_updated: '2015-10-12'
+  urls:
+  - http://www.programwitherik.com/ember-mirage-tutorial-and-examples/
+- title: Track table selections in Ember
+  author_ids:
+  - 284
+  date: '2015-10-12'
+  date_created: '2015-10-12'
+  date_updated: '2015-10-12'
+  urls:
+  - http://blog.humblecoder.com/track-table-selections-in-ember/
 - title: 'Communication Between Distant Components'
   author_ids:
   - 207
@@ -71,6 +95,30 @@
   date_updated: '2015-10-11'
   urls:
   - http://emberigniter.com/communication-between-distant-components/
+- title: 'A Gentle Introduction to Ember 2.0'
+  author_ids:
+  - 289
+  date: '2015-10-10'
+  date_created: '2015-10-10'
+  date_updated: '2015-10-10'
+  urls:
+  - https://medium.com/@jamesfuthey/a-gentle-introduction-to-ember-2-0-8ef1f378ee4
+- title: Routable modal dialog in Ember.js
+  author_ids:
+  - 287
+  date: '2015-10-09'
+  date_created: '2015-10-09'
+  date_updated: '2015-10-09'
+  urls:
+  - http://adamniedzielski.github.io/blog/2015/10/09/routable-modal-dialog-in-ember-dot-js/
+- title: 'Implementing an Offscreen Menu in Ember.js'
+  author_ids:
+  - 292
+  date: '2015-10-08'
+  date_created: '2015-10-08'
+  date_updated: '2015-10-08'
+  urls:
+  - http://spin.atomicobject.com/2015/10/08/offscreen-emberjs-menu/
 - title: 'The sendAction call does not fire'
   author_ids:
   - 207
@@ -87,62 +135,6 @@
   date_updated: '2015-09-26'
   urls:
   - http://emberigniter.com/load-multiple-models-single-route/
-- title: 'Ember CLI Mirage A Tutorial With Examples'
-  author_ids:
-  - 271
-  date: '2015-10-12'
-  date_created: '2015-10-12'
-  date_updated: '2015-10-12'
-  urls:
-  - http://www.programwitherik.com/ember-mirage-tutorial-and-examples/
-- title: 'Communication Between Distant Components'
-  author_ids:
-  - 207
-  date: '2015-10-11'
-  date_created: '2015-10-11'
-  date_updated: '2015-10-11'
-  urls:
-  - http://emberigniter.com/communication-between-distant-components/
-- title: 'Implementing an Offscreen Menu in Ember.js'
-  author_ids:
-  - 292
-  date: '2015-10-08'
-  date_created: '2015-10-08'
-  date_updated: '2015-10-08'
-  urls:
-  - http://spin.atomicobject.com/2015/10/08/offscreen-emberjs-menu/
-- title: 'A Gentle Introduction to Ember 2.0'
-  author_ids:
-  - 289
-  date: '2015-10-10'
-  date_created: '2015-10-10'
-  date_updated: '2015-10-10'
-  urls:
-  - https://medium.com/@jamesfuthey/a-gentle-introduction-to-ember-2-0-8ef1f378ee4
-- title: 'Ember Spotlight #5: Ember-Sinon'
-  author_ids:
-  - 253
-  date: '2015-10-14'
-  date_created: '2015-10-14'
-  date_updated: '2015-10-14'
-  urls:
-  - http://jhawk.co/ember-spotlight-5
-- title: Track table selections in Ember
-  author_ids:
-  - 284
-  date: '2015-10-12'
-  date_created: '2015-10-12'
-  date_updated: '2015-10-12'
-  urls:
-  - http://blog.humblecoder.com/track-table-selections-in-ember/
-- title: Routable modal dialog in Ember.js
-  author_ids:
-  - 287
-  date: '2015-10-09'
-  date_created: '2015-10-09'
-  date_updated: '2015-10-09'
-  urls:
-  - http://adamniedzielski.github.io/blog/2015/10/09/routable-modal-dialog-in-ember-dot-js/
 - title: Decorating Arrays in Ember
   author_ids:
   - 288
