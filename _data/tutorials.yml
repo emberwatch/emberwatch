@@ -127,30 +127,6 @@
   date_updated: '2015-10-06'
   urls:
   - http://emberigniter.com/send-action-does-not-fire/
-- title: 'How to Load Multiple Models in a Single Route'
-  author_ids:
-  - 207
-  date: '2015-09-26'
-  date_created: '2015-09-26'
-  date_updated: '2015-09-26'
-  urls:
-  - http://emberigniter.com/load-multiple-models-single-route/
-- title: Decorating Arrays in Ember
-  author_ids:
-  - 288
-  date: '2015-09-06'
-  date_created: '2015-09-06'
-  date_updated: '2015-09-06'
-  urls:
-  - https://robots.thoughtbot.com/decorating-arrays-in-ember
-- title: How to Write Smoke Tests for an Ember Rails Stack
-  author_ids:
-  - 286
-  date: '2015-09-01'
-  date_created: '2015-09-01'
-  date_updated: '2015-09-01'
-  urls:
-  - http://blog.codeship.com/how-to-write-smoke-tests-for-an-ember-rails-stack/
 - title: 'Ember Spotlight #4: Ember-CLI-Document-Title'
   author_ids:
   - 253
@@ -215,6 +191,14 @@
   date_updated: '2015-09-27'
   urls:
   - http://toranbillups.com/blog/archive/2015/09/27/integration-testing-multiselect-with-ember/
+- title: 'How to Load Multiple Models in a Single Route'
+  author_ids:
+  - 207
+  date: '2015-09-26'
+  date_created: '2015-09-26'
+  date_updated: '2015-09-26'
+  urls:
+  - http://emberigniter.com/load-multiple-models-single-route/
 - title: 'Ember Best Practices: DRYer and less fragile Acceptance Tests'
   author_ids:
   - 105
@@ -263,6 +247,14 @@
   date_updated: '2015-09-20'
   urls:
   - http://www.programwitherik.com/how-to-use-ember-ember-observers/
+- title: Creating Components with Ember 2.0
+  author_ids:
+  - 269
+  date: '2015-09-17'
+  date_created: '2015-09-17'
+  date_updated: '2015-09-17'
+  urls:
+  - https://www.twilio.com/blog/2015/09/creating-web-components-in-emberjs.html
 - title: Two Techniques for Keeping Your Ember.js Project Clean
   author_ids:
   - 274
@@ -359,6 +351,14 @@
   date_updated: '2015-09-07'
   urls:
   - http://alisdair.mcdiarmid.org/ember-closure-actions-have-return-values/
+- title: Decorating Arrays in Ember
+  author_ids:
+  - 288
+  date: '2015-09-06'
+  date_created: '2015-09-06'
+  date_updated: '2015-09-06'
+  urls:
+  - https://robots.thoughtbot.com/decorating-arrays-in-ember
 - title: 'Easy user login with ember-simple-auth'
   author_ids:
   - 258
@@ -383,6 +383,14 @@
   date_updated: '2015-09-02'
   urls:
   - http://www.thesoftwaresimpleton.com/blog/2015/09/02/list-detail/
+- title: How to Write Smoke Tests for an Ember Rails Stack
+  author_ids:
+  - 286
+  date: '2015-09-01'
+  date_created: '2015-09-01'
+  date_updated: '2015-09-01'
+  urls:
+  - http://blog.codeship.com/how-to-write-smoke-tests-for-an-ember-rails-stack/
 - title: 'Server-Side Validation in Your Ember Application'
   author_ids:
   - 260
