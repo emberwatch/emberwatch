@@ -1,4 +1,12 @@
 ---
+- title: 'Shell Script to Deploy and Activate Your Ember App to S3'
+  author_ids:
+  - 300
+  date: '2015-10-25'
+  date_created: '2015-10-25'
+  date_updated: '2015-10-25'
+  urls:
+  - http://www.mtmckenna.com/posts/2015/10/25/shell-script-to-deploy-and-activate-your-ember-app/
 - title: 'Ember Spotlight #6: Ember-Pagefront'
   author_ids:
   - 253
