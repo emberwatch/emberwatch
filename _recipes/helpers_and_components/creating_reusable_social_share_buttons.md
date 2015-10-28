@@ -15,7 +15,7 @@ for your application.
 Write a custom component that renders the Tweet button with specific attributes
 passed in.
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{share-twitter class='twitter-share-button' href=url
                     data-text=text

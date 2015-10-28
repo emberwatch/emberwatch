@@ -16,14 +16,14 @@ Write an Ember Component to change to loading state when action is taking place.
 For example a button to save data could be as
 
 `app/templates/application.hbs`
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{spin-button id="forapplication" isLoading = isLoading buttonText=buttonText action='saveData'}}
 {% endraw %}
 {% endhighlight %}
 
 `app/templates/components/spin-button.hbs`
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 <button id={{id}} {{action 'showLoading'}}>
   {{#if isLoading}}
