@@ -182,7 +182,7 @@ A template for a list of comments
 
 #### Handlebars helper to format the clock display (h:m:s)
 
-This helper is used in the template like so `{{digital-clock seconds}}`,
+This helper is used in the template like so {% raw %}`{{digital-clock seconds}}`{% endraw %},
 `seconds` is the property of the controller that will be displayed (h:m:s).
 
 `app/helpers/digital-clock.js`
