@@ -145,7 +145,8 @@ has a few properties to select a component to render, `fullSecond`,
 
 `app/templates/interval.hbs`
 
-```handlebars
+{% highlight handlebars %}
+{% raw %}
 {{#if fullSecond}}
   {{nyan-start}}
 {{/if}}
@@ -160,7 +161,8 @@ has a few properties to select a component to render, `fullSecond`,
 {{/if}}
 <h3>You&apos;ve nyaned for {{digital-clock seconds}} (h:m:s)</h3>
 {{render 'comments'}}
-```
+{% endraw %}
+{% endhighlight %}
 
 A template for a list of comments
 
