@@ -37,7 +37,7 @@ export default Ember.Component.extend({
 });
 {% endhighlight %}
 
-And in the template of the component, put an {% raw %}{{input}}{% endraw %} and wrap it
+And in the template of the component, put an {% raw %}`{{input}}`{% endraw %} and wrap it
 into a div, which would have the class of `has-error` bound to
 `hasError`.
 
