@@ -1,4 +1,12 @@
 ---
+- title: 'Force Ember Data to reload data from backend API'
+  author_ids:
+  - 207
+  date: '2015-10-29'
+  date_created: '2015-10-29'
+  date_updated: '2015-10-29'
+  urls:
+  - http://emberigniter.com/force-store-reload-data-api-backend/
 - title: 'Shell Script to Deploy and Activate Your Ember App to S3'
   author_ids:
   - 300
