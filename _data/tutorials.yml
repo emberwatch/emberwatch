@@ -23,6 +23,14 @@
   date_updated: '2015-10-20'
   urls:
   - http://jhawk.co/ember-spotlight-6
+- title: 'What’s New in Ember 2.0?'
+  author_ids:
+  - 144
+  date: '2015-10-19'
+  date_created: '2015-10-19'
+  date_updated: '2015-10-19'
+  urls:
+  - http://www.sitepoint.com/whats-new-in-ember-2/
 - title: 'Continuous integration with Codeship and Divshot'
   author_ids:
   - 299
