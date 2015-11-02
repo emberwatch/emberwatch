@@ -599,6 +599,14 @@
   date_updated: '2015-07-31'
   urls:
   - http://www.mtmckenna.com/posts/2015/07/31/deploying-ember-along-with-rails-via-capistrano/
+- title: 'Getting started with Ember and Ember CLI'
+  author_ids:
+  - 144
+  date: '2015-07-30'
+  date_created: '2015-07-30'
+  date_updated: '2015-07-30'
+  urls:
+  - http://www.sitepoint.com/getting-started-with-ember-and-ember-cli/
 - title: 'Ember Services Tutorial'
   author_ids:
   - 271
