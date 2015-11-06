@@ -23,3 +23,7 @@
   name: Contributing
   section-path: 'contributing'
   recipe_ids: [18, 19, 20, 21, 22]
+- id: 7
+  name: Ember CLI
+  section-path: 'ember_cli'
+  recipe_ids: [25]
