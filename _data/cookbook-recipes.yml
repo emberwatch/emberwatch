@@ -172,3 +172,12 @@
   author_ids: []
   tags: []
   categories: []
+- id: 25
+  name: Installing and Updating Ember
+  recipe-file: installing_and_updating
+  section_id: 7
+  author_ids: [254]
+  tags: []
+  categories: []
+  version-meta:
+    emberjs: 1.13.0
