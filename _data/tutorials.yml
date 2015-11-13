@@ -175,6 +175,14 @@
   date_updated: '2015-09-29'
   urls:
   - https://netguru.co/blog/active-model-serializers-ember
+- title: 'How Should Your Ember Tests Look?'
+  author_ids:
+  - 265
+  date: '2015-11-13'
+  date_created: '2015-11-12'
+  date_updated: '2015-11-12'
+  urls:
+  - https://netguru.co/blog/ember-tests
 - title: Adding Analytics to Your Ember Apps Once and for All Using Segment's Analytics.js
   author_ids:
   - 280
