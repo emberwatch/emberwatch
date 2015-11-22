@@ -15,7 +15,7 @@ Display JavaScript Date objects in human readable format.
 
 There are two ways of formatting the value:
 
-1. Create a Handlebars helper `{{format-date}}` and use it in your template
+1. Create a Handlebars helper {% raw %}`{{format-date}}`{% endraw %} and use it in your template
 2. Create a computed property `formattedDate` that will return a transformed date
 
 We will use [Moment.js](http://momentjs.com) for formatting dates.
@@ -69,7 +69,7 @@ the same thing as Handlebars helpers defined above.
 export default Ember.Controller.extend({
   format: "YYYYMMDD",
   date: null,
-  formattedDate: Ember.computed('data', 'format', function() {
+  formattedDate: Ember.computed('date', 'format', function() {
     var date = this.get('date'),
         format = this.get('format');
     return moment(date).format(format);
@@ -95,7 +95,7 @@ Handlebars helpers are shorthand for cases where you want to format
 a value specifically for presentation. That value may be used
 across different models and controllers.
 
-You can use `{{current-date}}` across your application to format dates
+You can use {% raw %}`{{current-date}}`{% endraw %} across your application to format dates
 without making any changes to controllers.
 
 Computed property in the example above does the same thing as the

@@ -17,7 +17,7 @@ block params. Here is a preview of what this guide goes over:
 
 `app/templates/application.hbs`
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{#user-list users=activeUsers sortBy="name" as |user|}}
   {{user-card user=user}}
@@ -35,7 +35,7 @@ Components can be used in two forms, just like regular HTML elements.
 
 `app/templates/application.hbs`
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{user-list users=activeUsers}}
 {% endraw %}
@@ -51,7 +51,7 @@ and forms.
 
 `app/templates/application.hbs`
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{#user-list users=activeUsers}}
   {{!-- custom template here --}}
@@ -65,7 +65,7 @@ This can be done with the `hasBlock` property from within our component.
 
 `app/templates/components/user-list.hbs`
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{#if hasBlock}}
   {{yield}}
@@ -84,7 +84,7 @@ This `{{yield}}` helper can be used in the component's template definition multi
 
 `app/templates/components/post-list.hbs`
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{#each posts as |post|}}
   <h3>{{post.title}}</h3>
@@ -97,7 +97,7 @@ Which can be used like so:
 
 `app/templates/posts.hbs`
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{#post-list posts=headlinePosts}}
   Greatest post ever!
@@ -117,7 +117,8 @@ And will result in the following HTML:
 {% endhighlight %}
 
 {% raw %}
-But what use is it to just output the same thing over and over? Don't we want to customize our posts, and display the right content? Sure we do. Lets explore the `{{yield}}` helper a bit.
+But what use is it to just output the same thing over and over? Don't we want to customize our posts, and display the right content? Sure we do. 
+Lets explore the `{{yield}}` helper a bit.
 {% endraw %}
 
 ### Data Down
@@ -146,7 +147,7 @@ For the consumer to get access to the data, she needs to know what data a compon
 
 `app/templates/components/user-list.hbs`
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{#each users as |user|}}
   {{yield user}}
@@ -161,7 +162,7 @@ We can consume it in the following way:
 
 `app/templates/application.hbs`
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{#user-list users=users as |user|}}
   {{user-card user=user}}
@@ -178,7 +179,7 @@ but the users are still being iterated. Let's mix in the `hasBlock` attribute an
 
 `app/templates/components/user-list.hbs`
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{#if hasBlock}}
   {{#each users as |user|}}
@@ -195,19 +196,19 @@ but the users are still being iterated. Let's mix in the `hasBlock` attribute an
 {% endraw %}
 {% endhighlight %}
 
-This makes our component more useful due to it having sane defaults, but it also allows us to override those defaults. By using the `{{yield}}` helper we can pass
-down our params for the consumer to utilize. This makes the concept of passing
+This makes our component more useful due to it having sane defaults, but it also allows us to override those defaults. 
+By using the {% raw %}`{{yield}}`{% endraw %} helper we can pass down our params for the consumer to utilize. This makes the concept of passing
 data down very useful.
 
 #### {% raw %}`{{component}}`{% endraw %} Helper
 
-To understand the `{{component}}` helper, we will add the following new features to the `{{user-list}}` component:
+To understand the {% raw %}`{{component}}`{% endraw %} helper, we will add the following new features to the {% raw %}`{{user-list}}`{% endraw %} component:
 
 * For each type of user, we want to use different layout.
 * The list can also be toggled between basic and detailed mode.
 
 Let's add a new type of user, a superuser, which will have different behavior in our application. How would the consumer use this new data to show a different
-UI for each type of user? This is where the `{{component}}` helper comes into play. This helper allows us to render a component chosen at runtime.
+UI for each type of user? This is where the {% raw %}`{{component}}`{% endraw %} helper comes into play. This helper allows us to render a component chosen at runtime.
 
 Since we have two user types, 'public' and 'superuser', and we want to render
 a component for each type plus for the simple and detailed modes. We want to have the following component names:
@@ -230,7 +231,7 @@ names, we can put together a full template with the two modes.
 
 `app/templates/application.hbs`
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{#user-list users=users as |user basicMode|}}
   {{#if basicMode}}
@@ -256,7 +257,7 @@ The consumer can decide how to name the yielded values. We could have named our 
 
 `app/templates/application.hbs`
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{#user-list users=users as |userModel isBasic|}}
   {{! something creative here }}
@@ -297,7 +298,7 @@ export default Ember.Component.extend({
 
 `app/templates/components/user-profile.hbs`
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{! most likely we have some markup here }}
 {{yield profile (action "saveUser")}}
@@ -310,7 +311,7 @@ in block form.
 
 `app/templates/user/profile.hbs`
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{#user-profile user=user as |profile saveUser|}}
   {{user-avatar url=profile.imageUrl onchange=saveUser}}
@@ -329,7 +330,7 @@ like an input button:
 
 `app/templates/user/profile.hbs`
 
-{% highlight html %}
+{% highlight handlebars %}
 {% raw %}
 {{#user-profile user=user as |profile saveUser|}}
   <button type="button" onclick={{action saveUser}}>Save</button>

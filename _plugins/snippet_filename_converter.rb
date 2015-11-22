@@ -23,7 +23,7 @@ module Jekyll
         end.join
       end
       site = Jekyll::Site.new(@config)
-      default_converter = site.getConverterImpl(Jekyll::Converters::Markdown)
+      default_converter = site.find_converter_instance(Jekyll::Converters::Markdown)
       default_converter.convert(content)
     end
   end
