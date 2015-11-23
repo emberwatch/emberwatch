@@ -1,5 +1,4 @@
 markdown: redcarpet
-highlighter: pygments
 collections:
   recipes:
     output: true
