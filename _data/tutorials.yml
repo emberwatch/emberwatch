@@ -1,4 +1,12 @@
 ---
+- title: 'Authentication with Ember and Firebase - A Newbie Friendly Guide'
+  author_ids:
+  - 301
+  date: '2015-12-4'
+  date_created: '2015-11-29'
+  date_updated: '2015-12-3'
+  urls:
+  - http://vikram-s-narayan.github.io/blog/authentication-with-ember-and-firebase-part-1/
 - title: 'Force Ember Data to reload data from backend API'
   author_ids:
   - 207
