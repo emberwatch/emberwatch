@@ -22,7 +22,7 @@
   - 148
   publisher: Self-Published
   url: https://leanpub.com/ember-cli-101
-  payment: true
+  payment: false
 - title: Developing an Ember Edge
   author_ids:
   - 100
