@@ -1,4 +1,12 @@
 ---
+- title: 'How to dockerize an Ember app'
+  author_ids:
+  - 284
+  date: '2016-01-16'
+  date_created: '2016-01-16'
+  date_updated: '2016-01-16'
+  urls:
+  - http://blog.humblecoder.com/how-to-dockerize-an-ember-app/
 - title: 'Authentication with Ember and Firebase - A Newbie Friendly Guide'
   author_ids:
   - 301
