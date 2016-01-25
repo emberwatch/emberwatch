@@ -1,4 +1,242 @@
 ---
+- title: 113 - RESTAdapter vs JSONAPIAdapter vs ActiveModelAdapter
+  author_ids:
+  - 58
+  date: 2016-01-29
+  url: http://www.emberscreencasts.com/posts/113-restadapter-vs-jsonapiadapter-vs-activemodeladapter
+  videos:
+  - http://www.emberscreencasts.com/posts/113-restadapter-vs-jsonapiadapter-vs-activemodeladapter
+  series: EmberScreencasts
+  price: $9/month
+- title: 112 - Ember Data 2.0: Miscellaneous Adapter Customizations
+  author_ids:
+  - 58
+  date: 2016-01-27
+  url: http://www.emberscreencasts.com/posts/112-ember-data-20-miscellaneous-adapter-customizations
+  videos:
+  - http://www.emberscreencasts.com/posts/112-ember-data-20-miscellaneous-adapter-customizations
+  series: EmberScreencasts
+- title: 111 - Ember Data 2.0: Advanced Adapter Customizations
+  author_ids:
+  - 58
+  date: 2016-01-22
+  url: http://www.emberscreencasts.com/posts/111-ember-data-20-advanced-adapter-customizations
+  videos:
+  - http://www.emberscreencasts.com/posts/111-ember-data-20-advanced-adapter-customizations
+  series: EmberScreencasts
+  price: $9/month
+- title: 110 - Ember Data 2.0: Essential Adapter Customizations
+  author_ids:
+  - 58
+  date: 2016-01-20
+  url: http://www.emberscreencasts.com/posts/110-ember-data-20-essential-adapter-customizations
+  videos:
+  - http://www.emberscreencasts.com/posts/110-ember-data-20-essential-adapter-customizations
+  series: EmberScreencasts
+- title: 109 - Ember Data 2.0: Overview of Customizing Adapters and Serializers
+  author_ids:
+  - 58
+  date: 2016-01-15
+  url: http://www.emberscreencasts.com/posts/109-ember-data-20-overview-of-customizing-adapters-and-serializers
+  videos:
+  - http://www.emberscreencasts.com/posts/109-ember-data-20-overview-of-customizing-adapters-and-serializers
+  series: EmberScreencasts
+  price: $9/month
+- title: 108 - Ember Data 2.0: Overview of using Adapters and Serializers
+  author_ids:
+  - 58
+  date: 2016-01-13
+  url: http://www.emberscreencasts.com/posts/108-ember-data-20-overview-of-using-adapters-and-serializers
+  videos:
+  - http://www.emberscreencasts.com/posts/108-ember-data-20-overview-of-using-adapters-and-serializers
+  series: EmberScreencasts
+- title: 107 - Metaprogramming: Editing and Saving Generic Attributes
+  author_ids:
+  - 58
+  date: 2016-01-08
+  url: http://www.emberscreencasts.com/posts/107-metaprogramming-editing-and-saving-generic-attributes
+  videos:
+  - http://www.emberscreencasts.com/posts/107-metaprogramming-editing-and-saving-generic-attributes
+  series: EmberScreencasts
+  price: $9/month
+- title: 106 - Ember Data 2.0: Metaprogramming with Relationships
+  author_ids:
+  - 58
+  date: 2016-01-06
+  url: http://www.emberscreencasts.com/posts/106-ember-data-20-metaprogramming-with-relationships
+  videos:
+  - http://www.emberscreencasts.com/posts/106-ember-data-20-metaprogramming-with-relationships
+  series: EmberScreencasts
+- title: 105 - The Making of the Model State Explorer
+  author_ids:
+  - 58
+  date: 2016-01-01
+  url: http://www.emberscreencasts.com/posts/105-the-making-of-the-model-state-explorer
+  videos:
+  - http://www.emberscreencasts.com/posts/105-the-making-of-the-model-state-explorer
+  series: EmberScreencasts
+  price: $9/month
+- title: 104 - Ember Data 2.0: Relationships
+  author_ids:
+  - 58
+  date: 2015-12-30
+  url: http://www.emberscreencasts.com/posts/104-ember-data-20-relationships
+  videos:
+  - http://www.emberscreencasts.com/posts/104-ember-data-20-relationships
+  series: EmberScreencasts
+- title: 103 - Ember Data 2.0: states.js Deep Dive
+  author_ids:
+  - 58
+  date: 2015-12-26
+  url: http://www.emberscreencasts.com/posts/103-ember-data-20-statesjs-deep-dive
+  videos:
+  - http://www.emberscreencasts.com/posts/103-ember-data-20-statesjs-deep-dive
+  series: EmberScreencasts
+  price: $9/month
+- title: 102 - Ember Data 2.0: Model States and Flags
+  author_ids:
+  - 58
+  date: 2015-12-23
+  url: http://www.emberscreencasts.com/posts/102-ember-data-20-model-states-and-flags
+  videos:
+  - http://www.emberscreencasts.com/posts/102-ember-data-20-model-states-and-flags
+  series: EmberScreencasts
+- title: 101 - Ember Data 2.0: Metaprogramming with DS.Model Attributes Property
+  author_ids:
+  - 58
+  date: 2015-12-18
+  url: http://www.emberscreencasts.com/posts/101-ember-data-20-metaprogramming-with-dsmodel-attributes-property
+  videos:
+  - http://www.emberscreencasts.com/posts/101-ember-data-20-metaprogramming-with-dsmodel-attributes-property
+  series: EmberScreencasts
+  price: $9/month
+- title: 100 - Ember Data 2.0: Updating Data, Tracking Changes, and Rolling Them Back
+  author_ids:
+  - 58
+  date: 2015-12-16
+  url: http://www.emberscreencasts.com/posts/100-ember-data-20-updating-data-tracking-changes-and-rolling-them-back
+  videos:
+  - http://www.emberscreencasts.com/posts/100-ember-data-20-updating-data-tracking-changes-and-rolling-them-back
+  series: EmberScreencasts
+- title: 99 - Ember Data 2.0: Create, Save, and Destroy Records
+  author_ids:
+  - 58
+  date: 2015-12-11
+  url: http://www.emberscreencasts.com/posts/99-ember-data-20-create-save-and-destroy-records
+  videos:
+  - http://www.emberscreencasts.com/posts/99-ember-data-20-create-save-and-destroy-records
+  series: EmberScreencasts
+  price: $9/month
+- title: 98 - Ember Data 2.0: Store Manipulation with Peek, Unload, and More
+  author_ids:
+  - 58
+  date: 2015-12-09
+  url: http://www.emberscreencasts.com/posts/98-ember-data-20-store-manipulation-with-peek-unload-and-more
+  videos:
+  - http://www.emberscreencasts.com/posts/98-ember-data-20-store-manipulation-with-peek-unload-and-more
+  series: EmberScreencasts
+- title: 97 - Ember Data 2.0: Getting Data from the Server with findRecord and findAll
+  author_ids:
+  - 58
+  date: 2015-12-04
+  url: http://www.emberscreencasts.com/posts/97-ember-data-20-getting-data-from-the-server-with-findrecord-and-findall
+  videos:
+  - http://www.emberscreencasts.com/posts/97-ember-data-20-getting-data-from-the-server-with-findrecord-and-findall
+  series: EmberScreencasts
+  price: $9/month
+- title: 96 - Ember Data 2.0: Getting Started, and Basics of DS.Model
+  author_ids:
+  - 58
+  date: 2015-12-02
+  url: http://www.emberscreencasts.com/posts/96-ember-data-20-getting-started-and-basics-of-dsmodel
+  videos:
+  - http://www.emberscreencasts.com/posts/96-ember-data-20-getting-started-and-basics-of-dsmodel
+  series: EmberScreencasts
+- title: 95 - Multiple Concurrent Promises
+  author_ids:
+  - 58
+  date: 2015-11-27
+  url: http://www.emberscreencasts.com/posts/95-multiple-concurrent-promises
+  videos:
+  - http://www.emberscreencasts.com/posts/95-multiple-concurrent-promises
+  series: EmberScreencasts
+  price: $9/month
+- title: 94 - Finding Current Route and Creating Breadcrumbs with ui-navigator-service
+  author_ids:
+  - 58
+  date: 2015-11-25
+  url: http://www.emberscreencasts.com/posts/94-finding-current-route-and-creating-breadcrumbs-with-ui-navigator-service
+  videos:
+  - http://www.emberscreencasts.com/posts/94-finding-current-route-and-creating-breadcrumbs-with-ui-navigator-service
+  series: EmberScreencasts
+- title: 93 - Creating New Promises
+  author_ids:
+  - 58
+  date: 2015-11-20
+  url: http://www.emberscreencasts.com/posts/93-creating-new-promises
+  videos:
+  - http://www.emberscreencasts.com/posts/93-creating-new-promises
+  series: EmberScreencasts
+  price: $9/month
+- title: 92 - Promises Basics
+  author_ids:
+  - 58
+  date: 2015-11-18
+  url: http://www.emberscreencasts.com/posts/92-promises-basics
+  videos:
+  - http://www.emberscreencasts.com/posts/92-promises-basics
+  series: EmberScreencasts
+- title: 91 - Ember 2.0 Class Helpers
+  author_ids:
+  - 58
+  date: 2015-11-13
+  url: http://www.emberscreencasts.com/posts/91-ember-20-class-helpers
+  videos:
+  - http://www.emberscreencasts.com/posts/91-ember-20-class-helpers
+  series: EmberScreencasts
+  price: $9/month
+- title: 90 - Ember 2.0 Function Helpers
+  author_ids:
+  - 58
+  date: 2015-11-11
+  url: http://www.emberscreencasts.com/posts/90-ember-20-function-helpers
+  videos:
+  - http://www.emberscreencasts.com/posts/90-ember-20-function-helpers
+  series: EmberScreencasts
+- title: 89 - Registration Form
+  author_ids:
+  - 58
+  date: 2015-11-06
+  url: http://www.emberscreencasts.com/posts/89-registration-form
+  videos:
+  - http://www.emberscreencasts.com/posts/89-registration-form
+  series: EmberScreencasts
+  price: $9/month
+- title: 88 - Token Authentication with Server Sessions
+  author_ids:
+  - 58
+  date: 2015-11-04
+  url: http://www.emberscreencasts.com/posts/88-token-authentication-with-server-sessions
+  videos:
+  - http://www.emberscreencasts.com/posts/88-token-authentication-with-server-sessions
+  series: EmberScreencasts
+- title: 87 - Login Form - Validations and Flash Messages
+  author_ids:
+  - 58
+  date: 2015-10-30
+  url: http://www.emberscreencasts.com/posts/87-login-form-validations-and-flash-messages
+  videos:
+  - http://www.emberscreencasts.com/posts/87-login-form-validations-and-flash-messages
+  series: EmberScreencasts
+  price: $9/month
+- title: 86 - Login Form
+  author_ids:
+  - 58
+  date: 2015-10-28
+  url: http://www.emberscreencasts.com/posts/86-login-form
+  videos:
+  - http://www.emberscreencasts.com/posts/86-login-form
+  series: EmberScreencasts
 - title: 85 - Authenticated Routes
   author_ids:
   - 58
