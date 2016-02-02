@@ -1,4 +1,12 @@
 ---
+- title: 'Ember.js Tutorial - Building A Complex Web Application With Ember 2.3+'
+  author_ids:
+  - 302
+  date: '2016-02-02'
+  date_created: '2016-02-02'
+  date_updated: '2016-02-02'
+  urls:
+  - http://yoember.com
 - title: 'How to dockerize an Ember app'
   author_ids:
   - 284
