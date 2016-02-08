@@ -1129,7 +1129,7 @@
   date: '2015-09-15'
   urls:
   - http://on.netguru.co/ember-ebook-form
-- title: Ember: Adding Catch Block for Returned Promise
+- title: 'Ember: Adding Catch Block for Returned Promise'
   author_ids:
   - 265
   date: '2015-12-22'
