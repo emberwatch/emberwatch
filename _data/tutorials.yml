@@ -1,4 +1,12 @@
 ---
+- title: 'Pagination in Ember with a JSON API Backend'
+  author_ids:
+  - 207
+  date: '2016-02-28'
+  date_created: '2016-02-28'
+  date_updated: '2016-02-28'
+  urls:
+  - http://emberigniter.com/pagination-in-ember-with-json-api-backend/
 - title: 'An Introduction to Ember for Angular Developers'
   author_ids:
   - 303
