@@ -1,4 +1,12 @@
 ---
+- title: 'An Introduction to Ember for Angular Developers'
+  author_ids:
+  - 303
+  date: '2016-02-10'
+  date_created: '2016-02-10'
+  date_updated: '2016-02-10'
+  urls:
+  - http://thejsguy.com/2016/02/10/introduction-to-ember-for-angular-developers.html
 - title: 'Ember.js Tutorial - Building A Complex Web Application With Ember 2.3+'
   author_ids:
   - 302
