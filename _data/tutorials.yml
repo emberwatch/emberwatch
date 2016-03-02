@@ -1,4 +1,12 @@
 ---
+- title: 'To Attrs or Not To Attrs'
+  author_ids:
+  - 209
+  date: '2016-01-16'
+  date_created: '2016-01-16'
+  date_updated: '2016-01-16'
+  urls:
+  - https://locks.svbtle.com/to-attrs-or-not-to-attrs
 - title: 'Pagination in Ember with a JSON API Backend'
   author_ids:
   - 207
