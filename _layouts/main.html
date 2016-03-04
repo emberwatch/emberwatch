@@ -53,7 +53,8 @@
       <li {% if page.section == 'Podcasts' %}class="active"{% endif %}><a href="/podcasts.html">Podcasts</a></li>
       <li {% if page.section == 'Tutorials' %}class="active"{% endif %}><a href="/tutorials.html">Tutorials</a></li>
       <li {% if page.section == 'Books' %}class="active"{% endif %}><a href="/books.html">Books</a></li>
-    <li {% if page.section == 'Cookbook' %}class="active"{% endif %}><a href="/recipes">Cookbook</a></li>
+      <li {% if page.section == 'Cookbook' %}class="active"{% endif %}><a href="/recipes">Cookbook</a></li>
+      <li {% if page.section == 'Contribute' %}class="active"{% endif %}><a href="/contribute">Contribute</a></li>
     </div>
   </ul>
 
@@ -62,6 +63,10 @@
   {% include footer.html %}
 
   <script type="text/javascript" src="/javascripts/main.js"></script>
-
+  {% if page.custom_js %}
+    {% for js_file in page.custom_js %}
+      <script type="text/javascript" src='/javascripts/{{ js_file }}.js'></script>
+    {% endfor %}
+  {% endif %}
 </body>
 </html>
