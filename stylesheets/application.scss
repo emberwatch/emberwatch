@@ -402,3 +402,25 @@ section ul.tile{
     }
   }
 }
+
+.so-container__question {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+a.so-container__link {
+  text-decoration: none;
+  color: #e45036;
+
+  &:hover {
+    text-decoration: underline;
+  }
+
+  &:focus, &:hover {
+    color: #e45036; /* overwrites rule set on a:active and a:hover */
+  }
+
+  &:visited {
+    color: #ededed;
+  }
+}
