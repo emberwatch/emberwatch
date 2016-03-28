@@ -1,4 +1,12 @@
 ---
+- title: 'Custom Relationship Links with JSONAPI'
+  author_ids:
+  - 207
+  date: '2016-03-06'
+  date_created: '2016-03-06'
+  date_updated: '2016-03-06'
+  urls:
+  - http://emberigniter.com/custom-relationship-links-json-api/
 - title: 'Mock JSON API Backend with Mirage'
   author_ids:
   - 207
