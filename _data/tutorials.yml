@@ -1,4 +1,12 @@
 ---
+- title: 'A Tale of Two States'
+  author_ids:
+  - 298
+  date: '2016-03-11'
+  date_created: '2016-03-11'
+  date_updated: '2016-03-11'
+  urls:
+  - http://blog.isleofcode.com/modern-responsive-design/
 - title: 'Custom Relationship Links with JSONAPI'
   author_ids:
   - 207
