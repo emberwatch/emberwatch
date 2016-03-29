@@ -5,15 +5,17 @@ cookbook-section: User Interface and Interaction
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-## Problem
+
+#### Problem
 
 You want to validate your form text fields. The validation should only
 apply when the user focused out of the input (so that a blank form won't
 be all-red until user focuses each field).
 
-## Solution
+#### Solution
 
 Create a new component and define a `focusOut` hook, which will record
 that the field has been focused, and add a computed property named
@@ -58,7 +60,7 @@ The use like this:
 {% endraw %}
 {% endhighlight %}
 
-## Discussion
+#### Discussion
 
 Essentially, what we need to achieve is to have a component which wraps
 the input field with a div that has the `has-error` class if the

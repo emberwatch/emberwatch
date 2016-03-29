@@ -5,13 +5,15 @@ cookbook-section: User Interface and Interaction
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-### Problem
+
+#### Problem
 
 The page scroller keeps in the same position when you go from one page to another. For instance, if you scroll down a long list of displayed elements on a page and then you navigate to another page with another long list of elements, you should be able to notice that scroll position is not being reset.
 
-### Solution
+#### Solution
 
 Add the following mixin to the affected Routes:
 

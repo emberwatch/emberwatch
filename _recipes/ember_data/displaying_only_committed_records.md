@@ -5,14 +5,16 @@ cookbook-section: Ember Data
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-## Problem
+
+#### Problem
 
 You want to display only the committed `DS.Model` records from the ArrayController `content` array.
 
-## Solution
+#### Solution
 
 In order to not show the uncommitted records of your array, you should filter them on `isNew` property.
 
-## Discussion
+#### Discussion

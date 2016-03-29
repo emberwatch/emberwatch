@@ -5,12 +5,14 @@ cookbook-section: Working with Objects
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-### Problem
+
+#### Problem
 You want to increment or decrement a property.
 
-### Solution
+#### Solution
 Use the `incrementProperty` or `decrementProperty` methods of `Ember.Object`.
 
 To increment:
@@ -25,7 +27,7 @@ To decrement:
 person.decrementProperty('age');
 ```
 
-### Discussion
+#### Discussion
 You can optionally specify a value to increment or decrement by:
 
 ```javascript

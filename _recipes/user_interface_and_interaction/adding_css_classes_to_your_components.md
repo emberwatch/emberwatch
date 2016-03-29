@@ -5,13 +5,15 @@ cookbook-section: User Interface and Interaction
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-### Problem
+
+#### Problem
 
 You want to add CSS class names to your Ember Components.
 
-### Solution
+#### Solution
 
 Set additional class names with the `classNames` property of subclassed components:
 
@@ -34,7 +36,7 @@ export default Ember.Component.extend({
 {% endraw %}
 {% endhighlight %}
 
-### Discussion
+#### Discussion
 
 If desired, you can apply multiple class names.
 

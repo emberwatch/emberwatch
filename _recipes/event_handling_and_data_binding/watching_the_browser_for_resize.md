@@ -5,12 +5,14 @@ cookbook-section: Event Handling and Data Binding
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-### Problem
+
+#### Problem
 You want to have logic in your application that responds to browser resizing that matches your CSS media queries.
 
-### Solution
+#### Solution
 Use a service to watch for the resize event and set variables that can be accessed throughout your application.
 
 `app/services/resolution.js`
@@ -80,7 +82,7 @@ From within a controller or component
 if (this.Resolution.isDesktop){ ... }
 {% endhighlight %}
 
-### Discussion
+#### Discussion
 Ember.js can inject [services](http://guides.emberjs.com/v2.0.0/services/) where needed. In this example we are injecting `Resolution` to our components and controllers. This will allow us to have logic based on resolution (ex. rendering a graph only on desktop). We are using [matchmedia](http://caniuse.com/#feat=matchmedia) which supports everything upwards of IE 9. This approach will follow your CSS media queries where something like `$(window).width` will not. By debouncing the resize event this will increase performance by only calling `environmentCheck` once after one second from the last resize event. If you absolutely need to support IE you can check out [Modernizr's mq()](http://modernizr.com/docs/#mq).
 
 If you need to have logic for `mobile and tablet` or `tablet and desktop` you could easily add a [computed property](http://guides.emberjs.com/v2.0.0/object-model/computed-properties/) based on `isMobile`, `isTablet`, and `isDesktop`

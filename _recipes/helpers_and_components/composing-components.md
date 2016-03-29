@@ -5,8 +5,10 @@ cookbook-section: Helpers and Components
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
+
 Components organize applications best when the same input will
 always result in the same behavior. This approach is often called
 "data down, actions up" - components receive data and emit actions,
@@ -27,7 +29,7 @@ block params. Here is a preview of what this guide goes over:
 
 First, a review of how to use components.
 
-### Component Blocks
+#### Component Blocks
 
 Components can be used in two forms, just like regular HTML elements.
 
@@ -121,7 +123,7 @@ But what use is it to just output the same thing over and over? Don't we want to
 Lets explore the `{{yield}}` helper a bit.
 {% endraw %}
 
-### Data Down
+#### Data Down
 
 {% raw %}
 To accomplish composability beyond simple templates, we need to pass data to those templates. This can be done with the `{{yield}}` helper that was introduced above.
@@ -200,7 +202,7 @@ This makes our component more useful due to it having sane defaults, but it also
 By using the {% raw %}`{{yield}}`{% endraw %} helper we can pass down our params for the consumer to utilize. This makes the concept of passing
 data down very useful.
 
-#### {% raw %}`{{component}}`{% endraw %} Helper
+##### {% raw %}`{{component}}`{% endraw %} Helper
 
 To understand the {% raw %}`{{component}}`{% endraw %} helper, we will add the following new features to the {% raw %}`{{user-list}}`{% endraw %} component:
 
@@ -265,7 +267,7 @@ The consumer can decide how to name the yielded values. We could have named our 
 {% endraw %}
 {% endhighlight %}
 
-### Actions Up
+#### Actions Up
 
 Now that we know how to send data down, we probably want to manipulate that data via some user interaction,
 like changing a user's avatar. We can accomplish this by using actions.
@@ -342,7 +344,7 @@ This is very useful since we are reusing the existing event hooks that
 are provided on these elements. This makes components much more reusable due to how we can compose
 small components that do one thing well.
 
-### Wrapping Up
+#### Wrapping Up
 
 Composing components is all about isolating functionality into reusable
 chunks that are easy to reason about and easy to combine together so that they work well together.

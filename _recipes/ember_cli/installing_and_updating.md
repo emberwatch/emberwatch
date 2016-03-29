@@ -5,19 +5,21 @@ cookbook-section: Ember CLI
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-### Problem
+
+#### Problem
 
 There are instructions available for installing node, npm, bower, ember-cli, phantomjs, etc.
 available as well as for updating ember-cli, ember, and other app dependencies, but they're
 all in prose. There aren't any simple scripts to do this.
 
-### Solution
+#### Solution
 
 Below are some scripts extracted from [bf4/frontend PR#2](https://github.com/bf4/frontend/pull/2/files).
 
-#### Usage
+##### Usage
 
 Each file in `bin` should be made executable, e.g. `chmod +x bin/app`.
 
@@ -223,7 +225,7 @@ echo $_APP_ROOT
 {% endhighlight %}
 
 
-### Discussion
+#### Discussion
 
 These scripts require some amount of maintenance to be used over the long term,
 but that cost should be lower than running them manually.

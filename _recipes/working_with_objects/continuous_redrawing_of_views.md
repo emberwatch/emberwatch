@@ -9,13 +9,15 @@ github: pixelhandler
 website: pixelhandler.com
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-### Problem
+
+#### Problem
 You'd like to redraw your views every few seconds/minutes e.g. to update
 relative timestamps (like on twitter.com).
 
-### Solution
+#### Solution
 Have a clock object with a `pulse` attribute in your application which
 increments using a timed interval. You want to let view(s) bind values to be
 refreshed when the `pulse` attribute increments.
@@ -23,13 +25,13 @@ refreshed when the `pulse` attribute increments.
 The clock object can be used to create new instances for binding to new views
 generated within the application, like a list of comments.
 
-### Discussion
+#### Discussion
 
 <a class="jsbin-embed" href="http://jsbin.com/jihivevafo/1/edit?output">
 Cookbook: Continuous Redrawing of Views
 </a><script src="http://static.jsbin.com/js/embed.js"></script>
 
-#### ClockService object
+##### ClockService object
 
 This `ClockService` is an example of an object that may come from a library.
 And, is injected into the application via an initializer.
@@ -57,7 +59,7 @@ export default Ember.Object.extend({
   });
 ```
 
-#### Binding to the `pulse` attribute
+##### Binding to the `pulse` attribute
 
 In this recipe, an application initializer is used to inject an instance of the
 `ClockService` object, setting a controller's `clock` property to this instance.
@@ -137,7 +139,7 @@ export default Ember.ArrayController.extend({
   });
 ```
 
-#### Handlebars template which displays the `pulse`
+##### Handlebars template which displays the `pulse`
 
 The `seconds` value is computed from the `pulse` attribute. And the controller
 has a few properties to select a component to render, `fullSecond`,
@@ -207,14 +209,14 @@ export default Ember.Handlebars.makeBoundHelper(function(seconds) {
 });
 ```
 
-#### Note
+##### Note
 
 To explore the concept further, try adding a timestamp and updating the clock's
 pulse by comparing the current time. This would be needed to update the pulse
 property when a user puts his/her computer to sleep then reopens their browser
 after waking.
 
-#### Links
+##### Links
 
 The source code:
 
