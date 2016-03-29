@@ -5,16 +5,18 @@ cookbook-section: User Interface and Interaction
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-### Problem
+
+#### Problem
 You want to show part of your UI in a modal dialog.
 
-### Solution
+#### Solution
 Render a specific controller into a named `modal` outlet in your application
 template.
 
-### Discussion
+#### Discussion
 You can use a route's `render` method to render a specific controller and
 template into a named outlet. In this case we can setup our application template
 to handle the main outlet and a modal outlet:

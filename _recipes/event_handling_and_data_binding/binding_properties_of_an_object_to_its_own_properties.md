@@ -5,12 +5,14 @@ cookbook-section: Event Handling and Data Binding
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-### Problem
+
+#### Problem
 You want to base the value of one property on the value of another property.
 
-### Solution
+#### Solution
 Use one of the computed property macros like `Ember.computed.alias` or `Ember.computed.gte`
 
 `app/models/person.js`
@@ -23,7 +25,7 @@ export default Ember.Object.extend({
 });
 {% endhighlight %}
 
-### Discussion
+#### Discussion
 Ember.js includes a number of macros that will help create properties whose values are based
 on the values of other properties, correctly connecting them with bindings so they remain
 updated when values change. These all are stored on the `Ember.computed` object

@@ -5,12 +5,14 @@ cookbook-section: Helpers and Components
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-### Problem
+
+#### Problem
 You want a button component that spins to show asynchronous action till completion. Eg- Save Button.
 
-### Solution
+#### Solution
 Write an Ember Component to change to loading state when action is taking place.
 
 For example a button to save data could be as
@@ -69,7 +71,7 @@ export default Ember.Component.extend({
 });
 {% endhighlight %}
 
-### Discussion
+#### Discussion
 
 I have dumbed down the sample code to only change text within the button. One may add a loading image inside the button or change the button to a div styled like a button.
 The component is in charge of setting isLoading = true and the base controller performing asynchronous action decides when the 'isLoading' becomes false again.

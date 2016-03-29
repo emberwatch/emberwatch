@@ -5,13 +5,15 @@ cookbook-section: Helpers and Components
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-### Problem
+
+#### Problem
 You want to create a reusable [Tweet button](https://dev.twitter.com/docs/tweet-button)
 for your application.
 
-### Solution
+#### Solution
 Write a custom component that renders the Tweet button with specific attributes
 passed in.
 
@@ -43,7 +45,7 @@ window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.
 
 Note: the Twitter api does change from time to time. Refer to the [documents](https://dev.twitter.com/web/tweet-button) if necessary.
 
-### Discussion
+#### Discussion
 Twitter's widget library expects to find an `<a>` tag on the page with specific `data-` attributes applied.
 It takes the values of these attributes and, when the `<a>` tag is clicked, opens an iFrame for twitter sharing.
 

@@ -5,16 +5,18 @@ cookbook-section: Contribution
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-### Problem
+
+#### Problem
 You are familiar with Ember and want to help write the Cookbook.
 
-### Solution
+#### Solution
 Get started by [forking the repository][fork_repo]. Send a pull request with an
 update to an existing recipe or a new recipe.
 
-### Discussion
+#### Discussion
 Based on your experience and knowledge of Ember, we recommend submitting pull requests with the following:
 
 <dl>

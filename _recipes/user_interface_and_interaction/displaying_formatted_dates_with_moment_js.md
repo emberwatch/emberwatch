@@ -5,13 +5,15 @@ cookbook-section: User Interface and Interaction
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-### Problem
+
+#### Problem
 
 Display JavaScript Date objects in human readable format.
 
-### Solution
+#### Solution
 
 There are two ways of formatting the value:
 
@@ -86,7 +88,7 @@ export default Ember.Controller.extend({
 {% endraw %}
 {% endhighlight %}
 
-### Discussion
+#### Discussion
 
 Both helper and computed property can format your date value.
 Which one do I use and when?

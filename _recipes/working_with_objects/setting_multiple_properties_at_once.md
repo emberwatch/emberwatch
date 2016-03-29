@@ -5,12 +5,14 @@ cookbook-section: Working with Objects
 layout: cookbook-recipe
 ---
 <span class="recipe-label">Recipe:</span>
-## {{ page.title }}
+
+### {{ page.title }}
 -----
-### Problem
+
+#### Problem
 You want to set multiple properties on an object with a single method call.
 
-### Solution
+#### Solution
 Use the `setProperties` method of `Ember.Object`.
 
 ```js
