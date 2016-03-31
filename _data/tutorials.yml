@@ -7,6 +7,14 @@
   date_updated: '2015-10-27'
   urls:
   - https://60devs.com/the-ember-way-to-format-data-using-dynamic-cps-services-and-helpers.html
+- title: 'Using Content Security Policy to Make Apps More Secure'
+  author_ids:
+  - 280
+  date: '2015-10-13'
+  date_created: '2015-10-13'
+  date_updated: '2015-10-13'
+  urls:
+  - https://60devs.com/using-content-security-policy.html
 - title: 'Router Service for Ember Apps'
   author_ids:
   - 280
