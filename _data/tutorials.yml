@@ -1,4 +1,12 @@
 ---
+- title: 'Ember Way to Format Data Using Dynamic CPs, Services and Helpers'
+  author_ids:
+  - 280
+  date: '2015-10-27'
+  date_created: '2015-10-27'
+  date_updated: '2015-10-27'
+  urls:
+  - https://60devs.com/the-ember-way-to-format-data-using-dynamic-cps-services-and-helpers.html
 - title: 'Router Service for Ember Apps'
   author_ids:
   - 280
