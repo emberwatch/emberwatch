@@ -1,4 +1,12 @@
 ---
+- title: 'Router Service for Ember Apps'
+  author_ids:
+  - 280
+  date: '2015-09-30'
+  date_created: '2015-09-30'
+  date_updated: '2015-09-30'
+  urls:
+  - https://60devs.com/router-service-for-ember-apps.html
 - title: 'Ember.js "Magic" Crash Course'
   author_ids:
   - 298
