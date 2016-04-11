@@ -1,4 +1,12 @@
 ---
+- title: 'Get Up and Running with Ember FastBoot'
+  author_ids:
+  - 303
+  date: '2016-04-08'
+  date_created: '2016-04-08'
+  date_updated: '2016-04-08'
+  urls:
+  - http://thejsguy.com/2016/04/08/get-up-and-running-with-ember-fastboot.html
 - title: 'Building a performant real-time web app with Ember Fastboot and Phoenix (Part 1)'
   author_ids:
   - 241
