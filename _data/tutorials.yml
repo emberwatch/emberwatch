@@ -1,4 +1,12 @@
 ---
+- title: 'Building a performant real-time web app with Ember Fastboot and Phoenix (Part 1)'
+  author_ids:
+  - 241
+  date: '2016-04-09'
+  date_created: '2016-04-09'
+  date_updated: '2016-04-09'
+  urls:
+  - https://medium.com/@mikenorth/building-a-performant-web-app-with-ember-fastboot-and-phoenix-part-1-fa1241654308#.mdvroah3x
 - title: 'Ember Way to Format Data Using Dynamic CPs, Services and Helpers'
   author_ids:
   - 280
