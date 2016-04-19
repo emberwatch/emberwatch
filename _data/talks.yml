@@ -1,4 +1,52 @@
 ---
+- title: Introduction to ember-electron
+  date: '2016-2-27'
+  author_ids:
+  - 304
+  videos:
+  - https://vimeo.com/158447290
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
+- title: Introduction to ember-cli-deploy
+  date: '2016-2-27'
+  author_ids:
+  - 305
+  videos:
+  - https://vimeo.com/158447249
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
+- title: Introduction to Ember Engines
+  date: '2016-2-27'
+  author_ids:
+  - 10
+  videos:
+  - https://vimeo.com/157688181
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
+- title: How to use EmberTry
+  date: '2016-2-27'
+  author_ids:
+  - 60
+  videos:
+  - https://vimeo.com/157688157
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
+- title: Introduction to Ember FastBoot
+  date: '2016-2-27'
+  author_ids:
+  - 2
+  videos:
+  - https://vimeo.com/157688134
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
+- title: Introduction to ember-concurrency
+  date: '2016-3-19'
+  author_ids:
+  - 45
+  videos:
+  - https://vimeo.com/162329769
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
 - title: A Comprehensive Overview of Services
   date: '2015-10-07'
   author_ids:
@@ -149,7 +197,7 @@
   - 263
   videos:
   - https://www.youtube.com/watch?v=JoRTYJjbf-I&t=5146
-  url: http://www.meetup.com/Boston-Ember-js/events/223484847/ 
+  url: http://www.meetup.com/Boston-Ember-js/events/223484847/
   event_id: 9
 - title: 'The Next Performance Frontier'
   date: '2015-09-10'
@@ -157,7 +205,7 @@
   - 124
   videos:
   - https://www.youtube.com/watch?v=JoRTYJjbf-I&t=4165
-  url: http://www.meetup.com/Boston-Ember-js/events/223484847/ 
+  url: http://www.meetup.com/Boston-Ember-js/events/223484847/
   event_id: 9
 - title: 'Practical Performance: How I Spent My Summer'
   date: '2015-09-10'
@@ -165,7 +213,7 @@
   - 232
   videos:
   - https://www.youtube.com/watch?v=JoRTYJjbf-I&t=152
-  url: http://www.meetup.com/Boston-Ember-js/events/223484847/ 
+  url: http://www.meetup.com/Boston-Ember-js/events/223484847/
   event_id: 9
 - title: ember-cli-deploy - One Command to Deploy Them All
   date: '2015-09-10'
