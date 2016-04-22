@@ -1,4 +1,52 @@
 ---
+- title: DDAU with ember-simple-form and ember-with-service
+  date: '2016-3-19'
+  author_ids:
+  - 306
+  videos:
+  - https://vimeo.com/162631962
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
+- title: Start Me Up - Building an MVP with Ember, Firebase and Ember-Paper
+  date: '2016-3-19'
+  author_ids:
+  - 307
+  videos:
+  - https://vimeo.com/162620159
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
+- title: Introduction to ember-data-partial-model
+  date: '2016-3-19'
+  author_ids:
+  - 308
+  videos:
+  - https://vimeo.com/162329720
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
+- title: Creating Your First Addon
+  date: '2016-2-29'
+  author_ids:
+  - 309
+  videos:
+  - https://vimeo.com/160173201
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
+- title: RSVP And I Promise You’ll Learn Something
+  date: '2016-2-29'
+  author_ids:
+  - 310
+  videos:
+  - https://vimeo.com/160172303
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
+- title: Leveling Up Your Forms
+  date: '2016-2-29'
+  author_ids:
+  - 311
+  videos:
+  - https://vimeo.com/159309998
+  url: https://vimeo.com/globalembermeetup
+  event_id: 27
 - title: Introduction to ember-electron
   date: '2016-2-27'
   author_ids:
