@@ -1,4 +1,10 @@
 ---
+- title: 'Ember.js Cookbook'
+  author_ids:
+  - 312 
+  publisher: Packt Publishing 
+  url: https://www.packtpub.com/web-development/emberjs-cookbook 
+  payment: true
 - title: 'Front-end revolution with Ember.js'
   author_ids:
   - 299
