@@ -1,4 +1,10 @@
 ---
+- title: 'Front-end revolution with Ember.js'
+  author_ids:
+  - 299
+  publisher: Self-Published
+  url: http://emberjs-book.com
+  payment: true
 - title: 'Deliver Audacious Web Apps with Ember 2'
   author_ids:
   - 206
