@@ -1,9 +1,15 @@
 ---
+- title: 'Ember Data in the Wild - Getting Ember Data to Work With Your API'
+  author_ids:
+  - 313
+  publisher: Self-Published
+  url: https://leanpub.com/emberdatainthewild
+  payment: true
 - title: 'Ember.js Cookbook'
   author_ids:
-  - 312 
-  publisher: Packt Publishing 
-  url: https://www.packtpub.com/web-development/emberjs-cookbook 
+  - 312
+  publisher: Packt Publishing
+  url: https://www.packtpub.com/web-development/emberjs-cookbook
   payment: true
 - title: 'Front-end revolution with Ember.js'
   author_ids:
