@@ -4,3 +4,9 @@ collections:
     output: true
 sass:
     sass_dir: _sass
+
+gostatic:
+  build:
+    command:
+    - apt-get install -y libffi-dev
+    - bundle exec jekyll build --trace --destination $SITE_DIR --config=_config.production.yml
