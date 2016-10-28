@@ -1,4 +1,9 @@
 ---
+- title: 'Build Pacman- Learn Modern Javascript, HTML5 Canvas, and a bit of EmberJS'
+  author_ids: 58
+  publisher: Self-Published
+  url: http://www.jeffreybiles.com/build-pacman
+  paid: false
 - title: 'Ember Data in the Wild - Getting Ember Data to Work With Your API'
   author_ids:
   - 313
