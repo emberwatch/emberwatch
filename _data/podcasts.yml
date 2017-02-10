@@ -1,4 +1,13 @@
 ---
+- title: 'Not on a Weekend'
+  episode: 89
+  host: Ember Weekend
+  member_ids:
+  - 158
+  - 159
+  duration: '23:47'
+  date: '2017-02-06'
+  url: https://emberweekend.com/episodes/not-on-a-weekend
 - title: 'Ember 2.0'
   episode: 314
   host: ITbende
