@@ -16,10 +16,10 @@
     Ember.js {{ page.title }} on EmberWatch
   </title>
 
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <link rel="stylesheet" type="text/css" href="/stylesheets/application.css">
-  <link rel="stylesheet" type="text/css" href="/stylesheets/cookbook.css">
-  <link rel="stylesheet" type="text/css" href="/stylesheets/syntax.css">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.github.url }}/favicon.ico">
+  <link rel="stylesheet" type="text/css" href="{{ site.github.url }}/stylesheets/application.css">
+  <link rel="stylesheet" type="text/css" href="{{ site.github.url }}/stylesheets/cookbook.css">
+  <link rel="stylesheet" type="text/css" href="{{ site.github.url }}/stylesheets/syntax.css">
 
 </head>
 
@@ -65,7 +65,7 @@
   <script type="text/javascript" src="/javascripts/main.js"></script>
   {% if page.custom_js %}
     {% for js_file in page.custom_js %}
-      <script type="text/javascript" src='/javascripts/{{ js_file }}.js'></script>
+      <script type="text/javascript" src="{{ site.github.url }}/javascripts/{{ js_file }}.js"></script>
     {% endfor %}
   {% endif %}
 </body>
