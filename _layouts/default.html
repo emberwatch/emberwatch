@@ -27,7 +27,7 @@
       <ul>
         <li class="name">
           <h1>
-            <a href="/">
+            <a href="{{ site.github.url }}/">
               <i class="foundicon-glasses"></i> Ember<span class="light">Watch</span>
             </a>
           </h1>
@@ -46,13 +46,13 @@
 
   <ul class="tabs">
     <div class="container">
-      <li {% if page.title == 'Resources' %}class="active"{% endif %}><a href="/">Talks</a></li>
-      <li {% if page.title == 'Screencasts' %}class="active"{% endif %}><a href="/screencasts.html">Screencasts</a></li>
-      <li {% if page.title == 'Podcasts' %}class="active"{% endif %}><a href="/podcasts.html">Podcasts</a></li>
-      <li {% if page.title == 'Tutorials' %}class="active"{% endif %}><a href="/tutorials.html">Tutorials</a></li>
-      <li {% if page.title == 'Books' %}class="active"{% endif %}><a href="/books.html">Books</a></li>
-      <li {% if page.title == 'Cookbook' %}class="active"{% endif %}><a href="/recipes">Cookbook</a></li>
-      <li {% if page.title == 'Contribute' %}class="active"{% endif %}><a href="/contribute">Contribute</a></li>
+      <li {% if page.title == 'Resources' %}class="active"{% endif %}><a href="{{ site.github.url }}/">Talks</a></li>
+      <li {% if page.title == 'Screencasts' %}class="active"{% endif %}><a href="{{ site.github.url }}/screencasts.html">Screencasts</a></li>
+      <li {% if page.title == 'Podcasts' %}class="active"{% endif %}><a href="{{ site.github.url }}/podcasts.html">Podcasts</a></li>
+      <li {% if page.title == 'Tutorials' %}class="active"{% endif %}><a href="{{ site.github.url }}/tutorials.html">Tutorials</a></li>
+      <li {% if page.title == 'Books' %}class="active"{% endif %}><a href="{{ site.github.url }}/books.html">Books</a></li>
+      <li {% if page.title == 'Cookbook' %}class="active"{% endif %}><a href="{{ site.github.url }}/recipes">Cookbook</a></li>
+      <li {% if page.title == 'Contribute' %}class="active"{% endif %}><a href="{{ site.github.url }}/contribute">Contribute</a></li>
     </div>
   </ul>
 
@@ -64,7 +64,7 @@
 
   {% include footer.html %}
 
-  <script type="text/javascript" src="/javascripts/main.js"></script>
+  <script type="text/javascript" src="{{ site.github.url }}/javascripts/main.js"></script>
   {% if page.custom_js %}
     {% for js_file in page.custom_js %}
     <script type="text/javascript" src="{{ site.github.url }}/javascripts/{{ js_file }}.js"></script>

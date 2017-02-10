@@ -8,7 +8,7 @@ layout: main
       <ul class="nav nav-pills nav-stacked">
       {% for section in site.data.cookbook-sections %}
         <li {% if page.cookbook-section == section.name %}class="active"{% endif %} role="presentation">
-          <a href="/recipes/{{ section.section-path }}">
+          <a href="{{ site.github.url }}/recipes/{{ section.section-path }}">
             {{ section.name }}
           </a>
         </li>
