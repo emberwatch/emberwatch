@@ -21,4 +21,4 @@ Here are all of the available recipes:
 </ol>
 {% endfor %}
 
-If you would like to see more recipes, take a look at the [Suggesting A Recipe](./contributing/suggesting_a_recipe.html) section.
+If you would like to see more recipes, take a look at the [Suggesting A Recipe](./recipes/contributing/suggesting_a_recipe.html) section.
