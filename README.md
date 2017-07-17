@@ -2,6 +2,10 @@
 
 This repository contains [emberwatch.com](http://emberwatch.com/) as a [Jekyll](http://jekyllrb.com/) site.
 
+```markdown
+**DEPRECATED** This project is not currently maintained.
+```
+
 ## Goal
 
 Towards a definitive community-driven, curated collection of Ember.js resources.
